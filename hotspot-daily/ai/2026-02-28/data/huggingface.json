@@ -1,0 +1,507 @@
+{
+  "source": "huggingface",
+  "fetchedAt": "2026-02-28T03:48:45.329Z",
+  "items": [
+    {
+      "id": "hf-Qwen/Qwen3.5-35B-A3B",
+      "title": "Qwen/Qwen3.5-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+      "source": "huggingface",
+      "category": "release",
+      "score": 640,
+      "publishedAt": "2026-02-24T09:39:25.000Z",
+      "extra": {
+        "downloads": 258764,
+        "pipelineTag": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5_moe",
+          "image-text-to-text",
+          "conversational",
+          "base_model:Qwen/Qwen3.5-35B-A3B-Base",
+          "base_model:finetune:Qwen/Qwen3.5-35B-A3B-Base",
+          "license:apache-2.0",
+          "eval-results",
+          "endpoints_compatible"
+        ]
+      }
+    },
+    {
+      "id": "hf-Qwen/Qwen3.5-27B",
+      "title": "Qwen/Qwen3.5-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-27B",
+      "source": "huggingface",
+      "category": "release",
+      "score": 414,
+      "publishedAt": "2026-02-24T09:41:56.000Z",
+      "extra": {
+        "downloads": 107964,
+        "pipelineTag": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "conversational",
+          "license:apache-2.0",
+          "eval-results",
+          "endpoints_compatible",
+          "deploy:azure",
+          "region:us"
+        ]
+      }
+    },
+    {
+      "id": "hf-Qwen/Qwen3.5-397B-A17B",
+      "title": "Qwen/Qwen3.5-397B-A17B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
+      "source": "huggingface",
+      "category": "release",
+      "score": 1115,
+      "publishedAt": "2026-02-16T04:55:12.000Z",
+      "extra": {
+        "downloads": 725954,
+        "pipelineTag": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5_moe",
+          "image-text-to-text",
+          "conversational",
+          "license:apache-2.0",
+          "eval-results",
+          "endpoints_compatible",
+          "region:us"
+        ]
+      }
+    },
+    {
+      "id": "hf-Qwen/Qwen3.5-122B-A10B",
+      "title": "Qwen/Qwen3.5-122B-A10B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+      "source": "huggingface",
+      "category": "release",
+      "score": 334,
+      "publishedAt": "2026-02-24T09:43:37.000Z",
+      "extra": {
+        "downloads": 107821,
+        "pipelineTag": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5_moe",
+          "image-text-to-text",
+          "conversational",
+          "license:apache-2.0",
+          "eval-results",
+          "endpoints_compatible",
+          "deploy:azure",
+          "region:us"
+        ]
+      }
+    },
+    {
+      "id": "hf-unsloth/Qwen3.5-35B-A3B-GGUF",
+      "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+      "source": "huggingface",
+      "category": "release",
+      "score": 318,
+      "publishedAt": "2026-02-24T14:48:31.000Z",
+      "extra": {
+        "downloads": 264531,
+        "pipelineTag": "image-text-to-text",
+        "tags": [
+          "gguf",
+          "qwen3_5_moe",
+          "unsloth",
+          "image-text-to-text",
+          "base_model:Qwen/Qwen3.5-35B-A3B",
+          "base_model:quantized:Qwen/Qwen3.5-35B-A3B",
+          "license:apache-2.0",
+          "endpoints_compatible",
+          "region:us",
+          "imatrix"
+        ]
+      }
+    },
+    {
+      "id": "hf-Nanbeige/Nanbeige4.1-3B",
+      "title": "Nanbeige/Nanbeige4.1-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+      "source": "huggingface",
+      "category": "release",
+      "score": 891,
+      "publishedAt": "2026-02-10T03:45:56.000Z",
+      "extra": {
+        "downloads": 283033,
+        "pipelineTag": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "llama",
+          "text-generation",
+          "llm",
+          "nanbeige",
+          "conversational",
+          "en",
+          "zh",
+          "arxiv:2602.13367"
+        ]
+      }
+    },
+    {
+      "id": "hf-zai-org/GLM-5",
+      "title": "zai-org/GLM-5",
+      "url": "https://huggingface.co/zai-org/GLM-5",
+      "source": "huggingface",
+      "category": "release",
+      "score": 1639,
+      "publishedAt": "2026-02-11T04:55:46.000Z",
+      "extra": {
+        "downloads": 189082,
+        "pipelineTag": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "glm_moe_dsa",
+          "text-generation",
+          "conversational",
+          "en",
+          "zh",
+          "license:mit",
+          "eval-results",
+          "endpoints_compatible"
+        ]
+      }
+    },
+    {
+      "id": "hf-MiniMaxAI/MiniMax-M2.5",
+      "title": "MiniMaxAI/MiniMax-M2.5",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
+      "source": "huggingface",
+      "category": "release",
+      "score": 1031,
+      "publishedAt": "2026-02-12T06:05:24.000Z",
+      "extra": {
+        "downloads": 293819,
+        "pipelineTag": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "minimax_m2",
+          "text-generation",
+          "conversational",
+          "custom_code",
+          "license:other",
+          "eval-results",
+          "endpoints_compatible",
+          "fp8"
+        ]
+      }
+    },
+    {
+      "id": "hf-LocoreMind/LocoOperator-4B",
+      "title": "LocoreMind/LocoOperator-4B",
+      "url": "https://huggingface.co/LocoreMind/LocoOperator-4B",
+      "source": "huggingface",
+      "category": "release",
+      "score": 218,
+      "publishedAt": "2026-02-23T00:59:09.000Z",
+      "extra": {
+        "downloads": 1295,
+        "pipelineTag": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3",
+          "text-generation",
+          "code",
+          "agent",
+          "tool-calling",
+          "distillation",
+          "gguf",
+          "llama-cpp"
+        ]
+      }
+    },
+    {
+      "id": "hf-LiquidAI/LFM2-24B-A2B",
+      "title": "LiquidAI/LFM2-24B-A2B",
+      "url": "https://huggingface.co/LiquidAI/LFM2-24B-A2B",
+      "source": "huggingface",
+      "category": "release",
+      "score": 198,
+      "publishedAt": "2026-02-24T13:50:32.000Z",
+      "extra": {
+        "downloads": 4148,
+        "pipelineTag": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "lfm2_moe",
+          "text-generation",
+          "liquid",
+          "lfm2",
+          "edge",
+          "conversational",
+          "en",
+          "ar"
+        ]
+      }
+    },
+    {
+      "id": "hf-TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+      "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+      "url": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+      "source": "huggingface",
+      "category": "release",
+      "score": 234,
+      "publishedAt": "2025-12-10T09:46:30.000Z",
+      "extra": {
+        "downloads": 60686,
+        "pipelineTag": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "gguf",
+          "qwen3",
+          "text-generation",
+          "text-generation-inference",
+          "unsloth",
+          "dataset:TeichAI/claude-4.5-opus-high-reasoning-250x",
+          "base_model:TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill",
+          "base_model:quantized:TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill",
+          "license:apache-2.0"
+        ]
+      }
+    },
+    {
+      "id": "hf-moonshotai/Kimi-K2.5",
+      "title": "moonshotai/Kimi-K2.5",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+      "source": "huggingface",
+      "category": "release",
+      "score": 2190,
+      "publishedAt": "2026-01-01T06:06:03.000Z",
+      "extra": {
+        "downloads": 1555418,
+        "pipelineTag": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "kimi_k25",
+          "feature-extraction",
+          "compressed-tensors",
+          "image-text-to-text",
+          "conversational",
+          "custom_code",
+          "arxiv:2602.02276",
+          "license:other"
+        ]
+      }
+    },
+    {
+      "id": "hf-unsloth/Qwen3.5-27B-GGUF",
+      "title": "unsloth/Qwen3.5-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
+      "source": "huggingface",
+      "category": "release",
+      "score": 134,
+      "publishedAt": "2026-02-24T14:50:03.000Z",
+      "extra": {
+        "downloads": 114529,
+        "pipelineTag": "image-text-to-text",
+        "tags": [
+          "gguf",
+          "qwen3_5_moe",
+          "unsloth",
+          "image-text-to-text",
+          "base_model:Qwen/Qwen3.5-27B",
+          "base_model:quantized:Qwen/Qwen3.5-27B",
+          "license:apache-2.0",
+          "endpoints_compatible",
+          "region:us",
+          "conversational"
+        ]
+      }
+    },
+    {
+      "id": "hf-nvidia/personaplex-7b-v1",
+      "title": "nvidia/personaplex-7b-v1",
+      "url": "https://huggingface.co/nvidia/personaplex-7b-v1",
+      "source": "huggingface",
+      "category": "release",
+      "score": 2219,
+      "publishedAt": "2025-12-31T17:01:00.000Z",
+      "extra": {
+        "downloads": 551688,
+        "pipelineTag": "audio-to-audio",
+        "library": "moshi",
+        "tags": [
+          "moshi",
+          "safetensors",
+          "personaplex",
+          "speech-to-speech",
+          "audio-to-audio",
+          "en",
+          "arxiv:2602.06053",
+          "arxiv:2503.04721",
+          "arxiv:2110.13900",
+          "arxiv:2410.00037"
+        ]
+      }
+    },
+    {
+      "id": "hf-unsloth/Qwen3.5-122B-A10B-GGUF",
+      "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
+      "source": "huggingface",
+      "category": "release",
+      "score": 131,
+      "publishedAt": "2026-02-24T14:49:45.000Z",
+      "extra": {
+        "downloads": 103290,
+        "pipelineTag": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "gguf",
+          "qwen3_5_moe",
+          "image-text-to-text",
+          "unsloth",
+          "base_model:Qwen/Qwen3.5-122B-A10B",
+          "base_model:quantized:Qwen/Qwen3.5-122B-A10B",
+          "license:apache-2.0",
+          "endpoints_compatible",
+          "region:us"
+        ]
+      }
+    },
+    {
+      "id": "hf-Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "source": "huggingface",
+      "category": "release",
+      "score": 1208,
+      "publishedAt": "2026-01-21T08:56:49.000Z",
+      "extra": {
+        "downloads": 1071196,
+        "pipelineTag": "text-to-speech",
+        "tags": [
+          "safetensors",
+          "qwen3_tts",
+          "text-to-speech",
+          "arxiv:2601.15621",
+          "license:apache-2.0",
+          "region:us"
+        ]
+      }
+    },
+    {
+      "id": "hf-Qwen/Qwen3-Coder-Next",
+      "title": "Qwen/Qwen3-Coder-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+      "source": "huggingface",
+      "category": "release",
+      "score": 1018,
+      "publishedAt": "2026-01-30T15:08:18.000Z",
+      "extra": {
+        "downloads": 685871,
+        "pipelineTag": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_next",
+          "text-generation",
+          "conversational",
+          "license:apache-2.0",
+          "endpoints_compatible",
+          "deploy:azure",
+          "region:us"
+        ]
+      }
+    },
+    {
+      "id": "hf-KittenML/kitten-tts-mini-0.8",
+      "title": "KittenML/kitten-tts-mini-0.8",
+      "url": "https://huggingface.co/KittenML/kitten-tts-mini-0.8",
+      "source": "huggingface",
+      "category": "release",
+      "score": 123,
+      "publishedAt": "2026-02-19T03:48:20.000Z",
+      "extra": {
+        "downloads": 56718,
+        "tags": [
+          "onnx",
+          "license:apache-2.0",
+          "region:us"
+        ]
+      }
+    },
+    {
+      "id": "hf-Qwen/Qwen3.5-35B-A3B-Base",
+      "title": "Qwen/Qwen3.5-35B-A3B-Base",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base",
+      "source": "huggingface",
+      "category": "release",
+      "score": 81,
+      "publishedAt": "2026-02-24T09:42:42.000Z",
+      "extra": {
+        "downloads": 2888,
+        "pipelineTag": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5_moe",
+          "image-text-to-text",
+          "conversational",
+          "license:apache-2.0",
+          "endpoints_compatible",
+          "deploy:azure",
+          "region:us"
+        ]
+      }
+    },
+    {
+      "id": "hf-deepseek-ai/DeepSeek-R1",
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "source": "huggingface",
+      "category": "release",
+      "score": 13083,
+      "publishedAt": "2025-01-20T03:46:07.000Z",
+      "extra": {
+        "downloads": 830553,
+        "pipelineTag": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "deepseek_v3",
+          "text-generation",
+          "conversational",
+          "custom_code",
+          "arxiv:2501.12948",
+          "license:mit",
+          "eval-results",
+          "text-generation-inference"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "source": "google-trends",
+  "fetchedAt": "2026-02-28T04:44:04.966Z",
+  "items": [
+    {
+      "id": "gtrends-0",
+      "title": "joe biden",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-02-28T04:30:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Biden flies commercial from Reagan National Airport and winds up stuck in delays like everyone else",
+          "Former President Joe Biden returns to bask in 'thank you' event from South Carolina Democrats",
+          "Joe Biden takes selfies with passengers as he takes commercial flight"
+        ],
+        "newsItems": [
+          {
+            "title": "Biden flies commercial from Reagan National Airport and winds up stuck in delays like everyone else",
+            "url": "https://www.yahoo.com/news/articles/biden-flies-commercial-reagan-national-181252043.html",
+            "source": "Yahoo"
+          },
+          {
+            "title": "Former President Joe Biden returns to bask in 'thank you' event from South Carolina Democrats",
+            "url": "https://www.wbaltv.com/article/joe-biden-returns-thank-you-event-south-carolina/70543787",
+            "source": "WBAL-TV"
+          },
+          {
+            "title": "Joe Biden takes selfies with passengers as he takes commercial flight",
+            "url": "https://www.bbc.com/news/videos/c5ygl45g6x1o",
+            "source": "BBC"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-1",
+      "title": "tiny harris",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-02-28T04:30:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Who is T.I.’s wife Tiny Harris & how many kids do they have?",
+          "Op-Ed: T.I., 50 Cent & The Cultural Reckoning Around Defending Black Women",
+          "King Harris Slams 50 Cent After Rapper Shared Photo of His Mom Tiny"
+        ],
+        "newsItems": [
+          {
+            "title": "Who is T.I.’s wife Tiny Harris & how many kids do they have?",
+            "url": "https://www.capitalxtra.com/news/ti-wife-tiny-harris-kids/",
+            "source": "Capital XTRA"
+          },
+          {
+            "title": "Op-Ed: T.I., 50 Cent & The Cultural Reckoning Around Defending Black Women",
+            "url": "https://www.essence.com/op-ed/ti-wife-tiny/",
+            "source": "Essence"
+          },
+          {
+            "title": "King Harris Slams 50 Cent After Rapper Shared Photo of His Mom Tiny",
+            "url": "https://www.complex.com/music/a/cmplxdaniel-barna/50-cent-ti-wife-tiny-picture-king-harris-responds-beef",
+            "source": "Complex"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-2",
+      "title": "isaiah hartenstein",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 200,
+      "publishedAt": "2026-02-28T04:20:00.000Z",
+      "extra": {
+        "traffic": "200+",
+        "relatedQueries": [
+          "Isaiah Hartenstein rises for a two-handed slam",
+          "Isaiah Hartenstein fills stat sheet Friday against Nets",
+          "Thunder's Isaiah Hartenstein: Removed from injury report"
+        ],
+        "newsItems": [
+          {
+            "title": "Isaiah Hartenstein rises for a two-handed slam",
+            "url": "https://www.espn.ph/video/clip?id=48058386",
+            "source": "ESPN Philippines"
+          },
+          {
+            "title": "Isaiah Hartenstein fills stat sheet Friday against Nets",
+            "url": "https://www.fantasypros.com/nba/news/570589/isaiah-hartenstein-fills-stat-sheet-friday-against-nets.php",
+            "source": "FantasyPros"
+          },
+          {
+            "title": "Thunder's Isaiah Hartenstein: Removed from injury report",
+            "url": "https://www.cbssports.com/fantasy/basketball/news/thunders-isaiah-hartenstein-removed-from-injury-report/",
+            "source": "CBS Sports"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-3",
+      "title": "cam spencer",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 200,
+      "publishedAt": "2026-02-28T04:20:00.000Z",
+      "extra": {
+        "traffic": "200+",
+        "relatedQueries": [
+          "Cam Spencer hits the fadeaway",
+          "Cam Spencer with the and-1 bucket",
+          "Grizzlies' Cam Spencer: Paces Memphis in win"
+        ],
+        "newsItems": [
+          {
+            "title": "Cam Spencer hits the fadeaway",
+            "url": "https://www.nba.com/grizzlies/videos/cam-spencer-hits-the-fadeaway",
+            "source": "NBA"
+          },
+          {
+            "title": "Cam Spencer with the and-1 bucket",
+            "url": "https://www.espn.com.au/video/clip?id=48058268",
+            "source": "ESPN"
+          },
+          {
+            "title": "Grizzlies' Cam Spencer: Paces Memphis in win",
+            "url": "https://www.cbssports.com/fantasy/basketball/news/grizzlies-cam-spencer-paces-memphis-in-win/",
+            "source": "CBS Sports"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-4",
+      "title": "alex pereira",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-02-28T04:10:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Jiri Prochazka fights Carlos Ulberg for light heavyweight title in UFC 327 main event as Alex Pereira vacates",
+          "Breaking: Dana White Announces UFC 327 Headliners",
+          "Jiří Procházka To Face Carlos Ulberg For Vacant Light Heavyweight Title At UFC 327"
+        ],
+        "newsItems": [
+          {
+            "title": "Jiri Prochazka fights Carlos Ulberg for light heavyweight title in UFC 327 main event as Alex Pereira vacates",
+            "url": "https://sports.yahoo.com/articles/jiri-prochazka-fights-carlos-ulberg-041255884.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "Breaking: Dana White Announces UFC 327 Headliners",
+            "url": "https://heavy.com/sports/ufc/dana-white-announces-headliners/",
+            "source": "Heavy.com"
+          },
+          {
+            "title": "Jiří Procházka To Face Carlos Ulberg For Vacant Light Heavyweight Title At UFC 327",
+            "url": "https://www.fightful.com/mma/jiri-prochazka-to-face-carlos-ulberg-for-vacant-light-heavyweight-title-at-ufc-327/",
+            "source": "Fightful"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-5",
+      "title": "mark sanchez",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-02-28T04:10:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Mark Sanchez accused of being under the influence of cocaine, fentanyl, marijuana and alcohol during life-altering brawl",
+          "Victim in Mark Sanchez stabbing questions if former NFL QB was high on cocaine or fentanyl during brawl",
+          "Mark Sanchez’s trial rescheduled again, now set for April"
+        ],
+        "newsItems": [
+          {
+            "title": "Mark Sanchez accused of being under the influence of cocaine, fentanyl, marijuana and alcohol during life-altering brawl",
+            "url": "https://nypost.com/2026/02/27/sports/marc-sanchez-accused-of-illegal-drugs-in-perry-tole-fight/",
+            "source": "New York Post"
+          },
+          {
+            "title": "Victim in Mark Sanchez stabbing questions if former NFL QB was high on cocaine or fentanyl during brawl",
+            "url": "https://fox59.com/news/indycrime/victim-in-mark-sanchez-stabbing-questions-if-former-nfl-qb-was-high-on-cocaine-or-fentanyl-during-brawl/",
+            "source": "Fox 59"
+          },
+          {
+            "title": "Mark Sanchez’s trial rescheduled again, now set for April",
+            "url": "https://www.wishtv.com/news/crime-watch-8/mark-sanchezs-criminal-trial-postponed-for-a-2nd-time-trial-postponed/",
+            "source": "WISH-TV"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-6",
+      "title": "frances tiafoe",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-02-28T04:00:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Cobolli survives late drama for Acapulco final berth",
+          "Frances Tiafoe vs. Brandon Nakashima: Prediction, How to Watch",
+          "Kecmanovic vs. Cobolli Prediction at the Abierto Mexicano Telcel presentado por HSBC - Friday, February 27"
+        ],
+        "newsItems": [
+          {
+            "title": "Cobolli survives late drama for Acapulco final berth",
+            "url": "https://www.atptour.com/en/news/acapulco-2026-sf-friday",
+            "source": "ATP Tour"
+          },
+          {
+            "title": "Frances Tiafoe vs. Brandon Nakashima: Prediction, How to Watch",
+            "url": "https://globelynews.com/sports/frances-tiafoe-vs-brandon-nakashima-prediction-how-to-watch/",
+            "source": "Globely News"
+          },
+          {
+            "title": "Kecmanovic vs. Cobolli Prediction at the Abierto Mexicano Telcel presentado por HSBC - Friday, February 27",
+            "url": "https://www.bleachernation.com/picks/2026/02/27/kecmanovic-vs-cobolli-prediction-at-the-abierto-mexicano-telcel-presentado-por-hsbc-friday-february-27/",
+            "source": "Bleacher Nation"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-7",
+      "title": "smackdown results",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-02-28T04:00:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "SmackDown preview, Feb. 27, 2026: Men’s Elimination Chamber Match participants meet on SmackDown",
+          "WWE SmackDown live results (Feb. 27): Updates, grades and highlights tonight from Louisville",
+          "WWE SmackDown Results, Winners, Live Grades, Reactions, Highlights Before Elimination Chamber 2026"
+        ],
+        "newsItems": [
+          {
+            "title": "SmackDown preview, Feb. 27, 2026: Men’s Elimination Chamber Match participants meet on SmackDown",
+            "url": "https://www.wwe.com/shows/smackdown/2026-02-27",
+            "source": "WWE"
+          },
+          {
+            "title": "WWE SmackDown live results (Feb. 27): Updates, grades and highlights tonight from Louisville",
+            "url": "https://sports.yahoo.com/wrestling/breaking-news/live/wwe-smackdown-live-results-feb-27-updates-grades-and-highlights-tonight-from-louisville-230049688.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "WWE SmackDown Results, Winners, Live Grades, Reactions, Highlights Before Elimination Chamber 2026",
+            "url": "https://bleacherreport.com/articles/25401434-wwe-smackdown-results-winners-live-grades-reactions-highlights-elimination-chamber-2026",
+            "source": "Bleacher Report"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-8",
+      "title": "nebraska baseball",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-02-28T03:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Auburn baseball takes on Nebraska in weekend series",
+          "Around the Horn: Starting pitchers shine ahead of challenging weekend against Auburn",
+          "BSB Preview: at No. 7 Auburn - University of Nebraska - Official Athletics Website"
+        ],
+        "newsItems": [
+          {
+            "title": "Auburn baseball takes on Nebraska in weekend series",
+            "url": "https://247sports.com/college/auburn/article/auburn-takes-on-nebraska-this-weekend-at-plainsman-park-275785778/",
+            "source": "247Sports"
+          },
+          {
+            "title": "Around the Horn: Starting pitchers shine ahead of challenging weekend against Auburn",
+            "url": "https://www.on3.com/teams/nebraska-cornhuskers/news/around-the-horn-starting-pitchers-shine-ahead-of-challenging-weekend-against-auburn/",
+            "source": "On3"
+          },
+          {
+            "title": "BSB Preview: at No. 7 Auburn - University of Nebraska - Official Athletics Website",
+            "url": "https://huskers.com/news/2026/02/26/bsb-preview-at-no-7-auburn",
+            "source": "huskers.com"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-9",
+      "title": "pumas",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-02-28T03:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "How to watch today's Tijuana vs Club Universidad Nacional Liga MX game: Live stream, TV channel, and start time",
+          "Tijuana vs Pumas UNAM: Predictions, odds, picks & stats",
+          "Tijuana vs Pumas UNAM Prediction & Picks - Liga MX"
+        ],
+        "newsItems": [
+          {
+            "title": "How to watch today's Tijuana vs Club Universidad Nacional Liga MX game: Live stream, TV channel, and start time",
+            "url": "https://www.goal.com/en-us/news/how-to-watch-tijuana-v-club-universidad-nacional-28022026/blt1fb8a49ee2b8d086",
+            "source": "Goal.com"
+          },
+          {
+            "title": "Tijuana vs Pumas UNAM: Predictions, odds, picks & stats",
+            "url": "https://www.squawka.com/us/news/tijuana-vs-pumas-unam-predictions-odds-picks-stats-preview/",
+            "source": "Squawka"
+          },
+          {
+            "title": "Tijuana vs Pumas UNAM Prediction & Picks - Liga MX",
+            "url": "https://www.sportytrader.com/us/picks/tijuana-pumas-unam-330425/",
+            "source": "SportyTrader"
+          }
+        ],
+        "geo": "CN"
+      }
+    }
+  ],
+  "errors": [
+    "Google Trends RSS returned 400 for geo=CN"
+  ]
+}

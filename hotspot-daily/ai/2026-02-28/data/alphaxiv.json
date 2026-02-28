@@ -1,0 +1,201 @@
+{
+  "source": "alphaxiv",
+  "fetchedAt": "2026-02-28T03:49:48.917Z",
+  "items": [
+    {
+      "id": "alphaxiv-2602.21548",
+      "title": "DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference",
+      "url": "https://www.alphaxiv.org/abs/2602.21548",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.915Z",
+      "extra": {
+        "arxivId": "2602.21548",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.20021",
+      "title": "Agents of Chaos",
+      "url": "https://www.alphaxiv.org/abs/2602.20021",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.915Z",
+      "extra": {
+        "arxivId": "2602.20021",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.21818",
+      "title": "SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model",
+      "url": "https://www.alphaxiv.org/abs/2602.21818",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.915Z",
+      "extra": {
+        "arxivId": "2602.21818",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22010",
+      "title": "World Guidance: World Modeling in Condition Space for Action Generation",
+      "url": "https://www.alphaxiv.org/abs/2602.22010",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.916Z",
+      "extra": {
+        "arxivId": "2602.22010",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.19526",
+      "title": "How to Train Your Deep Research Agent? Prompt, Reward, and Policy Optimization in Search-R1",
+      "url": "https://www.alphaxiv.org/abs/2602.19526",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.916Z",
+      "extra": {
+        "arxivId": "2602.19526",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22465",
+      "title": "ConstraintBench: Benchmarking LLM Constraint Reasoning on Direct Optimization",
+      "url": "https://www.alphaxiv.org/abs/2602.22465",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.916Z",
+      "extra": {
+        "arxivId": "2602.22465",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22208",
+      "title": "Solaris: Building a Multiplayer Video World Model in Minecraft",
+      "url": "https://www.alphaxiv.org/abs/2602.22208",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.916Z",
+      "extra": {
+        "arxivId": "2602.22208",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22732",
+      "title": "Generative Recommendation for Large-Scale Advertising",
+      "url": "https://www.alphaxiv.org/abs/2602.22732",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.916Z",
+      "extra": {
+        "arxivId": "2602.22732",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.20159",
+      "title": "A Very Big Video Reasoning Suite",
+      "url": "https://www.alphaxiv.org/abs/2602.20159",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.916Z",
+      "extra": {
+        "arxivId": "2602.20159",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.21204",
+      "title": "Test-Time Training with KV Binding Is Secretly Linear Attention",
+      "url": "https://www.alphaxiv.org/abs/2602.21204",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.916Z",
+      "extra": {
+        "arxivId": "2602.21204",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22897",
+      "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+      "url": "https://www.alphaxiv.org/abs/2602.22897",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.917Z",
+      "extra": {
+        "arxivId": "2602.22897",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23058",
+      "title": "GeoWorld: Geometric World Models",
+      "url": "https://www.alphaxiv.org/abs/2602.23058",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.917Z",
+      "extra": {
+        "arxivId": "2602.23058",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22437",
+      "title": "veScale-FSDP: Flexible and High-Performance FSDP at Scale",
+      "url": "https://www.alphaxiv.org/abs/2602.22437",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.917Z",
+      "extra": {
+        "arxivId": "2602.22437",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.21193",
+      "title": "On Data Engineering for Scaling LLM Terminal Capabilities",
+      "url": "https://www.alphaxiv.org/abs/2602.21193",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.917Z",
+      "extra": {
+        "arxivId": "2602.21193",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23361",
+      "title": "VGG-T3^33: Offline Feed-Forward 3D Reconstruction at Scale",
+      "url": "https://www.alphaxiv.org/abs/2602.23361",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-02-28T03:49:48.917Z",
+      "extra": {
+        "arxivId": "2602.23361",
+        "fromScrape": true
+      }
+    }
+  ]
+}

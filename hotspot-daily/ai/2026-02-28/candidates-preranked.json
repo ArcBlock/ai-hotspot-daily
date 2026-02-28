@@ -1,0 +1,746 @@
+[
+  {
+    "id": "gh-anthropics-claude-code",
+    "title": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 71269,
+    "category": "project",
+    "starsToday": 494,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-ruvnet-ruflo",
+    "title": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architect",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 15774,
+    "category": "project",
+    "starsToday": 531,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-bytedance-deer-flow",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 21986,
+    "category": "project",
+    "starsToday": 696,
+    "aiRelated": true,
+    "prerankScore": 88,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 20,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-obra-superpowers",
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "An agentic skills framework & software development methodology that works.",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 64961,
+    "category": "project",
+    "starsToday": 1546,
+    "aiRelated": true,
+    "prerankScore": 83,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47178371",
+    "title": "Get free Claude max 20x for open-source maintainers",
+    "url": "https://claude.com/contact-sales/claude-for-oss",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-27T09:08:58.000Z",
+    "rawScore": 480,
+    "category": "discussion",
+    "comments": 205,
+    "prerankScore": 82,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 20,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-GPT-5-vs-Other-LLMs-in-Long-Sh",
+    "title": "GPT-5 vs Other LLMs in Long Short-Context Performance",
+    "url": "https://deeplearn.org/arxiv/701551/gpt-5-vs-other-llms-in-long-short-context-performance",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:50:03.474Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 82,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 25,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "gh-Wei-Shaw-claude-relay-service",
+    "title": "Wei-Shaw/claude-relay-service",
+    "url": "https://github.com/Wei-Shaw/claude-relay-service",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 8582,
+    "category": "project",
+    "starsToday": 53,
+    "aiRelated": true,
+    "prerankScore": 81,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 13,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-steipete-CodexBar",
+    "title": "steipete/CodexBar",
+    "url": "https://github.com/steipete/CodexBar",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 7075,
+    "category": "project",
+    "starsToday": 243,
+    "aiRelated": true,
+    "prerankScore": 80,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 22,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-datawhalechina-hello-agents",
+    "title": "datawhalechina/hello-agents",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 23156,
+    "category": "project",
+    "starsToday": 324,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-muratcankoylan-Agent-Skills-for-Context-Engineering",
+    "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 12494,
+    "category": "project",
+    "starsToday": 803,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.21548",
+    "title": "DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference",
+    "url": "https://www.alphaxiv.org/abs/2602.21548",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:48.915Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 74,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-alibaba-OpenSandbox",
+    "title": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 1549,
+    "category": "project",
+    "starsToday": 105,
+    "aiRelated": true,
+    "prerankScore": 74,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-D4Vinci-Scrapling",
+    "title": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "publishedAt": "2026-02-28T03:48:44.528Z",
+    "rawScore": 18211,
+    "category": "project",
+    "starsToday": 1135,
+    "aiRelated": false,
+    "prerankScore": 73,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47186677",
+    "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+    "url": "https://twitter.com/secwar/status/2027507717469049070",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-27T22:31:18.000Z",
+    "rawScore": 1156,
+    "category": "discussion",
+    "comments": 953,
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "hn-47169757",
+    "title": "What Claude Code chooses",
+    "url": "https://amplifying.ai/research/claude-code-picks",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-26T18:12:26.000Z",
+    "rawScore": 585,
+    "category": "discussion",
+    "comments": 222,
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "alphaxiv-2602.20021",
+    "title": "Agents of Chaos",
+    "url": "https://www.alphaxiv.org/abs/2602.20021",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:48.915Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.19526",
+    "title": "How to Train Your Deep Research Agent? Prompt, Reward, and Policy Optimization in Search-R1",
+    "url": "https://www.alphaxiv.org/abs/2602.19526",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:48.916Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47181841",
+    "title": "ChatGPT Health fails to recognise medical emergencies – study",
+    "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-27T15:44:33.000Z",
+    "rawScore": 191,
+    "category": "discussion",
+    "comments": 142,
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 22,
+      "keywords": 10,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "alphaxiv-2602.22465",
+    "title": "ConstraintBench: Benchmarking LLM Constraint Reasoning on Direct Optimization",
+    "url": "https://www.alphaxiv.org/abs/2602.22465",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:48.916Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.20159",
+    "title": "A Very Big Video Reasoning Suite",
+    "url": "https://www.alphaxiv.org/abs/2602.20159",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:48.916Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "dlm-Knowing-When-Not-to-Answer-Ab",
+    "title": "Knowing When Not to Answer: Abstention-Aware Scientific Reasoning",
+    "url": "https://deeplearn.org/arxiv/701550/knowing-when-not-to-answer:-abstention-aware-scientific-reasoning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:50:03.474Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-OmniVideo-R1-Reinforcing-Audi",
+    "title": "OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention",
+    "url": "https://deeplearn.org/arxiv/701553/omnivideo-r1:-reinforcing-audio-visual-reasoning-with-query-intention-and-modality-attention",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:50:03.474Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "qbitai-DeepSeek新论文剧透V4新框架-用闲置网卡加速智能体推",
+    "title": "DeepSeek新论文剧透V4新框架！用闲置网卡加速智能体推理性能",
+    "url": "https://www.qbitai.com/2026/02/382872.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-27T08:11:51.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 20,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:42.194Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:42.194Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "pwc-2602.23152",
+    "title": "Paper 2602.23152",
+    "url": "https://huggingface.co/papers/2602.23152",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:39.908Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2602.22859",
+    "title": "Paper 2602.22859",
+    "url": "https://huggingface.co/papers/2602.22859",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:39.908Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2602.22638",
+    "title": "Paper 2602.22638",
+    "url": "https://huggingface.co/papers/2602.22638",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:39.908Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-886489",
+    "title": "Trump orders federal agencies to drop Anthropic’s AI",
+    "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "On Friday afternoon, Donald Trump posted on Truth Social , accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY C",
+    "publishedAt": "2026-02-27T16:30:47-05:00",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-syncchain2026helix-the-npm-moment-for-ai-agents-has-arrived-2jcj",
+    "title": "The npm Moment for AI Agents Has Arrived",
+    "url": "https://dev.to/syncchain2026helix/the-npm-moment-for-ai-agents-has-arrived-2jcj",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Remember when sharing code meant copying files between computers? Then npm changed everything by creating a standard way to package and distribute JavaScript modules. We're at a similar inflection poi",
+    "publishedAt": "Sat, 28 Feb 2026 03:18:04 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3097837",
+    "title": "Musk bashes OpenAI in deposition, saying &#8216;nobody committed suicide because of Grok&#8217;",
+    "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+    "publishedAt": "Fri, 27 Feb 2026 19:42:00 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 52,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "qbitai-何恺明团队新作GeoPT-全新预训练范式让模型自学真实物理规",
+    "title": "何恺明团队新作GeoPT，全新预训练范式让模型自学真实物理规律",
+    "url": "https://www.qbitai.com/2026/02/382888.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-27T08:19:25.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "qbitai-杀进全球榜TOP2-国产视频模型黑马刚刚出现了",
+    "title": "杀进全球榜TOP2！国产视频模型黑马刚刚出现了",
+    "url": "https://www.qbitai.com/2026/02/382803.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "音画同步一次生成，创作全模态起飞",
+    "publishedAt": "2026-02-27T08:04:54.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:49:42.194Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "arxiv-2602.23351v1",
+    "title": "Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning",
+    "url": "https://arxiv.org/pdf/2602.23351v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "The lack of reasoning capabilities in Vision-Language Models (VLMs) has remained at the forefront of research discourse. We posit that this behavior stems from a reporting bias in their training data.",
+    "publishedAt": "2026-02-26T18:54:06Z",
+    "rawScore": 0,
+    "category": "paper",
+    "prerankScore": 50,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 20
+    }
+  },
+  {
+    "id": "arxiv-2602.23300v1",
+    "title": "A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations",
+    "url": "https://arxiv.org/pdf/2602.23300v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Emotion Recognition in Conversations (ERC) presents unique challenges, requiring models to capture the temporal flow of multi-turn dialogues and to effectively integrate cues from multiple modalities.",
+    "publishedAt": "2026-02-26T18:08:40Z",
+    "rawScore": 0,
+    "category": "paper",
+    "prerankScore": 45,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 20
+    }
+  },
+  {
+    "id": "arxiv-2602.23258v1",
+    "title": "AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning",
+    "url": "https://arxiv.org/pdf/2602.23258v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "While Multi-Agent Systems (MAS) excel in complex reasoning, they suffer from the cascading impact of erroneous information generated by individual participants. Current solutions often resort to rigid",
+    "publishedAt": "2026-02-26T17:31:43Z",
+    "rawScore": 0,
+    "category": "paper",
+    "prerankScore": 45,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 20
+    }
+  },
+  {
+    "id": "websearch-1772250871-1",
+    "title": "OpenAI Reaches AI Agreement With Defense Dept. After Anthropic Clash",
+    "url": "https://fortune.com/2026/02/27/openai-in-talks-with-pentagon-after-anthropic-blowup/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "OpenAI CEO Sam Altman announced negotiations with the U.S. Department of Defense to deploy AI models on classified networks, with the government agreeing to honor OpenAI's safety red lines including p",
+    "publishedAt": "2026-02-27T22:43:00.000Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 43,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "ph-hacker-news-for-macos",
+    "title": "Hacker News for macOS",
+    "url": "https://www.producthunt.com/products/hacker-news-for-macos",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            A native macOS client for Hacker News, built with SwiftUI\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/hacker-news-for-ma",
+    "publishedAt": "2026-02-27T01:30:07.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 34,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "ph-mvntstudio",
+    "title": "mvntSTUDIO",
+    "url": "https://www.producthunt.com/products/mvntstudio",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Dance generation AI for every song!\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/mvntstudio?utm_campaign=producthunt-atom",
+    "publishedAt": "2026-02-26T09:25:28.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 29,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 12
+    }
+  }
+]

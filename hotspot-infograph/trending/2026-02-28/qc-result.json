@@ -1,0 +1,88 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-02-28T05:03:05.665Z",
+  "checks": {
+    "heroTitle": {
+      "pass": true,
+      "value": 14,
+      "required": "≤ 20",
+      "message": "\"考研国家线今日公布报名三连降\""
+    },
+    "heroKeyNumbers": {
+      "pass": true,
+      "value": 3,
+      "required": 3
+    },
+    "heroChartData": {
+      "pass": true,
+      "value": 5,
+      "required": "≥ 2"
+    },
+    "heroChartType": {
+      "pass": true,
+      "value": "bar",
+      "required": "bar | line | ring | timeline | versus | heatmap"
+    },
+    "heroTakeaway": {
+      "pass": true,
+      "value": 24,
+      "required": "≤ 30"
+    },
+    "heroSources": {
+      "pass": true,
+      "value": 3,
+      "required": "≥ 1"
+    },
+    "cardsCount": {
+      "pass": true,
+      "value": 6,
+      "required": "4–6"
+    },
+    "cardsDiversity": {
+      "pass": true,
+      "value": 5,
+      "required": "≥ 3",
+      "message": "分类: 国际, 科技, 财经, 社会, 体育"
+    },
+    "cardTitles": {
+      "pass": true,
+      "value": [
+        10,
+        10,
+        12,
+        10,
+        10,
+        10
+      ],
+      "required": "每张 ≤ 15"
+    },
+    "cardInsights": {
+      "pass": true,
+      "value": [
+        15,
+        15,
+        18,
+        18,
+        16,
+        15
+      ],
+      "required": "每张 ≤ 20"
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "2026-02-28-kaoyan-national-line"
+    },
+    "detailSlugsMatch": {
+      "pass": true,
+      "value": "expected: 2, found: 3",
+      "required": "all match"
+    },
+    "detailPages": {
+      "pass": true,
+      "value": 3,
+      "required": "quality checks",
+      "message": "all good"
+    }
+  },
+  "failReasons": []
+}

@@ -1,11 +1,3 @@
-# Runtime outputs
-hotspot-daily/ai/*/
-hotspot-infograph/trending/*/
-
-# Keep .gitkeep files
-!hotspot-daily/ai/.gitkeep
-!hotspot-infograph/trending/.gitkeep
-
 # Environment
 .env
 .env.local

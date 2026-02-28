@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light" data-lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2026-02-28 - Anthropic遭封杀，AI供应链巨变</title>
+<meta name="description" content="Trump ordered all federal agencies to immediately stop using Anthropic products after the company refused to remove safety restrictions on autonomous weapons and mass surveillance. The Pentagon designated Anthropic a 'supply chain risk' -- a label previously reserved for foreign adversaries. OpenAI struck a deal with the Pentagon hours later, claiming identical safety red lines.">
+<meta property="og:title" content="US Government Bans Anthropic, Reshaping AI Vendor Landscape">
+<meta property="og:description" content="Trump ordered all federal agencies to immediately stop using Anthropic products after the company re">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="zh_CN">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="US Government Bans Anthropic, Reshaping AI Vendor Landscape">
+<meta name="twitter:description" content="Trump ordered all federal agencies to immediately stop using Anthropic products after the company re">
+<style>
+:root {
+  --bg: #ffffff;
+  --bg-secondary: #f7f8fa;
+  --bg-card: #ffffff;
+  --text: #1a1a2e;
+  --text-secondary: #555770;
+  --text-muted: #8b8ca7;
+  --border: #e4e5f1;
+  --accent: #2563eb;
+  --accent-light: #dbeafe;
+  --success: #059669;
+  --success-light: #d1fae5;
+  --warning: #d97706;
+  --warning-light: #fef3c7;
+  --danger: #dc2626;
+  --danger-light: #fee2e2;
+  --impact-high: #dc2626;
+  --impact-medium: #d97706;
+  --impact-low: #059669;
+  --radius: 12px;
+  --shadow: 0 1px 3px rgba(0,0,0,0.08);
+  --shadow-lg: 0 4px 12px rgba(0,0,0,0.1);
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans SC", sans-serif;
+  --font-mono: "SF Mono", "Fira Code", monospace;
+  --max-width: 720px;
+}
+
+[data-theme="dark"] {
+  --bg: #0f172a;
+  --bg-secondary: #1e293b;
+  --bg-card: #1e293b;
+  --text: #e2e8f0;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --border: #334155;
+  --accent: #3b82f6;
+  --accent-light: #1e3a5f;
+  --success: #10b981;
+  --success-light: #064e3b;
+  --warning: #f59e0b;
+  --warning-light: #78350f;
+  --danger: #ef4444;
+  --danger-light: #7f1d1d;
+  --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  --shadow-lg: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container { max-width: var(--max-width); margin: 0 auto; padding: 24px 16px 80px; }
+
+/* Header & Controls */
+.header { margin-bottom: 32px; }
+.hero {
+  background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg) 100%);
+  border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 28px 24px 20px; margin-bottom: 24px;
+}
+.hero-brand {
+  display: flex; align-items: center; justify-content: space-between;
+  font-size: 12px; color: var(--text-muted); margin-bottom: 16px;
+  text-transform: uppercase; letter-spacing: 0.08em; font-weight: 600;
+}
+.hero-brand-name { display: flex; align-items: center; gap: 6px; }
+.hero-body { display: flex; gap: 20px; align-items: flex-start; }
+.hero-content { flex: 1; }
+.hero-content h1 { font-size: 24px; margin-bottom: 6px; }
+.hero-content .subtitle { font-size: 15px; margin-bottom: 10px; }
+.hero-content .tldr { font-size: 14px; margin-bottom: 0; padding: 10px 14px; }
+.hero-side {
+  flex-shrink: 0; display: flex; flex-direction: column; align-items: center; gap: 12px;
+  padding: 12px 16px; border-left: 1px solid var(--border); min-width: 100px;
+}
+.hero-side .confidence-ring { width: 56px; height: 56px; }
+.hero-side .confidence-ring svg { width: 56px; height: 56px; }
+.hero-side .confidence-ring .ring-text { font-size: 14px; }
+.hero-side .confidence-ring circle { stroke-width: 2.5; }
+.hero-side .confidence-label { font-size: 11px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.06em; }
+.hero-mini-metrics { font-size: 12px; text-align: center; }
+.hero-mini-metrics .mini-row { display: flex; justify-content: center; gap: 12px; margin-bottom: 4px; }
+.hero-mini-metrics .mini-val { font-weight: 700; color: var(--text); }
+.hero-mini-metrics .mini-label { color: var(--text-muted); }
+.hero-cta {
+  text-align: center; margin-top: 12px; padding-top: 12px;
+  border-top: 1px solid var(--border); font-size: 12px; color: var(--text-muted);
+}
+@media (max-width: 640px) {
+  .hero-body { flex-direction: column; }
+  .hero-side { border-left: none; border-top: 1px solid var(--border); flex-direction: row; width: 100%; padding: 12px 0 0; }
+  .hero-content h1 { font-size: 20px; }
+}
+.controls {
+  display: flex; gap: 8px; justify-content: flex-end; margin-bottom: 20px;
+  position: sticky; top: 0; z-index: 100; background: var(--bg);
+  padding: 12px 0; border-bottom: 1px solid var(--border);
+}
+.toggle-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 6px 14px; border-radius: 20px;
+  border: 1px solid var(--border); background: var(--bg-card);
+  color: var(--text-secondary); font-size: 13px; cursor: pointer;
+  transition: all 0.2s;
+}
+.toggle-btn:hover { border-color: var(--accent); color: var(--accent); }
+.toggle-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+/* Meta */
+.meta-bar {
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  font-size: 13px; color: var(--text-muted); margin-bottom: 12px;
+}
+.meta-bar .date { font-weight: 600; color: var(--text-secondary); }
+
+/* Confidence */
+.confidence {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;
+}
+.confidence.high { background: var(--success-light); color: var(--success); }
+.confidence.medium { background: var(--warning-light); color: var(--warning); }
+.confidence.low { background: var(--danger-light); color: var(--danger); }
+.confidence-ring { position: relative; width: 36px; height: 36px; }
+.confidence-ring svg { transform: rotate(-90deg); }
+.confidence-ring circle { fill: none; stroke-width: 3; }
+.confidence-ring .ring-bg { stroke: var(--border); }
+.confidence-ring .ring-fill {
+  stroke: currentColor; stroke-linecap: round;
+  stroke-dasharray: 94.25; /* 2 * PI * 15 */
+  stroke-dashoffset: 94.25;
+  transition: stroke-dashoffset 1.2s ease-out;
+}
+.confidence-ring .ring-text {
+  position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+}
+.confidence-tooltip {
+  display: none; position: absolute; bottom: calc(100% + 8px); left: 50%; transform: translateX(-50%);
+  background: var(--text); color: var(--bg); padding: 6px 10px; border-radius: 6px;
+  font-size: 11px; font-weight: 400; white-space: nowrap; z-index: 10;
+  pointer-events: none;
+}
+.confidence-tooltip::after {
+  content: ""; position: absolute; top: 100%; left: 50%; transform: translateX(-50%);
+  border: 4px solid transparent; border-top-color: var(--text);
+}
+.confidence:hover .confidence-tooltip { display: block; }
+.confidence-bar {
+  width: 48px; height: 4px; border-radius: 2px; background: var(--border); overflow: hidden;
+}
+.confidence-bar-fill { height: 100%; border-radius: 2px; transition: width 0.3s; }
+
+/* Title */
+h1 {
+  font-size: 28px; line-height: 1.3; font-weight: 700;
+  letter-spacing: -0.02em; margin-bottom: 8px;
+}
+.tldr {
+  font-size: 17px; color: var(--text-secondary); line-height: 1.6;
+  padding: 12px 16px; border-left: 3px solid var(--accent);
+  background: var(--bg-secondary); border-radius: 0 var(--radius) var(--radius) 0;
+  margin-bottom: 32px;
+}
+
+/* Section */
+.section { margin-bottom: 28px; }
+.section-title {
+  font-size: 13px; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.08em; color: var(--text-muted);
+  margin-bottom: 12px; display: flex; align-items: center; gap: 8px;
+}
+.section-title::after {
+  content: ""; flex: 1; height: 1px; background: var(--border);
+}
+
+/* Card */
+.card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 20px; box-shadow: var(--shadow);
+  margin-bottom: 12px;
+}
+.card-content { color: var(--text-secondary); font-size: 15px; }
+.card-content p { margin-bottom: 8px; }
+.card-content strong { color: var(--text); }
+.card-content a { color: var(--accent); text-decoration: none; }
+.card-content a:hover { text-decoration: underline; }
+
+/* Affected Groups */
+.group-list { display: flex; flex-direction: column; gap: 10px; }
+.group-item {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 12px 16px; border-radius: 8px; background: var(--bg-secondary);
+}
+.impact-badge {
+  font-size: 11px; font-weight: 700; text-transform: uppercase;
+  padding: 2px 8px; border-radius: 4px; white-space: nowrap; margin-top: 2px;
+}
+.impact-badge.high { background: var(--danger-light); color: var(--impact-high); }
+.impact-badge.medium { background: var(--warning-light); color: var(--impact-medium); }
+.impact-badge.low { background: var(--success-light); color: var(--impact-low); }
+.group-info { flex: 1; }
+.group-name { font-weight: 600; font-size: 14px; margin-bottom: 2px; }
+.group-desc { font-size: 13px; color: var(--text-secondary); }
+
+/* Action List */
+.action-group { margin-bottom: 16px; }
+.action-label {
+  font-size: 12px; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.06em; margin-bottom: 8px; display: flex; align-items: center; gap: 6px;
+}
+.action-label.immediate { color: var(--danger); }
+.action-label.this-week { color: var(--warning); }
+.action-label.watch { color: var(--text-muted); }
+.action-list { list-style: none; }
+.action-item {
+  display: flex; align-items: flex-start; gap: 8px;
+  padding: 8px 12px; border-radius: 8px; font-size: 14px;
+  margin-bottom: 4px; background: var(--bg-secondary);
+  cursor: pointer; transition: background 0.15s, opacity 0.2s;
+}
+.action-item:hover { background: var(--accent-light); }
+.action-item.checked { opacity: 0.55; }
+.action-item.checked .action-text { text-decoration: line-through; }
+.action-check { flex-shrink: 0; margin-top: 2px; color: var(--text-muted); font-size: 16px; }
+.action-item.checked .action-check { color: var(--success); }
+.action-text { flex: 1; }
+.action-progress {
+  display: flex; align-items: center; gap: 10px; margin-bottom: 12px;
+  font-size: 12px; color: var(--text-muted);
+}
+.action-progress-bar {
+  flex: 1; height: 6px; border-radius: 3px; background: var(--border); overflow: hidden;
+}
+.action-progress-fill {
+  height: 100%; border-radius: 3px; background: var(--success);
+  transition: width 0.3s ease;
+}
+.copy-btn {
+  font-size: 11px; color: var(--text-muted); cursor: pointer;
+  padding: 2px 8px; border: 1px solid var(--border); border-radius: 4px;
+  background: transparent; transition: all 0.15s; white-space: nowrap;
+}
+.copy-btn:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+.copy-btn.copied { background: var(--success); color: #fff; border-color: var(--success); }
+
+/* Options Table */
+.options-grid { display: flex; flex-direction: column; gap: 10px; }
+.option-card {
+  padding: 16px; border: 1px solid var(--border); border-radius: var(--radius);
+  background: var(--bg-card);
+}
+.option-name { font-weight: 700; font-size: 15px; margin-bottom: 6px; }
+.option-desc { font-size: 14px; color: var(--text-secondary); margin-bottom: 8px; }
+.option-meta { display: flex; gap: 16px; flex-wrap: wrap; font-size: 12px; }
+.option-tag {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 2px 8px; border-radius: 4px; background: var(--bg-secondary);
+  color: var(--text-secondary);
+}
+
+/* Risks */
+.risk-item {
+  padding: 14px 16px; border-left: 3px solid var(--danger);
+  background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+  margin-bottom: 10px;
+}
+.risk-title { font-weight: 600; font-size: 14px; margin-bottom: 4px; }
+.risk-desc { font-size: 13px; color: var(--text-secondary); }
+
+/* Subtitle */
+.subtitle {
+  font-size: 18px; color: var(--text-secondary); font-weight: 400;
+  line-height: 1.5; margin-bottom: 12px;
+}
+
+/* Metrics Table */
+.metrics-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.metrics-table th, .metrics-table td {
+  padding: 8px 12px; text-align: center; border-bottom: 1px solid var(--border);
+}
+.metrics-table th { font-weight: 600; font-size: 12px; color: var(--text-muted); text-transform: uppercase; }
+.metrics-table th.sortable { cursor: pointer; user-select: none; transition: color 0.15s; }
+.metrics-table th.sortable:hover { color: var(--accent); }
+.metrics-table th .sort-icon { font-size: 10px; margin-left: 2px; opacity: 0.4; }
+.metrics-table th.sorted .sort-icon { opacity: 1; color: var(--accent); }
+.metrics-table td:first-child { text-align: left; font-weight: 500; color: var(--text); }
+.metrics-table .subject-col { background: var(--accent-light); font-weight: 700; color: var(--accent); }
+.metrics-table th.subject-col { background: var(--accent-light); color: var(--accent); }
+.metrics-table tbody tr:not(.metric-note) { transition: background 0.12s; }
+.metrics-table tbody tr:not(.metric-note):hover { background: var(--accent-light); }
+.metrics-table .best-val { color: var(--success); font-weight: 700; }
+.metrics-table .metric-note td {
+  text-align: left; font-size: 11px; color: var(--text-muted); font-style: italic;
+  padding: 2px 12px 8px; border-bottom: 1px solid var(--border);
+}
+.metrics-footnote {
+  font-size: 11px; color: var(--text-muted); font-style: italic;
+  margin-top: 8px; padding: 0 4px;
+}
+
+/* Sources */
+.source-list { font-size: 13px; }
+.source-item {
+  padding: 10px 0; border-bottom: 1px solid var(--border);
+  display: flex; flex-direction: column; gap: 4px;
+}
+.source-item:last-child { border-bottom: none; }
+.source-title a { color: var(--accent); text-decoration: none; font-weight: 500; }
+.source-title a:hover { text-decoration: underline; }
+.source-meta { color: var(--text-muted); font-size: 12px; }
+.source-excerpt { color: var(--text-secondary); font-size: 13px; font-style: italic; }
+
+/* Collapsible */
+.collapsible-trigger {
+  width: 100%; text-align: left; background: none; border: none;
+  cursor: pointer; color: var(--text); font: inherit;
+  display: flex; align-items: center; gap: 6px;
+}
+.collapsible-trigger .arrow {
+  display: inline-block; transition: transform 0.2s; font-size: 12px;
+}
+.collapsible-trigger[aria-expanded="true"] .arrow { transform: rotate(90deg); }
+.collapsible-content { overflow: hidden; transition: max-height 0.3s ease; max-height: 0; }
+
+/* Share Section */
+.share-section {
+  margin-top: 32px; padding: 20px; border-radius: var(--radius);
+  background: var(--bg-secondary); border: 1px solid var(--border);
+}
+.share-buttons { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+.share-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 8px 16px; border-radius: 8px; font-size: 13px; font-weight: 600;
+  border: 1px solid var(--border); background: var(--bg-card); color: var(--text);
+  cursor: pointer; transition: all 0.15s; text-decoration: none;
+}
+.share-btn:hover { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); box-shadow: var(--shadow); }
+.share-btn.copied { background: var(--success); color: #fff; border-color: var(--success); }
+
+/* Footer */
+.footer {
+  text-align: center; font-size: 12px; color: var(--text-muted);
+  margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--border);
+}
+
+/* Bilingual toggle */
+[data-lang="zh"] [data-content="en"] { display: none; }
+[data-lang="en"] [data-content="zh"] { display: none; }
+
+/* Responsive */
+@media (max-width: 640px) {
+  .container { padding: 16px 12px 60px; }
+  h1 { font-size: 22px; }
+  .controls { gap: 4px; }
+  .toggle-btn { padding: 5px 10px; font-size: 12px; }
+  .option-meta { flex-direction: column; gap: 6px; }
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <!-- Controls -->
+  <div class="controls">
+    <button class="toggle-btn active" id="lang-en" onclick="setLang('en')">EN</button>
+    <button class="toggle-btn" id="lang-zh" onclick="setLang('zh')">中文</button>
+    <span style="flex:1"></span>
+    <button class="toggle-btn" id="theme-toggle" onclick="toggleTheme()">
+      <span id="theme-icon">🌙</span>
+    </button>
+  </div>
+
+  <!-- Header / Hero Poster Zone -->
+  <header class="header">
+    <div class="hero">
+      <div class="hero-brand">
+        <span class="hero-brand-name">AI Hotspot Daily</span>
+        <span>2026-02-28</span>
+      </div>
+      <div data-content="zh">
+        <div class="hero-body">
+          <div class="hero-content">
+            <h1>Anthropic遭封杀，AI供应链巨变</h1>
+            <p class="subtitle">依赖 Claude 的企业和开发者须立即评估替代方案</p>
+            <div class="tldr">Trump 下令所有联邦机构立即停用 Anthropic 产品，国防部将其列为「供应链风险」——因 Anthropic 拒绝移除 Claude 在自主武器和大规模监控方面的安全限制。OpenAI 随即与五角大楼达成协议，承诺保留同样的安全底线。</div>
+          </div>
+          <div class="hero-side high">
+            <div class="confidence-ring" data-value="85" style="position:relative">
+              <svg width="56" height="56" viewBox="0 0 36 36">
+                <circle class="ring-bg" cx="18" cy="18" r="15"/>
+                <circle class="ring-fill" cx="18" cy="18" r="15"/>
+              </svg>
+              <span class="ring-text">85%</span>
+            </div>
+            <span class="confidence-label" data-content="zh">置信度</span>
+            <div class="hero-mini-metrics"></div>
+          </div>
+        </div>
+      </div>
+      <div data-content="en">
+        <div class="hero-body">
+          <div class="hero-content">
+            <h1>US Government Bans Anthropic, Reshaping AI Vendor Landscape</h1>
+            <p class="subtitle">Businesses using Claude must assess their exposure now</p>
+            <div class="tldr">Trump ordered all federal agencies to immediately stop using Anthropic products after the company refused to remove safety restrictions on autonomous weapons and mass surveillance. The Pentagon designated Anthropic a 'supply chain risk' -- a label previously reserved for foreign adversaries. OpenAI struck a deal with the Pentagon hours later, claiming identical safety red lines.</div>
+          </div>
+          <div class="hero-side high">
+            <div class="confidence-ring" data-value="85" style="position:relative">
+              <svg width="56" height="56" viewBox="0 0 36 36">
+                <circle class="ring-bg" cx="18" cy="18" r="15"/>
+                <circle class="ring-fill" cx="18" cy="18" r="15"/>
+              </svg>
+              <span class="ring-text">85%</span>
+            </div>
+            <span class="confidence-label" data-content="en">Confidence</span>
+            <div class="hero-mini-metrics"></div>
+          </div>
+        </div>
+      </div>
+      <div class="hero-cta">
+        <span data-content="zh">&#9660; 继续阅读完整分析</span>
+        <span data-content="en">&#9660; Continue reading full analysis</span>
+      </div>
+    </div>
+    <div class="meta-bar" style="margin-top:12px">
+      <span class="date">2026-02-28</span>
+      <span>·</span>
+      <span>5 sources</span>
+    </div>
+  </header>
+
+  <!-- What Happened -->
+  <div class="section">
+    <div class="section-title" data-content="zh">发生了什么</div>
+    <div class="section-title" data-content="en">What Happened</div>
+    <div class="card">
+      <div class="card-content" data-content="zh">2026 年 2 月 27 日，Trump 在 Truth Social 上宣布：「我指示美国政府所有联邦机构立即停止使用 Anthropic 的技术。」此前数月，五角大楼要求 Anthropic 允许 Claude 用于「所有合法用途」，但 Anthropic 拒绝移除两项安全限制：禁止大规模国内监控、禁止完全自主武器。国防部长 Hegseth 随即将 Anthropic 列为「供应链风险」，这一标签此前仅用于外国敌对势力关联企业，从未公开用于美国公司。价值约 2 亿美元的国防部合同被取消，所有军方承包商须在 6 个月内完成替代迁移。同日晚间，OpenAI CEO Sam Altman 宣布已与五角大楼达成部署协议，声称保留了与 Anthropic 相同的「红线」。</div>
+      <div class="card-content" data-content="en">On February 27, 2026, President Trump directed all federal agencies to &quot;immediately cease&quot; using Anthropic's technology after months of failed negotiations with the Pentagon. The core dispute: Anthropic refused to allow Claude to be used &quot;for all lawful purposes&quot; without restrictions, specifically maintaining two guardrails -- no mass domestic surveillance and no fully autonomous weapons. Defense Secretary Hegseth designated Anthropic a &quot;supply chain risk,&quot; an unprecedented action against a U.S. company, previously reserved for foreign adversaries like Huawei. The ~$200M DoD contract was terminated, and all military contractors must complete migration within 6 months. Hours later, OpenAI CEO Sam Altman announced a Pentagon deployment deal, stating the government agreed to let OpenAI build its own &quot;safety stack&quot; with the same red lines Anthropic fought for.</div>
+    </div>
+  </div>
+
+  <!-- Key Metrics (if present) -->
+  
+
+  <!-- Why It Matters -->
+  <div class="section">
+    <div class="section-title" data-content="zh">为什么重要</div>
+    <div class="section-title" data-content="en">Why It Matters</div>
+    <div class="card">
+      <div class="card-content" data-content="zh">这是 AI 行业与美国政府关系的分水岭事件。对于使用 Claude API 的企业和开发者而言，虽然商业服务不受直接影响，但信号意义重大：Anthropic 的政府业务线被切断可能影响其长期营收和竞争力。更关键的是，如果你的客户是联邦机构或国防承包商，他们将被迫在 6 个月内从 Claude 迁移出去。OpenAI 趁势抢占国防市场，AI 供应商的竞争格局正在重塑。同时，超过 400 名 Google 员工和 75 名 OpenAI 员工签署了声援 Anthropic 的联名信，显示行业内部对政府强制移除 AI 安全限制存在广泛担忧。</div>
+      <div class="card-content" data-content="en">This is the most consequential collision between AI safety commitments and government power to date. For developers and businesses using Claude, the commercial service remains unaffected -- but the strategic signal is unmistakable. Anthropic losing its government revenue stream could impact long-term product investment and pricing. If your customers include federal agencies or defense contractors, they are now legally required to migrate away from Claude within 6 months. The competitive dynamics are shifting fast: OpenAI is positioning itself as the government-friendly alternative, while over 400 Google employees and 75 OpenAI employees signed solidarity letters supporting Anthropic's stance -- revealing deep industry tension over government demands to remove AI safety guardrails.</div>
+    </div>
+  </div>
+
+  <!-- Who Is Affected -->
+  <div class="section">
+    <div class="section-title" data-content="zh">受影响群体</div>
+    <div class="section-title" data-content="en">Who Is Affected</div>
+    <div class="group-list" data-content="zh"><div class="group-item">
+<span class="impact-badge high">HIGH</span>
+<div class="group-info">
+<div class="group-name">为联邦/国防客户构建 AI 方案的承包商和 SI</div>
+<div class="group-desc">必须在 6 个月内将所有基于 Claude 的工作负载迁移至替代模型，否则将失去与五角大楼的合作资格</div>
+</div>
+</div>
+<div class="group-item">
+<span class="impact-badge medium">MEDIUM</span>
+<div class="group-info">
+<div class="group-name">使用 Claude API 的企业客户</div>
+<div class="group-desc">商业服务暂不受影响，但需关注 Anthropic 营收受损后的产品投入和定价策略变化，以及潜在的供应商声誉风险</div>
+</div>
+</div>
+<div class="group-item">
+<span class="impact-badge low">LOW</span>
+<div class="group-info">
+<div class="group-name">独立开发者和个人 Claude 用户</div>
+<div class="group-desc">日常使用 Claude API 写代码、构建个人项目不受直接影响，但长期需关注 Anthropic 是否因营收压力调整 API 定价或服务层级</div>
+</div>
+</div>
+<div class="group-item">
+<span class="impact-badge high">HIGH</span>
+<div class="group-info">
+<div class="group-name">AI 安全和政策研究者</div>
+<div class="group-desc">这一事件将成为 AI 安全与国家安全博弈的标志性案例，直接影响未来 AI 监管和部署政策的走向</div>
+</div>
+</div></div>
+    <div class="group-list" data-content="en"><div class="group-item">
+<span class="impact-badge high">HIGH</span>
+<div class="group-info">
+<div class="group-name">Defense contractors and government system integrators</div>
+<div class="group-desc">Must migrate all Claude-based workloads within 6 months or risk losing Pentagon contracts. No contractor, supplier, or partner doing business with the U.S. military may conduct any commercial activity with Anthropic.</div>
+</div>
+</div>
+<div class="group-item">
+<span class="impact-badge medium">MEDIUM</span>
+<div class="group-info">
+<div class="group-name">Enterprise Claude API customers</div>
+<div class="group-desc">Commercial service is unaffected for now, but monitor Anthropic's revenue impact on product roadmap and pricing stability. Reputational risk if your sector is sensitive to government relations.</div>
+</div>
+</div>
+<div class="group-item">
+<span class="impact-badge low">LOW</span>
+<div class="group-info">
+<div class="group-name">Individual developers and Claude users</div>
+<div class="group-desc">Day-to-day use of Claude for coding, personal projects, and prototyping is unaffected. Long-term, watch for potential API pricing adjustments if Anthropic's revenue takes a sustained hit.</div>
+</div>
+</div>
+<div class="group-item">
+<span class="impact-badge high">HIGH</span>
+<div class="group-info">
+<div class="group-name">AI policy and safety researchers</div>
+<div class="group-desc">This case will define the template for how governments negotiate AI safety constraints with companies, setting precedent for future regulation worldwide.</div>
+</div>
+</div></div>
+  </div>
+
+  <!-- What To Do -->
+  <div class="section">
+    <div class="section-title" data-content="zh">
+      你该做什么
+      <button class="copy-btn" onclick="copyAllActions('zh')" id="copy-all-zh">复制全部</button>
+    </div>
+    <div class="section-title" data-content="en">
+      What To Do
+      <button class="copy-btn" onclick="copyAllActions('en')" id="copy-all-en">Copy All</button>
+    </div>
+
+    <div class="action-progress" data-content="zh">
+      <span class="action-progress-label">进度</span>
+      <div class="action-progress-bar"><div class="action-progress-fill" style="width:0%"></div></div>
+      <span class="action-progress-count">0/0</span>
+    </div>
+    <div class="action-progress" data-content="en">
+      <span class="action-progress-label">Progress</span>
+      <div class="action-progress-bar"><div class="action-progress-fill" style="width:0%"></div></div>
+      <span class="action-progress-count">0/0</span>
+    </div>
+
+    <div data-content="zh"><div class="action-group">
+<div class="action-label immediate">立即行动</div>
+<div class="action-list"><div class="action-item"><span class="action-check">☐</span><span class="action-text">盘点你的 AI 供应链：列出所有使用 Claude 的产品、服务和内部工具，标注哪些涉及联邦或国防客户</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">如果你有联邦/国防客户，立即联系法务确认合规义务，了解「供应链风险」标签对你的合同是否有连带影响</span></div></div>
+</div>
+<div class="action-group">
+<div class="action-label this-week">本周内</div>
+<div class="action-list"><div class="action-item"><span class="action-check">☐</span><span class="action-text">对涉及联邦客户的 Claude 工作负载进行迁移可行性评估：测试 GPT-4o、Gemini 等替代模型在你的业务场景中的表现</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">关注 Anthropic 的法律挑战进展——Anthropic 已宣布将在法庭上挑战「供应链风险」认定，10 USC 3252 的适用范围可能限于国防合同</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">审视你的 AI 供应商多元化策略：确保核心业务不完全依赖单一 AI 供应商</span></div></div>
+</div>
+<div class="action-group">
+<div class="action-label watch">观望等待</div>
+<div class="action-list"><div class="action-item"><span class="action-check">☐</span><span class="action-text">追踪 OpenAI 与五角大楼的「安全栈」协议细节——这将成为 AI 公司与政府合作的新模板</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">关注 Google、xAI 等其他 AI 公司是否面临类似的安全限制移除压力，以及行业是否形成统一立场</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">留意 Anthropic 的法律诉讼结果和国会动向——参议员 Thom Tillis 已公开批评五角大楼的处理方式</span></div></div>
+</div></div>
+    <div data-content="en"><div class="action-group">
+<div class="action-label immediate">Immediate</div>
+<div class="action-list"><div class="action-item"><span class="action-check">☐</span><span class="action-text">Audit your AI supply chain: list every product, service, and internal tool using Claude, and flag any that touch federal or defense customers</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">If you have federal/defense clients, contact legal counsel immediately to understand your compliance obligations under the supply chain risk designation</span></div></div>
+</div>
+<div class="action-group">
+<div class="action-label this-week">This Week</div>
+<div class="action-list"><div class="action-item"><span class="action-check">☐</span><span class="action-text">For federal-facing Claude workloads, run migration feasibility assessments: benchmark GPT-4o, Gemini, and other alternatives against your specific use cases</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">Track Anthropic's legal challenge -- the company will contest the supply chain risk designation in court, arguing 10 USC 3252 only applies to DoD contracts</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">Review your AI vendor diversification strategy: ensure no single provider represents a critical dependency for core business operations</span></div></div>
+</div>
+<div class="action-group">
+<div class="action-label watch">Watch &amp; Wait</div>
+<div class="action-list"><div class="action-item"><span class="action-check">☐</span><span class="action-text">Monitor the details of OpenAI's 'safety stack' agreement with the Pentagon -- this will become the template for AI-government partnerships</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">Watch whether Google, xAI, and other AI companies face similar pressure to remove safety restrictions, and whether the industry forms a unified stance</span></div>
+<div class="action-item"><span class="action-check">☐</span><span class="action-text">Follow Anthropic's lawsuit and Congressional response -- Senator Thom Tillis has publicly criticized the Pentagon's handling of this dispute</span></div></div>
+</div></div>
+  </div>
+
+  <!-- Options (if present) -->
+  <div class="section">
+    <div class="section-title" data-content="zh">决策选项</div>
+    <div class="section-title" data-content="en">Decision Options</div>
+    <div class="options-grid" data-content="zh"><div class="option-card">
+<div class="option-name">立即启动多供应商迁移</div>
+<div class="option-desc">将所有 Claude 工作负载迁移至 GPT-4o、Gemini 等替代模型，消除对 Anthropic 的供应商依赖</div>
+<div class="option-meta">
+<span class="option-tag">适合: 有联邦/国防客户的承包商和 SI</span>
+<span class="option-tag">成本: 高（工程资源投入、模型适配测试、合同重新谈判）</span>
+<span class="option-tag">风险: 迁移期间可能出现服务中断或质量下降；如果 Anthropic 法律挑战成功，已完成的迁移可能部分白做</span>
+</div>
+</div>
+<div class="option-card">
+<div class="option-name">仅对联邦业务迁移，商业业务继续使用 Claude</div>
+<div class="option-desc">将联邦/国防相关的 Claude 工作负载迁移至替代模型，商业业务保持不变</div>
+<div class="option-meta">
+<span class="option-tag">适合: 同时服务政府和商业客户的企业</span>
+<span class="option-tag">成本: 中（需维护两套技术栈）</span>
+<span class="option-tag">风险: 需持续监控政策变化；如果「供应链风险」标签扩展适用范围，可能需要二次迁移</span>
+</div>
+</div>
+<div class="option-card">
+<div class="option-name">等待法律裁决再行动</div>
+<div class="option-desc">密切跟踪 Anthropic 的法律挑战进展，根据裁决结果再决定是否迁移</div>
+<div class="option-meta">
+<span class="option-tag">适合: 非联邦业务为主的企业</span>
+<span class="option-tag">成本: 低（仅法务监控成本）</span>
+<span class="option-tag">风险: 如果裁决不利且政策扩展，可能面临更紧迫的迁移时间窗口</span>
+</div>
+</div>
+<div class="option-card">
+<div class="option-name">保持现状，不做任何改变</div>
+<div class="option-desc">继续使用 Claude 商业服务，不做任何迁移准备，观察事态发展</div>
+<div class="option-meta">
+<span class="option-tag">适合: 纯商业客户、个人开发者、无政府业务关联</span>
+<span class="option-tag">成本: 零</span>
+<span class="option-tag">风险: 短期无直接风险；长期需关注 Anthropic 营收受损是否影响产品发展速度和 API 定价稳定性</span>
+</div>
+</div></div>
+    <div class="options-grid" data-content="en"><div class="option-card">
+<div class="option-name">Immediate multi-vendor migration</div>
+<div class="option-desc">Migrate all Claude workloads to GPT-4o, Gemini, or other alternatives to eliminate Anthropic dependency</div>
+<div class="option-meta">
+<span class="option-tag">Suitable for: Defense contractors and government-serving SIs</span>
+<span class="option-tag">Cost: High (engineering resources, model adaptation testing, contract renegotiation)</span>
+<span class="option-tag">Risk: Service disruption during transition; if Anthropic's legal challenge succeeds, some migration effort may prove unnecessary</span>
+</div>
+</div>
+<div class="option-card">
+<div class="option-name">Migrate federal workloads only, keep Claude for commercial</div>
+<div class="option-desc">Move only federal/defense Claude workloads to alternatives while maintaining Claude for commercial operations</div>
+<div class="option-meta">
+<span class="option-tag">Suitable for: Companies serving both government and commercial clients</span>
+<span class="option-tag">Cost: Medium (maintaining dual tech stacks)</span>
+<span class="option-tag">Risk: Must continuously monitor policy changes; if the supply chain risk designation scope expands, a second migration may be needed</span>
+</div>
+</div>
+<div class="option-card">
+<div class="option-name">Wait for legal resolution before acting</div>
+<div class="option-desc">Track Anthropic's legal challenge closely and decide on migration based on the court ruling outcome</div>
+<div class="option-meta">
+<span class="option-tag">Suitable for: Companies with primarily non-federal business</span>
+<span class="option-tag">Cost: Low (legal monitoring only)</span>
+<span class="option-tag">Risk: If the ruling goes against Anthropic and policy expands, you may face a tighter migration window</span>
+</div>
+</div>
+<div class="option-card">
+<div class="option-name">Do nothing</div>
+<div class="option-desc">Continue using Claude commercial services without any migration preparation; observe how the situation unfolds</div>
+<div class="option-meta">
+<span class="option-tag">Suitable for: Pure commercial customers, indie developers, no government exposure</span>
+<span class="option-tag">Cost: Zero</span>
+<span class="option-tag">Risk: No immediate risk; long-term, monitor whether Anthropic's revenue loss affects product development pace and API pricing stability</span>
+</div>
+</div></div>
+  </div>
+
+  <!-- Risks -->
+  <div class="section">
+    <div class="section-title" data-content="zh">风险与误区</div>
+    <div class="section-title" data-content="en">Risks & Pitfalls</div>
+    <div data-content="zh"><div class="risk-item"><div class="risk-title">误判影响范围：商业用户无需恐慌性迁移</div><div class="risk-desc">Anthropic 官方声明明确指出，供应链风险标签依据 10 USC 3252，法律上仅适用于国防合同范围内的 Claude 使用，不影响承包商用 Claude 服务其他非国防客户，更不影响个人和商业用户。不要因为标题党新闻就仓促放弃 Claude。</div></div>
+<div class="risk-item"><div class="risk-title">低估迁移成本：模型替换不是简单的 API endpoint 切换</div><div class="risk-desc">不同 LLM 在 prompt 格式、输出风格、上下文窗口、工具调用能力上差异显著。仓促迁移可能导致输出质量下降、prompt 大面积重写、以及回归测试不充分引发的线上问题。至少预留 2-4 周做充分的 A/B 测试。</div></div>
+<div class="risk-item"><div class="risk-title">忽视政策信号：这不仅仅是 Anthropic 一家的问题</div><div class="risk-desc">OpenAI 虽然声称保留了相同「红线」，但其协议细节尚未公开。如果未来政府对任何 AI 公司的安全限制施加类似压力，所有 AI 供应商都可能面临合规风险。不要简单地认为「换到 OpenAI 就安全了」。</div></div></div>
+    <div data-content="en"><div class="risk-item"><div class="risk-title">Overreacting: Commercial users don't need to panic-migrate</div><div class="risk-desc">Anthropic's official statement clarifies that the supply chain risk designation under 10 USC 3252 legally applies only to Claude usage within DoD contracts. It does not affect how contractors use Claude for non-defense clients, nor does it impact individual or commercial users. Don't let alarmist headlines drive premature decisions.</div></div>
+<div class="risk-item"><div class="risk-title">Underestimating migration cost: Model swaps are not simple endpoint changes</div><div class="risk-desc">Different LLMs have significant differences in prompt formatting, output style, context window behavior, and tool-use capabilities. A rushed migration can cause output quality degradation, extensive prompt rewrites, and production issues from insufficient regression testing. Budget at least 2-4 weeks for thorough A/B testing.</div></div>
+<div class="risk-item"><div class="risk-title">Assuming switching to OpenAI solves the problem</div><div class="risk-desc">OpenAI claims it secured the same safety red lines Anthropic fought for, but the agreement details are not public. If the government applies similar pressure to any AI company in the future, all vendors could face compliance risks. Don't assume a vendor switch eliminates the underlying policy risk.</div></div></div>
+  </div>
+
+  <!-- Sources -->
+  <div class="section">
+    <button class="collapsible-trigger" aria-expanded="false" onclick="toggleCollapse(this)">
+      <span class="arrow">▶</span>
+      <span class="section-title" style="margin-bottom:0" data-content="zh">来源 (5)</span>
+      <span class="section-title" style="margin-bottom:0" data-content="en">Sources (5)</span>
+    </button>
+    <div class="collapsible-content">
+      <div class="source-list" data-content="zh" style="margin-top:12px"><div class="source-item">
+<div class="source-title"><a href="https://www.anthropic.com/news/statement-department-of-war" target="_blank" rel="noopener noreferrer">Statement from Dario Amodei on our discussions with the Department of War</a> (Official)</div>
+<div class="source-meta">Anthropic &middot; 2026-02-26</div>
+
+</div>
+<div class="source-item">
+<div class="source-title"><a href="https://www.anthropic.com/news/statement-comments-secretary-war" target="_blank" rel="noopener noreferrer">Statement on the comments from Secretary of War Pete Hegseth</a> (Official)</div>
+<div class="source-meta">Anthropic &middot; 2026-02-27</div>
+
+</div>
+<div class="source-item">
+<div class="source-title"><a href="https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod" target="_blank" rel="noopener noreferrer">Trump orders federal agencies to drop Anthropic's AI</a></div>
+<div class="source-meta">The Verge &middot; 2026-02-27</div>
+
+</div>
+<div class="source-item">
+<div class="source-title"><a href="https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055" target="_blank" rel="noopener noreferrer">OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic</a></div>
+<div class="source-meta">NBC News &middot; 2026-02-27</div>
+
+</div>
+<div class="source-item">
+<div class="source-title"><a href="https://www.axios.com/2026/02/27/altman-openai-anthropic-pentagon" target="_blank" rel="noopener noreferrer">Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight</a></div>
+<div class="source-meta">Axios &middot; 2026-02-27</div>
+
+</div></div>
+      <div class="source-list" data-content="en" style="margin-top:12px"><div class="source-item">
+<div class="source-title"><a href="https://www.anthropic.com/news/statement-department-of-war" target="_blank" rel="noopener noreferrer">Statement from Dario Amodei on our discussions with the Department of War</a> (Official)</div>
+<div class="source-meta">Anthropic &middot; 2026-02-26</div>
+
+</div>
+<div class="source-item">
+<div class="source-title"><a href="https://www.anthropic.com/news/statement-comments-secretary-war" target="_blank" rel="noopener noreferrer">Statement on the comments from Secretary of War Pete Hegseth</a> (Official)</div>
+<div class="source-meta">Anthropic &middot; 2026-02-27</div>
+
+</div>
+<div class="source-item">
+<div class="source-title"><a href="https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod" target="_blank" rel="noopener noreferrer">Trump orders federal agencies to drop Anthropic's AI</a></div>
+<div class="source-meta">The Verge &middot; 2026-02-27</div>
+
+</div>
+<div class="source-item">
+<div class="source-title"><a href="https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055" target="_blank" rel="noopener noreferrer">OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic</a></div>
+<div class="source-meta">NBC News &middot; 2026-02-27</div>
+
+</div>
+<div class="source-item">
+<div class="source-title"><a href="https://www.axios.com/2026/02/27/altman-openai-anthropic-pentagon" target="_blank" rel="noopener noreferrer">Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight</a></div>
+<div class="source-meta">Axios &middot; 2026-02-27</div>
+
+</div></div>
+    </div>
+  </div>
+
+  <!-- Share -->
+  <div class="share-section" id="share-section"
+    data-title-zh="Anthropic遭封杀，AI供应链巨变"
+    data-title-en="US Government Bans Anthropic, Reshaping AI Vendor Landscape"
+    data-tldr-zh="Trump 下令所有联邦机构立即停用 Anthropic 产品，国防部将其列为「供应链风险」——因 Anthropic 拒绝移除 Claude 在自主武器和大规模监控方面的安全限制。"
+    data-tldr-en="Trump ordered all federal agencies to immediately stop using Anthropic products after the company re">
+    <div class="section-title" data-content="zh" style="margin-bottom:4px">分享这篇分析</div>
+    <div class="section-title" data-content="en" style="margin-bottom:4px">Share This Analysis</div>
+    <div class="share-buttons">
+      <a class="share-btn" id="share-x" target="_blank" rel="noopener noreferrer">&#120143; / Twitter</a>
+      <a class="share-btn" id="share-reddit" target="_blank" rel="noopener noreferrer">Reddit</a>
+      <a class="share-btn" id="share-linkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      <button class="share-btn" id="share-copy" onclick="copyShareText()">
+        <span data-content="zh">复制链接</span>
+        <span data-content="en">Copy Link</span>
+      </button>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>Generated by Hotspot Daily · 2026-02-28 · 2026-02-28T06:30:00+08:00</p>
+  </footer>
+</div>
+
+<script>
+function setLang(lang) {
+  document.documentElement.setAttribute('data-lang', lang);
+  document.getElementById('lang-zh').classList.toggle('active', lang === 'zh');
+  document.getElementById('lang-en').classList.toggle('active', lang === 'en');
+  localStorage.setItem('hotspot-lang', lang);
+}
+
+function toggleTheme() {
+  const html = document.documentElement;
+  const current = html.getAttribute('data-theme');
+  const next = current === 'dark' ? 'light' : 'dark';
+  html.setAttribute('data-theme', next);
+  document.getElementById('theme-icon').textContent = next === 'dark' ? '☀️' : '🌙';
+  localStorage.setItem('hotspot-theme', next);
+}
+
+function toggleCollapse(trigger) {
+  const content = trigger.nextElementSibling;
+  const expanded = trigger.getAttribute('aria-expanded') === 'true';
+  trigger.setAttribute('aria-expanded', String(!expanded));
+  if (expanded) {
+    // Collapse: snapshot current height, force reflow, then animate to 0
+    content.style.maxHeight = content.scrollHeight + 'px';
+    content.offsetHeight; // force reflow
+    content.style.maxHeight = '0';
+  } else {
+    // Expand: animate to scrollHeight, then set to 'none' so content adapts to resize
+    content.style.maxHeight = content.scrollHeight + 'px';
+    content.addEventListener('transitionend', function handler() {
+      if (trigger.getAttribute('aria-expanded') === 'true') {
+        content.style.maxHeight = 'none';
+      }
+      content.removeEventListener('transitionend', handler);
+    });
+  }
+}
+
+function copyText(text, btn) {
+  navigator.clipboard.writeText(text).then(() => {
+    const orig = btn.textContent;
+    btn.textContent = '✓';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = orig; btn.classList.remove('copied'); }, 1500);
+  });
+}
+
+function copyAllActions(lang) {
+  const container = document.querySelector('[data-content="' + lang + '"] .action-text, [data-content="' + lang + '"]');
+  const items = document.querySelectorAll('[data-content="' + lang + '"] .action-text');
+  const text = Array.from(items).map(el => '- ' + el.textContent.trim()).join('\n');
+  const btn = document.getElementById('copy-all-' + lang);
+  copyText(text, btn);
+}
+
+// Share buttons
+function initShareButtons() {
+  var section = document.getElementById('share-section');
+  if (!section) return;
+  var url = location.href;
+  var lang = document.documentElement.getAttribute('data-lang') || 'en';
+  var title = section.getAttribute('data-title-' + lang) || section.getAttribute('data-title-en') || '';
+  var tldr = section.getAttribute('data-tldr-' + lang) || section.getAttribute('data-tldr-en') || '';
+
+  var xText = encodeURIComponent(title + '\n\n' + tldr + '\n\n#AIHotspotDaily');
+  document.getElementById('share-x').href =
+    'https://twitter.com/intent/tweet?text=' + xText + '&url=' + encodeURIComponent(url);
+
+  document.getElementById('share-reddit').href =
+    'https://www.reddit.com/submit?url=' + encodeURIComponent(url) + '&title=' + encodeURIComponent(title);
+
+  document.getElementById('share-linkedin').href =
+    'https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(url);
+}
+
+function copyShareText() {
+  var btn = document.getElementById('share-copy');
+  navigator.clipboard.writeText(location.href).then(function() {
+    btn.classList.add('copied');
+    var spans = btn.querySelectorAll('span');
+    spans.forEach(function(s) { s.style.display = 'none'; });
+    var checkSpan = document.createElement('span');
+    checkSpan.textContent = '\u2713 Copied';
+    btn.appendChild(checkSpan);
+    setTimeout(function() {
+      btn.classList.remove('copied');
+      btn.removeChild(checkSpan);
+      spans.forEach(function(s) { s.style.display = ''; });
+    }, 1500);
+  });
+}
+
+// Checkable action list
+function initCheckableActions() {
+  var slug = document.querySelector('meta[name="description"]') ?
+    location.pathname.split('/').pop() || 'hotspot' : 'hotspot';
+  var storageKey = 'hotspot-actions-' + slug;
+  var checked = {};
+  try { checked = JSON.parse(localStorage.getItem(storageKey)) || {}; } catch(e) {}
+
+  var items = document.querySelectorAll('.action-item');
+  items.forEach(function(item, idx) {
+    item.setAttribute('data-action-idx', idx);
+    if (checked[idx]) {
+      item.classList.add('checked');
+      item.querySelector('.action-check').innerHTML = '&#9745;';
+    }
+    item.addEventListener('click', function() {
+      var isChecked = item.classList.toggle('checked');
+      item.querySelector('.action-check').innerHTML = isChecked ? '&#9745;' : '&#9744;';
+      checked[idx] = isChecked || undefined;
+      if (!isChecked) delete checked[idx];
+      try { localStorage.setItem(storageKey, JSON.stringify(checked)); } catch(e) {}
+      updateActionProgress();
+    });
+  });
+  updateActionProgress();
+}
+
+function updateActionProgress() {
+  ['zh', 'en'].forEach(function(lang) {
+    var container = document.querySelector('[data-content="' + lang + '"] .action-list');
+    if (!container) return;
+    var parent = container.closest('[data-content="' + lang + '"]');
+    var allItems = parent.querySelectorAll('.action-item');
+    var checkedItems = parent.querySelectorAll('.action-item.checked');
+    var total = allItems.length;
+    var done = checkedItems.length;
+    var pct = total > 0 ? (done / total * 100) : 0;
+    var progressBar = document.querySelector('.action-progress[data-content="' + lang + '"]');
+    if (progressBar) {
+      progressBar.querySelector('.action-progress-fill').style.width = pct + '%';
+      progressBar.querySelector('.action-progress-count').textContent = done + '/' + total;
+    }
+  });
+}
+
+// Confidence ring animation
+function initConfidenceRings() {
+  document.querySelectorAll('.confidence-ring').forEach(function(ring) {
+    var value = parseInt(ring.getAttribute('data-value'), 10) || 0;
+    var circumference = 2 * Math.PI * 15; // r=15
+    var offset = circumference * (1 - value / 100);
+    var fill = ring.querySelector('.ring-fill');
+    // Trigger animation after a short delay
+    setTimeout(function() {
+      fill.style.strokeDashoffset = offset;
+    }, 100);
+  });
+}
+
+// Sortable metrics table
+function initSortableTables() {
+  document.querySelectorAll('.metrics-table').forEach(function(table) {
+    var headers = table.querySelectorAll('th');
+    headers.forEach(function(th, colIdx) {
+      if (colIdx === 0) return; // skip metric name column
+      th.classList.add('sortable');
+      th.innerHTML += ' <span class="sort-icon">&#9650;</span>';
+      th.addEventListener('click', function() {
+        sortTable(table, colIdx, th);
+      });
+    });
+    highlightBestValues(table);
+  });
+}
+
+function parseNumeric(text) {
+  var match = text.match(/([\d.]+)\s*([KMBkmb])?/);
+  if (!match) return null;
+  var num = parseFloat(match[1]);
+  if (isNaN(num)) return null;
+  var suffix = (match[2] || '').toUpperCase();
+  if (suffix === 'K') num *= 1000;
+  else if (suffix === 'M') num *= 1000000;
+  else if (suffix === 'B') num *= 1000000000;
+  return num;
+}
+
+function sortTable(table, colIdx, clickedTh) {
+  var tbody = table.querySelector('tbody');
+  var rows = Array.from(tbody.querySelectorAll('tr:not(.metric-note)'));
+  var noteRows = Array.from(tbody.querySelectorAll('tr.metric-note'));
+  var asc = clickedTh.getAttribute('data-sort') !== 'asc';
+  table.querySelectorAll('th').forEach(function(h) {
+    h.classList.remove('sorted');
+    h.removeAttribute('data-sort');
+  });
+  clickedTh.classList.add('sorted');
+  clickedTh.setAttribute('data-sort', asc ? 'asc' : 'desc');
+  clickedTh.querySelector('.sort-icon').innerHTML = asc ? '&#9650;' : '&#9660;';
+  rows.sort(function(a, b) {
+    var aVal = parseNumeric(a.cells[colIdx].textContent);
+    var bVal = parseNumeric(b.cells[colIdx].textContent);
+    if (aVal === null && bVal === null) return 0;
+    if (aVal === null) return 1;
+    if (bVal === null) return -1;
+    return asc ? aVal - bVal : bVal - aVal;
+  });
+  rows.forEach(function(row) { tbody.appendChild(row); });
+  noteRows.forEach(function(row) { tbody.appendChild(row); });
+}
+
+function highlightBestValues(table) {
+  var rows = Array.from(table.querySelectorAll('tbody tr:not(.metric-note)'));
+  if (rows.length === 0) return;
+  var colCount = rows[0].cells.length;
+  var metricLabels = rows.map(function(r) { return r.cells[0].textContent.toLowerCase(); });
+  for (var c = 1; c < colCount; c++) {
+    // Skip: best value highlight is per-row across models, not per-column
+  }
+  rows.forEach(function(row) {
+    var label = row.cells[0].textContent.toLowerCase();
+    var lowerIsBetter = /price|价格|cost|成本|latency|延迟/.test(label);
+    var vals = [];
+    for (var c = 1; c < row.cells.length; c++) {
+      vals.push({ idx: c, val: parseNumeric(row.cells[c].textContent) });
+    }
+    vals = vals.filter(function(v) { return v.val !== null; });
+    if (vals.length < 2) return;
+    vals.sort(function(a, b) { return lowerIsBetter ? a.val - b.val : b.val - a.val; });
+    row.cells[vals[0].idx].classList.add('best-val');
+  });
+}
+
+// Restore preferences
+(function() {
+  const savedTheme = localStorage.getItem('hotspot-theme');
+  const savedLang = localStorage.getItem('hotspot-lang');
+  if (savedTheme) {
+    document.documentElement.setAttribute('data-theme', savedTheme);
+    document.getElementById('theme-icon').textContent = savedTheme === 'dark' ? '☀️' : '🌙';
+  }
+  if (savedLang) setLang(savedLang);
+  initSortableTables();
+  initConfidenceRings();
+  initCheckableActions();
+  initShareButtons();
+})();
+</script>
+</body>
+</html>

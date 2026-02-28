@@ -1,0 +1,186 @@
+{
+  "source": "douyin",
+  "fetchedAt": "2026-02-28T04:43:58.975Z",
+  "items": [
+    {
+      "id": "douyin-0",
+      "title": "美窃陈志亿万虚拟币真相",
+      "url": "https://www.douyin.com/search/%E7%BE%8E%E7%AA%83%E9%99%88%E5%BF%97%E4%BA%BF%E4%B8%87%E8%99%9A%E6%8B%9F%E5%B8%81%E7%9C%9F%E7%9B%B8",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 12055444,
+      "extra": {
+        "label": 3,
+        "videoCount": 5
+      }
+    },
+    {
+      "id": "douyin-1",
+      "title": "美伊要打了吗",
+      "url": "https://www.douyin.com/search/%E7%BE%8E%E4%BC%8A%E8%A6%81%E6%89%93%E4%BA%86%E5%90%97",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 11520653,
+      "extra": {
+        "label": 1,
+        "videoCount": 4
+      }
+    },
+    {
+      "id": "douyin-2",
+      "title": "中国AI跑出马年加速度",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDAI%E8%B7%91%E5%87%BA%E9%A9%AC%E5%B9%B4%E5%8A%A0%E9%80%9F%E5%BA%A6",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 11257193,
+      "extra": {
+        "label": 1,
+        "videoCount": 1
+      }
+    },
+    {
+      "id": "douyin-3",
+      "title": "大学返校比高中返校更痛苦",
+      "url": "https://www.douyin.com/search/%E5%A4%A7%E5%AD%A6%E8%BF%94%E6%A0%A1%E6%AF%94%E9%AB%98%E4%B8%AD%E8%BF%94%E6%A0%A1%E6%9B%B4%E7%97%9B%E8%8B%A6",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 11204336,
+      "extra": {
+        "label": 3,
+        "videoCount": 3
+      }
+    },
+    {
+      "id": "douyin-4",
+      "title": "2026年考研国家线公布",
+      "url": "https://www.douyin.com/search/2026%E5%B9%B4%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%E5%85%AC%E5%B8%83",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 10515605,
+      "extra": {
+        "label": 1,
+        "videoCount": 3
+      }
+    },
+    {
+      "id": "douyin-5",
+      "title": "中国驻伊朗大使馆郑重提醒",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%83%91%E9%87%8D%E6%8F%90%E9%86%92",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 10425236,
+      "extra": {
+        "label": 3,
+        "videoCount": 3
+      }
+    },
+    {
+      "id": "douyin-6",
+      "title": "我的考研出分时刻",
+      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E8%80%83%E7%A0%94%E5%87%BA%E5%88%86%E6%97%B6%E5%88%BB",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 9321436,
+      "extra": {
+        "label": 0,
+        "videoCount": 3
+      }
+    },
+    {
+      "id": "douyin-7",
+      "title": "谁还没个隐藏技能",
+      "url": "https://www.douyin.com/search/%E8%B0%81%E8%BF%98%E6%B2%A1%E4%B8%AA%E9%9A%90%E8%97%8F%E6%8A%80%E8%83%BD",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 9184890,
+      "extra": {
+        "label": 0,
+        "videoCount": 3
+      }
+    },
+    {
+      "id": "douyin-8",
+      "title": "快接住正月十二的好运",
+      "url": "https://www.douyin.com/search/%E5%BF%AB%E6%8E%A5%E4%BD%8F%E6%AD%A3%E6%9C%88%E5%8D%81%E4%BA%8C%E7%9A%84%E5%A5%BD%E8%BF%90",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 9116787,
+      "extra": {
+        "label": 17,
+        "videoCount": 3
+      }
+    },
+    {
+      "id": "douyin-9",
+      "title": "晒晒我的四六级",
+      "url": "https://www.douyin.com/search/%E6%99%92%E6%99%92%E6%88%91%E7%9A%84%E5%9B%9B%E5%85%AD%E7%BA%A7",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 9116530,
+      "extra": {
+        "label": 0,
+        "videoCount": 3
+      }
+    },
+    {
+      "id": "douyin-10",
+      "title": "葛军来和抖音网友们算账了",
+      "url": "https://www.douyin.com/search/%E8%91%9B%E5%86%9B%E6%9D%A5%E5%92%8C%E6%8A%96%E9%9F%B3%E7%BD%91%E5%8F%8B%E4%BB%AC%E7%AE%97%E8%B4%A6%E4%BA%86",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 8949099,
+      "extra": {
+        "label": 8,
+        "videoCount": 4
+      }
+    },
+    {
+      "id": "douyin-11",
+      "title": "孙颖莎晋级新加坡大满贯八强",
+      "url": "https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%85%AB%E5%BC%BA",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 8624442,
+      "extra": {
+        "label": 0,
+        "videoCount": 3
+      }
+    },
+    {
+      "id": "douyin-12",
+      "title": "FIBA向中国篮球界致歉",
+      "url": "https://www.douyin.com/search/FIBA%E5%90%91%E4%B8%AD%E5%9B%BD%E7%AF%AE%E7%90%83%E7%95%8C%E8%87%B4%E6%AD%89",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 8524170,
+      "extra": {
+        "label": 0,
+        "videoCount": 4
+      }
+    },
+    {
+      "id": "douyin-13",
+      "title": "当代人的算了型人格",
+      "url": "https://www.douyin.com/search/%E5%BD%93%E4%BB%A3%E4%BA%BA%E7%9A%84%E7%AE%97%E4%BA%86%E5%9E%8B%E4%BA%BA%E6%A0%BC",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 8243878,
+      "extra": {
+        "label": 0,
+        "videoCount": 3
+      }
+    },
+    {
+      "id": "douyin-14",
+      "title": "美军双航母就位",
+      "url": "https://www.douyin.com/search/%E7%BE%8E%E5%86%9B%E5%8F%8C%E8%88%AA%E6%AF%8D%E5%B0%B1%E4%BD%8D",
+      "source": "douyin",
+      "category": "trending",
+      "hotScore": 8008615,
+      "extra": {
+        "label": 0,
+        "videoCount": 4
+      }
+    }
+  ]
+}

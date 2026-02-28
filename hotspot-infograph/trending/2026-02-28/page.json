@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "date": "2026-02-28",
+    "slug": "2026-02-28-kaoyan-national-line",
+    "generatedAt": "2026-02-28T12:30:00.000Z",
+    "language": "zh"
+  },
+  "hero": {
+    "title": "考研国家线今日公布报名三连降",
+    "category": "社会",
+    "color": "#dc2626",
+    "chart": {
+      "type": "bar",
+      "data": [
+        { "label": "2022", "value": 457, "unit": "万" },
+        { "label": "2023", "value": 474, "unit": "万" },
+        { "label": "2024", "value": 438, "unit": "万" },
+        { "label": "2025", "value": 388, "unit": "万" },
+        { "label": "2026", "value": 343, "unit": "万" }
+      ],
+      "highlight": "2026"
+    },
+    "keyNumbers": [
+      { "value": "343万", "label": "报名人数" },
+      { "value": "-45万", "label": "较去年" },
+      { "value": "三连降", "label": "下降趋势" }
+    ],
+    "takeaway": "报名人数三连降至343万但多数学科分数线不降反升",
+    "sources": [
+      { "name": "教育部", "url": "https://yz.chsi.com.cn/kyzx/zt/kyfs.shtml" },
+      { "name": "中新网", "url": "https://www.chinanews.com.cn/gn/2026/02-28/10577982.shtml" },
+      { "name": "知乎", "url": "https://www.zhihu.com/question/1976345592214020818" }
+    ],
+    "needsDetail": true,
+    "detailTemplate": "event-timeline",
+    "detailSlug": "kaoyan-national-line-2026"
+  },
+  "cards": [
+    {
+      "title": "美伊战争风险急剧升高",
+      "category": "国际",
+      "color": "#0891b2",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "福特号", "value": "航母" },
+          "right": { "label": "林肯号", "value": "航母" }
+        }
+      },
+      "insight": "双航母就位多国撤侨美伊谈判僵持",
+      "needsDetail": true,
+      "detailTemplate": "geo-explainer",
+      "detailSlug": "us-iran-tension-escalation"
+    },
+    {
+      "title": "小米超跑惊现巴塞罗那",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "tags",
+        "data": {
+          "items": ["Vision GT", "MWC2026", "雷军预告", "概念超跑"]
+        }
+      },
+      "insight": "MWC前夜雷军预告神秘超跑亮相",
+      "needsDetail": false,
+      "detailTemplate": "tech-breakdown",
+      "detailSlug": "xiaomi-supercar-mwc2026"
+    },
+    {
+      "title": "人民币三日急涨600基点",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "trend",
+        "data": {
+          "direction": "up",
+          "value": "600点",
+          "label": "三日涨幅"
+        }
+      },
+      "insight": "央行将远期售汇准备金率从20%降至0",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "rmb-rally-pboc-intervention"
+    },
+    {
+      "title": "蔡磊进入渐冻症终末期",
+      "category": "社会",
+      "color": "#dc2626",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": {
+          "value": "6年",
+          "label": "持续抗争"
+        }
+      },
+      "insight": "推动近百项科研合作注册病友超1.8万",
+      "needsDetail": false,
+      "detailTemplate": "event-timeline",
+      "detailSlug": "cai-lei-als-terminal"
+    },
+    {
+      "title": "人形机器人进宝马产线",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "AEON", "value": "欧洲首部署" },
+          "right": { "label": "Figure02", "value": "3万辆参与" }
+        }
+      },
+      "insight": "莱比锡工厂欧洲首次部署人形机器人",
+      "needsDetail": false,
+      "detailTemplate": "tech-breakdown",
+      "detailSlug": "bmw-humanoid-robot-factory"
+    },
+    {
+      "title": "孙颖莎晋级大满贯八强",
+      "category": "体育",
+      "color": "#059669",
+      "miniChart": {
+        "type": "miniBar",
+        "data": {
+          "items": [
+            { "label": "第1局", "value": 11 },
+            { "label": "第2局", "value": 7 },
+            { "label": "第3局", "value": 11 }
+          ]
+        }
+      },
+      "insight": "3-1击败石洵瑶下轮战早田希娜",
+      "needsDetail": false,
+      "detailTemplate": "ranking-visual",
+      "detailSlug": "sun-yingsha-singapore-slam"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "alphasignal",
+  "fetchedAt": "2026-02-28T03:49:54.606Z",
+  "items": [
+    {
+      "id": "alphasignal--hinton-predicts-ai-will-outsmart-us-in-5-years-",
+      "title": "👨🏼‍🔬 Hinton predicts \"AI will outsmart us in 5 years\"",
+      "url": "https://alphasignalai.substack.com/p/hinton-predicts-ai-will-outsmart",
+      "source": "alphasignal",
+      "category": "news",
+      "score": 50,
+      "publishedAt": "2023-10-10T19:54:46.000Z",
+      "summary": "On OpenAI's new $210k job, Docker's GenAI stack, Deepmind's RT-1X, and Reka's new multimodal LLM.",
+      "extra": {
+        "newsletterType": "news"
+      }
+    }
+  ]
+}

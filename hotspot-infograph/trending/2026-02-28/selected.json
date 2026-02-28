@@ -1,0 +1,1084 @@
+{
+  "hero": {
+    "id": "douyin-4",
+    "title": "2026年考研国家线公布",
+    "url": "https://www.douyin.com/search/2026%E5%B9%B4%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%E5%85%AC%E5%B8%83",
+    "source": "douyin",
+    "category": "社会",
+    "hotScore": 10515605,
+    "extra": {
+      "label": 1,
+      "videoCount": 3
+    },
+    "crossPlatformCount": 3,
+    "relatedSources": [
+      "weibo",
+      "baidu",
+      "douyin"
+    ],
+    "mergedTitles": [
+      "2026年考研国家线公布",
+      "考研下岸了",
+      "张雪峰谈考研人数减少分数线却涨了",
+      "国家线 砍一刀",
+      "考研查分",
+      "我的考研出分时刻"
+    ],
+    "scores": {
+      "popularity": 5,
+      "vizPotential": 5,
+      "freshness": 5,
+      "polarity": 4,
+      "diversity": 5,
+      "total": 4.85
+    },
+    "suggestedChartType": "bar",
+    "rankReason": "考研国家线今日公布，横跨抖音/微博/百度三大平台刷屏，14个学科门类分数线+历年对比数据极其丰富，适合做分学科柱状图；人数减少但分数线上涨引发强烈讨论"
+  },
+  "cards": [
+    {
+      "id": "baidu-6",
+      "title": "多国撤人航母抵以 美伊战争风险升高",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E6%92%A4%E4%BA%BA%E8%88%AA%E6%AF%8D%E6%8A%B5%E4%BB%A5+%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E9%A3%8E%E9%99%A9%E5%8D%87%E9%AB%98",
+      "source": "baidu",
+      "category": "国际",
+      "hotScore": 7330999,
+      "extra": {
+        "desc": "当地时间27日，美国国务院批准其驻以色列使团非紧急必要人员及其家属撤离以色列；同一天，美军最大航母"福特"号抵达以色列。另外，加拿大等国近日纷纷建议本国公民立即离开伊朗。观察人士认为，美伊战争风险急剧升高。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/8f970c18014d2797c97e0aeb0319ea88"
+      },
+      "crossPlatformCount": 3,
+      "relatedSources": [
+        "baidu",
+        "douyin",
+        "weibo"
+      ],
+      "mergedTitles": [
+        "多国撤人航母抵以 美伊战争风险升高",
+        "美伊要打了吗",
+        "美军双航母就位",
+        "美国对伊朗提了4项要求",
+        "中国驻伊朗大使馆郑重提醒",
+        "伊朗同意不拥有可制造核弹核材料"
+      ],
+      "scores": {
+        "popularity": 5,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 5,
+        "diversity": 5,
+        "total": 4.75
+      },
+      "suggestedMiniChartType": "versus",
+      "rankReason": "美伊局势三平台刷屏，双航母部署+多国撤侨+核材料谈判多线交织，情绪极性最高，适合做美伊军事力量对比图"
+    },
+    {
+      "id": "baidu-5",
+      "title": "小米汽车或将推出超跑车型",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%88%96%E5%B0%86%E6%8E%A8%E5%87%BA%E8%B6%85%E8%B7%91%E8%BD%A6%E5%9E%8B",
+      "source": "baidu",
+      "category": "科技",
+      "hotScore": 7428562,
+      "extra": {
+        "desc": "2月28日，小米汽车发文：给大家准备了一个惊喜。随后，雷军转发称：明天见。2月27日，小米未发布的全新超跑在巴塞罗那街头被拍到，该车线条流畅肌肉感强，轮毂印有小米标识，疑似为即将开幕的MWC2026准备重磅内容。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/e1c2e94a93689d7010f88f763c887acc"
+      },
+      "crossPlatformCount": 3,
+      "relatedSources": [
+        "baidu",
+        "weibo",
+        "bilibili"
+      ],
+      "mergedTitles": [
+        "小米汽车或将推出超跑车型",
+        "小米超跑"
+      ],
+      "scores": {
+        "popularity": 4,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 5,
+        "total": 3.90
+      },
+      "suggestedMiniChartType": "tags",
+      "rankReason": "小米超跑MWC2026前夕惊现巴塞罗那，三平台热议，Vision GT概念车+人车家生态战略引关注，科技领域补充多样性"
+    },
+    {
+      "id": "baidu-1",
+      "title": "人民币汇率三日急涨600点 央行出手",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B8%89%E6%97%A5%E6%80%A5%E6%B6%A8600%E7%82%B9+%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B",
+      "source": "baidu",
+      "category": "财经",
+      "hotScore": 7808624,
+      "extra": {
+        "desc": "人民币汇率在春节假期后连续三日急涨600基点，离岸汇率最高触及6.82271。2月27日，中国人民银行宣布将远期售汇业务的外汇风险准备金率从20%下调至0%，以降低企业购汇成本并稳定汇率预期。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/c610af68fb4512e7c649631f6ceb4087"
+      },
+      "crossPlatformCount": 1,
+      "relatedSources": [
+        "baidu"
+      ],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 5,
+        "total": 3.80
+      },
+      "suggestedMiniChartType": "trend",
+      "rankReason": "人民币三日急涨600基点数据硬核，央行准备金率从20%降至0%政策明确，可视化潜力满分，适合做汇率走势折线图"
+    },
+    {
+      "id": "weibo-0",
+      "title": "蔡磊已进入渐冻症疾病的终末期",
+      "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%96%BE%E7%97%85%E7%9A%84%E7%BB%88%E6%9C%AB%E6%9C%9F",
+      "source": "weibo",
+      "category": "社会",
+      "hotScore": 1491286,
+      "extra": {
+        "rank": 1,
+        "tag": "新",
+        "icon_desc": "新"
+      },
+      "crossPlatformCount": 1,
+      "relatedSources": [
+        "weibo"
+      ],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 4,
+        "total": 3.45
+      },
+      "suggestedMiniChartType": "bigNumber",
+      "rankReason": "微博热搜第一，蔡磊6年抗争渐冻症进入终末期引发全民感动，ALSFRS-R评分从48分降至个位数，情绪极性强烈"
+    },
+    {
+      "id": "baidu-2",
+      "title": "机器人将进入宝马德国工厂打工",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E8%BF%9B%E5%85%A5%E5%AE%9D%E9%A9%AC%E5%BE%B7%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%89%93%E5%B7%A5",
+      "source": "baidu",
+      "category": "科技",
+      "hotScore": 7712320,
+      "extra": {
+        "desc": "随着欧洲汽车行业面临成本压力和竞争加剧，汽车制造商正越来越多借助 AI 驱动机器人，以降低人工成本并提升制造效率。宝马将在德国莱比锡工厂生产线启动人形机器人试点项目，此次也是宝马首次在欧洲工厂部署人形机器人。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/772088d5b3ece09ad7d12142c61151cc"
+      },
+      "crossPlatformCount": 1,
+      "relatedSources": [
+        "baidu"
+      ],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 3,
+        "freshness": 4,
+        "polarity": 3,
+        "diversity": 3,
+        "total": 2.90
+      },
+      "suggestedMiniChartType": "versus",
+      "rankReason": "人形机器人进入宝马产线是AI应用里程碑事件，欧洲首次部署人形机器人，补充科技+国际多样性，但同类已有小米超跑故降低diversity分"
+    },
+    {
+      "id": "douyin-11",
+      "title": "孙颖莎晋级新加坡大满贯八强",
+      "url": "https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%85%AB%E5%BC%BA",
+      "source": "douyin",
+      "category": "体育",
+      "hotScore": 8624442,
+      "extra": {
+        "label": 0,
+        "videoCount": 3
+      },
+      "crossPlatformCount": 2,
+      "relatedSources": [
+        "douyin",
+        "bilibili"
+      ],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 2,
+        "diversity": 5,
+        "total": 3.55
+      },
+      "suggestedMiniChartType": "miniBar",
+      "rankReason": "乒乓球大满贯赛事热度高，孙颖莎晋级八强跨2平台传播，体育领域唯一入选项，补充cards领域多样性"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "douyin-4",
+      "title": "2026年考研国家线公布",
+      "source": "douyin",
+      "category": "社会",
+      "crossPlatformCount": 3,
+      "relatedSources": ["weibo", "baidu", "douyin"],
+      "scores": {
+        "popularity": 5,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 4.85
+      },
+      "rankReason": "考研国家线今日公布，三平台刷屏，14学科分数线数据极其丰富"
+    },
+    {
+      "id": "baidu-6",
+      "title": "多国撤人航母抵以 美伊战争风险升高",
+      "source": "baidu",
+      "category": "国际",
+      "crossPlatformCount": 3,
+      "relatedSources": ["baidu", "douyin", "weibo"],
+      "scores": {
+        "popularity": 5,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 5,
+        "diversity": 5,
+        "total": 4.75
+      },
+      "rankReason": "美伊局势三平台刷屏，双航母+多国撤侨+核谈判多线交织"
+    },
+    {
+      "id": "baidu-5",
+      "title": "小米汽车或将推出超跑车型",
+      "source": "baidu",
+      "category": "科技",
+      "crossPlatformCount": 3,
+      "relatedSources": ["baidu", "weibo", "bilibili"],
+      "scores": {
+        "popularity": 4,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 5,
+        "total": 3.90
+      },
+      "rankReason": "小米超跑MWC前夕惊现巴塞罗那，三平台热议"
+    },
+    {
+      "id": "baidu-1",
+      "title": "人民币汇率三日急涨600点 央行出手",
+      "source": "baidu",
+      "category": "财经",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 5,
+        "total": 3.80
+      },
+      "rankReason": "三日急涨600基点+央行准备金率从20%降至0%，数据硬核"
+    },
+    {
+      "id": "douyin-11",
+      "title": "孙颖莎晋级新加坡大满贯八强",
+      "source": "douyin",
+      "category": "体育",
+      "crossPlatformCount": 2,
+      "relatedSources": ["douyin", "bilibili"],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 2,
+        "diversity": 5,
+        "total": 3.55
+      },
+      "rankReason": "孙颖莎大满贯晋级，体育领域唯一热门"
+    },
+    {
+      "id": "weibo-0",
+      "title": "蔡磊已进入渐冻症疾病的终末期",
+      "source": "weibo",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 4,
+        "total": 3.45
+      },
+      "rankReason": "微博热搜第一，蔡磊抗争渐冻症进入终末期引发强烈关注"
+    },
+    {
+      "id": "douyin-0",
+      "title": "美窃陈志亿万虚拟币真相",
+      "source": "douyin",
+      "category": "社会",
+      "crossPlatformCount": 2,
+      "relatedSources": ["douyin", "weibo"],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 3,
+        "freshness": 4,
+        "polarity": 4,
+        "diversity": 2,
+        "total": 3.30
+      },
+      "rankReason": "周鸿祎揭美伪造证据内幕，涉虚拟币金额巨大引争议"
+    },
+    {
+      "id": "baidu-3",
+      "title": "532万件！这项全球第一意味着什么",
+      "source": "baidu",
+      "category": "科技",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 5,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 2.75
+      },
+      "rankReason": "532万件发明专利全球第一，数据极佳但单平台且争议度低"
+    },
+    {
+      "id": "baidu-14",
+      "title": "回国后默茨急了：看看中国有多努力",
+      "source": "baidu",
+      "category": "国际",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 2,
+        "freshness": 4,
+        "polarity": 3,
+        "diversity": 2,
+        "total": 2.25
+      },
+      "rankReason": "德国总理默茨访华后感慨中国生产力，国际视角但数据偏少"
+    },
+    {
+      "id": "baidu-2",
+      "title": "机器人将进入宝马德国工厂打工",
+      "source": "baidu",
+      "category": "科技",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 3,
+        "freshness": 4,
+        "polarity": 3,
+        "diversity": 3,
+        "total": 2.90
+      },
+      "rankReason": "欧洲首次部署人形机器人进汽车产线，AI应用里程碑"
+    },
+    {
+      "id": "baidu-7",
+      "title": "男子政府机关借厕所遭辱骂 当地回应",
+      "source": "baidu",
+      "category": "社会",
+      "crossPlatformCount": 2,
+      "relatedSources": ["baidu", "weibo"],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 4,
+        "diversity": 1,
+        "total": 2.65
+      },
+      "rankReason": "作风问题引发强烈讨论，但可视化潜力低且社会类已满"
+    },
+    {
+      "id": "baidu-9",
+      "title": "手机集体涨价后 汽车会是下一个吗",
+      "source": "baidu",
+      "category": "财经",
+      "crossPlatformCount": 2,
+      "relatedSources": ["baidu", "bilibili"],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 3,
+        "freshness": 3,
+        "polarity": 3,
+        "diversity": 2,
+        "total": 2.85
+      },
+      "rankReason": "芯片涨价传导链条有数据支撑，跨平台讨论，财经类已选"
+    },
+    {
+      "id": "baidu-4",
+      "title": ""北大毕业当短剧演员"当事人发声",
+      "source": "baidu",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 4,
+        "diversity": 4,
+        "total": 2.45
+      },
+      "rankReason": "北大毕业生转型短剧演员引发教育就业讨论，但数据少"
+    },
+    {
+      "id": "douyin-12",
+      "title": "FIBA向中国篮球界致歉",
+      "source": "douyin",
+      "category": "体育",
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 3,
+        "diversity": 3,
+        "total": 2.15
+      },
+      "rankReason": "国际篮联致歉引发讨论但数据偏少，体育类已选孙颖莎"
+    },
+    {
+      "id": "douyin-2",
+      "title": "中国AI跑出马年加速度",
+      "source": "douyin",
+      "category": "科技",
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 2,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 1,
+        "total": 1.60
+      },
+      "rankReason": "话题偏宏大叙事缺乏具体数据，科技类已多"
+    },
+    {
+      "id": "baidu-12",
+      "title": "中国城市竞争正被一个新设机构搅动",
+      "source": "baidu",
+      "category": "科技",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 3,
+        "freshness": 3,
+        "polarity": 2,
+        "diversity": 1,
+        "total": 2.05
+      },
+      "rankReason": "各地成立人工智能局有城市名单可视化，但热度偏低"
+    },
+    {
+      "id": "baidu-10",
+      "title": "21岁女生头晕以为没睡好查出脑梗",
+      "source": "baidu",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 2,
+        "freshness": 4,
+        "polarity": 3,
+        "diversity": 4,
+        "total": 2.55
+      },
+      "rankReason": "年轻人脑梗健康警示有关注度，但单平台数据偏少"
+    },
+    {
+      "id": "weibo-23",
+      "title": "金饰价涨到1625元",
+      "source": "weibo",
+      "category": "财经",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 2,
+        "diversity": 2,
+        "total": 2.60
+      },
+      "rankReason": "金价1625元有具体数字和趋势，但单平台且财经类已选"
+    },
+    {
+      "id": "baidu-17",
+      "title": "金正恩向主要领导干部赠送狙击步枪",
+      "source": "baidu",
+      "category": "国际",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 2,
+        "total": 1.85
+      },
+      "rankReason": "朝鲜新闻有猎奇关注，但可视化潜力低且国际类已满"
+    },
+    {
+      "id": "baidu-18",
+      "title": "反诈老陈因多次违规被处罚",
+      "source": "baidu",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 3,
+        "diversity": 1,
+        "total": 1.90
+      },
+      "rankReason": "网红处罚有讨论度但缺可量化数据，社会类已满"
+    },
+    {
+      "id": "weibo-4",
+      "title": "男子劝朋友别醉驾走后对方车祸身亡",
+      "source": "weibo",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 1,
+        "total": 2.00
+      },
+      "rankReason": "悲剧事件有情绪但无可视化数据"
+    },
+    {
+      "id": "baidu-0",
+      "title": "一幅画里的两条路",
+      "source": "baidu",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 1,
+        "total": 1.35
+      },
+      "rankReason": "两会报道正面叙事，缺乏讨论性和可视化数据"
+    },
+    {
+      "id": "weibo-3",
+      "title": "丁禹兮MISTINE全球防晒代言人",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.75
+      },
+      "rankReason": "商业代言类新闻无信息图价值"
+    },
+    {
+      "id": "weibo-6",
+      "title": "魏大勋恋综鲶鱼嘉宾",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 2,
+        "diversity": 3,
+        "total": 1.90
+      },
+      "rankReason": "综艺话题单平台无数据支撑"
+    },
+    {
+      "id": "douyin-3",
+      "title": "大学返校比高中返校更痛苦",
+      "source": "douyin",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 3,
+        "total": 1.95
+      },
+      "rankReason": "情感共鸣话题但纯观点无数据"
+    },
+    {
+      "id": "baidu-19",
+      "title": "徐福记回应米兰小伙求代购酥心糖",
+      "source": "baidu",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.35
+      },
+      "rankReason": "暖心故事但无数据可视化空间"
+    },
+    {
+      "id": "gtrends-0",
+      "title": "joe biden",
+      "source": "google-trends",
+      "category": "国际",
+      "crossPlatformCount": 1,
+      "relatedSources": ["google-trends"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.65
+      },
+      "rankReason": "拜登坐商业航班花絮新闻，中文受众关注度低"
+    },
+    {
+      "id": "douyin-7",
+      "title": "谁还没个隐藏技能",
+      "source": "douyin",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 0,
+        "diversity": 3,
+        "total": 1.40
+      },
+      "rankReason": "泛生活话题无具体数据和争议"
+    },
+    {
+      "id": "douyin-8",
+      "title": "快接住正月十二的好运",
+      "source": "douyin",
+      "category": "文化",
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 0,
+        "diversity": 4,
+        "total": 1.50
+      },
+      "rankReason": "节日祝福类话题无新闻价值"
+    },
+    {
+      "id": "douyin-9",
+      "title": "晒晒我的四六级",
+      "source": "douyin",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 2,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 1,
+        "total": 1.75
+      },
+      "rankReason": "四六级成绩有数据但单平台且被考研国家线盖过"
+    },
+    {
+      "id": "douyin-10",
+      "title": "葛军来和抖音网友们算账了",
+      "source": "douyin",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 3,
+        "total": 1.95
+      },
+      "rankReason": "数学名师互动有趣味但可视化潜力低"
+    },
+    {
+      "id": "douyin-13",
+      "title": "当代人的算了型人格",
+      "source": "douyin",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.45
+      },
+      "rankReason": "心理话题共鸣但纯观点无数据"
+    },
+    {
+      "id": "baidu-11",
+      "title": "孩子太早戴眼镜度数涨得越快？假",
+      "source": "baidu",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.55
+      },
+      "rankReason": "科普辟谣有价值但热度低无争议"
+    },
+    {
+      "id": "baidu-13",
+      "title": "不止头孢 吃完这些药也不能喝酒",
+      "source": "baidu",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 2,
+        "freshness": 3,
+        "polarity": 0,
+        "diversity": 3,
+        "total": 1.70
+      },
+      "rankReason": "健康科普有药物分类可视化但热度低"
+    },
+    {
+      "id": "baidu-16",
+      "title": "水果发霉了 切掉发霉部分还能吃吗",
+      "source": "baidu",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 3,
+        "polarity": 0,
+        "diversity": 3,
+        "total": 1.40
+      },
+      "rankReason": "生活常识科普无新闻性"
+    },
+    {
+      "id": "weibo-7",
+      "title": "随橙想KPL如此精彩",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.75
+      },
+      "rankReason": "电竞赛事营销话题无数据价值"
+    },
+    {
+      "id": "weibo-11",
+      "title": "QQ音乐 抢专辑",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.75
+      },
+      "rankReason": "粉丝抢购行为无可视化价值"
+    },
+    {
+      "id": "weibo-12",
+      "title": "范丞丞方说不认识没交集",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 3,
+        "total": 1.60
+      },
+      "rankReason": "明星八卦无数据价值"
+    },
+    {
+      "id": "weibo-13",
+      "title": "婚后拒同房男方讨说法已涉嫌违法",
+      "source": "weibo",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 1,
+        "total": 1.90
+      },
+      "rankReason": "法律话题有争议但无数据，社会类已满"
+    },
+    {
+      "id": "weibo-14",
+      "title": "嘉行否认迪丽热巴合约到期",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 2,
+        "diversity": 3,
+        "total": 1.80
+      },
+      "rankReason": "娱乐圈合约纠纷无数据"
+    },
+    {
+      "id": "weibo-15",
+      "title": "Angelababy37岁了",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.65
+      },
+      "rankReason": "明星生日无信息图价值"
+    },
+    {
+      "id": "weibo-17",
+      "title": "保姆卖雇主名牌包给小三20万",
+      "source": "weibo",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 3,
+        "diversity": 1,
+        "total": 1.80
+      },
+      "rankReason": "社会事件有金额但整体可视化潜力低"
+    },
+    {
+      "id": "weibo-18",
+      "title": "第一个发现这个机位的是天才",
+      "source": "weibo",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 0,
+        "diversity": 3,
+        "total": 1.50
+      },
+      "rankReason": "纯娱乐话题无数据价值"
+    },
+    {
+      "id": "weibo-19",
+      "title": "名校留学生扎堆做留学中介",
+      "source": "weibo",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 2,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 1,
+        "total": 2.15
+      },
+      "rankReason": "就业话题有讨论但数据不足"
+    },
+    {
+      "id": "weibo-20",
+      "title": "男子半夜嘴馋2晚偷300串烤串",
+      "source": "weibo",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 5,
+        "polarity": 1,
+        "diversity": 1,
+        "total": 1.65
+      },
+      "rankReason": "趣闻新闻无信息图价值"
+    },
+    {
+      "id": "weibo-22",
+      "title": "徐志胜当宋妍霏的面接前任电话",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 3,
+        "total": 1.60
+      },
+      "rankReason": "综艺话题无数据可视化"
+    },
+    {
+      "id": "weibo-24",
+      "title": "TOP新专配置",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.65
+      },
+      "rankReason": "粉丝向话题无广泛价值"
+    },
+    {
+      "id": "weibo-25",
+      "title": "近视散光人群开夜车的视角",
+      "source": "weibo",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.65
+      },
+      "rankReason": "生活话题有共鸣但无数据"
+    },
+    {
+      "id": "weibo-26",
+      "title": "撞人族是日本特有",
+      "source": "weibo",
+      "category": "国际",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 2,
+        "total": 2.10
+      },
+      "rankReason": "日本社会现象有讨论度但无数据"
+    },
+    {
+      "id": "weibo-28",
+      "title": "谭松韵新剧身世极限反转",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 5,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.65
+      },
+      "rankReason": "影视话题无数据可视化价值"
+    },
+    {
+      "id": "weibo-29",
+      "title": "人不能从事长期有紧张感的工作",
+      "source": "weibo",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 3,
+        "total": 1.60
+      },
+      "rankReason": "职场观点话题无具体数据"
+    }
+  ],
+  "rankedAt": "2026-02-28T12:00:00.000Z"
+}

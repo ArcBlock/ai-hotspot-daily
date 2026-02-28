@@ -1,0 +1,186 @@
+{
+  "source": "replicate",
+  "fetchedAt": "2026-02-28T03:49:42.194Z",
+  "items": [
+    {
+      "id": "replicate-black-forest-labs-flux-2-pro",
+      "title": "black-forest-labs/flux-2-pro",
+      "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-prunaai-z-image-turbo",
+      "title": "prunaai/z-image-turbo",
+      "url": "https://replicate.com/prunaai/z-image-turbo",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-andreasjansson-clip-features",
+      "title": "andreasjansson/clip-features",
+      "url": "https://replicate.com/andreasjansson/clip-features",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-prunaai-p-image-edit",
+      "title": "prunaai/p-image-edit",
+      "url": "https://replicate.com/prunaai/p-image-edit",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-nicolascoutureau-video-utils",
+      "title": "nicolascoutureau/video-utils",
+      "url": "https://replicate.com/nicolascoutureau/video-utils",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-bytedance-seedream-5-lite",
+      "title": "bytedance/seedream-5-lite",
+      "url": "https://replicate.com/bytedance/seedream-5-lite",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-recraft-ai-recraft-v4",
+      "title": "recraft-ai/recraft-v4",
+      "url": "https://replicate.com/recraft-ai/recraft-v4",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-xai-grok-imagine-video",
+      "title": "xai/grok-imagine-video",
+      "url": "https://replicate.com/xai/grok-imagine-video",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "google/gemini-3-flash",
+      "url": "https://replicate.com/google/gemini-3-flash",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-qwen-qwen3-tts",
+      "title": "qwen/qwen3-tts",
+      "url": "https://replicate.com/qwen/qwen3-tts",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-prunaai-p-video",
+      "title": "prunaai/p-video",
+      "url": "https://replicate.com/prunaai/p-video",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-black-forest-labs-flux-2-klein-4b",
+      "title": "black-forest-labs/flux-2-klein-4b",
+      "url": "https://replicate.com/black-forest-labs/flux-2-klein-4b",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-google-nano-banana-2",
+      "title": "google/nano-banana-2",
+      "url": "https://replicate.com/google/nano-banana-2",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-elevenlabs-music",
+      "title": "elevenlabs/music",
+      "url": "https://replicate.com/elevenlabs/music",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "replicate-collections-official",
+      "title": "collections/official",
+      "url": "https://replicate.com/collections/official",
+      "source": "replicate",
+      "category": "release",
+      "score": 30,
+      "publishedAt": "2026-02-28T03:49:42.194Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}

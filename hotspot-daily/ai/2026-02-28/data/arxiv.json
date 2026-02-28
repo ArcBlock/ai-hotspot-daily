@@ -1,0 +1,205 @@
+{
+  "source": "arxiv",
+  "fetchedAt": "2026-02-28T03:48:41.543Z",
+  "items": [
+    {
+      "id": "arxiv-2602.23351v1",
+      "title": "Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning",
+      "url": "https://arxiv.org/pdf/2602.23351v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "The lack of reasoning capabilities in Vision-Language Models (VLMs) has remained at the forefront of research discourse. We posit that this behavior stems from a reporting bias in their training data. That is, how people communicate about visual content by default omits tacit information needed to supervise some types of reasoning; e.g., \"at the game today!\" is a more likely caption than \"a photo of 37 people standing behind a field\". We investigate the data underlying the popular VLMs OpenCLIP,...",
+      "publishedAt": "2026-02-26T18:54:06Z",
+      "extra": {
+        "authors": "Amita Kamath, Jack Hessel, Khyathi Chandu, Jena D. Hwang, Kai-Wei Chang, Ranjay Krishna",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2602.23351v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23329v1",
+      "title": "LLM Novice Uplift on Dual-Use, In Silico Biology Tasks",
+      "url": "https://arxiv.org/pdf/2602.23329v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Large language models (LLMs) perform increasingly well on biology benchmarks, but it remains unclear whether they uplift novice users -- i.e., enable humans to perform better than with internet-only resources. This uncertainty is central to understanding both scientific acceleration and dual-use risk. We conducted a multi-model, multi-benchmark human uplift study comparing novices with LLM access versus internet-only access across eight biosecurity-relevant task sets. Participants worked on comp...",
+      "publishedAt": "2026-02-26T18:37:23Z",
+      "extra": {
+        "authors": "Chen Bo Calvin Zhang, Christina Q. Knight, Nicholas Kruus, Jason Hausenloy, Pedro Medeiros, Nathaniel Li, Aiden Kim, Yury Orlovskiy, Coleman Breen, Bryce Cai, Jasper Götting, Andrew Bo Liu, Samira Nedungadi, Paula Rodriguez, Yannis Yiming He, Mohamed Shaaban, Zifan Wang, Seth Donoughe, Julian Michael",
+        "primaryCategory": "cs.AI",
+        "arxivId": "2602.23329v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23300v1",
+      "title": "A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations",
+      "url": "https://arxiv.org/pdf/2602.23300v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Emotion Recognition in Conversations (ERC) presents unique challenges, requiring models to capture the temporal flow of multi-turn dialogues and to effectively integrate cues from multiple modalities. We propose Mixture of Speech-Text Experts for Recognition of Emotions (MiSTER-E), a modular Mixture-of-Experts (MoE) framework designed to decouple two core challenges in ERC: modality-specific context modeling and multimodal information fusion. MiSTER-E leverages large language models (LLMs) fine-...",
+      "publishedAt": "2026-02-26T18:08:40Z",
+      "extra": {
+        "authors": "Soumya Dutta, Smruthi Balaji, Sriram Ganapathy",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2602.23300v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23286v1",
+      "title": "SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables",
+      "url": "https://arxiv.org/pdf/2602.23286v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Real-world Table-Text question answering (QA) tasks require models that can reason across long text and source tables, traversing multiple hops and executing complex operations such as aggregation. Yet existing benchmarks are small, manually curated - and therefore error-prone - and contain shallow questions that seldom demand more than two hops or invoke aggregations, grouping, or other advanced analytical operations expressible in natural-language queries. We present SPARTA, an end-to-end cons...",
+      "publishedAt": "2026-02-26T17:59:51Z",
+      "extra": {
+        "authors": "Sungho Park, Jueun Kim, Wook-Shin Han",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2602.23286v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23266v1",
+      "title": "Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems",
+      "url": "https://arxiv.org/pdf/2602.23266v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Achieving human-like responsiveness is a critical yet challenging goal for cascaded spoken dialogue systems. Conventional ASR-LLM-TTS pipelines follow a strictly sequential paradigm, requiring complete transcription and full reasoning before speech synthesis can begin, which results in high response latency. We propose the Discourse-Aware Dual-Track Streaming Response (DDTSR) framework, a low-latency architecture that enables listen-while-thinking and speak-while-thinking. DDTSR is built upon th...",
+      "publishedAt": "2026-02-26T17:39:56Z",
+      "extra": {
+        "authors": "Siyuan Liu, Jiahui Xu, Feng Jiang, Kuang Wang, Zefeng Zhao, Chu-Ren Huang, Jinghang Gu, Changqing Yin, Haizhou Li",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2602.23266v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23258v1",
+      "title": "AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning",
+      "url": "https://arxiv.org/pdf/2602.23258v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "While Multi-Agent Systems (MAS) excel in complex reasoning, they suffer from the cascading impact of erroneous information generated by individual participants. Current solutions often resort to rigid structural engineering or expensive fine-tuning, limiting their deployability and adaptability. We propose AgentDropoutV2, a test-time rectify-or-reject pruning framework designed to dynamically optimize MAS information flow without retraining. Our approach acts as an active firewall, intercepting ...",
+      "publishedAt": "2026-02-26T17:31:43Z",
+      "extra": {
+        "authors": "Yutong Wang, Siyuan Xiong, Xuebo Liu, Wenkang Zhou, Liang Ding, Miao Zhang, Min Zhang",
+        "primaryCategory": "cs.AI",
+        "arxivId": "2602.23258v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23225v1",
+      "title": "Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?",
+      "url": "https://arxiv.org/pdf/2602.23225v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Diffusion Language Models (DLMs) are often advertised as enabling parallel token generation, yet practical fast DLMs frequently converge to left-to-right, autoregressive (AR)-like decoding dynamics. In contrast, genuinely non-AR generation is promising because it removes AR's sequential bottleneck, better exploiting parallel hardware to reduce synchronization/communication overhead and improve latency scaling with output length. We argue that a primary driver of AR-like decoding is a mismatch be...",
+      "publishedAt": "2026-02-26T17:04:57Z",
+      "extra": {
+        "authors": "Pengxiang Li, Dilxat Muhtar, Lu Yin, Tianlong Chen, Shiwei Liu",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2602.23225v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23360v1",
+      "title": "Model Agreement via Anchoring",
+      "url": "https://arxiv.org/pdf/2602.23360v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Numerous lines of aim to control $\\textit{model disagreement}$ -- the extent to which two machine learning models disagree in their predictions. We adopt a simple and standard notion of model disagreement in real-valued prediction problems, namely the expected squared difference in predictions between two models trained on independent samples, without any coordination of the training processes. We would like to be able to drive disagreement to zero with some natural parameter(s) of the training ...",
+      "publishedAt": "2026-02-26T18:59:32Z",
+      "extra": {
+        "authors": "Eric Eaton, Surbhi Goel, Marcel Hussing, Michael Kearns, Aaron Roth, Sikata Bela Sengupta, Jessica Sorrell",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.23360v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23358v1",
+      "title": "A Dataset is Worth 1 MB",
+      "url": "https://arxiv.org/pdf/2602.23358v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "A dataset server must often distribute the same large payload to many clients, incurring massive communication costs. Since clients frequently operate on diverse hardware and software frameworks, transmitting a pre-trained model is often infeasible; instead, agents require raw data to train their own task-specific models locally. While dataset distillation attempts to compress training signals, current methods struggle to scale to high-resolution data and rarely achieve sufficiently small files....",
+      "publishedAt": "2026-02-26T18:59:03Z",
+      "extra": {
+        "authors": "Elad Kimchi Shoshani, Leeyam Gabay, Yedid Hoshen",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.23358v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23353v1",
+      "title": "SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport",
+      "url": "https://arxiv.org/pdf/2602.23353v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "The Platonic Representation Hypothesis posits that neural networks trained on different modalities converge toward a shared statistical model of the world. Recent work exploits this convergence by aligning frozen pretrained vision and language models with lightweight alignment layers, but typically relies on contrastive losses and millions of paired samples. In this work, we ask whether meaningful alignment can be achieved with substantially less supervision. We introduce a semi-supervised setti...",
+      "publishedAt": "2026-02-26T18:55:06Z",
+      "extra": {
+        "authors": "Simon Roschmann, Paul Krzakala, Sonia Mazelet, Quentin Bouniot, Zeynep Akata",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.23353v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23349v1",
+      "title": "FlashOptim: Optimizers for Memory Efficient Training",
+      "url": "https://arxiv.org/pdf/2602.23349v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Standard mixed-precision training of neural networks requires many bytes of accelerator memory for each model parameter. These bytes reflect not just the parameter itself, but also its gradient and one or more optimizer state variables. With each of these values typically requiring 4 bytes, training even a 7 billion parameter model can be impractical for researchers with less than 100GB of accelerator memory. We introduce FlashOptim, a suite of optimizations that reduces per-parameter memory by ...",
+      "publishedAt": "2026-02-26T18:52:22Z",
+      "extra": {
+        "authors": "Jose Javier Gonzalez Ortiz, Abhay Gupta, Chris Renard, Davis Blalock",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.23349v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23341v1",
+      "title": "Mean Estimation from Coarse Data: Characterizations and Efficient Algorithms",
+      "url": "https://arxiv.org/pdf/2602.23341v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Coarse data arise when learners observe only partial information about samples; namely, a set containing the sample rather than its exact value. This occurs naturally through measurement rounding, sensor limitations, and lag in economic systems. We study Gaussian mean estimation from coarse data, where each true sample $x$ is drawn from a $d$-dimensional Gaussian distribution with identity covariance, but is revealed only through the set of a partition containing $x$. When the coarse samples, ro...",
+      "publishedAt": "2026-02-26T18:47:06Z",
+      "extra": {
+        "authors": "Alkis Kalavasis, Anay Mehrotra, Manolis Zampetakis, Felix Zhou, Ziyu Zhu",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.23341v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23336v1",
+      "title": "Differentiable Zero-One Loss via Hypersimplex Projections",
+      "url": "https://arxiv.org/pdf/2602.23336v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Recent advances in machine learning have emphasized the integration of structured optimization components into end-to-end differentiable models, enabling richer inductive biases and tighter alignment with task-specific objectives. In this work, we introduce a novel differentiable approximation to the zero-one loss-long considered the gold standard for classification performance, yet incompatible with gradient-based optimization due to its non-differentiability. Our method constructs a smooth, or...",
+      "publishedAt": "2026-02-26T18:41:31Z",
+      "extra": {
+        "authors": "Camilo Gomez, Pengyang Wang, Liansheng Tang",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.23336v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.23321v1",
+      "title": "Deep ensemble graph neural networks for probabilistic cosmic-ray direction and energy reconstruction in autonomous radio arrays",
+      "url": "https://arxiv.org/pdf/2602.23321v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Using advanced machine learning techniques, we developed a method for reconstructing precisely the arrival direction and energy of ultra-high-energy cosmic rays from the voltage traces they induced on ground-based radio detector arrays. In our approach, triggered antennas are represented as a graph structure, which serves as input for a graph neural network (GNN). By incorporating physical knowledge into both the GNN architecture and the input data, we improve the precision and reduce the requir...",
+      "publishedAt": "2026-02-26T18:29:48Z",
+      "extra": {
+        "authors": "Arsène Ferrière, Aurélien Benoit-Lévy, Olivier Martineau-Huynh, Matías Tueros",
+        "primaryCategory": "astro-ph.IM",
+        "arxivId": "2602.23321v1"
+      }
+    }
+  ],
+  "errors": [
+    "Failed to fetch arXiv cs.AI: AbortError: The operation was aborted."
+  ]
+}

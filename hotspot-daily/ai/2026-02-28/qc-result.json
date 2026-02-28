@@ -1,0 +1,55 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-02-28T04:05:59.631Z",
+  "checks": {
+    "sourceCount": {
+      "pass": true,
+      "value": 5,
+      "required": 3
+    },
+    "actionCount": {
+      "pass": true,
+      "value": 8,
+      "required": 3,
+      "message": "immediate(2) + thisWeek(3) + watchAndWait(3)"
+    },
+    "riskCount": {
+      "pass": true,
+      "value": 3,
+      "required": 2
+    },
+    "conclusionTitle": {
+      "pass": true,
+      "message": "zh(20字): \"Anthropic遭封杀，AI供应链巨变...\" | en(8词): \"US Government Bans Anthropic, Reshaping AI Vendor ...\""
+    },
+    "subtitlePresent": {
+      "pass": true,
+      "value": {
+        "zh": true,
+        "en": true
+      }
+    },
+    "confidence": {
+      "pass": true,
+      "value": 85,
+      "required": 60
+    },
+    "zhComplete": {
+      "pass": true
+    },
+    "enComplete": {
+      "pass": true
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "trump-bans-anthropic-pentagon-supply-chain-risk"
+    }
+  },
+  "bonuses": {
+    "hasOptions": true,
+    "hasTldr": true,
+    "hasAffectedGroups": true,
+    "sourceDiversity": true
+  },
+  "failReasons": []
+}

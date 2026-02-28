@@ -1,0 +1,95 @@
+{
+  "slug": "us-iran-tension-escalation",
+  "title": "美伊战争风险急剧升高：双航母就位多国撤侨",
+  "category": "国际",
+  "color": "#0891b2",
+  "template": "geo-explainer",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "局势概述",
+      "content": {
+        "paragraphs": [
+          "2026年2月，美伊对峙达到2003年伊拉克战争以来最危险水平。美军在中东部署了福特号和林肯号双航母战斗群，超过150架战机调往欧洲和中东基地，驻中东兵力超过3万人。美国国务院2月27日批准从以色列撤离非必要人员。",
+          "危机源于2026年1月伊朗爆发大规模反政府抗议，伊朗里亚尔暴跌至1美元兑140万-150万的历史低位，引发民众上街。伊朗政府对抗议者实施武力镇压，特朗普警告伊朗将「受到严厉打击」，随即启动大规模军事部署。",
+          "2月26日，美伊第三轮核谈判在阿曼马斯喀特结束，双方在核心问题上分歧依然巨大，未达成协议。伊朗外长阿拉格齐称这是「迄今最激烈的一轮谈判」，但战争阴云并未消散。"
+        ]
+      }
+    },
+    {
+      "type": "comparison",
+      "heading": "美伊双方立场对比",
+      "content": {
+        "left": {
+          "label": "美国",
+          "points": [
+            "要求伊朗拆除福尔多、纳坦兹、伊斯法罕三大核设施",
+            "要求伊朗将全部浓缩铀移交美国",
+            "部署双航母战斗群、F-22、F-35等先进战机施压",
+            "特朗普警告：若不达成协议将有「坏事发生」"
+          ]
+        },
+        "right": {
+          "label": "伊朗",
+          "points": [
+            "拒绝放弃铀浓缩，最高领袖哈梅内伊称美方条件「愚蠢」",
+            "拒绝向国外转移浓缩铀，要求解除国际制裁",
+            "全军进入「全面防御和军事戒备状态」",
+            "哈梅内伊警告：美国若开战将是「全地区性战争」"
+          ]
+        }
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "军事部署关键数据",
+      "content": {
+        "facts": [
+          { "label": "航母战斗群", "value": "2个（福特号+林肯号）" },
+          { "label": "战机数量", "value": "150+架（含F-22、F-35、F-15E）" },
+          { "label": "驻中东美军", "value": "超3万人" },
+          { "label": "F-22部署", "value": "12架（以色列奥夫达基地）" },
+          { "label": "F-35部署", "value": "约30架（约旦基地）" },
+          { "label": "核谈判轮次", "value": "3轮（均未达成协议）" }
+        ]
+      }
+    },
+    {
+      "type": "timeline",
+      "heading": "事件发展脉络",
+      "content": {
+        "events": [
+          { "time": "1月初", "text": "伊朗里亚尔暴跌，德黑兰等地爆发大规模抗议", "highlight": false },
+          { "time": "1月13日", "text": "伊朗官员警告「准备迎战」，特朗普威胁军事介入", "highlight": true },
+          { "time": "2月3日", "text": "伊朗革命卫队6艘快艇在霍尔木兹海峡试图拦截美国油轮", "highlight": false },
+          { "time": "2月6日", "text": "美伊在阿曼举行第一轮间接谈判", "highlight": false },
+          { "time": "2月14日", "text": "特朗普下令派遣福特号航母战斗群赴中东，形成双航母部署", "highlight": true },
+          { "time": "2月20日", "text": "林肯号在阿曼海域就位，美军中东部署达2003年来最大规模", "highlight": true },
+          { "time": "2月24日", "text": "12架F-22战机部署至以色列，超过150架战机向中东调动", "highlight": false },
+          { "time": "2月26日", "text": "第三轮核谈判结束，双方未达成协议，技术层面谈判将移至维也纳", "highlight": true },
+          { "time": "2月27日", "text": "福特号航母抵达以色列海法，美国务院批准撤离驻以非必要人员", "highlight": true },
+          { "time": "2月28日", "text": "加拿大、印度等多国建议公民立即撤离伊朗", "highlight": false }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "影响评估",
+      "content": {
+        "paragraphs": [
+          "国际危机组织分析师迈克尔·汉纳指出，若未来数日内无外交突破，美国面临发生军事冲突的风险，且具有重大升级潜力。霍尔木兹海峡承载全球约20%的石油运输，一旦爆发冲突将严重冲击全球能源供应和金融市场。",
+          "下一步关键节点是美伊技术团队在维也纳国际原子能机构总部的后续谈判。双方已确认潜在协议的主要框架要素，但在铀浓缩、核设施拆除等核心问题上仍存在根本分歧。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "新华网", "url": "https://www.news.cn/world/20260227/8b7a0dfdd53744afadc42119a833c1cf/c.html" },
+    { "name": "Wikipedia: 2026 Iran-US Crisis", "url": "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93United_States_crisis" },
+    { "name": "NPR", "url": "https://www.npr.org/2026/02/26/g-s1-111595/u-s-iran-to-third-round-nuclear-talks" },
+    { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/2/20/tracking-the-rapid-us-military-build-up-near-iran" },
+    { "name": "中新网", "url": "https://www.chinanews.com.cn/gj/2026/02-28/10577878.shtml" },
+    { "name": "Air & Space Forces Magazine", "url": "https://www.airandspaceforces.com/us-iran-f-22-israel-f-35-f-15e-europe/" }
+  ],
+  "generatedAt": "2026-02-28T12:50:00.000Z"
+}

@@ -1,0 +1,186 @@
+{
+  "source": "deep-learning-monitor",
+  "fetchedAt": "2026-02-28T03:50:03.474Z",
+  "items": [
+    {
+      "id": "dlm-AIC-CTU-AVerImaTeC-dual-retri",
+      "title": "AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking",
+      "url": "https://deeplearn.org/arxiv/702966/aic-ctu@averimatec:-dual-retriever-rag-for-image-text-fact-checking",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Clapeyron-Neural-Networks-for-",
+      "title": "Clapeyron Neural Networks for Single-Species Vapor-Liquid Equilibria",
+      "url": "https://deeplearn.org/arxiv/704040/clapeyron-neural-networks-for-single-species-vapor-liquid-equilibria",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-CDLM-Consistency-Diffusion-La",
+      "title": "CDLM: Consistency Diffusion Language Models For Faster Sampling",
+      "url": "https://deeplearn.org/arxiv/704253/cdlm:-consistency-diffusion-language-models-for-faster-sampling",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Mind-the-Style-Impact-of-Comm",
+      "title": "Mind the Style: Impact of Communication Style on Human-Chatbot Interaction",
+      "url": "https://deeplearn.org/arxiv/704316/mind-the-style:-impact-of-communication-style-on-human-chatbot-interaction",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Learning-Rate-Annealing-Improv",
+      "title": "Learning Rate Annealing Improves Tuning Robustness in Stochastic Optimization",
+      "url": "https://deeplearn.org/arxiv/702112/learning-rate-annealing-improves-tuning-robustness-in-stochastic-optimization",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-A-Penalty-Approach-for-Differe",
+      "title": "A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers",
+      "url": "https://deeplearn.org/arxiv/701572/a-penalty-approach-for-differentiation-through-black-box-quadratic-programming-solvers",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-LAP-Language-Action-Pre-Train",
+      "title": "LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer",
+      "url": "https://deeplearn.org/arxiv/701549/lap:-language-action-pre-training-enables-zero-shot-cross-embodiment-transfer",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Knowing-When-Not-to-Answer-Ab",
+      "title": "Knowing When Not to Answer: Abstention-Aware Scientific Reasoning",
+      "url": "https://deeplearn.org/arxiv/701550/knowing-when-not-to-answer:-abstention-aware-scientific-reasoning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-GPT-5-vs-Other-LLMs-in-Long-Sh",
+      "title": "GPT-5 vs Other LLMs in Long Short-Context Performance",
+      "url": "https://deeplearn.org/arxiv/701551/gpt-5-vs-other-llms-in-long-short-context-performance",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-UniRef-Image-Edit-Towards-Sca",
+      "title": "UniRef-Image-Edit: Towards Scalable and Consistent Multi-Reference Image Editing",
+      "url": "https://deeplearn.org/arxiv/701552/uniref-image-edit:-towards-scalable-and-consistent-multi-reference-image-editing",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-OmniVideo-R1-Reinforcing-Audi",
+      "title": "OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention",
+      "url": "https://deeplearn.org/arxiv/701553/omnivideo-r1:-reinforcing-audio-visual-reasoning-with-query-intention-and-modality-attention",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Investigation-for-Relative-Voi",
+      "title": "Investigation for Relative Voice Impression Estimation",
+      "url": "https://deeplearn.org/arxiv/701559/investigation-for-relative-voice-impression-estimation",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-ParaCook-On-Time-Efficient-Pl",
+      "title": "ParaCook: On Time-Efficient Planning for Multi-Agent Systems",
+      "url": "https://deeplearn.org/arxiv/701560/paracook:-on-time-efficient-planning-for-multi-agent-systems",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Deep-Dense-Exploration-for-LLM",
+      "title": "Deep Dense Exploration for LLM Reinforcement Learning via Pivot-Driven Resampling",
+      "url": "https://deeplearn.org/arxiv/701561/deep-dense-exploration-for-llm-reinforcement-learning-via-pivot-driven-resampling",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Index-Light-Reason-Deep-Defe",
+      "title": "Index Light, Reason Deep: Deferred Visual Ingestion for Visual-Dense Document Question Answering",
+      "url": "https://deeplearn.org/arxiv/701562/index-light,-reason-deep:-deferred-visual-ingestion-for-visual-dense-document-question-answering",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-02-28T03:50:03.474Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}

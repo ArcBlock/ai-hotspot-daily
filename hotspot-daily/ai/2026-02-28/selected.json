@@ -1,0 +1,688 @@
+{
+  "primary": {
+    "id": "hn-47186677",
+    "title": "Trump 下令封杀 Anthropic：国防部将其列为供应链风险，联邦机构须立即停用 Claude",
+    "originalTitle": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+    "url": "https://twitter.com/secwar/status/2027507717469049070",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "Trump 总统下令美国联邦政府全面停用 Anthropic 的 AI 产品，国防部长 Hegseth 将 Anthropic 列为「供应链风险」——这一标签通常仅用于外国敌对势力关联企业。起因是 Anthropic 拒绝解除 Claude 在自主武器和大规模监控方面的安全限制。此举意味着价值 2 亿美元的国防部合同被取消，所有军方承包商须在 6 个月内完成替代迁移。OpenAI 随即宣布正与五角大楼谈判部署协议，承诺保留类似安全底线。这是 AI 行业与政府关系的分水岭事件，直接影响企业客户的 AI 供应商选择策略。",
+    "publishedAt": "2026-02-27T22:31:18.000Z",
+    "rawScore": 1156,
+    "category": "discussion",
+    "comments": 953,
+    "mergedFrom": [
+      {
+        "id": "rss-The-Verge-AI-https---www-theverge-com--p-886489",
+        "title": "Trump orders federal agencies to drop Anthropic's AI",
+        "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+        "source": "rss"
+      },
+      {
+        "id": "websearch-1772250871-1",
+        "title": "OpenAI Reaches AI Agreement With Defense Dept. After Anthropic Clash",
+        "url": "https://fortune.com/2026/02/27/openai-in-talks-with-pentagon-after-anthropic-blowup/",
+        "source": "websearch"
+      }
+    ],
+    "scores": {
+      "timeliness": 5,
+      "impact": 5,
+      "actionability": 5,
+      "credibility": 5,
+      "audienceMatch": 5,
+      "total": 5.0
+    },
+    "rankReason": "AI 行业与美国政府关系的分水岭事件：Anthropic 因拒绝移除安全限制被联邦政府封杀，直接影响所有依赖 Claude 的企业和开发者的供应商策略，OpenAI 趁势抢占国防市场，行业格局正在重塑"
+  },
+  "alternates": [
+    {
+      "id": "hn-47178371",
+      "title": "Anthropic 向开源维护者免费提供 6 个月 Claude Max 20x",
+      "originalTitle": "Get free Claude max 20x for open-source maintainers",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "source": "hackernews",
+      "sourceType": "script",
+      "summary": "Anthropic 推出 Claude for Open Source 计划，向开源项目维护者和核心贡献者免费提供 6 个月的 Claude Max 20x 订阅。申请条件：维护 5000+ GitHub stars 或 100 万+ 月 NPM 下载量的公开仓库，且近 3 个月内有活跃贡献。名额上限 1 万人，滚动审核。",
+      "publishedAt": "2026-02-27T09:08:58.000Z",
+      "rawScore": 480,
+      "category": "discussion",
+      "comments": 205,
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 4.55
+      },
+      "rankReason": "AI 开发者可立即申请的高价值福利，可行动性满分；与 primary 来自同一个更大叙事（Anthropic 的开源策略）但切入角度完全不同且具独立价值"
+    },
+    {
+      "id": "gh-obra-superpowers",
+      "title": "Superpowers：为 AI 编程 Agent 引入结构化软件工程流程的技能框架",
+      "originalTitle": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "Superpowers 是一个 agentic skills 框架，通过可组合的 Markdown「技能」文件，为 Claude Code、Codex 等 AI 编程工具强制执行设计→规划→实现的 7 阶段工作流。已获 42K+ GitHub stars，今日新增 1546 stars，被 Anthropic 官方推荐。核心理念：让 AI agent 不再跳过需求分析直接写代码，而是遵循 TDD、系统性调试等专业软件工程实践。",
+      "publishedAt": "2026-02-28T03:48:44.528Z",
+      "rawScore": 64961,
+      "category": "project",
+      "starsToday": 1546,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 4,
+        "audienceMatch": 5,
+        "total": 4.45
+      },
+      "rankReason": "AI 开发者可直接集成使用的高价值工具框架，今日 1546 stars 增长说明社区高度认可，直接提升 AI 编程 agent 的工程质量"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "hn-47186677",
+      "title": "Trump 下令封杀 Anthropic：国防部将其列为供应链风险",
+      "url": "https://twitter.com/secwar/status/2027507717469049070",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 5,
+        "impact": 5,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 5.0
+      },
+      "rankReason": "AI 行业与政府关系分水岭事件，直接影响企业 AI 供应商策略"
+    },
+    {
+      "id": "hn-47178371",
+      "title": "Anthropic 向开源维护者免费提供 Claude Max 20x",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 4.55
+      },
+      "rankReason": "开源开发者可立即申请的高价值 AI 工具福利"
+    },
+    {
+      "id": "gh-obra-superpowers",
+      "title": "Superpowers：AI 编程 Agent 结构化工程框架",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 4,
+        "audienceMatch": 5,
+        "total": 4.45
+      },
+      "rankReason": "42K stars 的热门框架，直接提升 AI 编程 agent 工程质量"
+    },
+    {
+      "id": "gh-bytedance-deer-flow",
+      "title": "ByteDance DeerFlow 2.0：开源 SuperAgent 框架",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 4.0
+      },
+      "rankReason": "字节跳动开源的多 agent 框架，2.0 完全重写，适合构建复杂 agent 系统"
+    },
+    {
+      "id": "gh-anthropics-claude-code",
+      "title": "Claude Code 官方仓库持续高热度",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "github",
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 4.1
+      },
+      "rankReason": "官方工具持续热门（日增 494 stars），但非新发布，时效性略低"
+    },
+    {
+      "id": "qbitai-DeepSeek新论文剧透V4新框架-用闲置网卡加速智能体推",
+      "title": "DeepSeek 新论文剧透 V4 框架：DualPath 加速 Agent 推理",
+      "url": "https://www.qbitai.com/2026/02/382872.html",
+      "source": "quantumbit",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.75
+      },
+      "rankReason": "DeepSeek V4 架构透露重要技术细节，但可行动性有限，更偏知识性"
+    },
+    {
+      "id": "dlm-GPT-5-vs-Other-LLMs-in-Long-Sh",
+      "title": "GPT-5 长短上下文性能对比研究",
+      "url": "https://deeplearn.org/arxiv/701551/gpt-5-vs-other-llms-in-long-short-context-performance",
+      "source": "deep-learning-monitor",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.35
+      },
+      "rankReason": "对模型选型有参考价值，但属于学术研究，可行动性一般"
+    },
+    {
+      "id": "gh-ruvnet-ruflo",
+      "title": "ruflo：Claude 多 Agent 编排平台",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.55
+      },
+      "rankReason": "面向 Claude 的 agent 编排工具，今日 531 stars，但生态成熟度不及 superpowers"
+    },
+    {
+      "id": "gh-muratcankoylan-Agent-Skills-for-Context-Engineering",
+      "title": "Agent Skills for Context Engineering 技能集合",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.55
+      },
+      "rankReason": "Context Engineering 实用技能集，803 stars 今日增长可观"
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "Gemini 3 Flash 上线 Replicate",
+      "url": "https://replicate.com/google/gemini-3-flash",
+      "source": "replicate",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.50
+      },
+      "rankReason": "Gemini 3 Flash 本身非新发布，但上线 Replicate 降低了使用门槛"
+    },
+    {
+      "id": "gh-alibaba-OpenSandbox",
+      "title": "Alibaba OpenSandbox：AI Agent 沙盒平台",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.70
+      },
+      "rankReason": "AI Agent 安全执行的基础设施工具，阿里出品有可信度"
+    },
+    {
+      "id": "hn-47169757",
+      "title": "What Claude Code Chooses：Claude Code 技术选择分析",
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.30
+      },
+      "rankReason": "有趣的分析文章，但 2 天前发布，时效性下降"
+    },
+    {
+      "id": "gh-Wei-Shaw-claude-relay-service",
+      "title": "Claude Code 中转镜像服务",
+      "url": "https://github.com/Wei-Shaw/claude-relay-service",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.20
+      },
+      "rankReason": "实用小工具但影响面有限，面向特定用户群体"
+    },
+    {
+      "id": "gh-steipete-CodexBar",
+      "title": "CodexBar：Codex/Claude Code 用量监控工具",
+      "url": "https://github.com/steipete/CodexBar",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.30
+      },
+      "rankReason": "实用的小工具，但影响面较窄"
+    },
+    {
+      "id": "gh-datawhalechina-hello-agents",
+      "title": "Datawhale《从零开始构建智能体》教程",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "教育资源质量不错，但偏入门级，受众匹配度一般"
+    },
+    {
+      "id": "gh-D4Vinci-Scrapling",
+      "title": "Scrapling：自适应 Web 爬虫框架",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 3.15
+      },
+      "rankReason": "高热度（1135 stars today）但非 AI 核心工具，与目标受众间接相关"
+    },
+    {
+      "id": "replicate-qwen-qwen3-tts",
+      "title": "Qwen3-TTS 上线 Replicate",
+      "url": "https://replicate.com/qwen/qwen3-tts",
+      "source": "replicate",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 3.30
+      },
+      "rankReason": "强大的开源 TTS 模型，但 1 月已发布，非新鲜事"
+    },
+    {
+      "id": "hn-47181841",
+      "title": "ChatGPT Health 无法识别医疗紧急情况",
+      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "AI 安全/可靠性相关警示，但偏医疗领域，可行动性有限"
+    },
+    {
+      "id": "alphaxiv-2602.21548",
+      "title": "DualPath：突破 Agent LLM 推理的存储带宽瓶颈",
+      "url": "https://www.alphaxiv.org/abs/2602.21548",
+      "source": "alphaxiv",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.0
+      },
+      "rankReason": "技术论文，与 DeepSeek V4 相关但纯学术，可行动性低"
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-syncchain2026helix-the-npm-moment-for-ai-agents-has-arrived-2jcj",
+      "title": "AI Agent 的 npm 时刻已经到来",
+      "url": "https://dev.to/syncchain2026helix/the-npm-moment-for-ai-agents-has-arrived-2jcj",
+      "source": "rss",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.55
+      },
+      "rankReason": "观点文章但缺乏实质内容，dev.to 博客可信度有限"
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3097837",
+      "title": "Musk 在证词中抨击 OpenAI",
+      "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "source": "rss",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 4,
+        "audienceMatch": 2,
+        "total": 2.50
+      },
+      "rankReason": "AI 行业八卦，无技术实质内容，可行动性极低"
+    },
+    {
+      "id": "alphaxiv-2602.20021",
+      "title": "Agents of Chaos",
+      "url": "https://www.alphaxiv.org/abs/2602.20021",
+      "source": "alphaxiv",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 2.70
+      },
+      "rankReason": "学术论文，标题引人注目但缺乏摘要信息"
+    },
+    {
+      "id": "alphaxiv-2602.19526",
+      "title": "Search-R1：Deep Research Agent 的训练方法",
+      "url": "https://www.alphaxiv.org/abs/2602.19526",
+      "source": "alphaxiv",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 2.95
+      },
+      "rankReason": "Deep Research Agent 训练相关论文，有学术价值但可行动性低"
+    },
+    {
+      "id": "alphaxiv-2602.22465",
+      "title": "ConstraintBench：LLM 约束推理基准",
+      "url": "https://www.alphaxiv.org/abs/2602.22465",
+      "source": "alphaxiv",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.30
+      },
+      "rankReason": "细分领域基准测试论文，受众匹配度低"
+    },
+    {
+      "id": "alphaxiv-2602.20159",
+      "title": "A Very Big Video Reasoning Suite",
+      "url": "https://www.alphaxiv.org/abs/2602.20159",
+      "source": "alphaxiv",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.30
+      },
+      "rankReason": "视频推理基准论文，偏学术，与目标受众关联度低"
+    },
+    {
+      "id": "dlm-Knowing-When-Not-to-Answer-Ab",
+      "title": "Knowing When Not to Answer：抽象推理中的知退",
+      "url": "https://deeplearn.org/arxiv/701550/knowing-when-not-to-answer:-abstention-aware-scientific-reasoning",
+      "source": "deep-learning-monitor",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.55
+      },
+      "rankReason": "AI 安全/可靠性相关论文，概念有趣但纯学术"
+    },
+    {
+      "id": "dlm-OmniVideo-R1-Reinforcing-Audi",
+      "title": "OmniVideo-R1：音视频推理强化",
+      "url": "https://deeplearn.org/arxiv/701553/omnivideo-r1:-reinforcing-audio-visual-reasoning-with-query-intention-and-modality-attention",
+      "source": "deep-learning-monitor",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.30
+      },
+      "rankReason": "多模态推理论文，偏学术，受众匹配度低"
+    },
+    {
+      "id": "qbitai-何恺明团队新作GeoPT-全新预训练范式让模型自学真实物理规",
+      "title": "何恺明团队 GeoPT：几何预训练新范式",
+      "url": "https://www.qbitai.com/2026/02/382888.html",
+      "source": "quantumbit",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 1,
+        "credibility": 4,
+        "audienceMatch": 2,
+        "total": 2.70
+      },
+      "rankReason": "何恺明团队有影响力，但偏基础研究，可行动性低"
+    },
+    {
+      "id": "qbitai-杀进全球榜TOP2-国产视频模型黑马刚刚出现了",
+      "title": "国产视频模型黑马杀入全球 TOP2",
+      "url": "https://www.qbitai.com/2026/02/382803.html",
+      "source": "quantumbit",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.75
+      },
+      "rankReason": "视频生成领域进展，但与目标受众（AI 开发者/产品经理）关联度一般"
+    },
+    {
+      "id": "replicate-black-forest-labs-flux-2-pro",
+      "title": "Flux 2 Pro 图像模型上线 Replicate",
+      "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+      "source": "replicate",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.55
+      },
+      "rankReason": "图像模型更新，但非核心 AI 开发工具"
+    },
+    {
+      "id": "pwc-2602.23152",
+      "title": "Paper 2602.23152",
+      "url": "https://huggingface.co/papers/2602.23152",
+      "source": "papers-with-code",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.90
+      },
+      "rankReason": "缺乏标题和摘要，无法判断价值"
+    },
+    {
+      "id": "pwc-2602.22859",
+      "title": "Paper 2602.22859",
+      "url": "https://huggingface.co/papers/2602.22859",
+      "source": "papers-with-code",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.90
+      },
+      "rankReason": "缺乏标题和摘要，无法判断价值"
+    },
+    {
+      "id": "pwc-2602.22638",
+      "title": "Paper 2602.22638",
+      "url": "https://huggingface.co/papers/2602.22638",
+      "source": "papers-with-code",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.90
+      },
+      "rankReason": "缺乏标题和摘要，无法判断价值"
+    },
+    {
+      "id": "arxiv-2602.23351v1",
+      "title": "VLM 报道偏差对视觉语言推理的影响",
+      "url": "https://arxiv.org/pdf/2602.23351v1",
+      "source": "arxiv",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.10
+      },
+      "rankReason": "VLM 研究论文，纯学术性质"
+    },
+    {
+      "id": "arxiv-2602.23300v1",
+      "title": "多模态情绪识别 MoE 模型",
+      "url": "https://arxiv.org/pdf/2602.23300v1",
+      "source": "arxiv",
+      "scores": {
+        "timeliness": 3,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.70
+      },
+      "rankReason": "细分方向论文，受众匹配度极低"
+    },
+    {
+      "id": "arxiv-2602.23258v1",
+      "title": "AgentDropoutV2：多 Agent 系统信息流优化",
+      "url": "https://arxiv.org/pdf/2602.23258v1",
+      "source": "arxiv",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 2.40
+      },
+      "rankReason": "多 agent 系统相关论文，有一定参考价值但偏学术"
+    },
+    {
+      "id": "ph-hacker-news-for-macos",
+      "title": "Hacker News macOS 客户端",
+      "url": "https://www.producthunt.com/products/hacker-news-for-macos",
+      "source": "product-hunt",
+      "scores": {
+        "timeliness": 3,
+        "impact": 1,
+        "actionability": 2,
+        "credibility": 2,
+        "audienceMatch": 2,
+        "total": 1.95
+      },
+      "rankReason": "小众 macOS 工具，影响面极小"
+    },
+    {
+      "id": "ph-mvntstudio",
+      "title": "mvntSTUDIO：AI 舞蹈生成",
+      "url": "https://www.producthunt.com/products/mvntstudio",
+      "source": "product-hunt",
+      "scores": {
+        "timeliness": 2,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 2,
+        "audienceMatch": 1,
+        "total": 1.35
+      },
+      "rankReason": "与目标受众完全不相关"
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-886489",
+      "title": "[已合并至 primary] Trump orders federal agencies to drop Anthropic's AI",
+      "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+      "source": "rss",
+      "scores": {
+        "timeliness": 5,
+        "impact": 5,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 5.0
+      },
+      "rankReason": "已合并至 primary（hn-47186677），与 Trump 封杀 Anthropic 为同一事件"
+    },
+    {
+      "id": "websearch-1772250871-1",
+      "title": "[已合并至 primary] OpenAI Reaches AI Agreement With Defense Dept.",
+      "url": "https://fortune.com/2026/02/27/openai-in-talks-with-pentagon-after-anthropic-blowup/",
+      "source": "websearch",
+      "scores": {
+        "timeliness": 5,
+        "impact": 5,
+        "actionability": 4,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.65
+      },
+      "rankReason": "已合并至 primary（hn-47186677），为同一事件的后续发展"
+    }
+  ],
+  "rankedAt": "2026-02-28T04:15:00.000Z"
+}
