@@ -1226,6 +1226,10 @@ body {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .zone-featured:has(.card-featured:only-child) {
+    grid-template-columns: 1fr;
+  }
+
   .card-featured .card-title {
     font-size: 19px;
   }
