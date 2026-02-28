@@ -29,6 +29,9 @@ else
   exit 1
 fi
 
+# 允许在已有 Claude 会话中运行（如从 claude 内部调用）
+unset CLAUDECODE 2>/dev/null || true
+
 # 安装依赖
 echo "--- Installing dependencies ---" | tee -a "$LOG_FILE"
 (cd .claude/skills/hotspot-daily/scripts && bun install --frozen-lockfile 2>&1 || bun install 2>&1) | tee -a "$LOG_FILE"
