@@ -32,7 +32,7 @@ sources:
       limit: 15
 
   x-trending:
-    enabled: true
+    enabled: false  # 已迁移到 opentwitter MCP，在 scout-agent-reach 阶段通过 MCP 工具获取
     script: sources/x-trending.ts
     params:
       limit: 20

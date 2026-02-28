@@ -40,6 +40,7 @@ tools: Read, Write, Edit, Glob, Grep, Bash, WebSearch, WebFetch, Task, Skill
 │    references/scout-agent-reach.md          │
 │  - 输入: candidates.json                    │
 │  - agent-reach 搜索补充跨平台验证            │
+│  - opentwitter MCP 获取 Twitter 热点（补充） │
 │  - 产出: candidates.json（更新）             │
 │  - 失败时警告但继续                          │
 └──────────────────────────────────────────────┘

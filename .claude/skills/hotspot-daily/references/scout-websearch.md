@@ -1,7 +1,7 @@
 ---
 name: hotspot-daily-scout-websearch
 description: Scout-WebSearch 阶段 - 用 AI WebSearch 补充采集脚本可能遗漏的热点
-tools: Read, Write, WebSearch, WebFetch
+tools: Read, Write, WebSearch, WebFetch, mcp__opentwitter__*, mcp__opennews__*
 model: inherit
 ---
 
@@ -24,7 +24,42 @@ model: inherit
 
 读取 `hotspot-daily/ai/seen-urls.json`（如果存在），获取历史已收录的 URL 列表。
 
-### 2. 执行 WebSearch
+### 2a. opentwitter MCP — 获取 AI 相关推文
+
+使用 opentwitter MCP 工具搜索 AI 领域的热门推文：
+
+**搜索查询**（并行执行）：
+1. `search_twitter_advanced(keywords="ChatGPT OR Claude OR Gemini OR DeepSeek", min_likes=50, lang="en", product="Top", limit=20)`
+2. `search_twitter_advanced(keywords="LLM OR AI agent OR open source AI", min_likes=50, lang="en", product="Top", limit=20)`
+
+**核心账号推文**（选 3-5 个）：
+- 对 AI 领域核心账号调用 `get_twitter_user_tweets(username, limit=5)`
+- 推荐账号：`sama`、`AnthropicAI`、`GoogleDeepMind`、`ylecun`、`kaborobo`
+
+**处理规则**：
+- 每条推文构造 Candidate 对象，`source` 设为 `"mcp-twitter"`，`sourceType` 设为 `"mcp"`
+- `metadata.category` 设为 `"discussion"`
+- 推文 URL 格式：`https://x.com/{username}/status/{tweet_id}`
+- 对推文执行与步骤 3 相同的语义去重（标题相似度 ≥ 0.7 视为同一事件，不新增）
+- **容错**：MCP 调用失败时输出警告，继续后续步骤
+
+### 2b. opennews MCP — 获取 AI 新闻
+
+使用 opennews MCP 工具搜索 AI 领域新闻：
+
+**搜索查询**（并行执行）：
+1. `search_news(keyword="AI", limit=15)`
+2. `search_news(keyword="LLM", limit=10)`
+
+**处理规则**：
+- 每条新闻构造 Candidate 对象，`source` 设为 `"mcp-opennews"`，`sourceType` 设为 `"mcp"`
+- `metadata.category` 设为 `"news"`
+- **去重重点**：opennews 可能与 RSS/HackerNews/AlphaSignal 重叠
+  - URL 精确匹配：跳过 URL 已存在于 `candidates.json` 或 `seen-urls.json` 中的结果
+  - 标题相似度：与已有候选标题相似度 ≥ 0.7 视为同一事件，不新增
+- **容错**：MCP 调用失败时输出警告，继续后续步骤
+
+### 2c. 执行 WebSearch
 
 运行 3-5 组搜索查询，覆盖脚本可能遗漏的维度：
 
@@ -39,7 +74,7 @@ model: inherit
 
 > 查询关键词可根据当天 candidates.json 中已有的热点动态调整。例如：如果脚本已采集到某个大事件，可以围绕该事件搜索更多角度。
 
-### 3. 筛选结果
+### 3. 筛选结果（适用于步骤 2a/2b/2c 的所有结果）
 
 对每条搜索结果执行以下过滤：
 
@@ -114,10 +149,13 @@ model: inherit
 ## 输出摘要
 
 完成后输出：
+- opentwitter MCP 获取了多少条推文，通过筛选多少条
+- opennews MCP 获取了多少条新闻，通过筛选多少条
 - WebSearch 补充了多少条新候选
 - 被时间过滤掉多少条
 - 被 URL 去重过滤掉多少条
 - 被语义去重过滤掉多少条
+- MCP 调用失败的警告信息（如有）
 
 ## 边界情况
 

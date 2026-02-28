@@ -126,7 +126,7 @@ sources:
       limit: 20
 
   x-twitter:
-    enabled: true
+    enabled: false  # 已迁移到 opentwitter MCP，在 scout-websearch 阶段通过 MCP 工具获取
     script: sources/x-twitter.ts
     params:
       limit: 30

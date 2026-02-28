@@ -1,7 +1,7 @@
 ---
 name: hotspot-infograph-scout-agent-reach
 description: Scout-AgentReach 阶段 - 用 agent-reach 跨平台搜索补充验证热点候选
-tools: Read, Write, Bash
+tools: Read, Write, Bash, mcp__opentwitter__*
 model: inherit
 ---
 
@@ -46,6 +46,17 @@ agent-reach search-twitter "关键词" -n 5
 
 **匹配判断**：对搜索结果的标题与已有候选标题计算 bigram 相似度（Dice 系数），>= 0.5 视为同一话题。
 
+### 2.5. 阶段 A' — opentwitter MCP 跨平台验证
+
+使用 opentwitter MCP 工具对已有热门候选进行 Twitter 搜索验证（替代 agent-reach 的 search-twitter）：
+
+- 从热门话题中提取 3-5 个核心关键词短语
+- 对每个关键词调用 `search_twitter(keywords="{关键词}", limit=5)`（共 3-5 次）
+- **如果发现 Twitter 讨论同一话题** → 更新已有候选的 `relatedSources`（追加 `"mcp-twitter"`）和 `crossPlatformCount`（+1），不新增条目
+- 发现全新话题 → 按阶段 B 筛选规则过滤后追加，`source` 设为 `"mcp-twitter"`
+
+**容错**：MCP 调用失败时输出警告，继续后续阶段
+
 ### 3. 阶段 B — 盲区发现（补充价值）
 
 用宽泛查询搜索脚本不覆盖平台的热门内容：
@@ -64,8 +75,9 @@ agent-reach search-xhs "今日热点" -n 5
 |------|--------|---------|------|
 | search-bilibili | 高 | 3-4 次 | 中国年轻人平台，现有脚本不覆盖 |
 | search-xhs | 中 | 2-3 次 | 生活/消费类热点，现有脚本不覆盖 |
-| search-twitter | 中 | 2-3 次 | 国际视角补充 |
+| mcp-twitter (阶段 A') | 中 | 3-5 次 | 国际视角补充，通过 opentwitter MCP 获取 |
 | search-youtube | 低 | 1-2 次 | 国际视频，语言障碍 |
+| search-twitter (agent-reach) | 不使用 | 0 | 已被 mcp-twitter 替代 |
 | search-github | 不使用 | 0 | 技术向，与全民热点不匹配 |
 
 总搜索 8-12 次。每条命令设 30 秒超时。
@@ -129,8 +141,10 @@ agent-reach search-xhs "今日热点" -n 5
 
 完成后输出：
 - 阶段 A：验证了多少个热门话题，多少个获得了新平台确认
+- 阶段 A'：opentwitter MCP 搜索了多少个关键词，多少个话题获得 Twitter 确认
 - 阶段 B：发现了多少条新候选，多少条被去重过滤
 - 各渠道搜索次数和成功/失败状态
+- MCP 调用失败的警告信息（如有）
 - candidates.json 最终条目数
 
 ## 错误处理

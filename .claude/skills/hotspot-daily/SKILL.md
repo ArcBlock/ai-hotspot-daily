@@ -38,6 +38,8 @@ tools: Read, Write, Edit, Glob, Grep, Bash, WebSearch, WebFetch, Task, Skill
 │  - 使用 Task 工具调用                         │
 │    references/scout-websearch.md             │
 │  - 输入: candidates.json + hotspot-daily/ai/seen-urls.json│
+│  - opentwitter MCP 获取 AI 推文（补充）       │
+│  - opennews MCP 获取 AI 新闻（补充）          │
 │  - WebSearch 发现脚本遗漏的热点               │
 │  - 48h 时间过滤 + URL/语义去重 + 跨天去重     │
 │  - 产出: candidates.json（追加）              │
