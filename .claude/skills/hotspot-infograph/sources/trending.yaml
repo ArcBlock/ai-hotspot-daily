@@ -1,0 +1,46 @@
+settings:
+  timezone: Asia/Shanghai
+  maxAgeHours: 24
+
+  deduplication:
+    urlExactMatch: true
+    preferHigherScore: true
+
+sources:
+  weibo:
+    enabled: true
+    script: sources/weibo.ts
+    params:
+      limit: 30
+
+  baidu:
+    enabled: true
+    script: sources/baidu.ts
+    params:
+      limit: 20
+
+  zhihu:
+    enabled: true
+    script: sources/zhihu.ts
+    params:
+      limit: 15
+
+  douyin:
+    enabled: true
+    script: sources/douyin.ts
+    params:
+      limit: 15
+
+  x-trending:
+    enabled: true
+    script: sources/x-trending.ts
+    params:
+      limit: 20
+      geo: CN
+
+  google-trends:
+    enabled: true
+    script: sources/google-trends.ts
+    params:
+      geo: CN
+      limit: 10

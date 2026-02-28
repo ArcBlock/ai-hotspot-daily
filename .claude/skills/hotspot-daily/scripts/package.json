@@ -1,0 +1,15 @@
+{
+  "name": "hotspot-daily-scripts",
+  "type": "module",
+  "scripts": {
+    "fetch:all": "bun run fetch-all.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "fast-xml-parser": "^4.3.0",
+    "yaml": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

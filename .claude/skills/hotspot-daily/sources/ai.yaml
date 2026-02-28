@@ -1,0 +1,132 @@
+settings:
+  timezone: Asia/Shanghai
+  maxAgeHours: 48
+
+  deduplication:
+    urlExactMatch: true
+    preferHigherScore: true
+
+  priorities:
+    high:  # +30
+      - Claude
+      - GPT-5
+      - Gemini
+      - DeepSeek
+      - o1
+      - o3
+    medium:  # +20
+      - GPT
+      - LLaMA
+      - Qwen
+      - Mistral
+      - multimodal
+      - agent
+      - reasoning
+    low:  # +10
+      - diffusion
+      - transformer
+      - fine-tuning
+      - RLHF
+      - RAG
+
+sources:
+  hackernews:
+    enabled: true
+    script: sources/hackernews.ts
+    params:
+      minScore: 50
+      limit: 30
+      keywords:
+        - AI
+        - LLM
+        - GPT
+        - Claude
+        - machine learning
+        - neural
+        - transformer
+
+  arxiv:
+    enabled: true
+    script: sources/arxiv.ts
+    params:
+      categories:
+        - cs.AI
+        - cs.CL
+        - cs.LG
+      maxResults: 20
+
+  github:
+    enabled: true
+    script: sources/github.ts
+    params:
+      since: daily
+      limit: 20
+
+  huggingface:
+    enabled: true
+    script: sources/huggingface.ts
+    params:
+      limit: 20
+
+  rss:
+    enabled: true
+    script: sources/rss.ts
+    params:
+      # RSS feeds hardcoded in rss.ts:
+      # OpenAI blog, Google AI blog, The Verge AI, MIT Tech Review,
+      # TechCrunch AI, VentureBeat AI, Import AI, Ahead of AI
+
+  product-hunt:
+    enabled: true
+    script: sources/product-hunt.ts
+    params:
+      category: ai
+      limit: 10
+
+  papers-with-code:
+    enabled: true
+    script: sources/papers-with-code.ts
+    params:
+      limit: 20
+
+  replicate:
+    enabled: true
+    script: sources/replicate.ts
+    params:
+      limit: 15
+
+  alphaxiv:
+    enabled: true
+    script: sources/alphaxiv.ts
+    params:
+      limit: 15
+
+  alphasignal:
+    enabled: true
+    script: sources/alphasignal.ts
+    params:
+      limit: 10
+
+  quantumbit:
+    enabled: true
+    script: sources/quantumbit.ts
+    params:
+      limit: 10
+
+  deep-learning-monitor:
+    enabled: true
+    script: sources/deep-learning-monitor.ts
+    params:
+      limit: 15
+
+  semantic-scholar:
+    enabled: true
+    script: sources/semantic-scholar.ts
+    params:
+      limit: 20
+
+  x-twitter:
+    enabled: true
+    script: sources/x-twitter.ts
+    params:
+      limit: 30

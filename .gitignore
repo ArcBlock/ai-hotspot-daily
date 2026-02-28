@@ -1,0 +1,35 @@
+# Runtime outputs
+hotspot-daily/ai/*/
+hotspot-infograph/trending/*/
+
+# Keep .gitkeep files
+!hotspot-daily/ai/.gitkeep
+!hotspot-infograph/trending/.gitkeep
+
+# Environment
+.env
+.env.local
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temp
+*.tmp
+/tmp/
