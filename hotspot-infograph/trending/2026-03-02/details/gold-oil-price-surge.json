@@ -1,0 +1,88 @@
+{
+  "slug": "gold-oil-price-surge",
+  "title": "中东战火引爆大宗商品：金银油价全线飙升",
+  "category": "财经",
+  "color": "#d97706",
+  "template": "data-story",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "概述",
+      "content": {
+        "paragraphs": [
+          "2月28日美以联合打击伊朗后，全球大宗商品市场剧烈震荡。避险资产黄金、白银价格飙升至历史新高区域，原油价格因霍尔木兹海峡封锁威胁单日暴涨超10%。投资者大规模涌入避险资产，美股期货则大幅下挫。",
+          "黄金现货价格在3月1日触及5299美元/盎司，2026年以来累计上涨约22%，从年初的4300美元区间直接突破5200美元关口。白银现货逼近94.5美元/盎司，距离1月29日创下的121.67美元历史高点仍有距离，但年内涨幅已超120%。",
+          "原油市场反应同样剧烈——布伦特原油跳涨13%至82美元/桶上方，WTI原油从67美元直接跳空至73美元。分析师警告，若霍尔木兹海峡持续封锁，布伦特原油可能冲上100甚至120美元。"
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "黄金价格走势（2026年）",
+      "content": {
+        "chartType": "line",
+        "data": [
+          {"label": "1月初", "value": 4300},
+          {"label": "1月29日（银历史高）", "value": 4680},
+          {"label": "2月11日", "value": 5061},
+          {"label": "2月27日（战前）", "value": 4850},
+          {"label": "2月28日（空袭日）", "value": 5194},
+          {"label": "3月1日", "value": 5299},
+          {"label": "3月2日早盘", "value": 5296}
+        ],
+        "highlight": "2026年累计涨幅约22%，战争爆发48小时内跳涨近450美元",
+        "caption": "单位：美元/盎司。数据来源：GoldPrice.org、Sunday Guardian"
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键数据速览",
+      "content": {
+        "facts": [
+          {"label": "黄金现货价", "value": "5296美元/盎司（3.2早盘）"},
+          {"label": "白银现货价", "value": "93.72美元/盎司（逼近100关口）"},
+          {"label": "布伦特原油", "value": "82美元/桶（单日涨13%）"},
+          {"label": "WTI原油", "value": "73美元/桶（跳涨8%+）"},
+          {"label": "道指期货", "value": "下跌571点（跌1.2%）"},
+          {"label": "摩根大通金价目标", "value": "上调至6300美元（2026年底）"}
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "原油价格冲击对比",
+      "content": {
+        "chartType": "bar",
+        "data": [
+          {"label": "布伦特（2.27收盘）", "value": 72.87},
+          {"label": "布伦特（3.1开盘）", "value": 82},
+          {"label": "WTI（2.27收盘）", "value": 67},
+          {"label": "WTI（3.1开盘）", "value": 73},
+          {"label": "布伦特（悲观预期）", "value": 120}
+        ],
+        "highlight": "霍尔木兹封锁若持续，布伦特可能冲至100-120美元",
+        "caption": "单位：美元/桶。数据来源：CNBC、Bloomberg、Kpler"
+      }
+    },
+    {
+      "type": "text",
+      "heading": "分析与展望",
+      "content": {
+        "paragraphs": [
+          "此轮大宗商品暴涨的核心驱动力是霍尔木兹海峡封锁威胁——全球约20%的石油海运通过该水道。保险公司撤出承保导致商业航运事实停摆，效果等同于物理封锁。高盛策略师指出，股市反应将取决于能源冲击的\"持久性和严重程度\"。",
+          "摩根大通已将2026年底金价目标上调至6300美元/盎司，理由是央行持续购金（季均约585吨）叠加地缘避险需求。但市场也存在回调风险——若冲突短期可控，布伦特原油可能回落至70-80美元区间。",
+          "当前不确定性极高。高盛指出，只有\"严重且持续的能源冲击\"才会对全球增长构成实质威胁。投资者需密切关注霍尔木兹海峡通航恢复时间表及各方停火谈判进展。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {"name": "Sunday Guardian (金价数据)", "url": "https://sundayguardianlive.com/business/gold-price-today-1-march-2026-gold-surges-to-173-lakh10g-amid-iran-conflict-international-spot-jumps-to-5299-check-city-wise-rates-173374/"},
+    {"name": "CNBC (油价与股市)", "url": "https://www.cnbc.com/2026/03/01/stock-market-today-live-update.html"},
+    {"name": "CNBC (油价预测)", "url": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html"},
+    {"name": "Bloomberg (霍尔木兹油轮)", "url": "https://www.bloomberg.com/news/articles/2026-03-01/latest-oil-market-news-and-analysis-for-march-2"},
+    {"name": "Fortune (道指期货)", "url": "https://fortune.com/2026/03/01/stock-market-today-dow-futures-oil-prices-us-attack-iran-strait-hormuz-clsoure/"},
+    {"name": "Kpler (原油市场分析)", "url": "https://www.kpler.com/blog/us-iran-conflict-strait-of-hormuz-crisis-reshapes-global-oil-markets"}
+  ],
+  "generatedAt": "2026-03-02T12:50:00.000Z"
+}

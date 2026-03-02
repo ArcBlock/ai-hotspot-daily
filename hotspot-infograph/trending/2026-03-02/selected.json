@@ -1,0 +1,810 @@
+{
+  "hero": {
+    "id": "baidu-13",
+    "title": "美以袭击伊朗超24小时 中东局势全面升级",
+    "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E8%B6%8524%E5%B0%8F%E6%97%B6+%E5%A4%9A%E5%9B%BD%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news",
+    "source": "baidu",
+    "category": "国际",
+    "hotScore": 6667301,
+    "extra": {
+      "desc": "当地时间2月28日，美国和以色列对伊朗发动袭击后，最高领袖哈梅内伊与前总统内贾德遇袭身亡，多位军事指挥官确认死亡。伊朗随即封锁霍尔木兹海峡、向美航母发射导弹反击。多国及国际组织纷纷表态，全球市场剧震。",
+      "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/9699c896b612796794b571a2e72037c0"
+    },
+    "crossPlatformCount": 6,
+    "relatedSources": [
+      "weibo",
+      "baidu",
+      "douyin",
+      "mcp-twitter",
+      "agent-reach-youtube",
+      "agent-reach-bilibili"
+    ],
+    "mergedTitles": [
+      "美以袭击伊朗超24小时 多国表态",
+      "伊朗前总统内贾德遇袭身亡",
+      "伊朗最高领袖哈梅内伊遇袭身亡",
+      "中方就哈梅内伊遇害表态",
+      "伊朗多位军事指挥官确认死亡",
+      "伊朗外长：伊朗军事能力无任何改变",
+      "伊朗弹道导弹被毁瞬间：碎渣满天飞",
+      "美军承认用了新装备",
+      "伊朗称美军遭受重大伤亡 美方否认",
+      "伊朗：6名中情局官员在阿联酋身亡",
+      "伊朗：向美航母发射四枚导弹",
+      "以军超100架战机空袭伊朗",
+      "对伊军事行动或将持续4周",
+      "英法德三国联合声明",
+      "俄罗斯在中东的布局被美国搅乱了",
+      "伊朗会不会变成下个伊拉克",
+      "美军3死5重伤",
+      "伊朗遭袭40小时后情况",
+      "伊朗国家电视台总部遭袭"
+    ],
+    "scores": {
+      "popularity": 5,
+      "vizPotential": 5,
+      "freshness": 4,
+      "polarity": 5,
+      "diversity": 5,
+      "total": 4.85
+    },
+    "suggestedChartType": "timeline",
+    "rankReason": "美以袭击伊朗是当日全网最大事件，覆盖6个平台20+条报道，局势发展有清晰时间线，军事打击目标、各方伤亡数据和多国立场均适合时间轴可视化"
+  },
+  "cards": [
+    {
+      "id": "baidu-1",
+      "title": "金银油价全线飙升 避险资产疯涨",
+      "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%93%B6%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%A3%99%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "财经",
+      "hotScore": 7808902,
+      "extra": {
+        "desc": "受美以袭击伊朗影响，COMEX黄金涨1.97%报5296.4美元/盎司，白银暴涨7.77%报94.39美元/盎司，布伦特原油涨3.35%报73.21美元/桶。年内金价累计涨22%，银价涨31%。",
+        "img": "https://fyb-1.cdn.bcebos.com/fyb/de6163834f53ca92c1273fff98ac9078.jpeg"
+      },
+      "crossPlatformCount": 4,
+      "relatedSources": [
+        "weibo",
+        "baidu",
+        "agent-reach-youtube",
+        "agent-reach-bilibili"
+      ],
+      "mergedTitles": [
+        "金银全线高开 国际油价飙升",
+        "油价金价大涨",
+        "金价",
+        "金价波动",
+        "金银涨爆了"
+      ],
+      "scores": {
+        "popularity": 5,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 5,
+        "total": 4.70
+      },
+      "suggestedMiniChartType": "trend",
+      "rankReason": "4个平台同时报道，有精确的价格涨幅数据（黄金5296美元、白银94美元、布伦特73美元），适合用趋势图展示价格飙升"
+    },
+    {
+      "id": "baidu-15",
+      "title": "霍尔木兹海峡150艘油轮集体趴窝 全球能源命脉被掐断",
+      "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E8%88%B9%E5%8F%AA%E9%9B%86%E4%BD%93%E8%B6%B4%E7%AA%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "国际",
+      "hotScore": 6465891,
+      "extra": {
+        "desc": "霍尔木兹海峡承载全球约30%海运石油贸易量，日均2000万桶。至少150艘超大型油轮与LNG运输船在波斯湾开放水域紧急下锚，全球能源运输核心枢纽陷入事实停摆。分析师预计油价或冲至80-120美元/桶。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/4e872845e52c1d73bb3102b8b167926d"
+      },
+      "crossPlatformCount": 2,
+      "relatedSources": [
+        "baidu",
+        "mcp-twitter"
+      ],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 3,
+        "total": 4.05
+      },
+      "suggestedMiniChartType": "bigNumber",
+      "rankReason": "150艘油轮、30%全球海运石油、日均2000万桶等核心数据极具冲击力，用大数字呈现效果最佳"
+    },
+    {
+      "id": "douyin-0",
+      "title": "孙颖莎王楚钦双双卫冕新加坡大满贯",
+      "url": "https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B",
+      "source": "douyin",
+      "category": "体育",
+      "hotScore": 12117500,
+      "extra": {
+        "desc": "WTT新加坡大满贯赛落幕：孙颖莎4:2战胜王曼昱卫冕女单冠军，王楚钦4:0横扫林昀儒问鼎男单冠军。国乒包揽男女单打冠军。",
+        "label": 3,
+        "videoCount": 9
+      },
+      "crossPlatformCount": 2,
+      "relatedSources": [
+        "douyin",
+        "agent-reach-bilibili"
+      ],
+      "mergedTitles": [
+        "孙颖莎新加坡大满贯冠军",
+        "王楚钦赢得大满贯男单冠军"
+      ],
+      "scores": {
+        "popularity": 4,
+        "vizPotential": 4,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 5,
+        "total": 3.80
+      },
+      "suggestedMiniChartType": "versus",
+      "rankReason": "国乒双冠热度极高，有具体比分数据（4:2、4:0），适合用对比图展示决赛对阵"
+    },
+    {
+      "id": "baidu-4",
+      "title": "中国造全球首款机器人手机亮相MWC 2026",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "科技",
+      "hotScore": 7522160,
+      "extra": {
+        "desc": "MWC 2026上，荣耀发布全球首款Robot Phone——配备3轴云台+200MP超清传感器+具身智能AI交互，同时推出首款消费级人形机器人。CNN记者赞叹想买。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/da62dc996bdc220470bf8cfbc7a235ca"
+      },
+      "crossPlatformCount": 1,
+      "relatedSources": [
+        "baidu"
+      ],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 2,
+        "diversity": 5,
+        "total": 3.25
+      },
+      "suggestedMiniChartType": "tags",
+      "rankReason": "全球首款机器人手机，科技领域独一份，用标签云展示核心功能卖点（3轴云台/AI交互/200MP/人形机器人）"
+    },
+    {
+      "id": "baidu-9",
+      "title": "杭州电影院试行\"观影后悔权\"：看烂片可退40%票价",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%89%E7%94%B5%E5%BD%B1%E9%99%A2%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%EF%BC%9A%E7%9C%8B%E5%88%B0%E7%83%82%E7%89%87%E5%8F%AF%E9%80%80%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "社会",
+      "hotScore": 7040472,
+      "extra": {
+        "desc": "杭州西田城时代联合影城3月1日起试行"观影后悔权"：开场20分钟内觉得不好看，可退40%票价。按行业分账规则，60%需结算给片方和院线，影院只能退自己可支配的部分。试行期至4月30日。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/2c61b0bd66c8d9677dbd4f95a10742d0"
+      },
+      "crossPlatformCount": 1,
+      "relatedSources": [
+        "baidu"
+      ],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 3.65
+      },
+      "suggestedMiniChartType": "progress",
+      "rankReason": "新鲜有趣的消费权益话题，40%退票比例、20分钟时限、60/40分账规则等数据适合用进度条呈现"
+    },
+    {
+      "id": "weibo-0",
+      "title": "AI演员逼真到根本看不出来",
+      "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI",
+      "source": "weibo",
+      "category": "娱乐",
+      "hotScore": 1276519,
+      "extra": {
+        "rank": 1,
+        "tag": "热",
+        "icon_desc": "热",
+        "desc": "微博热搜第一名，AI生成的虚拟演员逼真程度引发热议，探讨影视行业AI替代的可能性和伦理边界。"
+      },
+      "crossPlatformCount": 1,
+      "relatedSources": [
+        "weibo"
+      ],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 2,
+        "freshness": 5,
+        "polarity": 5,
+        "diversity": 5,
+        "total": 3.65
+      },
+      "suggestedMiniChartType": "versus",
+      "rankReason": "微博热搜第一，AI vs 真人演员的争议话题引发强烈两极讨论，适合用对比图呈现'AI演员 vs 真人演员'的观点之争"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "baidu-13",
+      "title": "美以袭击伊朗超24小时 中东局势全面升级",
+      "source": "baidu",
+      "category": "国际",
+      "crossPlatformCount": 6,
+      "scores": {
+        "popularity": 5,
+        "vizPotential": 5,
+        "freshness": 4,
+        "polarity": 5,
+        "diversity": 5,
+        "total": 4.85
+      },
+      "rankReason": "全网最大事件，覆盖6个平台20+条报道，有清晰时间线和丰富数据"
+    },
+    {
+      "id": "baidu-1",
+      "title": "金银油价全线飙升 避险资产疯涨",
+      "source": "baidu",
+      "category": "财经",
+      "crossPlatformCount": 4,
+      "scores": {
+        "popularity": 5,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 5,
+        "total": 4.70
+      },
+      "rankReason": "4个平台报道，精确价格数据适合趋势图"
+    },
+    {
+      "id": "baidu-15",
+      "title": "霍尔木兹海峡150艘油轮集体趴窝 全球能源命脉被掐断",
+      "source": "baidu",
+      "category": "国际",
+      "crossPlatformCount": 2,
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 3,
+        "total": 4.05
+      },
+      "rankReason": "核心数据（150艘油轮、30%全球海运石油）极具冲击力"
+    },
+    {
+      "id": "douyin-0",
+      "title": "孙颖莎王楚钦双双卫冕新加坡大满贯",
+      "source": "douyin",
+      "category": "体育",
+      "crossPlatformCount": 2,
+      "scores": {
+        "popularity": 4,
+        "vizPotential": 4,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 5,
+        "total": 3.80
+      },
+      "rankReason": "国乒双冠热度极高，有具体比分数据"
+    },
+    {
+      "id": "baidu-2",
+      "title": "黎巴嫩向以色列发射6枚火箭弹 中东战火蔓延",
+      "source": "baidu",
+      "category": "国际",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 1,
+        "total": 3.30
+      },
+      "rankReason": "中东局势相关但黎以冲突是独立战场"
+    },
+    {
+      "id": "weibo-0",
+      "title": "AI演员逼真到根本看不出来",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 2,
+        "freshness": 5,
+        "polarity": 5,
+        "diversity": 5,
+        "total": 3.65
+      },
+      "rankReason": "微博热搜第一，AI vs 真人争议引发强烈讨论"
+    },
+    {
+      "id": "baidu-9",
+      "title": "杭州电影院试行\"观影后悔权\"：看烂片可退40%票价",
+      "source": "baidu",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 3.65
+      },
+      "rankReason": "新鲜有趣的消费权益话题，有具体数据"
+    },
+    {
+      "id": "baidu-4",
+      "title": "中国造全球首款机器人手机亮相MWC 2026",
+      "source": "baidu",
+      "category": "科技",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 2,
+        "diversity": 5,
+        "total": 3.25
+      },
+      "rankReason": "科技领域独一份，全球首款Robot Phone"
+    },
+    {
+      "id": "douyin-1",
+      "title": "中国男篮力克中国台北男篮",
+      "source": "douyin",
+      "category": "体育",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 3,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 1,
+        "total": 2.55
+      },
+      "rankReason": "体育领域已有乒乓球占位，多样性得分低"
+    },
+    {
+      "id": "baidu-3",
+      "title": "\"超短学期\"来了 2026春季学期最短",
+      "source": "baidu",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 3,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 2,
+        "total": 2.65
+      },
+      "rankReason": "开学季热点，但数据偏少"
+    },
+    {
+      "id": "douyin-2",
+      "title": "中国农机火到海外",
+      "source": "douyin",
+      "category": "财经",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 2,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 2.25
+      },
+      "rankReason": "正面话题但数据支撑不足"
+    },
+    {
+      "id": "baidu-5",
+      "title": "99年义乌老板娘谈营业额喜笑颜开",
+      "source": "baidu",
+      "category": "财经",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 2,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 2,
+        "total": 2.40
+      },
+      "rankReason": "义乌开市话题有一定热度但可视化潜力有限"
+    },
+    {
+      "id": "baidu-0",
+      "title": "为民造福是最大政绩",
+      "source": "baidu",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 1,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.80
+      },
+      "rankReason": "时政宣传内容，可视化潜力和讨论度低"
+    },
+    {
+      "id": "baidu-8",
+      "title": "\"宁古塔\"从苦寒之地变冰雪新天地",
+      "source": "baidu",
+      "category": "文化",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 2,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 5,
+        "total": 2.15
+      },
+      "rankReason": "文化旅游话题，领域多样性高但热度低"
+    },
+    {
+      "id": "weibo-7",
+      "title": "难怪周杰伦再也没来成都开过演唱会",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 3,
+        "diversity": 2,
+        "total": 2.25
+      },
+      "rankReason": "娱乐话题有一定讨论度但无数据支撑"
+    },
+    {
+      "id": "weibo-18",
+      "title": "苏翊鸣北京夺冠后一度空虚",
+      "source": "weibo",
+      "category": "体育",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 1,
+        "total": 1.70
+      },
+      "rankReason": "运动员个人情感话题，无可视化数据"
+    },
+    {
+      "id": "gtrends-0",
+      "title": "Michelle Williams出席2026 Actor Awards",
+      "source": "google-trends",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.60
+      },
+      "rankReason": "海外娱乐话题，国内热度低"
+    },
+    {
+      "id": "douyin-4",
+      "title": "开学就开始盼暑假了",
+      "source": "douyin",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 1,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 5,
+        "total": 2.10
+      },
+      "rankReason": "生活类轻松话题，可视化潜力低"
+    },
+    {
+      "id": "douyin-5",
+      "title": "江浙沪就这样等美食回归解馋",
+      "source": "douyin",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 3,
+        "total": 1.55
+      },
+      "rankReason": "生活美食话题，无数据支撑"
+    },
+    {
+      "id": "douyin-10",
+      "title": "元宵节就吃这个马到成功吧",
+      "source": "douyin",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.55
+      },
+      "rankReason": "节日生活话题，无数据支撑"
+    },
+    {
+      "id": "baidu-11",
+      "title": "\"老年人吃粗粮越多越好\"不科学",
+      "source": "baidu",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 2,
+        "freshness": 3,
+        "polarity": 2,
+        "diversity": 2,
+        "total": 1.80
+      },
+      "rankReason": "科普辟谣话题，有一定讨论度"
+    },
+    {
+      "id": "baidu-10",
+      "title": "7个月宝宝爬过来拥抱哭泣宝妈",
+      "source": "baidu",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.45
+      },
+      "rankReason": "暖心故事，完全无数据可视化"
+    },
+    {
+      "id": "weibo-9",
+      "title": "范丞丞自曝体重63公斤",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.60
+      },
+      "rankReason": "娱乐八卦话题，热度一般"
+    },
+    {
+      "id": "weibo-2",
+      "title": "2026新春走基层",
+      "source": "weibo",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 2,
+        "polarity": 0,
+        "diversity": 2,
+        "total": 1.05
+      },
+      "rankReason": "时政宣传，可视化潜力和讨论度低"
+    },
+    {
+      "id": "douyin-6",
+      "title": "幸福在未被发现时叫普通的一天",
+      "source": "douyin",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.25
+      },
+      "rankReason": "情感鸡汤话题，无数据支撑"
+    },
+    {
+      "id": "douyin-8",
+      "title": "一抹春妆赴春光",
+      "source": "douyin",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 3,
+        "polarity": 0,
+        "diversity": 2,
+        "total": 1.10
+      },
+      "rankReason": "春季生活话题，纯情绪表达"
+    },
+    {
+      "id": "douyin-9",
+      "title": "早春的油菜花我先拍了",
+      "source": "douyin",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 3,
+        "polarity": 0,
+        "diversity": 2,
+        "total": 1.10
+      },
+      "rankReason": "春季摄影话题，无数据支撑"
+    },
+    {
+      "id": "douyin-11",
+      "title": "挑战把墙画成艺术品",
+      "source": "douyin",
+      "category": "文化",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 4,
+        "total": 1.35
+      },
+      "rankReason": "文化创意话题，但无可视化数据"
+    },
+    {
+      "id": "weibo-5",
+      "title": "椰子水",
+      "source": "weibo",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 3,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.40
+      },
+      "rankReason": "生活消费话题，信息量不足"
+    },
+    {
+      "id": "weibo-6",
+      "title": "章若楠同款敏感防御伞",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 0,
+        "diversity": 2,
+        "total": 1.10
+      },
+      "rankReason": "明星带货话题，商业属性强"
+    },
+    {
+      "id": "weibo-8",
+      "title": "当狗咖最后一个顾客离开后",
+      "source": "weibo",
+      "category": "生活",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.25
+      },
+      "rankReason": "生活趣味话题，无数据"
+    },
+    {
+      "id": "weibo-13",
+      "title": "孟子义自曝两年最长只休了2天",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 1,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 2,
+        "total": 1.75
+      },
+      "rankReason": "艺人工作强度话题，讨论度一般"
+    },
+    {
+      "id": "weibo-19",
+      "title": "小伙腹痛CT查出肠道卡2把勺子",
+      "source": "weibo",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 2,
+        "total": 1.25
+      },
+      "rankReason": "社会奇闻，无可视化数据"
+    },
+    {
+      "id": "weibo-20",
+      "title": "肖战故意把穿什么听成了吃什么",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 1,
+        "total": 1.15
+      },
+      "rankReason": "粉丝向话题，可视化潜力几乎为零"
+    },
+    {
+      "id": "weibo-24",
+      "title": "亲母女嫁给了亲父子",
+      "source": "weibo",
+      "category": "社会",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 2,
+        "total": 1.40
+      },
+      "rankReason": "社会趣闻，有一定讨论度但无数据"
+    },
+    {
+      "id": "weibo-26",
+      "title": "姐姐姐夫共创",
+      "source": "weibo",
+      "category": "娱乐",
+      "crossPlatformCount": 1,
+      "scores": {
+        "popularity": 1,
+        "vizPotential": 0,
+        "freshness": 4,
+        "polarity": 1,
+        "diversity": 1,
+        "total": 1.15
+      },
+      "rankReason": "综艺相关话题，无数据支撑"
+    }
+  ],
+  "rankedAt": "2026-03-02T12:00:00.000Z"
+}

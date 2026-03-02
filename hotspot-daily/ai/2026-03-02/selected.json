@@ -1,0 +1,665 @@
+{
+  "primary": {
+    "id": "gh-alibaba-OpenSandbox",
+    "title": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "阿里巴巴开源通用 AI 沙箱平台 OpenSandbox，提供多语言 SDK（Python/Java/JS/C#）、统一沙箱 API 和 Docker/Kubernetes 运行时，支持 Coding Agent、GUI Agent、Agent 评估、AI 代码执行和 RL 训练等场景。Apache 2.0 许可证，内置命令行、文件系统和代码解释器，支持浏览器自动化（Chrome/Playwright）和 VS Code 桌面环境，提供网络隔离等安全特性。",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 3418,
+    "category": "project",
+    "starsToday": 1179,
+    "aiRelated": true,
+    "scores": {
+      "timeliness": 4,
+      "impact": 4,
+      "actionability": 5,
+      "credibility": 5,
+      "audienceMatch": 5,
+      "total": 4.55
+    },
+    "rankReason": "阿里巴巴官方开源的生产级 AI 沙箱平台，单日 1179 star 爆发增长，直接解决 AI Agent 安全执行代码的核心痛点，多语言 SDK 和 K8s 支持让开发者可立即投入生产使用"
+  },
+  "alternates": [
+    {
+      "id": "hn-47204571",
+      "title": "Switch to Claude without starting over",
+      "url": "https://claude.com/import-memory",
+      "source": "hackernews",
+      "sourceType": "script",
+      "summary": "Anthropic 推出 Claude 记忆导入功能，用户可在 60 秒内将 ChatGPT、Gemini 等 AI 助手的个人偏好和上下文迁移到 Claude，大幅降低切换成本。HN 519 分 250 评论引发热议，Claude 因此登顶 App Store。",
+      "publishedAt": "2026-03-01T07:36:52.000Z",
+      "rawScore": 519,
+      "category": "discussion",
+      "comments": 250,
+      "mergedFrom": [
+        {
+          "id": "ph-claude-import-memory",
+          "title": "Claude Import Memory",
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "product-hunt"
+        }
+      ],
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.20
+      },
+      "rankReason": "Anthropic 官方推出的重磅产品功能，一键导入竞品记忆的策略直击用户迁移痛点，HN 热度极高，对所有 AI 工具用户有即时影响"
+    },
+    {
+      "id": "gh-bytedance-deer-flow",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "字节跳动开源 DeerFlow 2.0 SuperAgent 框架，基于 LangGraph 全面重写，内置文件系统、记忆、技能、沙箱执行和子代理编排能力，支持研究、报告生成、幻灯片创建等多种内置 skill，曾登顶 GitHub Trending #1。",
+      "publishedAt": "2026-03-02T02:13:18.451Z",
+      "rawScore": 23016,
+      "category": "project",
+      "starsToday": 355,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 4.00
+      },
+      "rankReason": "字节跳动官方开源的 SuperAgent 框架 v2.0 全面重写，内置完整工具链和子代理能力，对构建复杂 AI Agent 系统的开发者有直接参考和使用价值"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "gh-alibaba-OpenSandbox",
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 4.55
+      },
+      "rankReason": "阿里巴巴官方开源的生产级 AI 沙箱平台，单日 1179 star 爆发增长，直接解决 AI Agent 安全执行代码的核心痛点"
+    },
+    {
+      "id": "hn-47204571",
+      "title": "Switch to Claude without starting over",
+      "url": "https://claude.com/import-memory",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.20
+      },
+      "rankReason": "Anthropic 官方推出记忆导入功能，一键从竞品迁移，HN 519 分 250 评论"
+    },
+    {
+      "id": "gh-superset-sh-superset",
+      "title": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 5,
+        "credibility": 3,
+        "audienceMatch": 5,
+        "total": 4.00
+      },
+      "rankReason": "AI Agent 时代的 IDE 终端，并行运行 Claude Code/Codex 等多个编码代理，直接提升开发效率"
+    },
+    {
+      "id": "gh-bytedance-deer-flow",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 4.00
+      },
+      "rankReason": "字节跳动 DeerFlow 2.0 全面重写，内置完整工具链和子代理编排，曾登顶 GitHub Trending #1"
+    },
+    {
+      "id": "hn-47211249",
+      "title": "WebMCP is available for early preview",
+      "url": "https://developer.chrome.com/blog/webmcp-epp",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 3,
+        "impact": 5,
+        "actionability": 3,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 3.95
+      },
+      "rankReason": "Chrome 推出 WebMCP 早期预览，将网页变为 AI Agent 可调用的结构化工具，行业级标准化进展"
+    },
+    {
+      "id": "gh-microsoft-markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "source": "github",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 3,
+        "total": 3.80
+      },
+      "rankReason": "微软官方文件转 Markdown 工具持续火热，今日 805 star，AI 工作流中文档预处理的实用工具"
+    },
+    {
+      "id": "gh-ruvnet-ruflo",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.60
+      },
+      "rankReason": "Claude 多 Agent 编排平台 v3.5 发布，5800+ commits，215 个 MCP 工具，面向企业级 Agent 工作流"
+    },
+    {
+      "id": "websearch-1772417838-ws-1",
+      "title": "MiniMax M2.5 模型发布，性价比挑战 Claude Opus 4.6",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
+      "source": "websearch",
+      "scores": {
+        "timeliness": 2,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.60
+      },
+      "rankReason": "MiniMax M2.5 以 1/20 成本逼近 Claude Opus 4.6 性能，SWE-Bench 80.2%，但发布已近 3 周"
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "google/gemini-3-flash",
+      "url": "https://replicate.com/google/gemini-3-flash",
+      "source": "replicate",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.55
+      },
+      "rankReason": "Google Gemini 3 Flash 上架 Replicate，开发者可通过 API 直接调用"
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-s4ha0g",
+      "title": "mcp-firewall: A better policy-engine for CLI agents",
+      "url": "https://github.com/dzervas/mcp-firewall",
+      "source": "rss",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 4,
+        "credibility": 2,
+        "audienceMatch": 4,
+        "total": 3.20
+      },
+      "rankReason": "为 Claude Code 等 CLI Agent 提供更细粒度的策略控制引擎"
+    },
+    {
+      "id": "gh-X-PLUG-MobileAgent",
+      "title": "X-PLUG/MobileAgent",
+      "url": "https://github.com/X-PLUG/MobileAgent",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.20
+      },
+      "rankReason": "阿里达摩院 GUI Agent 家族项目，推动移动端 AI Agent 自动化"
+    },
+    {
+      "id": "hn-47207236",
+      "title": "Why XML tags are so fundamental to Claude",
+      "url": "https://glthr.com/XML-fundamental-to-Claude",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.15
+      },
+      "rankReason": "深入分析 XML 标签在 Claude 中的核心作用，HN 115 评论，对 prompt engineering 有实用指导"
+    },
+    {
+      "id": "hn-47202708",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 2,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 5,
+        "audienceMatch": 3,
+        "total": 3.10
+      },
+      "rankReason": "Karpathy 用 243 行纯 Python 实现完整 GPT，HN 1697 分 294 评论，教育价值极高但已发布近 3 周"
+    },
+    {
+      "id": "gh-K-Dense-AI-claude-scientific-skills",
+      "title": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 4,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 3.05
+      },
+      "rankReason": "面向科研、工程和金融的 Claude Agent 技能集，可即装即用"
+    },
+    {
+      "id": "websearch-1772417838-ws-2",
+      "title": "开源社区应对 AI 生成低质量贡献，Gentoo Linux 禁止 AI 提交",
+      "url": "https://blog.mean.ceo/open-source-ai-news-march-2026/",
+      "source": "websearch",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.00
+      },
+      "rankReason": "开源社区对 AI 生成代码的治理讨论，Gentoo 禁止 AI 提交的政策值得关注"
+    },
+    {
+      "id": "websearch-1772417838-ws-0",
+      "title": "Inception Labs 发布 Mercury 2 -- 全球最快推理语言模型",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "source": "websearch",
+      "scores": {
+        "timeliness": 2,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.95
+      },
+      "rankReason": "基于扩散技术的推理模型 Mercury 2 实现 1009 tokens/s，5 倍加速，推理技术路线创新"
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3098239",
+      "title": "Anthropic's Claude rises to No. 1 in the App Store following Pentagon dispute",
+      "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "source": "rss",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.90
+      },
+      "rankReason": "Claude 因五角大楼争议登顶 App Store，TechCrunch 报道的行业竞争动态"
+    },
+    {
+      "id": "gh-Shubhamsaboo-awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.90
+      },
+      "rankReason": "LLM 应用示例合集持续热门，学习参考价值高但非新事件"
+    },
+    {
+      "id": "replicate-qwen-qwen3-tts",
+      "title": "qwen/qwen3-tts",
+      "url": "https://replicate.com/qwen/qwen3-tts",
+      "source": "replicate",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.85
+      },
+      "rankReason": "通义千问 TTS 模型上架 Replicate，语音合成领域的新选择"
+    },
+    {
+      "id": "gh-NevaMind-AI-memU",
+      "title": "NevaMind-AI/memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.80
+      },
+      "rankReason": "24/7 自主代理的记忆管理系统，323 stars/天，解决长运行 Agent 记忆持久化问题"
+    },
+    {
+      "id": "replicate-black-forest-labs-flux-2-pro",
+      "title": "black-forest-labs/flux-2-pro",
+      "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+      "source": "replicate",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.75
+      },
+      "rankReason": "Flux 2 Pro 图像生成模型上架 Replicate，但与 AI 开发者核心需求关联较弱"
+    },
+    {
+      "id": "gh-datawhalechina-hello-agents",
+      "title": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "source": "github",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 2.75
+      },
+      "rankReason": "Datawhale 智能体入门教程，中文社区学习资源"
+    },
+    {
+      "id": "ph-openfang",
+      "title": "OpenFang",
+      "url": "https://www.producthunt.com/products/openfang",
+      "source": "product-hunt",
+      "scores": {
+        "timeliness": 2,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.45
+      },
+      "rankReason": "开源 Agent 操作系统，概念有趣但成熟度和影响力待验证"
+    },
+    {
+      "id": "ph-bu",
+      "title": "BU",
+      "url": "https://www.producthunt.com/products/browser-use",
+      "source": "product-hunt",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 2,
+        "audienceMatch": 2,
+        "total": 2.40
+      },
+      "rankReason": "Browser Use 云端版本，浏览器自动化工具"
+    },
+    {
+      "id": "hn-47205890",
+      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+      "url": "https://99helpers.com/tools/ad-supported-chat",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.35
+      },
+      "rankReason": "对广告支持的免费 AI 聊天的思考实验，HN 讨论热烈但实际可行动性低"
+    },
+    {
+      "id": "alphaxiv-2602.21548",
+      "title": "DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference",
+      "url": "https://www.alphaxiv.org/abs/2602.21548",
+      "source": "alphaxiv",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.30
+      },
+      "rankReason": "Agent LLM 推理中存储带宽瓶颈的学术研究，理论价值高但偏学术"
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-skorekclaude-i-built-13-ai-agents-that-run-my-life-heres-the-architectu",
+      "title": "I Built 13 AI Agents That Run My Life — Here's the Architecture",
+      "url": "https://dev.to/skorekclaude/i-built-13-ai-agents-that-run-my-life-heres-the-architecture-1bod",
+      "source": "rss",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 2,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.30
+      },
+      "rankReason": "个人 AI Agent 架构分享，有参考价值但影响面有限"
+    },
+    {
+      "id": "alphaxiv-2602.23008",
+      "title": "Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization",
+      "url": "https://www.alphaxiv.org/abs/2602.23008",
+      "source": "alphaxiv",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.20
+      },
+      "rankReason": "记忆增强 LLM Agent 的混合优化研究，偏学术"
+    },
+    {
+      "id": "dlm-AI-Arms-and-Influence-Frontie",
+      "title": "AI Arms and Influence: Frontier Models Exhibit Sophisticated Reasoning in Simulated Nuclear Crises",
+      "url": "https://deeplearn.org/arxiv/702243/ai-arms-and-influence:-frontier-models-exhibit-sophisticated-reasoning-in-simulated-nuclear-crises",
+      "source": "deep-learning-monitor",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 2.10
+      },
+      "rankReason": "AI 模型在核危机模拟中的推理行为研究，AI 安全领域学术论文"
+    },
+    {
+      "id": "qbitai-OpenAI最新融资1100亿美元-英伟达亚马逊软银都抢到船",
+      "title": "OpenAI最新融资1100亿美元！英伟达亚马逊软银都抢到船票了",
+      "url": "https://www.qbitai.com/2026/02/382934.html",
+      "source": "quantumbit",
+      "scores": {
+        "timeliness": 1,
+        "impact": 3,
+        "actionability": 1,
+        "credibility": 4,
+        "audienceMatch": 2,
+        "total": 2.10
+      },
+      "rankReason": "OpenAI 融资新闻时效性已过，属旧闻"
+    },
+    {
+      "id": "alphaxiv-2602.22766",
+      "title": "Imagination Helps Visual Reasoning, But Not Yet in Latent Space",
+      "url": "https://www.alphaxiv.org/abs/2602.22766",
+      "source": "alphaxiv",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 2.00
+      },
+      "rankReason": "视觉推理中的想象力研究，纯学术"
+    },
+    {
+      "id": "websearch-1772417838-mcp-0",
+      "title": "ClawSwarm 0.1.0 更新：gRPC 网关、Web 抓取和 HTTP API",
+      "url": "https://twitter.com/swarms_corp/status/2027830531954544651",
+      "source": "mcp-opennews",
+      "scores": {
+        "timeliness": 3,
+        "impact": 1,
+        "actionability": 2,
+        "credibility": 2,
+        "audienceMatch": 2,
+        "total": 1.95
+      },
+      "rankReason": "Swarm 框架小版本更新，规模和影响力有限"
+    },
+    {
+      "id": "qbitai-海淀放大招-90亿资金-近30条政策-重磅释放三大科创关键信",
+      "title": "海淀放大招！90亿资金+近30条政策，重磅释放三大科创关键信号",
+      "url": "https://www.qbitai.com/2026/02/382952.html",
+      "source": "quantumbit",
+      "scores": {
+        "timeliness": 1,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 1.95
+      },
+      "rankReason": "海淀区政策新闻，时效性已过，与目标受众匹配度一般"
+    },
+    {
+      "id": "dlm-AIC-CTU-AVerImaTeC-dual-retri",
+      "title": "AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking",
+      "url": "https://deeplearn.org/arxiv/702966/aic-ctu@averimatec:-dual-retriever-rag-for-image-text-fact-checking",
+      "source": "deep-learning-monitor",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.85
+      },
+      "rankReason": "双检索器 RAG 用于图文事实检查，学术研究"
+    },
+    {
+      "id": "dlm-Stretching-Beyond-the-Obvious-",
+      "title": "Stretching Beyond the Obvious: A Gradient-Free Framework to Unveil the Hidden Landscape of Visual Invariance",
+      "url": "https://deeplearn.org/arxiv/702109/stretching-beyond-the-obvious:-a-gradient-free-framework-to-unveil-the-hidden-landscape-of-visual-invariance",
+      "source": "deep-learning-monitor",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.85
+      },
+      "rankReason": "无梯度视觉不变性研究框架，纯学术"
+    },
+    {
+      "id": "pwc-2602.23152",
+      "title": "Paper 2602.23152",
+      "url": "https://huggingface.co/papers/2602.23152",
+      "source": "papers-with-code",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.85
+      },
+      "rankReason": "论文仅有编号无标题摘要，无法准确评估"
+    },
+    {
+      "id": "pwc-2602.22859",
+      "title": "Paper 2602.22859",
+      "url": "https://huggingface.co/papers/2602.22859",
+      "source": "papers-with-code",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.85
+      },
+      "rankReason": "论文仅有编号无标题摘要，无法准确评估"
+    },
+    {
+      "id": "pwc-2602.22638",
+      "title": "Paper 2602.22638",
+      "url": "https://huggingface.co/papers/2602.22638",
+      "source": "papers-with-code",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.85
+      },
+      "rankReason": "论文仅有编号无标题摘要，无法准确评估"
+    },
+    {
+      "id": "websearch-1772417838-mcp-1",
+      "title": "港股 AI 应用板块大跌，MiniMax 跌超 14%，智谱跌超 12%",
+      "url": "https://twitter.com/sino_market/status/2027207429713453226",
+      "source": "mcp-opennews",
+      "scores": {
+        "timeliness": 1,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 2,
+        "audienceMatch": 1,
+        "total": 1.40
+      },
+      "rankReason": "港股行情已过时，与 AI 开发者日常工作关联弱"
+    }
+  ],
+  "rankedAt": "2026-03-02T10:30:00.000Z"
+}

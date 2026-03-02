@@ -1,0 +1,385 @@
+{
+  "source": "weibo",
+  "fetchedAt": "2026-03-02T01:40:03.156Z",
+  "items": [
+    {
+      "id": "weibo-0",
+      "title": "演员逼真到根本看不出来是AI",
+      "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 1276519,
+      "extra": {
+        "rank": 1,
+        "tag": "热",
+        "icon_desc": "热"
+      }
+    },
+    {
+      "id": "weibo-1",
+      "title": "伊朗前总统内贾德遇袭身亡",
+      "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 958331,
+      "extra": {
+        "rank": 2,
+        "tag": "沸",
+        "icon_desc": "沸"
+      }
+    },
+    {
+      "id": "weibo-2",
+      "title": "2026新春走基层",
+      "url": "https://s.weibo.com/weibo?q=2026%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 687090,
+      "extra": {
+        "rank": 3,
+        "tag": ""
+      }
+    },
+    {
+      "id": "weibo-3",
+      "title": "油价金价大涨",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 641226,
+      "extra": {
+        "rank": 4,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-4",
+      "title": "以军超100架战机空袭伊朗",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E5%86%9B%E8%B6%85100%E6%9E%B6%E6%88%98%E6%9C%BA%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 519315,
+      "extra": {
+        "rank": 5,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-5",
+      "title": "椰子水",
+      "url": "https://s.weibo.com/weibo?q=%E6%A4%B0%E5%AD%90%E6%B0%B4",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 410247,
+      "extra": {
+        "rank": 6,
+        "tag": ""
+      }
+    },
+    {
+      "id": "weibo-6",
+      "title": "章若楠同款敏感防御伞",
+      "url": "https://s.weibo.com/weibo?q=%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%90%8C%E6%AC%BE%E6%95%8F%E6%84%9F%E9%98%B2%E5%BE%A1%E4%BC%9E",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 409557,
+      "extra": {
+        "rank": 7,
+        "icon_desc": "上新"
+      }
+    },
+    {
+      "id": "weibo-7",
+      "title": "难怪周杰伦再也没来成都开过演唱会",
+      "url": "https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%86%8D%E4%B9%9F%E6%B2%A1%E6%9D%A5%E6%88%90%E9%83%BD%E5%BC%80%E8%BF%87%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 375711,
+      "extra": {
+        "rank": 8,
+        "tag": "热",
+        "icon_desc": "热"
+      }
+    },
+    {
+      "id": "weibo-8",
+      "title": "当狗咖最后一个顾客离开后",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E7%8B%97%E5%92%96%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E9%A1%BE%E5%AE%A2%E7%A6%BB%E5%BC%80%E5%90%8E",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 293915,
+      "extra": {
+        "rank": 9,
+        "tag": ""
+      }
+    },
+    {
+      "id": "weibo-9",
+      "title": "范丞丞自曝体重63公斤",
+      "url": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%87%AA%E6%9B%9D%E4%BD%93%E9%87%8D63%E5%85%AC%E6%96%A4",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 254086,
+      "extra": {
+        "rank": 10,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-10",
+      "title": "对伊军事行动或将持续4周",
+      "url": "https://s.weibo.com/weibo?q=%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E6%88%96%E5%B0%86%E6%8C%81%E7%BB%AD4%E5%91%A8",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 253427,
+      "extra": {
+        "rank": 11,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-11",
+      "title": "金价",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 253120,
+      "extra": {
+        "rank": 12,
+        "tag": "热",
+        "icon_desc": "热"
+      }
+    },
+    {
+      "id": "weibo-12",
+      "title": "英法德三国联合声明",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E6%B3%95%E5%BE%B7%E4%B8%89%E5%9B%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 252198,
+      "extra": {
+        "rank": 13,
+        "tag": "热",
+        "icon_desc": "热"
+      }
+    },
+    {
+      "id": "weibo-13",
+      "title": "孟子义自曝两年最长只休了2天",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E8%87%AA%E6%9B%9D%E4%B8%A4%E5%B9%B4%E6%9C%80%E9%95%BF%E5%8F%AA%E4%BC%91%E4%BA%862%E5%A4%A9",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 251815,
+      "extra": {
+        "rank": 14,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-14",
+      "title": "俄罗斯在中东的布局被美国搅乱了",
+      "url": "https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%9C%A8%E4%B8%AD%E4%B8%9C%E7%9A%84%E5%B8%83%E5%B1%80%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%90%85%E4%B9%B1%E4%BA%86",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 251184,
+      "extra": {
+        "rank": 15,
+        "tag": ""
+      }
+    },
+    {
+      "id": "weibo-15",
+      "title": "金价波动",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 250261,
+      "extra": {
+        "rank": 16,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-16",
+      "title": "油价",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 249792,
+      "extra": {
+        "rank": 17,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-17",
+      "title": "以色列陷入多线作战的战争泥潭",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E9%99%B7%E5%85%A5%E5%A4%9A%E7%BA%BF%E4%BD%9C%E6%88%98%E7%9A%84%E6%88%98%E4%BA%89%E6%B3%A5%E6%BD%AD",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 223740,
+      "extra": {
+        "rank": 18,
+        "tag": ""
+      }
+    },
+    {
+      "id": "weibo-18",
+      "title": "苏翊鸣北京夺冠后一度空虚",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8C%97%E4%BA%AC%E5%A4%BA%E5%86%A0%E5%90%8E%E4%B8%80%E5%BA%A6%E7%A9%BA%E8%99%9A",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 216151,
+      "extra": {
+        "rank": 19,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-19",
+      "title": "小伙腹痛CT查出肠道卡2把勺子",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E4%BC%99%E8%85%B9%E7%97%9BCT%E6%9F%A5%E5%87%BA%E8%82%A0%E9%81%93%E5%8D%A12%E6%8A%8A%E5%8B%BA%E5%AD%90",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 209054,
+      "extra": {
+        "rank": 20,
+        "tag": ""
+      }
+    },
+    {
+      "id": "weibo-20",
+      "title": "肖战故意把穿什么听成了吃什么",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%95%85%E6%84%8F%E6%8A%8A%E7%A9%BF%E4%BB%80%E4%B9%88%E5%90%AC%E6%88%90%E4%BA%86%E5%90%83%E4%BB%80%E4%B9%88",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 188418,
+      "extra": {
+        "rank": 21,
+        "tag": ""
+      }
+    },
+    {
+      "id": "weibo-21",
+      "title": "伊朗会不会变成下个伊拉克",
+      "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%8F%98%E6%88%90%E4%B8%8B%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 187796,
+      "extra": {
+        "rank": 22,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-22",
+      "title": "金银涨爆了",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%93%B6%E6%B6%A8%E7%88%86%E4%BA%86",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 185841,
+      "extra": {
+        "rank": 23,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-23",
+      "title": "美军3死5重伤",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%86%9B3%E6%AD%BB5%E9%87%8D%E4%BC%A4",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 183486,
+      "extra": {
+        "rank": 24,
+        "tag": ""
+      }
+    },
+    {
+      "id": "weibo-24",
+      "title": "亲母女嫁给了亲父子",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%B2%E6%AF%8D%E5%A5%B3%E5%AB%81%E7%BB%99%E4%BA%86%E4%BA%B2%E7%88%B6%E5%AD%90",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 181891,
+      "extra": {
+        "rank": 25,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-25",
+      "title": "伊朗遭袭40小时后情况",
+      "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E9%81%AD%E8%A2%AD40%E5%B0%8F%E6%97%B6%E5%90%8E%E6%83%85%E5%86%B5",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 179868,
+      "extra": {
+        "rank": 26,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-26",
+      "title": "姐姐姐夫共创",
+      "url": "https://s.weibo.com/weibo?q=%E5%A7%90%E5%A7%90%E5%A7%90%E5%A4%AB%E5%85%B1%E5%88%9B",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 177934,
+      "extra": {
+        "rank": 27,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-27",
+      "title": "伊朗国家电视台总部遭袭",
+      "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0%E6%80%BB%E9%83%A8%E9%81%AD%E8%A2%AD",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 167327,
+      "extra": {
+        "rank": 28,
+        "tag": ""
+      }
+    },
+    {
+      "id": "weibo-28",
+      "title": "以军轰炸黎巴嫩首都",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E5%86%9B%E8%BD%B0%E7%82%B8%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A6%96%E9%83%BD",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 153453,
+      "extra": {
+        "rank": 29,
+        "tag": "新",
+        "icon_desc": "新"
+      }
+    },
+    {
+      "id": "weibo-29",
+      "title": "伊朗7名指挥官确认死亡",
+      "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%977%E5%90%8D%E6%8C%87%E6%8C%A5%E5%AE%98%E7%A1%AE%E8%AE%A4%E6%AD%BB%E4%BA%A1",
+      "source": "weibo",
+      "category": "trending",
+      "hotScore": 150452,
+      "extra": {
+        "rank": 30,
+        "tag": ""
+      }
+    }
+  ]
+}

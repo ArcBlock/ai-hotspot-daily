@@ -1,0 +1,201 @@
+{
+  "source": "alphaxiv",
+  "fetchedAt": "2026-03-02T02:13:45.919Z",
+  "items": [
+    {
+      "id": "alphaxiv-2602.21548",
+      "title": "DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference",
+      "url": "https://www.alphaxiv.org/abs/2602.21548",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.918Z",
+      "extra": {
+        "arxivId": "2602.21548",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22661",
+      "title": "dLLM: Simple Diffusion Language Modeling",
+      "url": "https://www.alphaxiv.org/abs/2602.22661",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.918Z",
+      "extra": {
+        "arxivId": "2602.22661",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23361",
+      "title": "VGG-T3^33: Offline Feed-Forward 3D Reconstruction at Scale",
+      "url": "https://www.alphaxiv.org/abs/2602.23361",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.918Z",
+      "extra": {
+        "arxivId": "2602.23361",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23008",
+      "title": "Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization",
+      "url": "https://www.alphaxiv.org/abs/2602.23008",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.918Z",
+      "extra": {
+        "arxivId": "2602.23008",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23058",
+      "title": "GeoWorld: Geometric World Models",
+      "url": "https://www.alphaxiv.org/abs/2602.23058",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.918Z",
+      "extra": {
+        "arxivId": "2602.23058",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.21307",
+      "title": "SymTorch: A Framework for Symbolic Distillation of Deep Neural Networks",
+      "url": "https://www.alphaxiv.org/abs/2602.21307",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.918Z",
+      "extra": {
+        "arxivId": "2602.21307",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22766",
+      "title": "Imagination Helps Visual Reasoning, But Not Yet in Latent Space",
+      "url": "https://www.alphaxiv.org/abs/2602.22766",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.918Z",
+      "extra": {
+        "arxivId": "2602.22766",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23152",
+      "title": "The Trinity of Consistency as a Defining Principle for General World Models",
+      "url": "https://www.alphaxiv.org/abs/2602.23152",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.918Z",
+      "extra": {
+        "arxivId": "2602.23152",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23205",
+      "title": "EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents",
+      "url": "https://www.alphaxiv.org/abs/2602.23205",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.918Z",
+      "extra": {
+        "arxivId": "2602.23205",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22769",
+      "title": "AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications",
+      "url": "https://www.alphaxiv.org/abs/2602.22769",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.919Z",
+      "extra": {
+        "arxivId": "2602.22769",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22897",
+      "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+      "url": "https://www.alphaxiv.org/abs/2602.22897",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.919Z",
+      "extra": {
+        "arxivId": "2602.22897",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22010",
+      "title": "World Guidance: World Modeling in Condition Space for Action Generation",
+      "url": "https://www.alphaxiv.org/abs/2602.22010",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.919Z",
+      "extra": {
+        "arxivId": "2602.22010",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23330",
+      "title": "Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks",
+      "url": "https://www.alphaxiv.org/abs/2602.23330",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.919Z",
+      "extra": {
+        "arxivId": "2602.23330",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22617",
+      "title": "Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA",
+      "url": "https://www.alphaxiv.org/abs/2602.22617",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.919Z",
+      "extra": {
+        "arxivId": "2602.22617",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22675",
+      "title": "Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization",
+      "url": "https://www.alphaxiv.org/abs/2602.22675",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-02T02:13:45.919Z",
+      "extra": {
+        "arxivId": "2602.22675",
+        "fromScrape": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "date": "2026-03-02",
+    "slug": "2026-03-02-iran-crisis",
+    "generatedAt": "2026-03-02T12:30:00.000Z",
+    "language": "zh"
+  },
+  "hero": {
+    "title": "美以联合打击伊朗,中东全面升级",
+    "category": "国际",
+    "color": "#0891b2",
+    "chart": {
+      "type": "timeline",
+      "data": [
+        {"label": "2.28凌晨 美以发动空袭", "value": 1, "unit": ""},
+        {"label": "2.28 哈梅内伊确认身亡", "value": 2, "unit": ""},
+        {"label": "2.28 40+高层被击毙", "value": 3, "unit": ""},
+        {"label": "3.1 伊朗封锁霍尔木兹", "value": 4, "unit": ""},
+        {"label": "3.1 伊朗反击多国目标", "value": 5, "unit": ""},
+        {"label": "3.2 黎巴嫩向以发射火箭", "value": 6, "unit": ""}
+      ],
+      "highlight": "72小时内中东格局剧变"
+    },
+    "keyNumbers": [
+      {"value": "40+", "label": "伊朗高层死亡"},
+      {"value": "150艘", "label": "油轮滞留"},
+      {"value": "3名", "label": "美军阵亡"}
+    ],
+    "takeaway": "\"史诗之怒\"行动72小时,伊朗最高领袖身亡,中东陷入全面冲突",
+    "sources": [
+      {"name": "CNN", "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl"},
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/2/28/world-reacts-to-us-israel-attack-on-iran-tehran-retaliation"},
+      {"name": "NPR", "url": "https://www.npr.org/2026/03/01/nx-s1-5731365/us-israeli-strikes-region"}
+    ],
+    "needsDetail": true,
+    "detailTemplate": "geo-explainer",
+    "detailSlug": "us-israel-iran-strikes"
+  },
+  "cards": [
+    {
+      "title": "金银油价全线飙升",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "trend",
+        "data": {
+          "points": [
+            {"label": "年初", "value": 4300},
+            {"label": "2.27", "value": 4850},
+            {"label": "3.1", "value": 5292}
+          ],
+          "unit": "美元/盎司",
+          "trend": "up"
+        }
+      },
+      "insight": "黄金破5292美元,白银逼近百元",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "gold-oil-price-surge"
+    },
+    {
+      "title": "霍尔木兹海峡事实停摆",
+      "category": "国际",
+      "color": "#0891b2",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": {
+          "value": "150+",
+          "unit": "艘油轮滞留",
+          "context": "全球30%海运石油经此运输"
+        }
+      },
+      "insight": "全球能源命脉被掐断,油价或冲至100美元",
+      "needsDetail": true,
+      "detailTemplate": "geo-explainer",
+      "detailSlug": "hormuz-strait-blocked"
+    },
+    {
+      "title": "国乒包揽新加坡大满贯",
+      "category": "体育",
+      "color": "#059669",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": {"label": "孙颖莎", "value": "4:2"},
+          "right": {"label": "王曼昱", "value": ""},
+          "subtitle": "王楚钦4:0横扫林昀儒"
+        }
+      },
+      "insight": "孙颖莎卫冕女单,王楚钦零封夺男单",
+      "needsDetail": false
+    },
+    {
+      "title": "荣耀发布全球首款机器人手机",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "tags",
+        "data": {
+          "tags": ["3轴云台", "200MP", "AI交互", "人形机器人"]
+        }
+      },
+      "insight": "MWC 2026最大亮点,CNN记者称想买",
+      "needsDetail": false
+    },
+    {
+      "title": "杭州影院试行观影后悔权",
+      "category": "社会",
+      "color": "#dc2626",
+      "miniChart": {
+        "type": "progress",
+        "data": {
+          "value": 40,
+          "max": 100,
+          "unit": "%",
+          "label": "可退票价比例"
+        }
+      },
+      "insight": "开映20分钟可退40%,试行至4月底",
+      "needsDetail": false
+    },
+    {
+      "title": "AI演员逼真引发行业争议",
+      "category": "娱乐",
+      "color": "#7c3aed",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": {"label": "AI演员", "value": "80%"},
+          "right": {"label": "真人演员", "value": "20%"},
+          "subtitle": "2026年后期制作AI占比预估"
+        }
+      },
+      "insight": "Seedance 2.0爆红,好莱坞关注",
+      "needsDetail": false
+    }
+  ]
+}

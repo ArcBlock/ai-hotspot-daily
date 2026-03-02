@@ -1,0 +1,91 @@
+{
+  "slug": "hormuz-strait-blocked",
+  "title": "霍尔木兹海峡事实停摆：全球能源命脉被掐断",
+  "category": "国际",
+  "color": "#0891b2",
+  "template": "geo-explainer",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "局势概述",
+      "content": {
+        "paragraphs": [
+          "2月28日美以打击伊朗后，伊斯兰革命卫队通过甚高频无线电向过往船只发出警告：\"任何船只不得通过霍尔木兹海峡，直至另行通知。\"尽管伊朗未正式宣布关闭海峡，但商业航运已事实停摆。",
+          "至少150艘油轮和液化天然气船在海峡外的波斯湾开阔水域抛锚等待。马士基等全球主要航运公司已暂停所有途经霍尔木兹海峡的航运，保险公司撤出承保进一步加剧了封锁效果。阿曼海事安全中心确认，帕劳籍油轮\"天光号\"在海峡附近遭无人机攻击，4名船员受伤。",
+          "霍尔木兹海峡是全球最重要的石油运输咽喉——2024年日均通过2000万桶原油，占全球海运石油贸易的27%、全球石油消费总量的约20%。该水道同时承载全球20%的液化天然气贸易和1/3的化肥贸易。"
+        ]
+      }
+    },
+    {
+      "type": "comparison",
+      "heading": "各方立场对比",
+      "content": {
+        "left": {
+          "label": "伊朗",
+          "points": [
+            "革命卫队宣布\"禁止任何船只通过\"，作为对美以空袭的报复手段",
+            "向海峡附近油轮发动无人机攻击，已造成船员伤亡",
+            "将海峡封锁作为对抗美以军事打击的战略筹码",
+            "前革命卫队指挥官声称\"未限制国际航运\"，内部信号矛盾"
+          ]
+        },
+        "right": {
+          "label": "美国及国际社会",
+          "points": [
+            "美国第五舰队部署于波斯湾，试图维护航行自由",
+            "马士基等航运巨头暂停所有霍尔木兹航运",
+            "保险公司撤出承保，商业航运成本激增",
+            "亚洲各国紧急评估战略石油储备和替代供应来源"
+          ]
+        }
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键数据",
+      "content": {
+        "facts": [
+          {"label": "滞留船只", "value": "150+艘（含油轮和LNG船）"},
+          {"label": "日均通过量", "value": "2000万桶原油（2024年数据）"},
+          {"label": "占全球海运石油", "value": "27%"},
+          {"label": "占全球石油消费", "value": "约20%"},
+          {"label": "亚洲依赖度", "value": "中日韩印占霍尔木兹原油流量的69%"},
+          {"label": "已遇袭油轮", "value": "\"天光号\"（帕劳籍），4名船员受伤"}
+        ]
+      }
+    },
+    {
+      "type": "timeline",
+      "heading": "事件发展脉络",
+      "content": {
+        "events": [
+          {"time": "2026年1月底", "text": "伊朗革命卫队海军高级指挥官威胁：若遭攻击将关闭海峡", "highlight": false},
+          {"time": "2月3日", "text": "6艘革命卫队炮艇试图在海峡拦截美国油轮\"斯特纳命令号\"，被美军护航驱离", "highlight": false},
+          {"time": "2月17日", "text": "革命卫队在海峡举行\"智能控制\"军事演习，部分水域临时关闭数小时", "highlight": false},
+          {"time": "2月28日", "text": "美以发动\"史诗之怒\"空袭后，革命卫队通过无线电宣布海峡禁止通行", "highlight": true},
+          {"time": "3月1日", "text": "150+艘油轮和LNG船在海峡外抛锚；帕劳籍油轮\"天光号\"遭无人机攻击", "highlight": true},
+          {"time": "3月1日", "text": "马士基等航运公司暂停霍尔木兹航运；保险公司撤出承保", "highlight": true}
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "影响评估",
+      "content": {
+        "paragraphs": [
+          "亚洲受冲击最为严重——中国50%的海运原油、日本90%的原油进口、印度近半数原油进口均依赖霍尔木兹海峡。中国作为伊朗原油最大买家（2025年日均进口138万桶伊朗原油），面临直接断供风险。各国紧急评估战略储备和替代来源。",
+          "替代管道运力有限：沙特有跨国管道通往红海沿岸，阿联酋有管道绕行至阿曼湾，但均无法替代海峡的海运吞吐量。若封锁持续数周，分析师预计布伦特原油将突破100美元/桶，全球或面临类似1970年代的能源危机。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets"},
+    {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-02-28/oil-tankers-avoiding-vital-hormuz-strait-after-us-bombs-iran"},
+    {"name": "Euronews（油轮遇袭）", "url": "https://www.euronews.com/business/2026/03/01/first-oil-tanker-attacked-in-the-strait-of-hormuz-according-to-oman"},
+    {"name": "BusinessToday（中国能源安全）", "url": "https://www.businesstoday.in/world/story/iran-blocks-strait-of-hormuz-what-it-means-for-global-oil-and-chinas-energy-security-518622-2026-03-01"},
+    {"name": "EIA（美国能源信息署）", "url": "https://www.eia.gov/todayinenergy/detail.php?id=65504"},
+    {"name": "Deccan Herald（150艘油轮滞留）", "url": "https://www.deccanherald.com/world/middle-east/hundreds-of-ships-drop-anchor-in-middle-east-gulf-as-us-war-on-iran-escalates-3916496"}
+  ],
+  "generatedAt": "2026-03-02T12:55:00.000Z"
+}

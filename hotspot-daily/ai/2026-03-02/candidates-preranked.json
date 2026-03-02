@@ -1,0 +1,747 @@
+[
+  {
+    "id": "gh-Shubhamsaboo-awesome-llm-apps",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 98739,
+    "category": "project",
+    "starsToday": 471,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-ruvnet-ruflo",
+    "title": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architect",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 17353,
+    "category": "project",
+    "starsToday": 766,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-superset-sh-superset",
+    "title": "superset-sh/superset",
+    "url": "https://github.com/superset-sh/superset",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 2918,
+    "category": "project",
+    "starsToday": 389,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-bytedance-deer-flow",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 23016,
+    "category": "project",
+    "starsToday": 355,
+    "aiRelated": true,
+    "prerankScore": 88,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 20,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-K-Dense-AI-claude-scientific-skills",
+    "title": "K-Dense-AI/claude-scientific-skills",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 10330,
+    "category": "project",
+    "starsToday": 189,
+    "aiRelated": true,
+    "prerankScore": 88,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 20,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-alibaba-OpenSandbox",
+    "title": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 3418,
+    "category": "project",
+    "starsToday": 1179,
+    "aiRelated": true,
+    "prerankScore": 83,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-NevaMind-AI-memU",
+    "title": "NevaMind-AI/memU",
+    "url": "https://github.com/NevaMind-AI/memU",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 12066,
+    "category": "project",
+    "starsToday": 323,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47204571",
+    "title": "Switch to Claude without starting over",
+    "url": "https://claude.com/import-memory",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-01T07:36:52.000Z",
+    "rawScore": 519,
+    "category": "discussion",
+    "comments": 250,
+    "prerankScore": 77,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "hn-47207236",
+    "title": "Why XML tags are so fundamental to Claude",
+    "url": "https://glthr.com/XML-fundamental-to-Claude",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-01T14:52:22.000Z",
+    "rawScore": 164,
+    "category": "discussion",
+    "comments": 115,
+    "prerankScore": 77,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 20,
+      "keywords": 15,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "alphaxiv-2602.21548",
+    "title": "DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference",
+    "url": "https://www.alphaxiv.org/abs/2602.21548",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:45.918Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 74,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-microsoft-markitdown",
+    "title": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Python tool for converting files and office documents to Markdown.",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 89025,
+    "category": "project",
+    "starsToday": 805,
+    "aiRelated": false,
+    "prerankScore": 73,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-X-PLUG-MobileAgent",
+    "title": "X-PLUG/MobileAgent",
+    "url": "https://github.com/X-PLUG/MobileAgent",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Mobile-Agent: The Powerful GUI Agent Family",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 7717,
+    "category": "project",
+    "starsToday": 190,
+    "aiRelated": true,
+    "prerankScore": 73,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 20,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "rss-Lobste-rs-AI-https---lobste-rs-s-s4ha0g",
+    "title": "mcp-firewall: A better policy-engine for CLI agents",
+    "url": "https://github.com/dzervas/mcp-firewall",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "I created a more granular policy-engine for cli agents (at the time of writing only claude code and github copilot cli are supported) Each agent implements its own halfway solution to allow/deny speci",
+    "publishedAt": "Sun, 01 Mar 2026 18:30:31 -0600",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-skorekclaude-i-built-13-ai-agents-that-run-my-life-heres-the-architectu",
+    "title": "I Built 13 AI Agents That Run My Life — Here's the Architecture",
+    "url": "https://dev.to/skorekclaude/i-built-13-ai-agents-that-run-my-life-heres-the-architecture-1bod",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The Problem Every AI tool I tried felt like talking to a stranger. Smart, but clueless about me. ChatGPT doesn't know I live in Rio. Claude doesn't remember my startup is called ALLMA. None of them kn",
+    "publishedAt": "Mon, 02 Mar 2026 01:14:45 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "gh-datawhalechina-hello-agents",
+    "title": "datawhalechina/hello-agents",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "publishedAt": "2026-03-02T02:13:18.451Z",
+    "rawScore": 23892,
+    "category": "project",
+    "starsToday": 147,
+    "aiRelated": true,
+    "prerankScore": 71,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 18,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.23008",
+    "title": "Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization",
+    "url": "https://www.alphaxiv.org/abs/2602.23008",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:45.918Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.22766",
+    "title": "Imagination Helps Visual Reasoning, But Not Yet in Latent Space",
+    "url": "https://www.alphaxiv.org/abs/2602.22766",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:45.918Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47211249",
+    "title": "WebMCP is available for early preview",
+    "url": "https://developer.chrome.com/blog/webmcp-epp",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-01T22:13:58.000Z",
+    "rawScore": 125,
+    "category": "discussion",
+    "comments": 78,
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 17,
+      "keywords": 5,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "websearch-1772417838-ws-1",
+    "title": "MiniMax M2.5 模型发布，性价比挑战 Claude Opus 4.6",
+    "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "MiniMax 发布 M2.5 模型，以低成本 AI 性能对标 Claude Opus 4.6，为创业公司在编程和视觉内容领域创造新机会",
+    "publishedAt": "2026-03-02T02:17:18.266792+00:00",
+    "rawScore": 0,
+    "category": "release",
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "hn-47202708",
+    "title": "Microgpt",
+    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-01T01:39:26.000Z",
+    "rawScore": 1697,
+    "category": "discussion",
+    "comments": 294,
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-AI-Arms-and-Influence-Frontie",
+    "title": "AI Arms and Influence: Frontier Models Exhibit Sophisticated Reasoning in Simulated Nuclear Crises",
+    "url": "https://deeplearn.org/arxiv/702243/ai-arms-and-influence:-frontier-models-exhibit-sophisticated-reasoning-in-simulated-nuclear-crises",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:50.342Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:44.212Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "ph-claude-import-memory",
+    "title": "Claude Import Memory",
+    "url": "https://www.producthunt.com/products/claude",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Switch from ChatGPT to Claude with import memory feature\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/claude?utm_campaign",
+    "publishedAt": "2026-03-01T05:55:54.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 64,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 25,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "hn-47205890",
+    "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+    "url": "https://99helpers.com/tools/ad-supported-chat",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-01T11:49:01.000Z",
+    "rawScore": 472,
+    "category": "discussion",
+    "comments": 267,
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-AIC-CTU-AVerImaTeC-dual-retri",
+    "title": "AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking",
+    "url": "https://deeplearn.org/arxiv/702966/aic-ctu@averimatec:-dual-retriever-rag-for-image-text-fact-checking",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:50.341Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-Stretching-Beyond-the-Obvious-",
+    "title": "Stretching Beyond the Obvious: A Gradient-Free Framework to Unveil the Hidden Landscape of Visual Invariance",
+    "url": "https://deeplearn.org/arxiv/702109/stretching-beyond-the-obvious:-a-gradient-free-framework-to-unveil-the-hidden-landscape-of-visual-invariance",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:50.342Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:44.212Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "pwc-2602.23152",
+    "title": "Paper 2602.23152",
+    "url": "https://huggingface.co/papers/2602.23152",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:42.361Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2602.22859",
+    "title": "Paper 2602.22859",
+    "url": "https://huggingface.co/papers/2602.22859",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:42.361Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2602.22638",
+    "title": "Paper 2602.22638",
+    "url": "https://huggingface.co/papers/2602.22638",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:42.361Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3098239",
+    "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+    "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+    "publishedAt": "Sun, 01 Mar 2026 14:48:58 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "websearch-1772417838-ws-0",
+    "title": "Inception Labs 发布 Mercury 2 -- 全球最快推理语言模型",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "Inception Labs 发布 Mercury 2，号称全球最快推理语言模型。该模型不采用顺序解码，而是通过并行细化生成响应，同时生成多个 token 并在少量步骤内收敛，实现 5 倍以上加速",
+    "publishedAt": "2026-03-02T02:17:18.266792+00:00",
+    "rawScore": 0,
+    "category": "release",
+    "prerankScore": 53,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "websearch-1772417838-ws-2",
+    "title": "开源社区应对 AI 生成低质量贡献，Gentoo Linux 禁止 AI 提交",
+    "url": "https://blog.mean.ceo/open-source-ai-news-march-2026/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "开源社区面临 AI 生成低质量贡献的挑战，Gentoo Linux 已明确禁止 AI 生成的代码提交。Vouch 等系统通过评估贡献者可信度而非内容本身来把关质量",
+    "publishedAt": "2026-03-02T02:17:18.266792+00:00",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 53,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T02:13:44.212Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "ph-openfang",
+    "title": "OpenFang",
+    "url": "https://www.producthunt.com/products/openfang",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Open-Source Agent Operating System\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/openfang?utm_campaign=producthunt-atom-po",
+    "publishedAt": "2026-03-01T01:50:41.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 49,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "qbitai-OpenAI最新融资1100亿美元-英伟达亚马逊软银都抢到船",
+    "title": "OpenAI最新融资1100亿美元！英伟达亚马逊软银都抢到船票了",
+    "url": "https://www.qbitai.com/2026/02/382934.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T03:50:45.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 41,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "websearch-1772417838-mcp-0",
+    "title": "ClawSwarm 0.1.0 更新：gRPC 网关、Web 抓取和 HTTP API",
+    "url": "https://twitter.com/swarms_corp/status/2027830531954544651",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "Swarms 团队发布 ClawSwarm 0.1.0 重大更新，加入 gRPC 网关、Web 抓取和 HTTP API 等功能，团队在过去一周提交 49 个 commit",
+    "publishedAt": "2026-03-01T14:00:00Z",
+    "rawScore": 0,
+    "category": "release",
+    "prerankScore": 40,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "ph-bu",
+    "title": "BU",
+    "url": "https://www.producthunt.com/products/browser-use",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Openclaw in the cloud\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/browser-use?utm_campaign=producthunt-atom-posts-feed&a",
+    "publishedAt": "2026-03-01T06:26:56.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 39,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "qbitai-海淀放大招-90亿资金-近30条政策-重磅释放三大科创关键信",
+    "title": "海淀放大招！90亿资金+近30条政策，重磅释放三大科创关键信号",
+    "url": "https://www.qbitai.com/2026/02/382952.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-02-28T12:59:13.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 36,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "websearch-1772417838-mcp-1",
+    "title": "港股 AI 应用板块大跌，MiniMax 跌超 14%，智谱跌超 12%",
+    "url": "https://twitter.com/sino_market/status/2027207429713453226",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "港股 AI 应用板块出现大幅回调，MiniMax 下跌超 14%，智谱(Zhipu)下跌超 12%，反映市场对 AI 概念股估值的重新评估",
+    "publishedAt": "2026-02-28T18:00:00Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 25,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 10
+    }
+  }
+]

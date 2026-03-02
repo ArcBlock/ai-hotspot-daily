@@ -1,0 +1,186 @@
+{
+  "source": "deep-learning-monitor",
+  "fetchedAt": "2026-03-02T02:13:50.342Z",
+  "items": [
+    {
+      "id": "dlm-Deep-Two-Way-Matrix-Reordering",
+      "title": "Deep Two-Way Matrix Reordering for Relational Data Analysis",
+      "url": "https://deeplearn.org/arxiv/702458/deep-two-way-matrix-reordering-for-relational-data-analysis",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.341Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Humanity-39-s-Last-Exam",
+      "title": "Humanity&#39;s Last Exam",
+      "url": "https://deeplearn.org/arxiv/704232/humanity&#39;s-last-exam",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.341Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-The-Implicit-Bias-of-Adam-and-",
+      "title": "The Implicit Bias of Adam and Muon on Smooth Homogeneous Neural Networks",
+      "url": "https://deeplearn.org/arxiv/703208/the-implicit-bias-of-adam-and-muon-on-smooth-homogeneous-neural-networks",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.341Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-AIC-CTU-AVerImaTeC-dual-retri",
+      "title": "AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking",
+      "url": "https://deeplearn.org/arxiv/702966/aic-ctu@averimatec:-dual-retriever-rag-for-image-text-fact-checking",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.341Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Image-Generation-with-a-Sphere",
+      "title": "Image Generation with a Sphere Encoder",
+      "url": "https://deeplearn.org/arxiv/702096/image-generation-with-a-sphere-encoder",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.341Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-On-the-Role-of-Iterative-Compu",
+      "title": "On the Role of Iterative Computation in Reinforcement Learning",
+      "url": "https://deeplearn.org/arxiv/702644/on-the-role-of-iterative-computation-in-reinforcement-learning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Learning-Rate-Annealing-Improv",
+      "title": "Learning Rate Annealing Improves Tuning Robustness in Stochastic Optimization",
+      "url": "https://deeplearn.org/arxiv/702112/learning-rate-annealing-improves-tuning-robustness-in-stochastic-optimization",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-AI-Arms-and-Influence-Frontie",
+      "title": "AI Arms and Influence: Frontier Models Exhibit Sophisticated Reasoning in Simulated Nuclear Crises",
+      "url": "https://deeplearn.org/arxiv/702243/ai-arms-and-influence:-frontier-models-exhibit-sophisticated-reasoning-in-simulated-nuclear-crises",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-EditCtrl-Disentangled-Local-a",
+      "title": "EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing",
+      "url": "https://deeplearn.org/arxiv/702095/editctrl:-disentangled-local-and-global-control-for-real-time-generative-video-editing",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Cold-Start-Personalization-via",
+      "title": "Cold-Start Personalization via Training-Free Priors from Structured World Models",
+      "url": "https://deeplearn.org/arxiv/702108/cold-start-personalization-via-training-free-priors-from-structured-world-models",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Stretching-Beyond-the-Obvious-",
+      "title": "Stretching Beyond the Obvious: A Gradient-Free Framework to Unveil the Hidden Landscape of Visual Invariance",
+      "url": "https://deeplearn.org/arxiv/702109/stretching-beyond-the-obvious:-a-gradient-free-framework-to-unveil-the-hidden-landscape-of-visual-invariance",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-BPP-Long-Context-Robot-Imitat",
+      "title": "BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames",
+      "url": "https://deeplearn.org/arxiv/702110/bpp:-long-context-robot-imitation-learning-by-focusing-on-key-history-frames",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Efficient-Sampling-with-Discre",
+      "title": "Efficient Sampling with Discrete Diffusion Models: Sharp and Adaptive Guarantees",
+      "url": "https://deeplearn.org/arxiv/702111/efficient-sampling-with-discrete-diffusion-models:-sharp-and-adaptive-guarantees",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Spectral-Convolution-on-Orbifo",
+      "title": "Spectral Convolution on Orbifolds for Geometric Deep Learning",
+      "url": "https://deeplearn.org/arxiv/702117/spectral-convolution-on-orbifolds-for-geometric-deep-learning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Robust-Generalization-with-Ada",
+      "title": "Robust Generalization with Adaptive Optimal Transport Priors for Decision-Focused Learning",
+      "url": "https://deeplearn.org/arxiv/702118/robust-generalization-with-adaptive-optimal-transport-priors-for-decision-focused-learning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-02T02:13:50.342Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}

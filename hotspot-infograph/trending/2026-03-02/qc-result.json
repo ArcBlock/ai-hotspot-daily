@@ -1,0 +1,88 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-03-02T02:38:10.372Z",
+  "checks": {
+    "heroTitle": {
+      "pass": true,
+      "value": 15,
+      "required": "≤ 20",
+      "message": "\"美以联合打击伊朗,中东全面升级\""
+    },
+    "heroKeyNumbers": {
+      "pass": true,
+      "value": 3,
+      "required": 3
+    },
+    "heroChartData": {
+      "pass": true,
+      "value": 6,
+      "required": "≥ 2"
+    },
+    "heroChartType": {
+      "pass": true,
+      "value": "timeline",
+      "required": "bar | line | ring | timeline | versus | heatmap"
+    },
+    "heroTakeaway": {
+      "pass": true,
+      "value": 30,
+      "required": "≤ 30"
+    },
+    "heroSources": {
+      "pass": true,
+      "value": 3,
+      "required": "≥ 1"
+    },
+    "cardsCount": {
+      "pass": true,
+      "value": 6,
+      "required": "4–6"
+    },
+    "cardsDiversity": {
+      "pass": true,
+      "value": 6,
+      "required": "≥ 3",
+      "message": "分类: 财经, 国际, 体育, 科技, 社会, 娱乐"
+    },
+    "cardTitles": {
+      "pass": true,
+      "value": [
+        8,
+        10,
+        10,
+        13,
+        11,
+        12
+      ],
+      "required": "每张 ≤ 15"
+    },
+    "cardInsights": {
+      "pass": true,
+      "value": [
+        16,
+        20,
+        16,
+        20,
+        18,
+        19
+      ],
+      "required": "每张 ≤ 20"
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "2026-03-02-iran-crisis"
+    },
+    "detailSlugsMatch": {
+      "pass": true,
+      "value": "expected: 2, found: 3",
+      "required": "all match"
+    },
+    "detailPages": {
+      "pass": true,
+      "value": 3,
+      "required": "quality checks",
+      "message": "all good"
+    }
+  },
+  "failReasons": []
+}

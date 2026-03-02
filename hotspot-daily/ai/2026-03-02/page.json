@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "date": "2026-03-02",
+    "slug": "alibaba-opensandbox-ai-sandbox",
+    "generatedAt": "2026-03-02T11:00:00.000Z",
+    "timezone": "Asia/Shanghai",
+    "confidence": 85,
+    "sourceCount": 5,
+    "language": "zh"
+  },
+  "zh": {
+    "title": "阿里开源 AI 沙箱 OpenSandbox",
+    "subtitle": "生产级代码隔离执行方案，自托管替代 E2B 的新选择",
+    "tldr": "阿里巴巴开源 OpenSandbox，提供多语言 SDK 和 Docker/K8s 运行时，支持 Coding Agent、GUI Agent 等场景的安全代码执行，单日 1179 star，是 E2B 的可自托管替代方案。",
+    "keyMetrics": {
+      "subject": "OpenSandbox",
+      "competitors": ["E2B", "Daytona", "Modal"],
+      "rows": [
+        { "metric": "冷启动时间", "values": ["未公布", "~150ms", "~90ms", "亚秒级"], "unit": "", "note": "E2B 基于 Firecracker 微虚拟机" },
+        { "metric": "运行时上限", "values": ["无限制（自托管）", "24 小时", "无限制", "24 小时"], "unit": "", "note": "自托管模式无时间限制" },
+        { "metric": "托管价格", "values": ["免费（自托管）", "$0.083/h", "$0.083/h", "$0.119/h"], "unit": "1 vCPU + 2GB RAM", "note": "OpenSandbox 为自托管方案，仅承担基础设施成本" },
+        { "metric": "SDK 语言", "values": ["Python/Java/JS/C#", "Python/JS", "Python/JS", "Python"], "unit": "", "note": "OpenSandbox 语言覆盖最广" },
+        { "metric": "K8s 原生支持", "values": ["✓", "✗", "✓", "✓"], "unit": "", "note": "" },
+        { "metric": "网络策略控制", "values": ["FQDN 级别", "全有或全无", "基础", "基础"], "unit": "", "note": "OpenSandbox 支持基于域名的细粒度出口控制" }
+      ],
+      "footnote": "价格数据来源于 Superagent 2026 年 AI 沙箱基准测试报告，OpenSandbox 为自托管开源方案无 SaaS 定价"
+    },
+    "whatHappened": "阿里巴巴于 2026 年 3 月初在 GitHub 开源了 **OpenSandbox**，一个通用 AI 应用沙箱平台，Apache 2.0 许可证：\n\n- **单日获得 1179 star**，总星数迅速突破 3400+，显示市场对自托管 AI 沙箱方案的强烈需求\n- 提供 **Python、Java/Kotlin、JavaScript/TypeScript、C#/.NET** 四种语言 SDK，覆盖主流开发生态\n- 支持 **Docker 和 Kubernetes** 双运行时，控制面（FastAPI 生命周期服务器）与数据面（Go execd 执行守护进程）分离架构\n- 内置命令行执行、文件系统操作、代码解释器（基于 Jupyter）、浏览器自动化（Chrome/Playwright）和 VS Code 桌面环境\n- 提供 **FQDN 级别的网络出口策略控制**，通过 DNS 代理 + nftables 实现细粒度隔离",
+    "whyItMatters": "AI Agent 安全执行代码是当前最关键的基础设施缺口之一，OpenSandbox 的出现改变了这个领域的竞争格局：\n\n1. **自托管 vs SaaS 的选择权**：E2B 虽好但是托管服务，数据离开你的基础设施。OpenSandbox 让你在自己的 Docker/K8s 集群上运行，数据不出网\n2. **生产级网络隔离**：不是简单的全有或全无网络策略，而是基于 FQDN 的细粒度出口控制——你可以允许沙箱访问 pypi.org 但禁止其他出站流量\n3. **多语言 SDK 降低集成门槛**：Java/C# 开发者终于有了一手公民级别的 AI 沙箱 SDK，不需要再通过 REST API 手动对接\n4. **控制面/数据面分离**：SDK 直接与沙箱内的 execd 通信（端口 44772），绕过服务器瓶颈，适合高并发场景",
+    "whoIsAffected": {
+      "groups": [
+        { "name": "AI Agent/Coding Agent 开发者", "impact": "high", "description": "直接获得一个可自托管的生产级代码沙箱方案，替代或补充 E2B 等 SaaS 服务" },
+        { "name": "平台工程师/DevOps", "impact": "high", "description": "需要评估是否在现有 K8s 集群上部署 OpenSandbox 以支持团队的 AI 代码执行需求" },
+        { "name": "个人开发者/独立开发者", "impact": "medium", "description": "可以在本地 Docker 上零成本搭建 AI 沙箱环境，不再受 E2B 免费额度限制" },
+        { "name": "企业安全/合规团队", "impact": "medium", "description": "自托管方案满足数据不出网的合规要求，FQDN 级网络策略提供可审计的安全边界" }
+      ]
+    },
+    "whatToDo": {
+      "immediate": [
+        "在本地用 Docker 跑通 OpenSandbox 的 Quick Start：`uv pip install opensandbox-server && opensandbox-server init-config ~/.sandbox.toml --example docker && opensandbox-server`，预计 15 分钟",
+        "用 Python SDK 测试一个基础工作流：创建沙箱 → 执行 shell 命令 → 运行代码解释器 → 销毁沙箱，验证端到端体验"
+      ],
+      "thisWeek": [
+        "对比 OpenSandbox 和你当前使用的沙箱方案（E2B/自建 Docker/无沙箱），从冷启动时间、网络隔离能力、SDK 易用性三个维度评估",
+        "如果你的项目使用 Java 或 C#，重点测试对应 SDK 的完整度——这是 OpenSandbox 相对竞品的独特优势"
+      ],
+      "watchAndWait": [
+        "关注 Go SDK 的开发进度和 Kubernetes Helm Chart 的正式发布——这两项完成后才是生产部署的最佳时机",
+        "追踪社区反馈和 issue 情况，开源初期可能存在边界场景 bug，等 1-2 个月让社区打磨后再用于生产"
+      ]
+    },
+    "options": [
+      {
+        "name": "用 OpenSandbox 替换 E2B",
+        "description": "将 AI 代码执行环境从 E2B SaaS 迁移到自托管的 OpenSandbox",
+        "suitableFor": "对数据主权有要求的团队、E2B 免费额度不够用的个人开发者、需要 Java/C# SDK 的项目",
+        "cost": "需要运维自己的 Docker/K8s 集群，初期部署和调优约 1-2 天",
+        "risk": "项目刚开源，生产稳定性未经大规模验证；冷启动性能数据尚未公布"
+      },
+      {
+        "name": "OpenSandbox 作为备选方案并行测试",
+        "description": "保留现有沙箱方案，同时在非生产环境部署 OpenSandbox 进行评估",
+        "suitableFor": "希望保持灵活性的团队，或正在自建沙箱方案的团队",
+        "cost": "评估测试约 1-2 天人力，基础设施成本可忽略",
+        "risk": "低风险，最多浪费几天评估时间"
+      },
+      {
+        "name": "保持现状",
+        "description": "继续使用当前的沙箱方案（E2B/Modal/自建），不做改变",
+        "suitableFor": "当前方案运行稳定且满足需求的团队，或不需要自托管的场景",
+        "cost": "零",
+        "risk": "如果后续需要自托管沙箱方案，可能错过跟进社区早期发展的机会；但目前没有紧迫切换需求"
+      }
+    ],
+    "risks": [
+      { "title": "开源初期不等于生产就绪", "description": "3400 star 和阿里背书给人信心，但开源不到一周。K8s Helm Chart 还在开发中，Go SDK 在路线图上。现在就投入生产为时过早，建议等 1-2 个版本迭代后再评估生产可用性。" },
+      { "title": "自托管的隐性运维成本", "description": "免费不等于零成本。自托管 OpenSandbox 需要管理 Docker/K8s 集群、监控沙箱生命周期、处理网络策略配置。如果你的团队没有 DevOps 能力，E2B 的 SaaS 模式反而更经济。" },
+      { "title": "冷启动性能未经验证", "description": "竞品 E2B 的 ~150ms 和 Daytona 的 ~90ms 冷启动时间都有公开数据。OpenSandbox 尚未公布性能基准，基于 Docker/K8s 的架构在冷启动上可能不如 Firecracker 微虚拟机方案。" }
+    ],
+    "sources": [
+      {
+        "title": "alibaba/OpenSandbox — GitHub 官方仓库",
+        "url": "https://github.com/alibaba/OpenSandbox",
+        "publisher": "GitHub (Alibaba)",
+        "tier": "official",
+        "excerpt": "通用 AI 应用沙箱平台，提供多语言 SDK（Python/Java/JS/C#）、Docker/K8s 运行时、FQDN 级网络策略控制，Apache 2.0 许可证，3400+ star。",
+        "publishedAt": "2026-02-28T00:00:00Z"
+      },
+      {
+        "title": "alibaba/OpenSandbox 技术架构深度分析",
+        "url": "https://deepwiki.com/alibaba/OpenSandbox",
+        "publisher": "DeepWiki",
+        "tier": "media",
+        "excerpt": "详细分析 OpenSandbox 的控制面/数据面分离架构、execd 执行守护进程、FQDN 级出口控制实现、SDK 设计模式和部署配置。",
+        "publishedAt": "2026-03-01T00:00:00Z"
+      },
+      {
+        "title": "OpenSandbox：AI 代理的沙盒",
+        "url": "https://www.hubwiz.com/blog/opensandbox-the-sandbox-for-ai-agents/",
+        "publisher": "汇智网",
+        "tier": "media",
+        "excerpt": "分析 OpenSandbox 的核心功能、与 SmolVM 等竞品对比、K8s 原生支持的企业适配性优势。开源一周获 2000+ star。",
+        "publishedAt": "2026-03-01T00:00:00Z"
+      },
+      {
+        "title": "OpenSandbox — Alibaba's Open-Source AI Application Sandbox Platform",
+        "url": "https://altools.ai/15094.html",
+        "publisher": "Alternative AI Tools",
+        "tier": "media",
+        "excerpt": "OpenSandbox 提供细粒度网络策略控制和资源隔离，支持 CPU/内存/磁盘/网络配额，集成 Seccomp 和 AppArmor 安全模块。",
+        "publishedAt": "2026-03-01T00:00:00Z"
+      },
+      {
+        "title": "AI Code Sandbox Benchmark 2026 — Modal vs E2B vs Daytona",
+        "url": "https://www.superagent.sh/blog/ai-code-sandbox-benchmark-2026",
+        "publisher": "Superagent",
+        "tier": "media",
+        "excerpt": "2026 年 AI 沙箱基准测试：E2B 冷启动 ~150ms/$0.083/h，Daytona ~90ms/$0.083/h，Modal 亚秒级/$0.119/h。OpenSandbox 作为自托管方案提供不同的价值主张。",
+        "publishedAt": "2026-02-15T00:00:00Z"
+      }
+    ]
+  },
+  "en": {
+    "title": "Alibaba Open-Sources OpenSandbox for AI Agents",
+    "subtitle": "Production-grade self-hosted sandbox — a real alternative to E2B",
+    "tldr": "Alibaba released OpenSandbox under Apache 2.0, offering multi-language SDKs (Python/Java/JS/C#), Docker/K8s runtimes, and FQDN-level network policies for secure AI code execution. 1,179 stars on day one.",
+    "keyMetrics": {
+      "subject": "OpenSandbox",
+      "competitors": ["E2B", "Daytona", "Modal"],
+      "rows": [
+        { "metric": "Cold Start", "values": ["Not published", "~150ms", "~90ms", "Sub-second"], "unit": "", "note": "E2B uses Firecracker microVMs" },
+        { "metric": "Session Limit", "values": ["Unlimited (self-hosted)", "24 hours", "Unlimited", "24 hours"], "unit": "", "note": "Self-hosted mode has no time restrictions" },
+        { "metric": "Hosted Price", "values": ["Free (self-hosted)", "$0.083/h", "$0.083/h", "$0.119/h"], "unit": "1 vCPU + 2GB RAM", "note": "OpenSandbox is self-hosted; you only pay for infra" },
+        { "metric": "SDK Languages", "values": ["Python/Java/JS/C#", "Python/JS", "Python/JS", "Python"], "unit": "", "note": "Broadest language coverage" },
+        { "metric": "Native K8s", "values": ["Yes", "No", "Yes", "Yes"], "unit": "", "note": "" },
+        { "metric": "Network Policies", "values": ["FQDN-level", "All-or-nothing", "Basic", "Basic"], "unit": "", "note": "Fine-grained per-domain egress control" }
+      ],
+      "footnote": "Pricing data from Superagent AI Sandbox Benchmark 2026. OpenSandbox is self-hosted with no SaaS pricing."
+    },
+    "whatHappened": "Alibaba open-sourced **OpenSandbox** in early March 2026, a general-purpose sandbox platform for AI applications under the Apache 2.0 license:\n\n- **1,179 stars on day one**, rapidly exceeding 3,400+ total — signaling strong demand for self-hosted AI sandbox solutions\n- Ships with **Python, Java/Kotlin, JavaScript/TypeScript, and C#/.NET SDKs**, covering all major development ecosystems\n- Supports **Docker and Kubernetes** runtimes with a clean control plane (FastAPI lifecycle server) / data plane (Go execd daemon) separation\n- Built-in shell execution, filesystem operations, code interpreter (Jupyter-backed), browser automation (Chrome/Playwright), and VS Code desktop environment\n- Provides **FQDN-level egress network policies** via DNS proxy + nftables for fine-grained sandbox isolation",
+    "whyItMatters": "Secure code execution for AI agents is one of the most critical infrastructure gaps today. OpenSandbox shifts the competitive landscape:\n\n1. **Self-hosted vs SaaS optionality**: E2B works well but is a hosted service — your data leaves your infrastructure. OpenSandbox runs on your own Docker/K8s cluster with data staying in-network\n2. **Production-grade network isolation**: Not binary allow/deny, but FQDN-based egress controls — allow pypi.org while blocking all other outbound traffic per sandbox\n3. **Multi-language SDKs lower integration barriers**: Java and C# developers finally get first-class AI sandbox SDKs instead of manual REST API integration\n4. **Control/data plane separation**: SDKs communicate directly with in-sandbox execd on port 44772, bypassing server bottlenecks for high-concurrency workloads",
+    "whoIsAffected": {
+      "groups": [
+        { "name": "AI Agent / Coding Agent Developers", "impact": "high", "description": "Gain a self-hosted production-grade sandbox option to replace or complement E2B and other SaaS services" },
+        { "name": "Platform Engineers / DevOps", "impact": "high", "description": "Need to evaluate deploying OpenSandbox on existing K8s clusters to support team AI code execution needs" },
+        { "name": "Individual Developers", "impact": "medium", "description": "Can run AI sandboxes on local Docker at zero cost, no longer constrained by E2B's free tier limits" },
+        { "name": "Enterprise Security / Compliance Teams", "impact": "medium", "description": "Self-hosted deployment meets data sovereignty requirements; FQDN-level policies provide auditable security boundaries" }
+      ]
+    },
+    "whatToDo": {
+      "immediate": [
+        "Run OpenSandbox Quick Start locally with Docker: `uv pip install opensandbox-server && opensandbox-server init-config ~/.sandbox.toml --example docker && opensandbox-server` — takes about 15 minutes",
+        "Test a basic workflow with the Python SDK: create sandbox, run shell commands, execute code interpreter, destroy sandbox — validate the end-to-end experience"
+      ],
+      "thisWeek": [
+        "Compare OpenSandbox against your current sandbox solution (E2B/self-built Docker/none) across cold start time, network isolation capabilities, and SDK usability",
+        "If your project uses Java or C#, focus-test those SDKs — this is OpenSandbox's unique advantage over competitors"
+      ],
+      "watchAndWait": [
+        "Track Go SDK development and Kubernetes Helm Chart GA release — production deployment is best after both land",
+        "Monitor community feedback and issue tracker; early open-source releases may have edge-case bugs — give it 1-2 months of community hardening before production use"
+      ]
+    },
+    "options": [
+      {
+        "name": "Replace E2B with OpenSandbox",
+        "description": "Migrate AI code execution from E2B SaaS to self-hosted OpenSandbox",
+        "suitableFor": "Teams with data sovereignty requirements, developers hitting E2B free tier limits, projects needing Java/C# SDKs",
+        "cost": "Requires maintaining your own Docker/K8s cluster; initial deployment and tuning takes 1-2 days",
+        "risk": "Freshly open-sourced with production stability unproven at scale; cold start performance benchmarks not yet published"
+      },
+      {
+        "name": "Parallel evaluation",
+        "description": "Keep current sandbox solution while deploying OpenSandbox in non-production for evaluation",
+        "suitableFor": "Teams wanting flexibility, or those currently building custom sandbox solutions",
+        "cost": "1-2 days of evaluation effort; infrastructure costs negligible",
+        "risk": "Low risk — worst case is a few days spent evaluating"
+      },
+      {
+        "name": "Do nothing",
+        "description": "Continue with current sandbox setup (E2B/Modal/custom), make no changes",
+        "suitableFor": "Teams with stable, working sandbox solutions that meet current requirements, or no need for self-hosting",
+        "cost": "Zero",
+        "risk": "May miss early community development momentum if self-hosted sandbox becomes a future need; but no urgent reason to switch today"
+      }
+    ],
+    "risks": [
+      { "title": "Open source ≠ production ready on day one", "description": "3,400 stars and Alibaba's backing inspire confidence, but the project is less than a week old. K8s Helm Charts are still in development, Go SDK is on the roadmap. Deploying to production now is premature — wait for 1-2 release iterations before evaluating production readiness." },
+      { "title": "Hidden ops cost of self-hosting", "description": "Free doesn't mean zero cost. Self-hosting OpenSandbox requires managing Docker/K8s clusters, monitoring sandbox lifecycles, and configuring network policies. If your team lacks DevOps capacity, E2B's SaaS model may be more economical despite the per-hour pricing." },
+      { "title": "Cold start performance is unverified", "description": "Competitors publish benchmarks: E2B at ~150ms and Daytona at ~90ms cold starts. OpenSandbox has no published performance data yet. Its Docker/K8s architecture may not match Firecracker microVM cold start speeds." }
+    ],
+    "sources": [
+      {
+        "title": "alibaba/OpenSandbox — Official GitHub Repository",
+        "url": "https://github.com/alibaba/OpenSandbox",
+        "publisher": "GitHub (Alibaba)",
+        "tier": "official",
+        "excerpt": "General-purpose AI sandbox platform with multi-language SDKs (Python/Java/JS/C#), Docker/K8s runtimes, FQDN-level network policies. Apache 2.0 license, 3,400+ stars.",
+        "publishedAt": "2026-02-28T00:00:00Z"
+      },
+      {
+        "title": "alibaba/OpenSandbox Technical Architecture Deep Dive",
+        "url": "https://deepwiki.com/alibaba/OpenSandbox",
+        "publisher": "DeepWiki",
+        "tier": "media",
+        "excerpt": "Detailed analysis of OpenSandbox's control/data plane separation, execd daemon, FQDN egress control implementation, SDK patterns, and deployment configuration.",
+        "publishedAt": "2026-03-01T00:00:00Z"
+      },
+      {
+        "title": "OpenSandbox: The Sandbox for AI Agents",
+        "url": "https://www.hubwiz.com/blog/opensandbox-the-sandbox-for-ai-agents/",
+        "publisher": "HubWiz",
+        "tier": "media",
+        "excerpt": "Analysis of OpenSandbox features, comparison with SmolVM, and Kubernetes-native enterprise suitability. 2,000+ stars within first week of open source.",
+        "publishedAt": "2026-03-01T00:00:00Z"
+      },
+      {
+        "title": "OpenSandbox — Alibaba's Open-Source AI Application Sandbox Platform",
+        "url": "https://altools.ai/15094.html",
+        "publisher": "Alternative AI Tools",
+        "tier": "media",
+        "excerpt": "Fine-grained network policy control, resource isolation with CPU/memory/disk/network quotas, integrated Seccomp and AppArmor security modules.",
+        "publishedAt": "2026-03-01T00:00:00Z"
+      },
+      {
+        "title": "AI Code Sandbox Benchmark 2026 — Modal vs E2B vs Daytona",
+        "url": "https://www.superagent.sh/blog/ai-code-sandbox-benchmark-2026",
+        "publisher": "Superagent",
+        "tier": "media",
+        "excerpt": "2026 AI sandbox benchmarks: E2B cold start ~150ms at $0.083/h, Daytona ~90ms at $0.083/h, Modal sub-second at $0.119/h. OpenSandbox offers a different value proposition as self-hosted.",
+        "publishedAt": "2026-02-15T00:00:00Z"
+      }
+    ]
+  }
+}

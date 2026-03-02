@@ -1,0 +1,359 @@
+{
+  "source": "google-trends",
+  "fetchedAt": "2026-03-02T01:40:05.037Z",
+  "items": [
+    {
+      "id": "gtrends-0",
+      "title": "michelle williams",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-02T01:20:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Michelle Williams Attends 2026 Actor Awards After James Van Der Beek Death",
+          "Daniel Craig’s Next Mission: New Prison Film to Shoot in Greece",
+          "Cillian Murphy, Daniel Craig, Michelle Williams to Head to Corfu and Athens for Gritty New Film"
+        ],
+        "newsItems": [
+          {
+            "title": "Michelle Williams Attends 2026 Actor Awards After James Van Der Beek Death",
+            "url": "https://www.usmagazine.com/entertainment/news/michelle-williams-attends-2026-actor-awards-after-james-van-der-beek-death/",
+            "source": "Us Weekly"
+          },
+          {
+            "title": "Daniel Craig’s Next Mission: New Prison Film to Shoot in Greece",
+            "url": "https://greekreporter.com/2026/02/27/daniel-craig-next-mission-prison-film-shoot-greece/",
+            "source": "GreekReporter.com"
+          },
+          {
+            "title": "Cillian Murphy, Daniel Craig, Michelle Williams to Head to Corfu and Athens for Gritty New Film",
+            "url": "https://greekcitytimes.com/2026/02/27/cillian-murphy-and-daniel-craig-to-head-to-corfu-and-athens-for-damien-chazelles-gritty-new-film/",
+            "source": "Greek City Times"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-1",
+      "title": "zendaya",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-02T01:20:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Zendaya and Tom Holland Are Married, Stylist Law Roach Claims: 'You Missed It'",
+          "Zendaya and Tom Holland Are Married!!! (According to Law Roach on the Red Carpet Just Now)",
+          "Zendaya Sparks Marriage Rumors With Tom Holland After Swapping Out Her Engagement Ring for a Simple Gold Band"
+        ],
+        "newsItems": [
+          {
+            "title": "Zendaya and Tom Holland Are Married, Stylist Law Roach Claims: 'You Missed It'",
+            "url": "https://people.com/zendaya-and-tom-holland-are-married-stylist-law-roach-claims-8769894",
+            "source": "People.com"
+          },
+          {
+            "title": "Zendaya and Tom Holland Are Married!!! (According to Law Roach on the Red Carpet Just Now)",
+            "url": "https://www.cosmopolitan.com/entertainment/celebs/a70565225/zendaya-and-tom-holland-are-married/",
+            "source": "Cosmopolitan"
+          },
+          {
+            "title": "Zendaya Sparks Marriage Rumors With Tom Holland After Swapping Out Her Engagement Ring for a Simple Gold Band",
+            "url": "https://www.aol.com/articles/zendaya-sparks-marriage-rumors-tom-195319533.html",
+            "source": "AOL.com"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-2",
+      "title": "wga",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-02T01:20:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "WGA cancels Los Angeles awards show amid labor strike",
+          "Writers Guild Awards Los Angeles Ceremony Canceled Amid Internal Labor Strike",
+          "WGA Cancels L.A. Award Show Due to Staff Strike"
+        ],
+        "newsItems": [
+          {
+            "title": "WGA cancels Los Angeles awards show amid labor strike",
+            "url": "https://www.latimes.com/entertainment-arts/business/story/2026-03-01/wga-cancels-los-angeles-awards-show-amid-labor-strike",
+            "source": "Los Angeles Times"
+          },
+          {
+            "title": "Writers Guild Awards Los Angeles Ceremony Canceled Amid Internal Labor Strike",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/writers-guild-awards-los-angeles-ceremony-canceled-strike-1236517543/",
+            "source": "The Hollywood Reporter"
+          },
+          {
+            "title": "WGA Cancels L.A. Award Show Due to Staff Strike",
+            "url": "https://variety.com/2026/awards/news/wga-cancels-award-show-strike-1236675266/",
+            "source": "Variety"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-3",
+      "title": "andre drummond",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-02T01:20:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "76ers' Embiid to miss at least 3 games with oblique strain",
+          "Sixers coach Nick Nurse reacts to oblique injury to Joel Embiid",
+          "Celtics, 76ers Both Get Brutal Injury Updates On Superstars Before Pivotal Clash"
+        ],
+        "newsItems": [
+          {
+            "title": "76ers' Embiid to miss at least 3 games with oblique strain",
+            "url": "https://www.espn.com/nba/story/_/id/48065823/76ers-embiid-miss-least-3-games-oblique-strain",
+            "source": "ESPN"
+          },
+          {
+            "title": "Sixers coach Nick Nurse reacts to oblique injury to Joel Embiid",
+            "url": "https://sports.yahoo.com/articles/sixers-coach-nick-nurse-reacts-001631857.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "Celtics, 76ers Both Get Brutal Injury Updates On Superstars Before Pivotal Clash",
+            "url": "https://nesn.com/boston-celtics/news/76ers-get-brutal-injury-update-former-mvp-celtics-clash/b739958c9e7cd1ac46592095",
+            "source": "NESN"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-4",
+      "title": "us marshals",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-02T01:20:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "U.S. Marshals seeking Buffalo man for wife’s murder",
+          "Up to $7,500 reward offered for information leading to the arrest of Anderson Tate",
+          "Federal Manhunt for New York Husband After 70-Year-Old Wife Found Dead, Reward Offered"
+        ],
+        "newsItems": [
+          {
+            "title": "U.S. Marshals seeking Buffalo man for wife’s murder",
+            "url": "https://www.wivb.com/news/crime/u-s-marshals-seeking-buffalo-man-for-wifes-murder/",
+            "source": "WIVB News 4"
+          },
+          {
+            "title": "Up to $7,500 reward offered for information leading to the arrest of Anderson Tate",
+            "url": "https://www.wgrz.com/article/news/crime/reward-offered-information-leading-to-anderson-tate-arrest/71-0e202101-9f78-483a-a6fc-464188aedb5d",
+            "source": "WGRZ"
+          },
+          {
+            "title": "Federal Manhunt for New York Husband After 70-Year-Old Wife Found Dead, Reward Offered",
+            "url": "https://www.crimeonline.com/2026/02/28/federal-manhunt-for-a-new-york-husband-after-wife-found-dead-reward-offered/",
+            "source": "Crime Online"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-5",
+      "title": "lucas drones",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-02T01:20:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "The US burned through more of its limited Tomahawk stockpile in strikes on Iran. It might need them in a war with China.",
+          "U.S. military gives Iran a taste of its own medicine with cheap copycat Shahed drones",
+          "US deploys suicide drones and Tomahawk missiles in Iran strikes"
+        ],
+        "newsItems": [
+          {
+            "title": "The US burned through more of its limited Tomahawk stockpile in strikes on Iran. It might need them in a war with China.",
+            "url": "https://www.businessinsider.com/us-burned-through-more-tomahawks-iran-may-need-for-china-2026-3",
+            "source": "Business Insider"
+          },
+          {
+            "title": "U.S. military gives Iran a taste of its own medicine with cheap copycat Shahed drones",
+            "url": "https://fortune.com/2026/03/01/us-military-lucas-drone-iran-copycat-shahed-munitions-supply-tomahawk-patriot-thaad/",
+            "source": "Fortune"
+          },
+          {
+            "title": "US deploys suicide drones and Tomahawk missiles in Iran strikes",
+            "url": "https://www.reuters.com/business/aerospace-defense/us-deploys-suicide-drones-tomahawk-missiles-iran-strikes-2026-03-01/",
+            "source": "Reuters"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-6",
+      "title": "rep luna",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-02T01:20:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Hillary Clinton 'lost her cool,' GOP rep says",
+          "Republican Defends Bill Clinton During Jeffrey Epstein Deposition",
+          "Anna Paulina Luna Says Trump is ‘Exonerated’ in Epstein Affair"
+        ],
+        "newsItems": [
+          {
+            "title": "Hillary Clinton 'lost her cool,' GOP rep says",
+            "url": "https://www.foxnews.com/video/6390113824112",
+            "source": "Fox News"
+          },
+          {
+            "title": "Republican Defends Bill Clinton During Jeffrey Epstein Deposition",
+            "url": "https://www.newsweek.com/republican-defends-bill-clinton-during-jeffrey-epstein-deposition-11595198",
+            "source": "Newsweek"
+          },
+          {
+            "title": "Anna Paulina Luna Says Trump is ‘Exonerated’ in Epstein Affair",
+            "url": "https://floridianpress.com/2026/02/anna-paulina-luna-says-trump-is-exonerated-in-epstein-affair/",
+            "source": "Floridian Press"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-7",
+      "title": "pelicans vs clippers",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 5000,
+      "publishedAt": "2026-03-02T01:10:00.000Z",
+      "extra": {
+        "traffic": "5000+",
+        "relatedQueries": [
+          "Pelicans vs Clippers Prediction, Picks & Odds for Tonight’s NBA Game",
+          "Clippers Injury Report vs. Pelicans: Is Kawhi Leonard Playing?",
+          "How to watch Pelicans vs. Clippers: TV channel and streaming options for March 1"
+        ],
+        "newsItems": [
+          {
+            "title": "Pelicans vs Clippers Prediction, Picks & Odds for Tonight’s NBA Game",
+            "url": "https://www.covers.com/nba/pelicans-vs-clippers-prediction-picks-best-bets-sgp-sunday-3-1-2026",
+            "source": "Covers.com"
+          },
+          {
+            "title": "Clippers Injury Report vs. Pelicans: Is Kawhi Leonard Playing?",
+            "url": "https://www.si.com/nba/clippers/onsi/news/clippers-injury-report-pelicans-kawhi-leonard-playing-01kjmskrwms8",
+            "source": "Sports Illustrated"
+          },
+          {
+            "title": "How to watch Pelicans vs. Clippers: TV channel and streaming options for March 1",
+            "url": "https://www.nytimes.com/athletic/7079375/2026/03/01/how-to-watch-pelicans-vs-clippers-tv-channel-and-streaming-options-for-march-1/",
+            "source": "The New York Times"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-8",
+      "title": "pluribus",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-02T01:10:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "‘Pluribus’s Rhea Seehorn Looks Cool in Louis Vuitton atthe Actor Awards",
+          "Is ‘Pluribus’ the Modern World’s Cry for Help?",
+          "You should be rooting against utopia in Apple TV’s “Pluribus”"
+        ],
+        "newsItems": [
+          {
+            "title": "‘Pluribus’s Rhea Seehorn Looks Cool in Louis Vuitton atthe Actor Awards",
+            "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a70481993/rhea-seehorn-red-carpet-photos-sag-actor-awards-2026/",
+            "source": "Town & Country Magazine"
+          },
+          {
+            "title": "Is ‘Pluribus’ the Modern World’s Cry for Help?",
+            "url": "https://www.wordonfire.org/articles/is-pluribus-the-modern-worlds-cry-for-help/",
+            "source": "Word on Fire"
+          },
+          {
+            "title": "You should be rooting against utopia in Apple TV’s “Pluribus”",
+            "url": "https://brockpress.com/you-should-be-rooting-against-utopia-in-apple-tvs-pluribus/",
+            "source": "The Brock Press"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-9",
+      "title": "flames vs ducks",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-02T01:10:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Flames at Ducks projected lineups",
+          "Flames vs Ducks Prediction, Picks & Odds for Tonight’s NHL Game",
+          "How to watch Flames vs. Ducks: TV channel and streaming options for March 1"
+        ],
+        "newsItems": [
+          {
+            "title": "Flames at Ducks projected lineups",
+            "url": "https://www.nhl.com/news/calgary-flames-anaheim-ducks-game-preview-march-1-2026",
+            "source": "NHL.com"
+          },
+          {
+            "title": "Flames vs Ducks Prediction, Picks & Odds for Tonight’s NHL Game",
+            "url": "https://www.covers.com/nhl/flames-vs-ducks-prediction-picks-best-bets-sgp-sunday-3-1-2026",
+            "source": "Covers.com"
+          },
+          {
+            "title": "How to watch Flames vs. Ducks: TV channel and streaming options for March 1",
+            "url": "https://www.nytimes.com/athletic/7079389/2026/03/01/how-to-watch-flames-vs-ducks-tv-channel-and-streaming-options-for-march-1/",
+            "source": "The New York Times"
+          }
+        ],
+        "geo": "CN"
+      }
+    }
+  ],
+  "errors": [
+    "Google Trends RSS returned 400 for geo=CN"
+  ]
+}
