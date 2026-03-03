@@ -1,0 +1,123 @@
+{
+  "source": "hackernews",
+  "fetchedAt": "2026-03-03T01:30:18.940Z",
+  "items": [
+    {
+      "id": "hn-47218743",
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 246,
+      "comments": 47,
+      "publishedAt": "2026-03-02T14:54:58.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47218743"
+      }
+    },
+    {
+      "id": "hn-47218175",
+      "title": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 315,
+      "comments": 517,
+      "publishedAt": "2026-03-02T14:11:23.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47218175"
+      }
+    },
+    {
+      "id": "hn-47208573",
+      "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
+      "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 268,
+      "comments": 68,
+      "publishedAt": "2026-03-01T17:11:44.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47208573"
+      }
+    },
+    {
+      "id": "hn-47222270",
+      "title": "A case for Go as the best language for AI agents",
+      "url": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 151,
+      "comments": 221,
+      "publishedAt": "2026-03-02T18:48:36.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47222270"
+      }
+    },
+    {
+      "id": "hn-47181656",
+      "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
+      "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 195,
+      "comments": 126,
+      "publishedAt": "2026-02-27T15:28:57.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47181656"
+      }
+    },
+    {
+      "id": "hn-47211830",
+      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 258,
+      "comments": 62,
+      "publishedAt": "2026-03-01T23:15:16.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47211830"
+      }
+    },
+    {
+      "id": "hn-47212355",
+      "title": "If AI writes code, should the session be part of the commit?",
+      "url": "https://github.com/mandel-macaque/memento",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 462,
+      "comments": 375,
+      "publishedAt": "2026-03-02T00:27:52.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47212355"
+      }
+    },
+    {
+      "id": "hn-47202708",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 1896,
+      "comments": 319,
+      "publishedAt": "2026-03-01T01:39:26.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47202708"
+      }
+    },
+    {
+      "id": "hn-47216541",
+      "title": "Libxml2 Enterprise Edition (AGPL, from the previous maintainer)",
+      "url": "https://codeberg.org/nwellnhof/libxml2-ee",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 50,
+      "comments": 18,
+      "publishedAt": "2026-03-02T11:22:35.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47216541"
+      }
+    }
+  ]
+}

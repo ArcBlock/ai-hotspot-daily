@@ -1,0 +1,696 @@
+{
+  "hero": {
+    "id": "baidu-9",
+    "title": "6名美军士兵在对伊朗行动中身亡",
+    "url": "https://www.baidu.com/s?wd=6%E5%90%8D%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E5%9C%A8%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
+    "source": "baidu",
+    "category": "国际",
+    "hotScore": 7039575,
+    "extra": {
+      "desc": "当地时间3月2日，美国中央司令部表示，截至美国东部时间2日16时，已有6名美军士兵在对伊朗行动中身亡。",
+      "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/9f6f237759df92486bb5d98c8bc8ad86",
+      "vizData": {
+        "attackRounds": 13,
+        "usDeaths": 6,
+        "usInjured": 5,
+        "iranReportedUSCasualties": 560,
+        "iranDeaths": 201,
+        "iranInjured": 747,
+        "countriesInvolved": ["美国", "以色列", "伊朗", "巴林", "黎巴嫩", "阿联酋", "卡塔尔", "沙特"],
+        "oilPriceSurge": "布伦特原油涨13%至$82.37",
+        "goldPriceSurge": "黄金突破$5400/盎司，涨3%+"
+      }
+    },
+    "crossPlatformCount": 4,
+    "relatedSources": ["weibo", "baidu", "agent-reach-bilibili", "mcp-opennews"],
+    "mergedTitles": ["6名美军士兵在对伊朗行动中身亡"],
+    "relatedCandidates": [
+      "战机飞过头顶 德黑兰多地同时爆炸",
+      "美海军第五舰队总部遇袭前后对比图",
+      "伊朗向以色列本土发动新一轮导弹袭击",
+      "越来越多国家被卷入中东冲突",
+      "伊朗发起第13轮攻击",
+      "以色列空袭黎巴嫩52死154伤",
+      "伊朗导弹击中美第五舰队总部瞬间",
+      "伊朗首都5地几乎同时爆炸",
+      "美国驻沙特大使馆遭无人机袭击",
+      "哈梅内伊妻子去世"
+    ],
+    "scores": {
+      "popularity": 5,
+      "vizPotential": 5,
+      "freshness": 5,
+      "polarity": 5,
+      "diversity": 5,
+      "total": 5.0
+    },
+    "suggestedChartType": "timeline",
+    "rankReason": "美伊冲突霸榜所有平台，4+平台交叉覆盖，有13轮攻击、8国卷入、伤亡数字、油价金价等丰富可视化数据，适合做时间线图展示冲突升级全过程"
+  },
+  "cards": [
+    {
+      "id": "baidu-7",
+      "title": "元宵夜看月全食 下次要等46年",
+      "url": "https://www.baidu.com/s?wd=%E5%85%83%E5%AE%B5%E5%A4%9C%E7%9C%8B%E6%9C%88%E5%85%A8%E9%A3%9F+%E4%B8%8B%E6%AC%A1%E8%A6%81%E7%AD%8946%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "科技",
+      "hotScore": 7235961,
+      "extra": {
+        "desc": "今晚\"红月亮\"将高悬夜空，元宵夜一起看月全食！下一次中国要能完整看到这种现象要等46年。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/9cb0984c1c9c3466e4718d298dbf64b4",
+        "vizData": {
+          "timeline": [
+            {"time": "17:49", "event": "初亏"},
+            {"time": "19:04", "event": "食既（红月亮出现）"},
+            {"time": "19:33", "event": "食甚（最暗）"},
+            {"time": "20:02", "event": "生光"},
+            {"time": "21:17", "event": "复圆"}
+          ],
+          "totalDuration": "3小时28分钟",
+          "fullEclipseDuration": "58分钟",
+          "nextOccurrence": "2072年（46年后）"
+        }
+      },
+      "crossPlatformCount": 2,
+      "relatedSources": ["baidu", "agent-reach-bilibili"],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 2,
+        "diversity": 5,
+        "total": 3.95
+      },
+      "category": "科技",
+      "suggestedMiniChartType": "timeline",
+      "rankReason": "元宵夜月全食有精确时刻表可做时间线图，46年一遇的天文奇观极具话题性，与元宵节双重叠加提升关注度"
+    },
+    {
+      "id": "weibo-22",
+      "title": "黄金白银双双快速跳水",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8F%8C%E5%8F%8C%E5%BF%AB%E9%80%9F%E8%B7%B3%E6%B0%B4",
+      "source": "weibo",
+      "category": "财经",
+      "hotScore": 136918,
+      "extra": {
+        "rank": 23,
+        "tag": "",
+        "vizData": {
+          "goldPrice": "$5400+/盎司（冲高后回落）",
+          "goldSurge": "+3%",
+          "silverSurge": "+8%",
+          "oilSurge": "布伦特+13%",
+          "driver": "美伊冲突引发避险→冲高后获利回吐"
+        }
+      },
+      "crossPlatformCount": 2,
+      "relatedSources": ["weibo", "mcp-opennews"],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 4.2
+      },
+      "category": "财经",
+      "suggestedMiniChartType": "trend",
+      "rankReason": "黄金白银油价因中东局势剧烈波动，有明确价格数据和涨跌幅可做趋势图，财经领域补充多样性"
+    },
+    {
+      "id": "weibo-15",
+      "title": "iPhone17e浅粉色",
+      "url": "https://s.weibo.com/weibo?q=iPhone17e%E6%B5%85%E7%B2%89%E8%89%B2",
+      "source": "weibo",
+      "category": "科技",
+      "hotScore": 151912,
+      "extra": {
+        "rank": 16,
+        "tag": "",
+        "vizData": {
+          "price": "$599起（256GB）",
+          "storage": "256GB起步（翻倍）",
+          "chip": "A19",
+          "camera": "4800万像素",
+          "battery": "4005mAh / 26小时视频",
+          "preOrder": "3月4日",
+          "release": "3月11日",
+          "colors": ["黑色", "白色", "浅粉色"]
+        }
+      },
+      "crossPlatformCount": 2,
+      "relatedSources": ["weibo", "mcp-opennews"],
+      "mergedTitles": ["iPhone17e浅粉色", "iPhone最便宜新机来了"],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 3,
+        "total": 3.6
+      },
+      "category": "科技",
+      "suggestedMiniChartType": "bigNumber",
+      "rankReason": "苹果最新平价机型发布引爆关注，$599起售价是核心大数字，科技消费领域热门话题"
+    },
+    {
+      "id": "weibo-12",
+      "title": "谢娜喊话薛之谦",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%96%8A%E8%AF%9D%E8%96%9B%E4%B9%8B%E8%B0%A6",
+      "source": "weibo",
+      "category": "娱乐",
+      "hotScore": 19832066,
+      "extra": {
+        "rank": 13,
+        "tag": "爆",
+        "icon_desc": "爆"
+      },
+      "crossPlatformCount": 2,
+      "relatedSources": ["weibo", "agent-reach-bilibili"],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 2,
+        "freshness": 5,
+        "polarity": 5,
+        "diversity": 5,
+        "total": 3.65
+      },
+      "category": "娱乐",
+      "suggestedMiniChartType": "versus",
+      "rankReason": "微博\"爆\"标签+近2000万热度，娱乐话题情绪极化强，谢娜vs薛之谦适合对比图，补充娱乐领域多样性"
+    },
+    {
+      "id": "baidu-1",
+      "title": "中国有了量子手机",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BA%86%E9%87%8F%E5%AD%90%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "科技",
+      "hotScore": 7808947,
+      "extra": {
+        "desc": "随着一系列核心技术不断攻克，我国自主研发的量子通信核心组件已实现小型化，并融入政务、金融、电力等各个行业，构建起我国自主可控的信息安全体系。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/e7e3e3990b55e82f30f176eaed606bcb",
+        "vizData": {
+          "securityLayers": ["量子SIM卡", "抗量子密码算法", "国密算法融合"],
+          "features": ["加密音视频通话", "加密即时消息", "文件加密传输", "阅后即焚", "防截屏"],
+          "applications": ["政务", "金融", "电力", "军事"]
+        }
+      },
+      "crossPlatformCount": 2,
+      "relatedSources": ["weibo", "baidu"],
+      "mergedTitles": ["中国有了量子手机"],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 4,
+        "freshness": 4,
+        "polarity": 2,
+        "diversity": 3,
+        "total": 3.3
+      },
+      "category": "科技",
+      "suggestedMiniChartType": "progress",
+      "rankReason": "中国量子通信手机是重大科技突破，三层安全体系可做进度/层级图，国产自主可控话题自带热度"
+    },
+    {
+      "id": "douyin-14",
+      "title": "海澜之家被暂停全军采购活动资格",
+      "url": "https://www.douyin.com/search/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8%E8%B5%84%E6%A0%BC",
+      "source": "douyin",
+      "category": "社会",
+      "hotScore": 7786429,
+      "extra": {
+        "label": 3,
+        "videoCount": 1,
+        "vizData": {
+          "reason": "中标后无正当理由拒不签订合同",
+          "scope": "全军（含各军兵种及武警部队）",
+          "effectDate": "2026年2月27日",
+          "affectedPersons": ["法定代表人周立宸", "授权代表贡伟宇"]
+        }
+      },
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 3,
+        "freshness": 4,
+        "polarity": 5,
+        "diversity": 5,
+        "total": 3.35
+      },
+      "category": "社会",
+      "suggestedMiniChartType": "tags",
+      "rankReason": "知名品牌被全军拉黑引发社会热议，情绪极化强烈，补充社会领域多样性，标签集合展示处罚详情"
+    }
+  ],
+  "allRanked": [
+    {
+      "rank": 1,
+      "id": "baidu-9",
+      "title": "6名美军士兵在对伊朗行动中身亡",
+      "category": "国际",
+      "scores": { "popularity": 5, "vizPotential": 5, "freshness": 5, "polarity": 5, "diversity": 5, "total": 5.0 }
+    },
+    {
+      "rank": 2,
+      "id": "weibo-22",
+      "title": "黄金白银双双快速跳水",
+      "category": "财经",
+      "scores": { "popularity": 3, "vizPotential": 5, "freshness": 5, "polarity": 4, "diversity": 5, "total": 4.2 }
+    },
+    {
+      "rank": 3,
+      "id": "baidu-7",
+      "title": "元宵夜看月全食 下次要等46年",
+      "category": "科技",
+      "scores": { "popularity": 3, "vizPotential": 5, "freshness": 5, "polarity": 2, "diversity": 5, "total": 3.95 }
+    },
+    {
+      "rank": 4,
+      "id": "douyin-0",
+      "title": "今天元宵节",
+      "category": "文化",
+      "scores": { "popularity": 4, "vizPotential": 2, "freshness": 5, "polarity": 1, "diversity": 4, "total": 3.25 }
+    },
+    {
+      "rank": 5,
+      "id": "baidu-15",
+      "title": "哈梅内伊妻子去世",
+      "category": "国际",
+      "scores": { "popularity": 4, "vizPotential": 2, "freshness": 5, "polarity": 3, "diversity": 1, "total": 3.15 }
+    },
+    {
+      "rank": 6,
+      "id": "weibo-12",
+      "title": "谢娜喊话薛之谦",
+      "category": "娱乐",
+      "scores": { "popularity": 3, "vizPotential": 2, "freshness": 5, "polarity": 5, "diversity": 5, "total": 3.65 }
+    },
+    {
+      "rank": 7,
+      "id": "weibo-15",
+      "title": "iPhone17e浅粉色",
+      "category": "科技",
+      "scores": { "popularity": 3, "vizPotential": 4, "freshness": 5, "polarity": 3, "diversity": 3, "total": 3.6 }
+    },
+    {
+      "rank": 8,
+      "id": "baidu-2",
+      "title": "战机飞过头顶 德黑兰多地同时爆炸",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 3, "freshness": 5, "polarity": 5, "diversity": 1, "total": 3.5 }
+    },
+    {
+      "rank": 9,
+      "id": "baidu-4",
+      "title": "美海军第五舰队总部遇袭前后对比图",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 4, "freshness": 5, "polarity": 4, "diversity": 1, "total": 3.45 }
+    },
+    {
+      "rank": 10,
+      "id": "douyin-14",
+      "title": "海澜之家被暂停全军采购活动资格",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 4, "polarity": 5, "diversity": 5, "total": 3.35 }
+    },
+    {
+      "rank": 11,
+      "id": "baidu-1",
+      "title": "中国有了量子手机",
+      "category": "科技",
+      "scores": { "popularity": 3, "vizPotential": 4, "freshness": 4, "polarity": 2, "diversity": 3, "total": 3.3 }
+    },
+    {
+      "rank": 12,
+      "id": "baidu-13",
+      "title": "伊朗向以色列本土发动新一轮导弹袭击",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 3, "freshness": 5, "polarity": 5, "diversity": 1, "total": 3.4 }
+    },
+    {
+      "rank": 13,
+      "id": "weibo-0",
+      "title": "越来越多国家被卷入中东冲突",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 3, "freshness": 5, "polarity": 4, "diversity": 1, "total": 3.2 }
+    },
+    {
+      "rank": 14,
+      "id": "baidu-12",
+      "title": "美国驻沙特大使馆遭无人机袭击",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 2, "freshness": 5, "polarity": 4, "diversity": 1, "total": 3.0 }
+    },
+    {
+      "rank": 15,
+      "id": "weibo-4",
+      "title": "伊朗发起第13轮攻击",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 3, "freshness": 5, "polarity": 4, "diversity": 1, "total": 3.2 }
+    },
+    {
+      "rank": 16,
+      "id": "weibo-14",
+      "title": "以色列空袭黎巴嫩52死154伤",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 4, "freshness": 5, "polarity": 4, "diversity": 1, "total": 3.35 }
+    },
+    {
+      "rank": 17,
+      "id": "douyin-6",
+      "title": "汤圆送入冻房爆改大福",
+      "category": "生活",
+      "scores": { "popularity": 3, "vizPotential": 1, "freshness": 5, "polarity": 2, "diversity": 4, "total": 2.85 }
+    },
+    {
+      "rank": 18,
+      "id": "weibo-23",
+      "title": "iPhone最便宜新机来了",
+      "category": "科技",
+      "scores": { "popularity": 3, "vizPotential": 4, "freshness": 5, "polarity": 3, "diversity": 2, "total": 3.4 }
+    },
+    {
+      "rank": 19,
+      "id": "weibo-16",
+      "title": "伊朗导弹击中美第五舰队总部瞬间",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 2, "freshness": 5, "polarity": 5, "diversity": 1, "total": 3.15 }
+    },
+    {
+      "rank": 20,
+      "id": "weibo-18",
+      "title": "伊朗首都5地几乎同时爆炸",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 3, "freshness": 5, "polarity": 5, "diversity": 1, "total": 3.3 }
+    },
+    {
+      "rank": 21,
+      "id": "baidu-3",
+      "title": "骏马闹元宵贺卡",
+      "category": "文化",
+      "scores": { "popularity": 3, "vizPotential": 1, "freshness": 5, "polarity": 1, "diversity": 4, "total": 2.7 }
+    },
+    {
+      "rank": 22,
+      "id": "douyin-1",
+      "title": "中方敦促英方撤销对中企制裁",
+      "category": "国际",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 4, "polarity": 3, "diversity": 1, "total": 2.35 }
+    },
+    {
+      "rank": 23,
+      "id": "douyin-2",
+      "title": "新学期多地校园餐迎来新变化",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 4, "polarity": 2, "diversity": 3, "total": 2.5 }
+    },
+    {
+      "rank": 24,
+      "id": "douyin-3",
+      "title": "关于元宵节的冷知识",
+      "category": "文化",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 5, "polarity": 1, "diversity": 3, "total": 2.55 }
+    },
+    {
+      "rank": 25,
+      "id": "douyin-8",
+      "title": "中国女足将迎亚洲杯首战",
+      "category": "体育",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 4, "polarity": 2, "diversity": 5, "total": 3.05 }
+    },
+    {
+      "rank": 26,
+      "id": "douyin-9",
+      "title": "中国金球奖颁奖典礼",
+      "category": "体育",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 4, "polarity": 2, "diversity": 4, "total": 2.85 }
+    },
+    {
+      "rank": 27,
+      "id": "douyin-12",
+      "title": "皇马0:1赫塔费",
+      "category": "体育",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 5, "polarity": 3, "diversity": 4, "total": 3.15 }
+    },
+    {
+      "rank": 28,
+      "id": "douyin-7",
+      "title": "F1澳大利亚大奖赛前瞻",
+      "category": "体育",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 4, "polarity": 1, "diversity": 4, "total": 2.65 }
+    },
+    {
+      "rank": 29,
+      "id": "douyin-13",
+      "title": "内贾德家属和亲信否认其死亡",
+      "category": "国际",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 5, "polarity": 4, "diversity": 1, "total": 2.55 }
+    },
+    {
+      "rank": 30,
+      "id": "baidu-5",
+      "title": "大叔因太会种地在非洲被持枪保护",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 3, "polarity": 2, "diversity": 3, "total": 2.45 }
+    },
+    {
+      "rank": 31,
+      "id": "baidu-6",
+      "title": "男子下高速显示费用8万多震惊收费员",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 3, "polarity": 3, "diversity": 3, "total": 2.7 }
+    },
+    {
+      "rank": 32,
+      "id": "baidu-18",
+      "title": "HR回应员工生三胎奖励183万",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 3, "polarity": 4, "diversity": 3, "total": 3.0 }
+    },
+    {
+      "rank": 33,
+      "id": "weibo-6",
+      "title": "当地通报母亲去世后被结婚",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 5, "polarity": 5, "diversity": 3, "total": 2.85 }
+    },
+    {
+      "rank": 34,
+      "id": "baidu-8",
+      "title": "李白\"飞流直下三千尺\"的盛景重现",
+      "category": "文化",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 3, "polarity": 1, "diversity": 3, "total": 2.05 }
+    },
+    {
+      "rank": 35,
+      "id": "baidu-10",
+      "title": "娘家40多人组团看望已出嫁女儿",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 3, "polarity": 2, "diversity": 2, "total": 1.85 }
+    },
+    {
+      "rank": 36,
+      "id": "baidu-11",
+      "title": "高速车辆相撞死伤超70人系谣言",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 3, "polarity": 3, "diversity": 2, "total": 2.35 }
+    },
+    {
+      "rank": 37,
+      "id": "baidu-14",
+      "title": "钧正平：每个人都有必要保持警惕",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 2, "diversity": 2, "total": 2.15 }
+    },
+    {
+      "rank": 38,
+      "id": "baidu-16",
+      "title": "列车车窗爆裂 卧铺枕头撒满碎玻璃",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 3, "diversity": 2, "total": 2.25 }
+    },
+    {
+      "rank": 39,
+      "id": "baidu-17",
+      "title": "河南店主在上海卖早餐被全网催开门",
+      "category": "生活",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 3, "polarity": 1, "diversity": 3, "total": 1.85 }
+    },
+    {
+      "rank": 40,
+      "id": "douyin-10",
+      "title": "羽毛球终于降价了",
+      "category": "体育",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 3, "polarity": 2, "diversity": 3, "total": 2.55 }
+    },
+    {
+      "rank": 41,
+      "id": "weibo-5",
+      "title": "火车硬座惊现上下铺",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 5, "polarity": 3, "diversity": 2, "total": 2.5 }
+    },
+    {
+      "rank": 42,
+      "id": "weibo-9",
+      "title": "恋与深空终止高校联名合作",
+      "category": "娱乐",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 3, "diversity": 3, "total": 2.35 }
+    },
+    {
+      "rank": 43,
+      "id": "weibo-10",
+      "title": "冯琳一巴掌费霆更是一巴掌",
+      "category": "娱乐",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 5, "polarity": 4, "diversity": 3, "total": 2.7 }
+    },
+    {
+      "rank": 44,
+      "id": "weibo-11",
+      "title": "女子带1米长巨大豆荚坐飞机引围观",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 2, "diversity": 2, "total": 2.1 }
+    },
+    {
+      "rank": 45,
+      "id": "weibo-13",
+      "title": "戒糖加跳绳5个月威力有多大",
+      "category": "生活",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 5, "polarity": 2, "diversity": 3, "total": 2.85 }
+    },
+    {
+      "rank": 46,
+      "id": "weibo-19",
+      "title": "苹果推出大量粉色配件",
+      "category": "科技",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 4, "polarity": 1, "diversity": 2, "total": 2.15 }
+    },
+    {
+      "rank": 47,
+      "id": "weibo-21",
+      "title": "全国中小学新学期迎来多项新变化",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 4, "polarity": 2, "diversity": 2, "total": 2.3 }
+    },
+    {
+      "rank": 48,
+      "id": "weibo-25",
+      "title": "王安宇CELINE首位中国男大使",
+      "category": "娱乐",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 2, "diversity": 3, "total": 2.15 }
+    },
+    {
+      "rank": 49,
+      "id": "weibo-26",
+      "title": "弦子报平安",
+      "category": "娱乐",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 2, "diversity": 2, "total": 2.0 }
+    },
+    {
+      "rank": 50,
+      "id": "weibo-27",
+      "title": "两会",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 5, "polarity": 2, "diversity": 2, "total": 2.5 }
+    },
+    {
+      "rank": 51,
+      "id": "weibo-28",
+      "title": "女子蹭完WiFi借钱被拒掀翻店家桌子",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 5, "polarity": 4, "diversity": 2, "total": 2.6 }
+    },
+    {
+      "rank": 52,
+      "id": "weibo-8",
+      "title": "30多岁男子总觉脚冷险遭截肢",
+      "category": "生活",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 2, "diversity": 3, "total": 2.15 }
+    },
+    {
+      "rank": 53,
+      "id": "baidu-0",
+      "title": "乡村振兴\"幸福路\"",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 3, "polarity": 1, "diversity": 2, "total": 1.95 }
+    },
+    {
+      "rank": 54,
+      "id": "baidu-19",
+      "title": "雨刮器刮不干净？用铅笔就能搞定",
+      "category": "生活",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 3, "polarity": 1, "diversity": 3, "total": 1.85 }
+    },
+    {
+      "rank": 55,
+      "id": "douyin-4",
+      "title": "相约元宵节看社火表演吧",
+      "category": "文化",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 5, "polarity": 1, "diversity": 3, "total": 2.2 }
+    },
+    {
+      "rank": 56,
+      "id": "douyin-5",
+      "title": "深山幽谷都能钓到什么鱼",
+      "category": "生活",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 3, "polarity": 1, "diversity": 3, "total": 1.85 }
+    },
+    {
+      "rank": 57,
+      "id": "douyin-11",
+      "title": "挑战飞驰人生3限定美甲",
+      "category": "娱乐",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 1, "diversity": 2, "total": 1.85 }
+    },
+    {
+      "rank": 58,
+      "id": "weibo-3",
+      "title": "移步巴塞看中国",
+      "category": "科技",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 4, "polarity": 1, "diversity": 2, "total": 2.15 }
+    },
+    {
+      "rank": 59,
+      "id": "weibo-7",
+      "title": "美妆蝴蝶节全明星送祝福",
+      "category": "娱乐",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 1, "diversity": 2, "total": 1.85 }
+    },
+    {
+      "rank": 60,
+      "id": "gtrends-0",
+      "title": "jane fonda",
+      "category": "娱乐",
+      "scores": { "popularity": 1, "vizPotential": 1, "freshness": 4, "polarity": 2, "diversity": 2, "total": 1.75 }
+    },
+    {
+      "rank": 61,
+      "id": "agent-reach-opennews-0",
+      "title": "美伊冲突引发油价飙升 全球市场动荡",
+      "category": "财经",
+      "scores": { "popularity": 1, "vizPotential": 4, "freshness": 4, "polarity": 3, "diversity": 1, "total": 2.55 }
+    },
+    {
+      "rank": 62,
+      "id": "agent-reach-opennews-1",
+      "title": "Anthropic与五角大楼争论引发关注",
+      "category": "科技",
+      "scores": { "popularity": 1, "vizPotential": 1, "freshness": 4, "polarity": 3, "diversity": 2, "total": 1.95 }
+    },
+    {
+      "rank": 63,
+      "id": "agent-reach-opennews-2",
+      "title": "巴林响起空袭警报 中东局势持续升级",
+      "category": "国际",
+      "scores": { "popularity": 1, "vizPotential": 1, "freshness": 5, "polarity": 4, "diversity": 1, "total": 2.1 }
+    },
+    {
+      "rank": 64,
+      "id": "agent-reach-opennews-3",
+      "title": "中东冲突引发通胀担忧 全球股市下滑",
+      "category": "财经",
+      "scores": { "popularity": 1, "vizPotential": 3, "freshness": 5, "polarity": 3, "diversity": 1, "total": 2.4 }
+    }
+  ],
+  "rankedAt": "2026-03-03T10:30:00.000Z"
+}

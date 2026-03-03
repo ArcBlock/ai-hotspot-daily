@@ -1,0 +1,216 @@
+{
+  "source": "arxiv",
+  "fetchedAt": "2026-03-03T01:30:26.666Z",
+  "items": [
+    {
+      "id": "arxiv-2602.24288v1",
+      "title": "DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science",
+      "url": "https://arxiv.org/pdf/2602.24288v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "The fast-growing demands in using Large Language Models (LLMs) to tackle complex multi-step data science tasks create an emergent need for accurate benchmarking. There are two major gaps in existing benchmarks: (i) the lack of standardized, process-aware evaluation that captures instruction adherence and process fidelity, and (ii) the scarcity of accurately labeled training data. To bridge these gaps, we introduce DARE-bench, a benchmark designed for machine learning modeling and data science in...",
+      "publishedAt": "2026-02-27T18:58:57Z",
+      "extra": {
+        "authors": "Fan Shu, Yite Wang, Ruofan Wu, Boyi Liu, Zhewei Yao, Yuxiong He, Feng Yan",
+        "primaryCategory": "cs.AI",
+        "arxivId": "2602.24288v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24287v1",
+      "title": "Do LLMs Benefit From Their Own Words?",
+      "url": "https://arxiv.org/pdf/2602.24287v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Multi-turn interactions with large language models typically retain the assistant's own past responses in the conversation history. In this work, we revisit this design choice by asking whether large language models benefit from conditioning on their own prior responses. Using in-the-wild, multi-turn conversations, we compare standard (full-context) prompting with a user-turn-only prompting approach that omits all previous assistant responses, across three open reasoning models and one state-of-...",
+      "publishedAt": "2026-02-27T18:58:26Z",
+      "extra": {
+        "authors": "Jenny Y. Huang, Leshem Choshen, Ramon Astudillo, Tamara Broderick, Jacob Andreas",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2602.24287v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24286v1",
+      "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+      "url": "https://arxiv.org/pdf/2602.24286v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as torch.compile for CUDA kernel generation. Existing CUDA code generation approaches either rely on training-free refinement or fine-tune models within fixed multi-turn execution-feedback loops, but both paradigms fail to fundame...",
+      "publishedAt": "2026-02-27T18:58:05Z",
+      "extra": {
+        "authors": "Weinan Dai, Hanlin Wu, Qiying Yu, Huan-ang Gao, Jiahao Li, Chengquan Jiang, Weiqiang Lou, Yufan Song, Hongli Yu, Jiaze Chen, Wei-Ying Ma, Ya-Qin Zhang, Jingjing Liu, Mingxuan Wang, Xin Liu, Hao Zhou",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.24286v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24283v1",
+      "title": "Taming Momentum: Rethinking Optimizer States Through Low-Rank Approximation",
+      "url": "https://arxiv.org/pdf/2602.24283v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Modern optimizers like Adam and Muon are central to training large language models, but their reliance on first- and second-order momenta introduces significant memory overhead, which constrains scalability and computational efficiency. In this work, we reframe the exponential moving average (EMA) used in these momenta as the training of a linear regressor via online gradient flow. Building on this equivalence, we introduce LoRA-Pre, a novel low-rank optimizer designed for efficient pre-training...",
+      "publishedAt": "2026-02-27T18:57:06Z",
+      "extra": {
+        "authors": "Zhengbo Wang, Jian Liang, Ran He, Zilei Wang, Tieniu Tan",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.24283v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24281v1",
+      "title": "Memory Caching: RNNs with Growing Memory",
+      "url": "https://arxiv.org/pdf/2602.24281v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Transformers have been established as the de-facto backbones for most recent advances in sequence modeling, mainly due to their growing memory capacity that scales with the context length. While plausible for retrieval tasks, it causes quadratic complexity and so has motivated recent studies to explore viable subquadratic recurrent alternatives. Despite showing promising preliminary results in diverse domains, such recurrent architectures underperform Transformers in recall-intensive tasks, ofte...",
+      "publishedAt": "2026-02-27T18:53:41Z",
+      "extra": {
+        "authors": "Ali Behrouz, Zeman Li, Yuan Deng, Peilin Zhong, Meisam Razaviyayn, Vahab Mirrokni",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.24281v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24277v1",
+      "title": "Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment",
+      "url": "https://arxiv.org/pdf/2602.24277v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Many readers today struggle to assess the trustworthiness of online news because reliable reporting coexists with misinformation. The TREC 2025 DRAGUN (Detection, Retrieval, and Augmented Generation for Understanding News) Track provided a venue for researchers to develop and evaluate assistive RAG systems that support readers' news trustworthiness assessment by producing reader-oriented, well-attributed reports. As the organizers of the DRAGUN track, we describe the resources that we have newly...",
+      "publishedAt": "2026-02-27T18:49:31Z",
+      "extra": {
+        "authors": "Dake Zhang, Mark D. Smucker, Charles L. A. Clarke",
+        "primaryCategory": "cs.IR",
+        "arxivId": "2602.24277v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24273v1",
+      "title": "A Minimal Agent for Automated Theorem Proving",
+      "url": "https://arxiv.org/pdf/2602.24273v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "We propose a minimal agentic baseline that enables systematic comparison across different AI-based theorem prover architectures. This design implements the core features shared among state-of-the-art systems: iterative proof refinement, library search and context management. We evaluate our baseline using qualitatively different benchmarks and compare various popular models and design choices, and demonstrate competitive performance compared to state-of-the-art approaches, while using a signific...",
+      "publishedAt": "2026-02-27T18:43:47Z",
+      "extra": {
+        "authors": "Borja Requena Pozo, Austin Letson, Krystian Nowakowski, Izan Beltran Ferreiro, Leopoldo Sarra",
+        "primaryCategory": "cs.AI",
+        "arxivId": "2602.24273v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24210v1",
+      "title": "Controllable Reasoning Models Are Private Thinkers",
+      "url": "https://arxiv.org/pdf/2602.24210v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "AI agents powered by reasoning models require access to sensitive user data. However, their reasoning traces are difficult to control, which can result in the unintended leakage of private information to external parties. We propose training models to follow instructions not only in the final answer, but also in reasoning traces, potentially under different constraints. We hypothesize that improving their instruction following abilities in the reasoning traces can improve their privacy-preservat...",
+      "publishedAt": "2026-02-27T17:39:10Z",
+      "extra": {
+        "authors": "Haritz Puerto, Haonan Li, Xudong Han, Timothy Baldwin, Iryna Gurevych",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2602.24210v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24195v1",
+      "title": "Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume",
+      "url": "https://arxiv.org/pdf/2602.24195v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Despite their capabilities, Multimodal Large Language Models (MLLMs) may produce plausible but erroneous outputs, hindering reliable deployment. Accurate uncertainty metrics could enable escalation of unreliable queries to human experts or larger models for improved performance. However, existing uncertainty metrics have practical constraints, such as being designed only for specific modalities, reliant on external tools, or computationally expensive. We introduce UMPIRE, a training-free uncerta...",
+      "publishedAt": "2026-02-27T17:18:42Z",
+      "extra": {
+        "authors": "Gregory Kang Ruey Lau, Hieu Dao, Nicole Kan Hui Lin, Bryan Kian Hsiang Low",
+        "primaryCategory": "cs.AI",
+        "arxivId": "2602.24195v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24188v1",
+      "title": "MT-PingEval: Evaluating Multi-Turn Collaboration with Private Information Games",
+      "url": "https://arxiv.org/pdf/2602.24188v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "We present a scalable methodology for evaluating language models in multi-turn interactions, using a suite of collaborative games that require effective communication about private information. This enables an interactive scaling analysis, in which a fixed token budget is divided over a variable number of turns. We find that in many cases, language models are unable to use interactive collaboration to improve over the non-interactive baseline scenario in which one agent attempts to summarize its...",
+      "publishedAt": "2026-02-27T17:13:20Z",
+      "extra": {
+        "authors": "Jacob Eisenstein, Fantine Huot, Adam Fisch, Jonathan Berant, Mirella Lapata",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2602.24188v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24174v1",
+      "title": "Task-Centric Acceleration of Small-Language Models",
+      "url": "https://arxiv.org/pdf/2602.24174v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Small language models (SLMs) have emerged as efficient alternatives to large language models for task-specific applications. However, they are often employed in high-volume, low-latency settings, where efficiency is crucial. We propose TASC, Task-Adaptive Sequence Compression, a framework for SLM acceleration comprising two use-cases: When performing SLM fine-tuning, we propose TASC-ft, which iteratively enriches the tokenizer vocabulary with high-frequency output n-grams and then fine-tunes the...",
+      "publishedAt": "2026-02-27T16:55:22Z",
+      "extra": {
+        "authors": "Dor Tsur, Sharon Adar, Ran Levy",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2602.24174v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24289v1",
+      "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
+      "url": "https://arxiv.org/pdf/2602.24289v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Scaling video generation from seconds to minutes faces a critical bottleneck: while short-video data is abundant and high-fidelity, coherent long-form data is scarce and limited to narrow domains. To address this, we propose a training paradigm where Mode Seeking meets Mean Seeking, decoupling local fidelity from long-term coherence based on a unified representation via a Decoupled Diffusion Transformer. Our approach utilizes a global Flow Matching head trained via supervised learning on long vi...",
+      "publishedAt": "2026-02-27T18:59:02Z",
+      "extra": {
+        "authors": "Shengqu Cai, Weili Nie, Chao Liu, Julius Berner, Lvmin Zhang, Nanye Ma, Hansheng Chen, Maneesh Agrawala, Leonidas Guibas, Gordon Wetzstein, Arash Vahdat",
+        "primaryCategory": "cs.CV",
+        "arxivId": "2602.24289v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24278v1",
+      "title": "Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations",
+      "url": "https://arxiv.org/pdf/2602.24278v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Identifiability in representation learning is commonly evaluated using standard metrics (e.g., MCC, DCI, R^2) on synthetic benchmarks with known ground-truth factors. These metrics are assumed to reflect recovery up to the equivalence class guaranteed by identifiability theory. We show that this assumption holds only under specific structural conditions: each metric implicitly encodes assumptions about both the data-generating process (DGP) and the encoder. When these assumptions are violated, m...",
+      "publishedAt": "2026-02-27T18:50:13Z",
+      "extra": {
+        "authors": "Shruti Joshi, Théo Saulus, Wieland Brendel, Philippe Brouillard, Dhanya Sridhar, Patrik Reizinger",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.24278v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24266v1",
+      "title": "Efficient Discovery of Approximate Causal Abstractions via Neural Mechanism Sparsification",
+      "url": "https://arxiv.org/pdf/2602.24266v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Neural networks are hypothesized to implement interpretable causal mechanisms, yet verifying this requires finding a causal abstraction -- a simpler, high-level Structural Causal Model (SCM) faithful to the network under interventions. Discovering such abstractions is hard: it typically demands brute-force interchange interventions or retraining. We reframe the problem by viewing structured pruning as a search over approximate abstractions. Treating a trained network as a deterministic SCM, we d...",
+      "publishedAt": "2026-02-27T18:35:10Z",
+      "extra": {
+        "authors": "Amir Asiaee",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2602.24266v1"
+      }
+    },
+    {
+      "id": "arxiv-2602.24264v1",
+      "title": "Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models",
+      "url": "https://arxiv.org/pdf/2602.24264v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Compositional generalization, the ability to recognize familiar parts in novel contexts, is a defining property of intelligent systems. Although modern models are trained on massive datasets, they still cover only a tiny fraction of the combinatorial space of possible inputs, raising the question of what structure representations must have to support generalization to unseen combinations. We formalize three desiderata for compositional generalization under standard training (divisibility, transf...",
+      "publishedAt": "2026-02-27T18:32:31Z",
+      "extra": {
+        "authors": "Arnas Uselis, Andrea Dittadi, Seong Joon Oh",
+        "primaryCategory": "cs.CV",
+        "arxivId": "2602.24264v1"
+      }
+    }
+  ]
+}

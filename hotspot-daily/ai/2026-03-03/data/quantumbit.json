@@ -1,0 +1,136 @@
+{
+  "source": "quantumbit",
+  "fetchedAt": "2026-03-03T01:31:05.780Z",
+  "items": [
+    {
+      "id": "qbitai-上海一群青年-造了个学术版OpenClaw",
+      "title": "上海一群青年，造了个学术版OpenClaw",
+      "url": "https://www.qbitai.com/2026/03/383249.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-03-02T16:28:55.000Z",
+      "summary": "上智院联合复旦发布的“大圣”",
+      "extra": {
+        "language": "zh"
+      }
+    },
+    {
+      "id": "qbitai-官宣-FlagOS-镜像登陆腾讯云-HAI社区-快速部署Op",
+      "title": "官宣｜FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由",
+      "url": "https://www.qbitai.com/2026/03/383235.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-03-02T10:25:09.000Z",
+      "summary": "",
+      "extra": {
+        "language": "zh"
+      }
+    },
+    {
+      "id": "qbitai-OpenClaw最佳工具榜来了-这6款龙虾最受欢迎",
+      "title": "OpenClaw最佳工具榜来了！这6款龙虾最受欢迎",
+      "url": "https://www.qbitai.com/2026/03/383023.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-03-02T10:13:35.000Z",
+      "summary": "还有各种龙虾食用教程",
+      "extra": {
+        "language": "zh"
+      }
+    },
+    {
+      "id": "qbitai-Notion引入MiniMax-M2-5-作为Custom-",
+      "title": "Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型",
+      "url": "https://www.qbitai.com/2026/03/383020.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-03-02T08:56:57.000Z",
+      "summary": "",
+      "extra": {
+        "language": "zh"
+      }
+    },
+    {
+      "id": "qbitai-13-vs-3-国产安全AI悄悄完成了对Claude的超越",
+      "title": "13 vs 3，国产安全AI悄悄完成了对Claude的超越",
+      "url": "https://www.qbitai.com/2026/03/383016.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-03-02T04:29:06.000Z",
+      "summary": "不仅复现，还多找出10个0day漏洞",
+      "extra": {
+        "language": "zh"
+      }
+    },
+    {
+      "id": "qbitai--一键生成-页页可改-商汤办公小浣熊推出-可编辑-的AI-",
+      "title": "“一键生成，页页可改”！商汤办公小浣熊推出「可编辑」的AI PPT",
+      "url": "https://www.qbitai.com/2026/03/382971.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-03-02T04:05:15.000Z",
+      "summary": "每一页都由用户掌控，才是真正好用的AI PPT",
+      "extra": {
+        "language": "zh"
+      }
+    },
+    {
+      "id": "qbitai-海淀放大招-90亿资金-近30条政策-重磅释放三大科创关键信",
+      "title": "海淀放大招！90亿资金+近30条政策，重磅释放三大科创关键信号",
+      "url": "https://www.qbitai.com/2026/02/382952.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-02-28T12:59:13.000Z",
+      "summary": "",
+      "extra": {
+        "language": "zh"
+      }
+    },
+    {
+      "id": "qbitai-OpenAI最新融资1100亿美元-英伟达亚马逊软银都抢到船",
+      "title": "OpenAI最新融资1100亿美元！英伟达亚马逊软银都抢到船票了",
+      "url": "https://www.qbitai.com/2026/02/382934.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-02-28T03:50:45.000Z",
+      "summary": "",
+      "extra": {
+        "language": "zh"
+      }
+    },
+    {
+      "id": "qbitai-分拆百度Robotaxi萝卜快跑-李彦宏回应了",
+      "title": "分拆百度Robotaxi萝卜快跑？李彦宏回应了",
+      "url": "https://www.qbitai.com/2026/02/382914.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-02-27T09:17:38.000Z",
+      "summary": "均跑4.3万单",
+      "extra": {
+        "language": "zh"
+      }
+    },
+    {
+      "id": "qbitai-何恺明团队新作GeoPT-全新预训练范式让模型自学真实物理规",
+      "title": "何恺明团队新作GeoPT，全新预训练范式让模型自学真实物理规律",
+      "url": "https://www.qbitai.com/2026/02/382888.html",
+      "source": "quantumbit",
+      "category": "news",
+      "score": 35,
+      "publishedAt": "2026-02-27T08:19:25.000Z",
+      "summary": "",
+      "extra": {
+        "language": "zh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "source": "google-trends",
+  "fetchedAt": "2026-03-03T01:47:54.461Z",
+  "items": [
+    {
+      "id": "gtrends-0",
+      "title": "jane fonda",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-03T01:30:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "'To slop': Jane Fonda skewers Donald Trump",
+          "Jane Fonda Leads Fiery Comedy Skit of Actors Auditioning After Paramount-Warner Bros. Deal: 'It's Only the Rush Hour Movies' | Video",
+          "Jane Fonda Gives Trump His Biggest Hollywood Wish"
+        ],
+        "newsItems": [
+          {
+            "title": "'To slop': Jane Fonda skewers Donald Trump",
+            "url": "https://www.alternet.org/jane-fonda-trump/",
+            "source": "Alternet.org"
+          },
+          {
+            "title": "Jane Fonda Leads Fiery Comedy Skit of Actors Auditioning After Paramount-Warner Bros. Deal: 'It's Only the Rush Hour Movies' | Video",
+            "url": "https://www.thewrap.com/culture-lifestyle/culture/jane-fonda-rush-hour-comedy-skit-paramount-warner-bros/",
+            "source": "TheWrap"
+          },
+          {
+            "title": "Jane Fonda Gives Trump His Biggest Hollywood Wish",
+            "url": "https://www.thedailybeast.com/obsessed/jane-fonda-gives-donald-trump-his-biggest-hollywood-wish/",
+            "source": "The Daily Beast"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-1",
+      "title": "is netanyahu alive",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-03T01:30:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "March 1, 2026 — Day two of the launch of a US-Israeli military operation against Iran",
+          "Dispatch from Tehran: Nowhere feels safe from attack",
+          "War in the Mideast widens as Trump says strikes on Iran could last several weeks"
+        ],
+        "newsItems": [
+          {
+            "title": "March 1, 2026 — Day two of the launch of a US-Israeli military operation against Iran",
+            "url": "https://www.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl",
+            "source": "CNN"
+          },
+          {
+            "title": "Dispatch from Tehran: Nowhere feels safe from attack",
+            "url": "https://www.nbcnews.com/world/iran/dispatch-tehran-nowhere-feels-safe-attack-rcna261273",
+            "source": "NBC News"
+          },
+          {
+            "title": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
+            "url": "https://apnews.com/article/iran-israel-us-03-02-2026-cb42936de1d8c261be8f30f11c6665fa",
+            "source": "Associated Press News"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-2",
+      "title": "erbil",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-03T01:20:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Iraqi militia claims drone attack targeting US troops in Baghdad",
+          "Iraqi militias attack US forces: New Iran war frontline?",
+          "Iraq’s Kurdistan Regional Government warns attacks on Peshmerga forces will not go unanswered"
+        ],
+        "newsItems": [
+          {
+            "title": "Iraqi militia claims drone attack targeting US troops in Baghdad",
+            "url": "https://kutv.com/news/nation-world/iraqi-militia-claims-drone-attack-targeting-us-troops-in-baghdad",
+            "source": "KUTV"
+          },
+          {
+            "title": "Iraqi militias attack US forces: New Iran war frontline?",
+            "url": "https://www.jpost.com/middle-east/iran-news/article-888439",
+            "source": "The Jerusalem Post"
+          },
+          {
+            "title": "Iraq’s Kurdistan Regional Government warns attacks on Peshmerga forces will not go unanswered",
+            "url": "https://www.aa.com.tr/en/middle-east/iraq-s-kurdistan-regional-government-warns-attacks-on-peshmerga-forces-will-not-go-unanswered/3845994",
+            "source": "Anadolu Ajansı"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-3",
+      "title": "hugo gonzález",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-03T01:20:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "La noche récord de Neemias Queta impulsa a Boston y corta la racha de Filadelfia",
+          "Boston Celtics remontan ante Philadelphia 76ers y Queta firma su noche más grande en la NBA",
+          "Hugo González es el fuego de los Boston Celtics"
+        ],
+        "newsItems": [
+          {
+            "title": "La noche récord de Neemias Queta impulsa a Boston y corta la racha de Filadelfia",
+            "url": "https://www.expressnews.com/sports/article/la-noche-record-de-neemias-queta-impulsa-a-21949778.php",
+            "source": "San Antonio Express-News"
+          },
+          {
+            "title": "Boston Celtics remontan ante Philadelphia 76ers y Queta firma su noche más grande en la NBA",
+            "url": "https://www.telemundo.com/deportes/nba-sunday-night-basketball/video/boston-celtics-remontan-ante-philadelphia-76ers-y-queta-firma-su-noche-mas-grande-en-la-tmvo13136201",
+            "source": "Telemundo"
+          },
+          {
+            "title": "Hugo González es el fuego de los Boston Celtics",
+            "url": "https://www.marca.com/baloncesto/nba/2026/03/02/hugo-gonzalez-fuego-boston-celtics-video.html",
+            "source": "MARCA"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-4",
+      "title": "caleb downs",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-03T01:20:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Caleb Downs flagged with significant knee issue at NFL Combine",
+          "NFL Draft | Why Caleb Downs makes sense for the Bengals to draft in first round",
+          "NFL Mock Draft: Bengals Land Generational DB to Bolster Defense"
+        ],
+        "newsItems": [
+          {
+            "title": "Caleb Downs flagged with significant knee issue at NFL Combine",
+            "url": "https://sports.yahoo.com/articles/caleb-downs-flagged-significant-knee-011904941.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "NFL Draft | Why Caleb Downs makes sense for the Bengals to draft in first round",
+            "url": "https://www.cincinnati.com/story/sports/nfl/bengals/2026/03/01/why-caleb-downs-could-be-ideal-first-round-nfl-draft-pick-for-the-bengals-ohio-state/88766793007/",
+            "source": "Cincinnati Enquirer"
+          },
+          {
+            "title": "NFL Mock Draft: Bengals Land Generational DB to Bolster Defense",
+            "url": "https://www.si.com/nfl/bengals/onsi/allbengals-insiders-plus/nfl-mock-draft-bengals-land-generational-db-to-bolster-defense-01kje9v4agjm",
+            "source": "Sports Illustrated"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-5",
+      "title": "nuggets vs jazz",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-03T01:10:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Nuggets play Jazz on back-to-back",
+          "Utah Jazz vs Denver Nuggets: Preview, injury report, how to watch",
+          "How to watch Nuggets vs. Jazz: TV channel and streaming options for March 2"
+        ],
+        "newsItems": [
+          {
+            "title": "Nuggets play Jazz on back-to-back",
+            "url": "https://www.nba.com/nuggets/news/nuggets-play-jazz-on-back-to-back",
+            "source": "NBA"
+          },
+          {
+            "title": "Utah Jazz vs Denver Nuggets: Preview, injury report, how to watch",
+            "url": "https://www.slcdunk.com/utah-jazz-game-coverage/67002/utah-jazz-vs-denver-nuggets-preview-injury-report-how-to-watch",
+            "source": "SLC Dunk"
+          },
+          {
+            "title": "How to watch Nuggets vs. Jazz: TV channel and streaming options for March 2",
+            "url": "https://www.nytimes.com/athletic/7081859/2026/03/02/how-to-watch-nuggets-vs-jazz-tv-channel-and-streaming-options-for-march-2/",
+            "source": "The New York Times"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-6",
+      "title": "kyle kuzma",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-03T01:10:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Bucks' Kyle Kuzma: Bench role Monday",
+          "Kyle Kuzma Embraces Role for Bucks' Second-Half Push",
+          "Bucks 128-117 Heat (Feb 24, 2026) Game Recap"
+        ],
+        "newsItems": [
+          {
+            "title": "Bucks' Kyle Kuzma: Bench role Monday",
+            "url": "https://www.cbssports.com/fantasy/basketball/news/bucks-kyle-kuzma-bench-role-monday/",
+            "source": "CBS Sports"
+          },
+          {
+            "title": "Kyle Kuzma Embraces Role for Bucks' Second-Half Push",
+            "url": "https://roundtable.io/sports/nba/bucks/news/kyle-kuzma-embraces-role-for-bucks-second-half-push",
+            "source": "roundtable.io"
+          },
+          {
+            "title": "Bucks 128-117 Heat (Feb 24, 2026) Game Recap",
+            "url": "https://www.espn.com/nba/recap/_/gameId/401810692",
+            "source": "ESPN"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-7",
+      "title": "ryan rollins",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-03T01:10:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Bucks' Ryan Rollins: Won't start Monday",
+          "Ryan Rollins: Cut from a different cloth",
+          "Bucks' Ryan Rollins On Pace To Set Single-season Franchise Record"
+        ],
+        "newsItems": [
+          {
+            "title": "Bucks' Ryan Rollins: Won't start Monday",
+            "url": "https://www.cbssports.com/fantasy/basketball/news/bucks-ryan-rollins-wont-start-monday/",
+            "source": "CBS Sports"
+          },
+          {
+            "title": "Ryan Rollins: Cut from a different cloth",
+            "url": "https://www.brewhoop.com/bucks-analysis/61157/ryan-rollins-milwaukee-bucks-nba-golden-state-warriors-washington-wizards",
+            "source": "Brew Hoop"
+          },
+          {
+            "title": "Bucks' Ryan Rollins On Pace To Set Single-season Franchise Record",
+            "url": "https://wisportsheroics.com/bucks-ryan-rollins-season-franchise-record/",
+            "source": "Wisconsin Sports Heroics"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-8",
+      "title": "jack carr",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-03T01:10:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Retired Navy SEAL says Iran needs to fill their 'leadership vacuum'",
+          "Rep. Jeff Crank discusses U.S.-Israel conflict with Iran",
+          "Mon Blogcast: WAR WITH IRAN; Rep Jeff Crank; Fmr Navy SEAL Jack Carr"
+        ],
+        "newsItems": [
+          {
+            "title": "Retired Navy SEAL says Iran needs to fill their 'leadership vacuum'",
+            "url": "https://www.foxnews.com/video/6390152183112",
+            "source": "Fox News"
+          },
+          {
+            "title": "Rep. Jeff Crank discusses U.S.-Israel conflict with Iran",
+            "url": "https://krdo.com/news/2026/03/02/rep-jeff-crank-discusses-u-s-israel-conflict-with-iran/",
+            "source": "KRDO"
+          },
+          {
+            "title": "Mon Blogcast: WAR WITH IRAN; Rep Jeff Crank; Fmr Navy SEAL Jack Carr",
+            "url": "https://koacolorado.iheart.com/featured/ross-kaminsky/content/2026-03-01-mon-blogcast-war-with-iran-rep-jeff-crank-fmr-navy-seal-jack-carr/",
+            "source": "KOA 850 AM & 94.1 FM"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-9",
+      "title": "riley green",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-03T01:10:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Riley Green Gets Candid about His “Troubled” Character on ‘Yellowstone’ Spinoff",
+          "Luke Grimes Pokes Fun at Riley Green at ‘Marshals’ Premiere: “Hide Your Wives”",
+          "Riley Green chooses Alabama farm over Nashville fame despite having 'every reason' to make the move"
+        ],
+        "newsItems": [
+          {
+            "title": "Riley Green Gets Candid about His “Troubled” Character on ‘Yellowstone’ Spinoff",
+            "url": "https://sg.news.yahoo.com/riley-green-gets-candid-troubled-144236287.html",
+            "source": "Yahoo News Singapore"
+          },
+          {
+            "title": "Luke Grimes Pokes Fun at Riley Green at ‘Marshals’ Premiere: “Hide Your Wives”",
+            "url": "https://www.countryliving.com/life/entertainment/a70495664/luke-grimes-pokes-fun-at-annoyingly-handsome-riley-green-at-marshals-premiere/",
+            "source": "Country Living"
+          },
+          {
+            "title": "Riley Green chooses Alabama farm over Nashville fame despite having 'every reason' to make the move",
+            "url": "https://www.foxnews.com/entertainment/riley-green-chooses-alabama-farm-over-nashville-fame-despite-having-every-reason-make-move",
+            "source": "Fox News"
+          }
+        ],
+        "geo": "CN"
+      }
+    }
+  ],
+  "errors": [
+    "Google Trends RSS returned 400 for geo=CN"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-03-03T01:44:44.159Z",
+  "checks": {
+    "sourceCount": {
+      "pass": true,
+      "value": 6,
+      "required": 3
+    },
+    "actionCount": {
+      "pass": true,
+      "value": 6,
+      "required": 3,
+      "message": "immediate(2) + thisWeek(2) + watchAndWait(2)"
+    },
+    "riskCount": {
+      "pass": true,
+      "value": 3,
+      "required": 2
+    },
+    "conclusionTitle": {
+      "pass": true,
+      "message": "zh(19字): \"Claude 记忆免费开放并上线迁移工具...\" | en(7词): \"Claude Memory Goes Free with Import Tool...\""
+    },
+    "subtitlePresent": {
+      "pass": true,
+      "value": {
+        "zh": true,
+        "en": true
+      }
+    },
+    "confidence": {
+      "pass": true,
+      "value": 88,
+      "required": 60
+    },
+    "zhComplete": {
+      "pass": true
+    },
+    "enComplete": {
+      "pass": true
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "claude-memory-free-import-chatgpt-exodus"
+    }
+  },
+  "bonuses": {
+    "hasOptions": true,
+    "hasTldr": true,
+    "hasAffectedGroups": true,
+    "sourceDiversity": true
+  },
+  "failReasons": []
+}

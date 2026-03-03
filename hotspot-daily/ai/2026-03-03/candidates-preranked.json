@@ -1,0 +1,740 @@
+[
+  {
+    "id": "gh-ruvnet-ruflo",
+    "title": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architect",
+    "publishedAt": "2026-03-03T01:30:28.369Z",
+    "rawScore": 18075,
+    "category": "project",
+    "starsToday": 830,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-K-Dense-AI-claude-scientific-skills",
+    "title": "K-Dense-AI/claude-scientific-skills",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "publishedAt": "2026-03-03T01:30:28.369Z",
+    "rawScore": 11095,
+    "category": "project",
+    "starsToday": 820,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-superset-sh-superset",
+    "title": "superset-sh/superset",
+    "url": "https://github.com/superset-sh/superset",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+    "publishedAt": "2026-03-03T01:30:28.369Z",
+    "rawScore": 3523,
+    "category": "project",
+    "starsToday": 585,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-alibaba-OpenSandbox",
+    "title": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+    "publishedAt": "2026-03-03T01:30:28.369Z",
+    "rawScore": 4342,
+    "category": "project",
+    "starsToday": 1026,
+    "aiRelated": true,
+    "prerankScore": 83,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47222270",
+    "title": "A case for Go as the best language for AI agents",
+    "url": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T18:48:36.000Z",
+    "rawScore": 151,
+    "category": "discussion",
+    "comments": 221,
+    "prerankScore": 76,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 24,
+      "keywords": 10,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "alphaxiv-2602.21548",
+    "title": "DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference",
+    "url": "https://www.alphaxiv.org/abs/2602.21548",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:03.351Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 74,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-microsoft-markitdown",
+    "title": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Python tool for converting files and office documents to Markdown.",
+    "publishedAt": "2026-03-03T01:30:28.369Z",
+    "rawScore": 89627,
+    "category": "project",
+    "starsToday": 648,
+    "aiRelated": false,
+    "prerankScore": 73,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "dlm-GlobeDiff-State-Diffusion-Pro",
+    "title": "GlobeDiff: State Diffusion Process for Partial Observability in Multi-Agent Systems",
+    "url": "https://deeplearn.org/arxiv/702607/globediff:-state-diffusion-process-for-partial-observability-in-multi-agent-systems",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:08.431Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3098711",
+    "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+    "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+    "publishedAt": "Tue, 03 Mar 2026 00:03:37 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-dosanko-tousan-how-gpt-diagnosed-itself-i-fed-it-its-own-2-month-old-de",
+    "title": "How GPT Diagnosed Itself — I Fed It Its Own 2-Month-Old Design, and Every Flaw Became Visible",
+    "url": "https://dev.to/dosanko_tousan/how-gpt-diagnosed-itself-i-fed-it-its-own-2-month-old-design-and-every-flaw-became-visible-5d34",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Shinkitai / dosanko_tousan + Claude (claude-opus-4-6) + GPT (ChatGPT 5.2 Thinking) v5.3 Alignment via Subtraction MIT License Experiment Metadata Item Value Date 2026-03-03 GPT Model ChatGPT 5.2 Think",
+    "publishedAt": "Tue, 03 Mar 2026 01:01:01 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "alphaxiv-2602.24286",
+    "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+    "url": "https://www.alphaxiv.org/abs/2602.24286",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:03.351Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.23008",
+    "title": "Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization",
+    "url": "https://www.alphaxiv.org/abs/2602.23008",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:03.351Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.22766",
+    "title": "Imagination Helps Visual Reasoning, But Not Yet in Latent Space",
+    "url": "https://www.alphaxiv.org/abs/2602.22766",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:03.351Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.22769",
+    "title": "AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications",
+    "url": "https://www.alphaxiv.org/abs/2602.22769",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:03.351Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.22897",
+    "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+    "url": "https://www.alphaxiv.org/abs/2602.22897",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:03.352Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-anthropics-prompt-eng-interactive-tutorial",
+    "title": "anthropics/prompt-eng-interactive-tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "publishedAt": "2026-03-03T01:30:28.369Z",
+    "rawScore": 31606,
+    "category": "project",
+    "starsToday": 526,
+    "aiRelated": true,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-ruvnet-wifi-densepose",
+    "title": "ruvnet/wifi-densepose",
+    "url": "https://github.com/ruvnet/wifi-densepose",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "publishedAt": "2026-03-03T01:30:28.369Z",
+    "rawScore": 22061,
+    "category": "project",
+    "starsToday": 5096,
+    "aiRelated": false,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47218175",
+    "title": "New iPad Air, powered by M4",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T14:11:23.000Z",
+    "rawScore": 315,
+    "category": "discussion",
+    "comments": 517,
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-Developing-AI-Agents-with-Simu",
+    "title": "Developing AI Agents with Simulated Data: Why, what, and how?",
+    "url": "https://deeplearn.org/arxiv/702590/developing-ai-agents-with-simulated-data:-why,-what,-and-how?",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:08.431Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-887885",
+    "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool fo",
+    "publishedAt": "2026-03-02T17:29:46-05:00",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 20,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "qbitai-Notion引入MiniMax-M2-5-作为Custom-",
+    "title": "Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型",
+    "url": "https://www.qbitai.com/2026/03/383020.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T08:56:57.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 20,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:01.566Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "hn-47202708",
+    "title": "Microgpt",
+    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-01T01:39:26.000Z",
+    "rawScore": 1896,
+    "category": "discussion",
+    "comments": 319,
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-Harpoon-Generalised-Manifold-",
+    "title": "Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion",
+    "url": "https://deeplearn.org/arxiv/704361/harpoon:-generalised-manifold-guidance-for-conditional-tabular-diffusion",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:08.431Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "qbitai-上海一群青年-造了个学术版OpenClaw",
+    "title": "上海一群青年，造了个学术版OpenClaw",
+    "url": "https://www.qbitai.com/2026/03/383249.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "上智院联合复旦发布的“大圣”",
+    "publishedAt": "2026-03-02T16:28:55.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "qbitai-13-vs-3-国产安全AI悄悄完成了对Claude的超越",
+    "title": "13 vs 3，国产安全AI悄悄完成了对Claude的超越",
+    "url": "https://www.qbitai.com/2026/03/383016.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "不仅复现，还多找出10个0day漏洞",
+    "publishedAt": "2026-03-02T04:29:06.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:01.566Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "pwc-2602.22661",
+    "title": "Paper 2602.22661",
+    "url": "https://huggingface.co/papers/2602.22661",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:30:59.326Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2602.24233",
+    "title": "Paper 2602.24233",
+    "url": "https://huggingface.co/papers/2602.24233",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:30:59.326Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2602.22207",
+    "title": "Paper 2602.22207",
+    "url": "https://huggingface.co/papers/2602.22207",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:30:59.326Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "hn-47212355",
+    "title": "If AI writes code, should the session be part of the commit?",
+    "url": "https://github.com/mandel-macaque/memento",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-02T00:27:52.000Z",
+    "rawScore": 462,
+    "category": "discussion",
+    "comments": 375,
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T01:31:01.566Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "mcp-opennews-1772501706274-2",
+    "title": "Human Brain Cells Learn to Play Doom in Cortical Labs Experiment",
+    "url": "https://decrypt.co/359697/human-brain-cells-play-doom-cortical-labs-experiment",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "Cortical Labs 成功训练约 20 万个活人类神经元玩经典视频游戏 Doom，使用电刺激和软件控制实现。神经元通过基于奖励的反馈展示了学习能力，不过研究人员强调细胞是对输入做出反应，而非真正理解游戏。",
+    "publishedAt": "2026-03-03T01:27:00.000Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 45,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 5,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "ph-ctrlai",
+    "title": "CtrlAI",
+    "url": "https://www.producthunt.com/products/ctrlai",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Transparent proxy that secures AI agents with guardrails\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/ctrlai?utm_campaign",
+    "publishedAt": "2026-03-01T15:07:34.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 44,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1772501706274-2",
+    "title": "NVIDIA to Unveil New AI Chip Linked to Groq Technology",
+    "url": "https://www.theinformation.com/articles/nvidia-to-unveil-new-ai-chip-linked-to-groq-technology",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "NVIDIA 计划发布一款整合 Groq 技术的新型 AI 芯片，标志着从通用设计向推理优化专用方案的转变。随着推理规模不断扩大，单位功耗性能成为关键指标。",
+    "publishedAt": "2026-03-02T12:00:00.000Z",
+    "rawScore": 0,
+    "category": "release",
+    "prerankScore": 43,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "mcp-opennews-1772501706274-1",
+    "title": "US State Department Switches from Anthropic to OpenAI, Bans Anthropic from Government Agencies",
+    "url": "https://www.nikkei.com/article/DGXZQOGN030PH0T00C26A3000000/",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "美国国务院已停止使用 Anthropic 的 AI 技术，转而使用 OpenAI 的服务。这是特朗普政府将 Anthropic AI 排除出联邦政府机构的更广泛举措的一部分，美国财政部也宣布将停止使用 Anthropic 的技术。",
+    "publishedAt": "2026-03-03T01:20:00.000Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 40,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "ph-unfold",
+    "title": "Unfold",
+    "url": "https://www.producthunt.com/products/unfold-7",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Extend macOS Quick Look to folders, archives &amp; code files\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/unfold-7?utm_c",
+    "publishedAt": "2026-03-02T03:35:41.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 39,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "ph-nothinghere",
+    "title": "NothingHere",
+    "url": "https://www.producthunt.com/products/nothinghere-one-key-press-clean-screen",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            A MacOS panic button where one key press cleans your screen\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/nothinghere-one-",
+    "publishedAt": "2026-03-02T04:44:06.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 39,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1772501706274-1",
+    "title": "AI isn't causing a jobs-pocalypse. At least, not yet",
+    "url": "https://edition.cnn.com/2026/03/02/business/ai-tech-jobs-layoffs",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "CNN 深度分析 AI 对就业市场的影响。Block 公司宣布裁员近半数员工并明确将裁员与 AI 工具关联，但整体来看 AI 导致的大规模失业潮尚未到来，企业更多是在重新定义岗位而非简单替代。",
+    "publishedAt": "2026-03-02T12:00:00.000Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 33,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "websearch-1772501706274-3",
+    "title": "South Korea and Singapore Establish AI Alliance with $300M Joint Fund",
+    "url": "https://techstartups.com/2026/03/02/top-tech-news-today-march-2-2026/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "韩国与新加坡建立正式 AI 联盟，设立 3 亿美元基金（到 2030 年），支持联合 AI 开发。结合韩国的半导体/制造业优势和新加坡的监管基础设施。",
+    "publishedAt": "2026-03-02T12:00:00.000Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 33,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 13
+    }
+  }
+]

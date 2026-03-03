@@ -1,0 +1,201 @@
+{
+  "source": "alphaxiv",
+  "fetchedAt": "2026-03-03T01:31:03.352Z",
+  "items": [
+    {
+      "id": "alphaxiv-2602.22661",
+      "title": "dLLM: Simple Diffusion Language Modeling",
+      "url": "https://www.alphaxiv.org/abs/2602.22661",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.22661",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.24286",
+      "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+      "url": "https://www.alphaxiv.org/abs/2602.24286",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.24286",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23008",
+      "title": "Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization",
+      "url": "https://www.alphaxiv.org/abs/2602.23008",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.23008",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.21548",
+      "title": "DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference",
+      "url": "https://www.alphaxiv.org/abs/2602.21548",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.21548",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23361",
+      "title": "VGG-T3^33: Offline Feed-Forward 3D Reconstruction at Scale",
+      "url": "https://www.alphaxiv.org/abs/2602.23361",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.23361",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.24289",
+      "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
+      "url": "https://www.alphaxiv.org/abs/2602.24289",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.24289",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22766",
+      "title": "Imagination Helps Visual Reasoning, But Not Yet in Latent Space",
+      "url": "https://www.alphaxiv.org/abs/2602.22766",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.22766",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23058",
+      "title": "GeoWorld: Geometric World Models",
+      "url": "https://www.alphaxiv.org/abs/2602.23058",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.23058",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22769",
+      "title": "AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications",
+      "url": "https://www.alphaxiv.org/abs/2602.22769",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.22769",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.24290",
+      "title": "UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images",
+      "url": "https://www.alphaxiv.org/abs/2602.24290",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.24290",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.24233",
+      "title": "Enhancing Spatial Understanding in Image Generation via Reward Modeling",
+      "url": "https://www.alphaxiv.org/abs/2602.24233",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.351Z",
+      "extra": {
+        "arxivId": "2602.24233",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23843",
+      "title": "OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control",
+      "url": "https://www.alphaxiv.org/abs/2602.23843",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.352Z",
+      "extra": {
+        "arxivId": "2602.23843",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23893",
+      "title": "AoE: Always-on Egocentric Human Video Collection for Embodied AI",
+      "url": "https://www.alphaxiv.org/abs/2602.23893",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.352Z",
+      "extra": {
+        "arxivId": "2602.23893",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.22897",
+      "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+      "url": "https://www.alphaxiv.org/abs/2602.22897",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.352Z",
+      "extra": {
+        "arxivId": "2602.22897",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.24281",
+      "title": "Memory Caching: RNNs with Growing Memory",
+      "url": "https://www.alphaxiv.org/abs/2602.24281",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-03T01:31:03.352Z",
+      "extra": {
+        "arxivId": "2602.24281",
+        "fromScrape": true
+      }
+    }
+  ]
+}

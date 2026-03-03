@@ -1,0 +1,186 @@
+{
+  "source": "deep-learning-monitor",
+  "fetchedAt": "2026-03-03T01:31:08.432Z",
+  "items": [
+    {
+      "id": "dlm-Humanity-39-s-Last-Exam",
+      "title": "Humanity&#39;s Last Exam",
+      "url": "https://deeplearn.org/arxiv/704232/humanity&#39;s-last-exam",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-On-the-Role-of-Iterative-Compu",
+      "title": "On the Role of Iterative Computation in Reinforcement Learning",
+      "url": "https://deeplearn.org/arxiv/702644/on-the-role-of-iterative-computation-in-reinforcement-learning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Mind-the-Style-Impact-of-Comm",
+      "title": "Mind the Style: Impact of Communication Style on Human-Chatbot Interaction",
+      "url": "https://deeplearn.org/arxiv/704316/mind-the-style:-impact-of-communication-style-on-human-chatbot-interaction",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Harpoon-Generalised-Manifold-",
+      "title": "Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion",
+      "url": "https://deeplearn.org/arxiv/704361/harpoon:-generalised-manifold-guidance-for-conditional-tabular-diffusion",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Online-GPU-Energy-Optimization",
+      "title": "Online GPU Energy Optimization with Switching-Aware Bandits",
+      "url": "https://deeplearn.org/arxiv/702615/online-gpu-energy-optimization-with-switching-aware-bandits",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Developing-AI-Agents-with-Simu",
+      "title": "Developing AI Agents with Simulated Data: Why, what, and how?",
+      "url": "https://deeplearn.org/arxiv/702590/developing-ai-agents-with-simulated-data:-why,-what,-and-how?",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Token-Based-Audio-Inpainting-v",
+      "title": "Token-Based Audio Inpainting via Discrete Diffusion",
+      "url": "https://deeplearn.org/arxiv/702591/token-based-audio-inpainting-via-discrete-diffusion",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Avey-B",
+      "title": "Avey-B",
+      "url": "https://deeplearn.org/arxiv/702592/avey-b",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Horizon-Imagination-Efficient",
+      "title": "Horizon Imagination: Efficient On-Policy Rollout in Diffusion World Models",
+      "url": "https://deeplearn.org/arxiv/702593/horizon-imagination:-efficient-on-policy-rollout-in-diffusion-world-models",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Task-Agnostic-Continual-Learni",
+      "title": "Task-Agnostic Continual Learning for Chest Radiograph Classification",
+      "url": "https://deeplearn.org/arxiv/702594/task-agnostic-continual-learning-for-chest-radiograph-classification",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-PolySHAP-Extending-KernelSHAP",
+      "title": "PolySHAP: Extending KernelSHAP with Interaction-Informed Polynomial Regression",
+      "url": "https://deeplearn.org/arxiv/702621/polyshap:-extending-kernelshap-with-interaction-informed-polynomial-regression",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Neural-Scaling-Laws-for-Booste",
+      "title": "Neural Scaling Laws for Boosted Jet Tagging",
+      "url": "https://deeplearn.org/arxiv/702605/neural-scaling-laws-for-boosted-jet-tagging",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm--PLUIE-Personalisable-metric",
+      "title": "*-PLUIE: Personalisable metric with Llm Used for Improved Evaluation",
+      "url": "https://deeplearn.org/arxiv/702606/*-pluie:-personalisable-metric-with-llm-used-for-improved-evaluation",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-GlobeDiff-State-Diffusion-Pro",
+      "title": "GlobeDiff: State Diffusion Process for Partial Observability in Multi-Agent Systems",
+      "url": "https://deeplearn.org/arxiv/702607/globediff:-state-diffusion-process-for-partial-observability-in-multi-agent-systems",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-NeRFscopy-Neural-Radiance-Fie",
+      "title": "NeRFscopy: Neural Radiance Fields for in-vivo Time-Varying Tissues from Endoscopy",
+      "url": "https://deeplearn.org/arxiv/702608/nerfscopy:-neural-radiance-fields-for-in-vivo-time-varying-tissues-from-endoscopy",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-03T01:31:08.431Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}

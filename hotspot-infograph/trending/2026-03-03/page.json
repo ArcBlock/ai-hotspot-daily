@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "date": "2026-03-03",
+    "slug": "2026-03-03-us-iran-conflict",
+    "generatedAt": "2026-03-03T11:00:00.000Z",
+    "language": "zh"
+  },
+  "hero": {
+    "title": "美以对伊朗开战3天已致超560人死亡",
+    "category": "国际",
+    "color": "#0891b2",
+    "chart": {
+      "type": "timeline",
+      "data": [
+        { "label": "2月28日", "value": 1, "unit": "美以发动首轮空袭" },
+        { "label": "3月1日", "value": 2, "unit": "哈梅内伊身亡确认" },
+        { "label": "3月1日", "value": 3, "unit": "伊朗反击 美军3人阵亡" },
+        { "label": "3月2日", "value": 4, "unit": "霍尔木兹海峡被关闭" },
+        { "label": "3月2日", "value": 5, "unit": "美军累计6人阵亡 伊朗死亡超555人" }
+      ],
+      "highlight": "3天内冲突扩展至8个国家和地区"
+    },
+    "keyNumbers": [
+      { "value": "555+", "label": "伊朗死亡人数" },
+      { "value": "6", "label": "美军阵亡人数" },
+      { "value": "8国", "label": "卷入国家数" }
+    ],
+    "takeaway": "美以联合打击伊朗3天，冲突外溢至中东多国，油价金价剧烈波动",
+    "sources": [
+      { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/3/2/iran-death-toll-reaches-555-as-us-israel-escalate-attacks" },
+      { "name": "NPR", "url": "https://www.npr.org/2026/03/02/g-s1-112151/iran-war-widens-threatens-to-engulf-lebanon" },
+      { "name": "Washington Post", "url": "https://www.washingtonpost.com/world/2026/03/02/us-israel-iran-hezbollah-military-strikes-live-updates/" }
+    ],
+    "needsDetail": true,
+    "detailTemplate": "geo-explainer",
+    "detailSlug": "us-iran-conflict-escalation"
+  },
+  "cards": [
+    {
+      "title": "元宵夜遇月全食 再等46年",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "miniBar",
+        "data": {
+          "items": [
+            { "label": "初亏", "value": 1749, "color": "#93c5fd" },
+            { "label": "全食", "value": 58, "color": "#dc2626" },
+            { "label": "复圆", "value": 2117, "color": "#93c5fd" }
+          ]
+        }
+      },
+      "insight": "17:49至21:17全程3小时28分钟",
+      "needsDetail": true,
+      "detailTemplate": "tech-breakdown",
+      "detailSlug": "lunar-eclipse-lantern-festival"
+    },
+    {
+      "title": "黄金冲高回落 白银跳水6%",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "trend",
+        "data": {
+          "direction": "up",
+          "value": "+3%",
+          "label": "黄金盘中触及$5400"
+        }
+      },
+      "insight": "中东局势推动避险后获利回吐",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "gold-silver-oil-surge"
+    },
+    {
+      "title": "iPhone 17e $599起售",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": {
+          "value": "$599",
+          "label": "256GB起售价"
+        }
+      },
+      "insight": "A19芯片 3月4日预购 3月11日发售",
+      "needsDetail": false,
+      "detailTemplate": null,
+      "detailSlug": null
+    },
+    {
+      "title": "谢娜公开喊话薛之谦",
+      "category": "娱乐",
+      "color": "#7c3aed",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "谢娜", "value": "喊话方" },
+          "right": { "label": "薛之谦", "value": "被喊话" }
+        }
+      },
+      "insight": "微博热搜爆标签 近2000万热度",
+      "needsDetail": false,
+      "detailTemplate": null,
+      "detailSlug": null
+    },
+    {
+      "title": "中国量子安全手机问世",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "progress",
+        "data": {
+          "value": 3,
+          "label": "三层安全防护体系"
+        }
+      },
+      "insight": "量子SIM卡+抗量子算法+国密算法",
+      "needsDetail": false,
+      "detailTemplate": null,
+      "detailSlug": null
+    },
+    {
+      "title": "海澜之家被暂停全军采购",
+      "category": "社会",
+      "color": "#dc2626",
+      "miniChart": {
+        "type": "tags",
+        "data": {
+          "items": ["中标后拒签合同", "全军暂停", "含武警部队", "法人被处理"]
+        }
+      },
+      "insight": "中标后无正当理由拒不签约",
+      "needsDetail": false,
+      "detailTemplate": null,
+      "detailSlug": null
+    }
+  ]
+}

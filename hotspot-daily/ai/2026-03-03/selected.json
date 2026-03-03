@@ -1,0 +1,230 @@
+{
+  "primary": {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-887885",
+    "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool fo",
+    "publishedAt": "2026-03-02T17:29:46-05:00",
+    "rawScore": 0,
+    "category": "news",
+    "scores": {
+      "timeliness": 5,
+      "impact": 4,
+      "actionability": 5,
+      "credibility": 5,
+      "audienceMatch": 4,
+      "total": 4.6
+    },
+    "rankReason": "Anthropic 将 Claude 记忆功能扩展至免费用户并推出竞品导入工具，配合 ChatGPT 卸载潮形成完整的用户争夺战略，对产品设计者有直接参考价值"
+  },
+  "alternates": [
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3098711",
+      "title": "OpenAI 签约美国国防部引发 Cancel ChatGPT 运动，卸载量飙升 295%，Claude 下载量大涨",
+      "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "source": "rss",
+      "sourceType": "script",
+      "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+      "publishedAt": "Tue, 03 Mar 2026 00:03:37 +0000",
+      "rawScore": 0,
+      "category": "news",
+      "mergedWith": [
+        "mcp-opennews-1772501706274-1"
+      ],
+      "scores": {
+        "timeliness": 5,
+        "impact": 5,
+        "actionability": 4,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.6
+      },
+      "rankReason": "OpenAI 国防部交易引发用户大规模抛弃，Anthropic 被美国政府封禁——这是 AI 行业商业格局与伦理边界的标志性事件，直接影响开发者和企业的平台选择策略"
+    },
+    {
+      "id": "gh-alibaba-OpenSandbox",
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "rawScore": 4342,
+      "category": "project",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 4,
+        "audienceMatch": 5,
+        "total": 4.4
+      },
+      "rankReason": "阿里巴巴开源的 AI Agent 通用沙盒平台，支持多语言 SDK 和 K8s 运行时，直接解决 Coding Agent 和 GUI Agent 的安全执行问题，开发者可立即使用"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3098711",
+      "title": "OpenAI 签约美国国防部引发 Cancel ChatGPT 运动，卸载量飙升 295%，Claude 下载量大涨",
+      "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "source": "rss",
+      "category": "news",
+      "scores": {
+        "timeliness": 5,
+        "impact": 5,
+        "actionability": 4,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.6
+      },
+      "rankReason": "OpenAI 国防部交易引发用户大规模抛弃，Anthropic 被美国政府封禁——这是 AI 行业商业格局与伦理边界的标志性事件，直接影响开发者和企业的平台选择策略"
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-887885",
+      "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+      "source": "rss",
+      "category": "news",
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.6
+      },
+      "rankReason": "Anthropic 将 Claude 记忆功能扩展至免费用户并推出竞品导入工具，配合 ChatGPT 卸载潮形成完整的用户争夺战略，对产品设计者有直接参考价值"
+    },
+    {
+      "id": "gh-alibaba-OpenSandbox",
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github",
+      "category": "project",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 4,
+        "audienceMatch": 5,
+        "total": 4.4
+      },
+      "rankReason": "阿里巴巴开源的 AI Agent 通用沙盒平台，支持多语言 SDK 和 K8s 运行时，直接解决 Coding Agent 和 GUI Agent 的安全执行问题，开发者可立即使用"
+    },
+    {
+      "id": "gh-anthropics-prompt-eng-interactive-tutorial",
+      "title": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "source": "github",
+      "category": "project",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 4.1
+      },
+      "rankReason": "Anthropic 官方互动提示工程教程，持续 trending，526 star 今日新增"
+    },
+    {
+      "id": "gh-superset-sh-superset",
+      "title": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "source": "github",
+      "category": "project",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 5,
+        "credibility": 3,
+        "audienceMatch": 5,
+        "total": 4
+      },
+      "rankReason": "AI Agent 时代的 IDE，支持同时运行 10+ Claude Code/Codex Agent 并行编码，用 git worktree 隔离，直接提升开发效率"
+    },
+    {
+      "id": "gh-microsoft-markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "source": "github",
+      "category": "project",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 3.95
+      },
+      "rankReason": "微软出品的文档转 Markdown 工具，对 AI 数据处理管线直接有用，持续热门"
+    },
+    {
+      "id": "hn-47202708",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "source": "hackernews",
+      "category": "discussion",
+      "scores": {
+        "timeliness": 2,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 3.9
+      },
+      "rankReason": "Karpathy 的 MicroGPT 教程，HN 1896 分、319 评论，但发布已 3 周"
+    },
+    {
+      "id": "websearch-1772501706274-2",
+      "title": "NVIDIA to Unveil New AI Chip Linked to Groq Technology",
+      "url": "https://www.theinformation.com/articles/nvidia-to-unveil-new-ai-chip-linked-to-groq-technology",
+      "source": "websearch",
+      "category": "release",
+      "scores": {
+        "timeliness": 4,
+        "impact": 5,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 3.85
+      },
+      "rankReason": "NVIDIA 将在 GTC 2026 发布整合 Groq LPU 技术的新推理芯片，OpenAI 为首批客户——AI 推理基础设施的重大变革"
+    },
+    {
+      "id": "qbitai-Notion引入MiniMax-M2-5-作为Custom-",
+      "title": "Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型",
+      "url": "https://www.qbitai.com/2026/03/383020.html",
+      "source": "quantumbit",
+      "category": "news",
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.8
+      },
+      "rankReason": "Notion Custom Agents 集成 MiniMax M2.5 作为唯一可用开源模型，标志开源模型在企业级产品中获得认可"
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "google/gemini-3-flash",
+      "url": "https://replicate.com/google/gemini-3-flash",
+      "source": "replicate",
+      "category": "release",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.75
+      },
+      "rankReason": "Google Gemini 3 Flash 登陆 Replicate，开发者可通过 API 直接调用"
+    }
+  ],
+  "rankedAt": "2026-03-03T01:38:55.133Z"
+}

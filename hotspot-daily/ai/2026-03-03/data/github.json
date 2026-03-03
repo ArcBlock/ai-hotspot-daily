@@ -1,0 +1,159 @@
+{
+  "source": "github",
+  "fetchedAt": "2026-03-03T01:30:28.369Z",
+  "items": [
+    {
+      "id": "gh-ruvnet-wifi-densepose",
+      "title": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "source": "github",
+      "category": "project",
+      "score": 22061,
+      "summary": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "extra": {
+        "language": "Rust",
+        "forks": 2601,
+        "starsToday": 5096,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-moeru-ai-airi",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "source": "github",
+      "category": "project",
+      "score": 21420,
+      "summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 2010,
+        "starsToday": 1412,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-anthropics-prompt-eng-interactive-tutorial",
+      "title": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "source": "github",
+      "category": "project",
+      "score": 31606,
+      "summary": "Anthropic's Interactive Prompt Engineering Tutorial",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "forks": 3215,
+        "starsToday": 526,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-ruvnet-ruflo",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "github",
+      "category": "project",
+      "score": 18075,
+      "summary": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 2004,
+        "starsToday": 830,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-alibaba-OpenSandbox",
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github",
+      "category": "project",
+      "score": 4342,
+      "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "extra": {
+        "language": "Python",
+        "forks": 306,
+        "starsToday": 1026,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-microsoft-markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "source": "github",
+      "category": "project",
+      "score": 89627,
+      "summary": "Python tool for converting files and office documents to Markdown.",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "extra": {
+        "language": "Python",
+        "forks": 5252,
+        "starsToday": 648,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-K-Dense-AI-claude-scientific-skills",
+      "title": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "source": "github",
+      "category": "project",
+      "score": 11095,
+      "summary": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "extra": {
+        "language": "Python",
+        "forks": 1258,
+        "starsToday": 820,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-superset-sh-superset",
+      "title": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "source": "github",
+      "category": "project",
+      "score": 3523,
+      "summary": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 238,
+        "starsToday": 585,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-servo-servo",
+      "title": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "source": "github",
+      "category": "project",
+      "score": 35757,
+      "summary": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "publishedAt": "2026-03-03T01:30:28.369Z",
+      "extra": {
+        "language": "Rust",
+        "forks": 3497,
+        "starsToday": 45,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    }
+  ]
+}

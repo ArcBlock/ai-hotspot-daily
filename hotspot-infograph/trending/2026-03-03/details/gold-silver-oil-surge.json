@@ -1,0 +1,89 @@
+{
+  "slug": "gold-silver-oil-surge",
+  "title": "黄金冲高回落 白银单日跳水7%",
+  "category": "财经",
+  "color": "#d97706",
+  "template": "data-story",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "概述",
+      "content": {
+        "paragraphs": [
+          "3月2日，受美以联合打击伊朗引发的避险情绪推动，现货黄金盘中冲高至5420美元/盎司附近，随后回落至5341美元，收涨1.21%。COMEX黄金期货收报5296美元，涨幅1.97%。金价2026年以来已累计上涨超22%，从年初4300美元一路攀升。",
+          "白银走势更为剧烈。现货白银一度触及96.40美元/盎司，随后出现闪崩式跳水，盘中暴跌7%至87美元区间，最终回升至94美元附近收盘。COMEX白银当日仍录得7.77%涨幅，但盘中波动幅度之大为近年罕见。",
+          "原油市场同样经历冲高回落。布伦特原油开盘跳涨13%至82.37美元/桶的52周高点，随后回落至78美元附近。伊朗宣布封锁霍尔木兹海峡是油价暴涨的直接导火索，该海峡承载全球约20%的石油运输量。"
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "金银油3月2日盘中走势",
+      "content": {
+        "chartType": "bar",
+        "data": [
+          {"label": "黄金盘中高点", "value": 5420, "group": "冲高"},
+          {"label": "黄金收盘价", "value": 5341, "group": "回落"},
+          {"label": "白银盘中高点", "value": 96.40, "group": "冲高"},
+          {"label": "白银盘中低点", "value": 87, "group": "回落"},
+          {"label": "布伦特高点", "value": 82.37, "group": "冲高"},
+          {"label": "布伦特收盘", "value": 78.41, "group": "回落"}
+        ],
+        "highlight": "三大品种均经历冲高回落，白银盘中振幅达10%以上",
+        "caption": "单位：黄金/白银为美元/盎司，原油为美元/桶。数据来源：CNBC、Investing.com、新浪财经"
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键数据速览",
+      "content": {
+        "facts": [
+          {"label": "黄金现货高点", "value": "5420美元/盎司（盘中新高）"},
+          {"label": "黄金收盘价", "value": "5341美元/盎司（涨1.21%）"},
+          {"label": "白银盘中跳水", "value": "从96.4跌至87美元（跌幅7%）"},
+          {"label": "布伦特原油", "value": "82.37→78.41美元/桶"},
+          {"label": "霍尔木兹海峡", "value": "日均1500万桶原油运输中断"},
+          {"label": "摩根大通金价预期", "value": "2026年底目标6000美元/盎司"}
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "2026年黄金价格走势",
+      "content": {
+        "chartType": "line",
+        "data": [
+          {"label": "1月初", "value": 4300},
+          {"label": "1月底", "value": 4680},
+          {"label": "2月11日", "value": 5061},
+          {"label": "2月27日", "value": 4850},
+          {"label": "2月28日（空袭）", "value": 5194},
+          {"label": "3月1日", "value": 5299},
+          {"label": "3月2日高点", "value": 5420},
+          {"label": "3月2日收盘", "value": 5341}
+        ],
+        "highlight": "冲突爆发以来金价累计上涨约570美元，涨幅近12%",
+        "caption": "单位：美元/盎司。数据来源：GoldPrice.org、Sunday Guardian、Investing.com"
+      }
+    },
+    {
+      "type": "text",
+      "heading": "分析与展望",
+      "content": {
+        "paragraphs": [
+          "金银冲高回落反映市场情绪快速切换。战争初期避险买盘集中涌入推高金价至5420美元，但获利了结与美联储可能加息应对通胀的预期随后压制涨势。白银因市场深度较浅，波动幅度显著大于黄金，盘中7%的跳水凸显流动性风险。",
+          "后续走势高度取决于霍尔木兹海峡通航恢复时间。摩根大通警告，若封锁持续3至4周，布伦特原油可能冲上100美元，进一步推升通胀预期和避险需求，金价有望测试5500至6000美元区间。若短期内达成停火，商品价格或回吐多数涨幅。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {"name": "CNBC（油价与霍尔木兹海峡）", "url": "https://www.cnbc.com/2026/03/02/iran-us-oil-strait-hormuz-war-middle-east-energy-brent-crude-wti-conflict.html"},
+    {"name": "Disruption Banking（金银价格）", "url": "https://www.disruptionbanking.com/2026/03/02/iran-war-sparks-gold-surge-past-5400-silver-to-96/"},
+    {"name": "新浪财经（黄金白银原油飙涨）", "url": "https://finance.sina.com.cn/wm/2026-03-02/doc-inhppxwt4805387.shtml"},
+    {"name": "21经济网（金银大涨）", "url": "https://www.21jingji.com/article/20260302/herald/cf2769c5fe62a4fc0d61d7ef9621351e.html"},
+    {"name": "Bloomberg（原油市场）", "url": "https://www.bloomberg.com/news/articles/2026-03-01/latest-oil-market-news-and-analysis-for-march-2"},
+    {"name": "Investing.com（黄金避险）", "url": "https://www.investing.com/news/commodities-news/gold-prices-jump-2-amid-widening-usisrael-conflict-with-iran-4533578"}
+  ],
+  "generatedAt": "2026-03-03T09:30:00.000Z"
+}

@@ -1,0 +1,88 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-03-03T02:04:05.462Z",
+  "checks": {
+    "heroTitle": {
+      "pass": true,
+      "value": 18,
+      "required": "≤ 20",
+      "message": "\"美以对伊朗开战3天已致超560人死亡\""
+    },
+    "heroKeyNumbers": {
+      "pass": true,
+      "value": 3,
+      "required": 3
+    },
+    "heroChartData": {
+      "pass": true,
+      "value": 5,
+      "required": "≥ 2"
+    },
+    "heroChartType": {
+      "pass": true,
+      "value": "timeline",
+      "required": "bar | line | ring | timeline | versus | heatmap"
+    },
+    "heroTakeaway": {
+      "pass": true,
+      "value": 29,
+      "required": "≤ 30"
+    },
+    "heroSources": {
+      "pass": true,
+      "value": 3,
+      "required": "≥ 1"
+    },
+    "cardsCount": {
+      "pass": true,
+      "value": 6,
+      "required": "4–6"
+    },
+    "cardsDiversity": {
+      "pass": true,
+      "value": 4,
+      "required": "≥ 3",
+      "message": "分类: 科技, 财经, 娱乐, 社会"
+    },
+    "cardTitles": {
+      "pass": true,
+      "value": [
+        12,
+        12,
+        15,
+        9,
+        10,
+        11
+      ],
+      "required": "每张 ≤ 15"
+    },
+    "cardInsights": {
+      "pass": true,
+      "value": [
+        20,
+        13,
+        18,
+        15,
+        17,
+        12
+      ],
+      "required": "每张 ≤ 20"
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "2026-03-03-us-iran-conflict"
+    },
+    "detailSlugsMatch": {
+      "pass": true,
+      "value": "expected: 2, found: 3",
+      "required": "all match"
+    },
+    "detailPages": {
+      "pass": true,
+      "value": 3,
+      "required": "quality checks",
+      "message": "all good"
+    }
+  },
+  "failReasons": []
+}
