@@ -75,6 +75,49 @@ Today's trending visual: {hero.title translated} + {featured[0].title translated
 {URL}
 #DailyHotspot
 
+## X Long Post (中文, 不限长度)
+
+> X/Twitter 长文（X Premium 支持最多 25000 字符）。不受 280 字符限制，充分展开内容，写出有吸引力、有信息密度的速览帖。目标是让读者一条推文就能掌握今日全貌，同时引导点击看可视化图表。
+>
+> **写作要点**：
+> - 开头用 hero 话题的最震撼数据抓眼球
+> - 逐个展开 featured 和 medium 卡片，每个用 1-2 句话提炼核心数据
+> - 行文风格：像一个消息灵通的朋友在跟你快速过今天的大事，不是新闻联播
+> - 适当使用换行和分隔符增加可读性
+> - 结尾引导点击看完整数据可视化
+> - 可以用少量 emoji 辅助排版（如🔴🟡🔵区分领域），但不要堆砌
+> - 长度：300-500 汉字
+
+{hero.title + 最震撼的 keyNumber}
+
+{逐个卡片的核心数据，每个 1-2 句}
+
+完整数据图表和深度解读 👇
+{URL}
+
+#热点速览 #每日热点
+
+## X Long Post (English, no length limit)
+
+> Full-length X post. No 280-char limit. Summarize today's trending topics with data highlights. Make it feel like a well-informed briefing.
+>
+> **Writing guidelines**:
+> - Lead with the hero topic's most striking number
+> - Cover each card topic in 1-2 sentences with key data
+> - Tone: informed briefing, not news wire
+> - Use line breaks for readability
+> - 1-2 emojis max
+> - Length: 200-350 words
+
+{hero.title translated + key number}
+
+{Each card's core data point, 1-2 sentences}
+
+Full data visualization and deep dives 👇
+{URL}
+
+#DailyHotspot #Trending
+
 ## 小红书
 
 标题: {hero.title} | 今日热点速览

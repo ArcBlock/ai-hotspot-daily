@@ -102,6 +102,62 @@ Full analysis: {URL}
 
 #AI #Technology #OpenSource
 
+## X Long Post (中文, 不限长度)
+
+> X/Twitter 长文（X Premium 支持最多 25000 字符）。不受 280 字符限制，充分展开内容，写出有吸引力、有信息密度的深度分析帖。目标是让读者觉得"光看这条推文就值了"，同时引导点击链接看完整分析。
+>
+> **写作要点**：
+> - 开头 2 行必须抓眼球（用反直觉的数据、冲突点、或争议性观点）
+> - 中间展开核心发现，用具体数据和对比说话，不用空泛描述
+> - 适当使用换行分段增加可读性（X 长文支持换行）
+> - 行文风格：像一个资深从业者在跟朋友聊天分享洞察，不是新闻稿
+> - 结尾用"完整分析 + 行动清单"引导点击链接
+> - 可以用 1-2 个 emoji 辅助排版，但不要堆砌
+> - 长度：300-600 汉字（不是越长越好，信息密度优先）
+
+{用 zh.title + subtitle 构造开头}
+
+{展开 whatHappened 的关键发现，强调反直觉或争议点}
+
+{从 keyMetrics 中提取最有冲击力的数据对比}
+
+{whyItMatters 的核心观点，连接到读者的实际工作}
+
+{whatToDo.immediate 中最紧迫的 1-2 条行动}
+
+完整决策分析和行动清单 👇
+{URL}
+
+#AI热点 #AIHotspotDaily
+
+## X Long Post (English, no length limit)
+
+> Full-length X post (X Premium supports up to 25000 chars). No 280-char limit. Write an insightful, data-rich analysis post that makes readers feel they got real value just from this post, while driving clicks to the full analysis.
+>
+> **Writing guidelines**:
+> - Hook in the first 2 lines (counterintuitive data, tension, or controversial angle)
+> - Expand with specific numbers and comparisons, not vague descriptions
+> - Use line breaks for readability
+> - Tone: like a senior practitioner sharing insights with peers, not a press release
+> - End with a CTA to the full analysis + action items
+> - 1-2 emojis max for formatting, no emoji spam
+> - Length: 200-400 words (density over length)
+
+{en.title + subtitle as hook}
+
+{Key findings from whatHappened, emphasizing counterintuitive or controversial points}
+
+{Most impactful data comparisons from keyMetrics}
+
+{Core insight from whyItMatters, connecting to reader's work}
+
+{1-2 most urgent actions from whatToDo.immediate}
+
+Full decision framework and action checklist 👇
+{URL}
+
+#AI #AIHotspotDaily
+
 ## X/Twitter Thread (中文, 5条)
 
 > 把决策页内容拆解为 5 条推文的 Thread。第 1 条抓眼球，中间 3 条展开核心信息，最后 1 条给出行动建议 + 链接。每条 ≤140 汉字（280 字符）。

@@ -42,6 +42,58 @@ The competitive context matters too. Under pressure from user sentiment and grow
 
 Full analysis with four migration decision paths: https://www.myvibe.so/xiaoliang/ai-hotspot-daily-gpt-5.3-safety-tradeoffs
 
+## X Long Post (中文, 不限长度)
+
+GPT-5.3 幻觉降低27%，但OpenAI没大声说的是——安全在滑坡。
+
+昨天OpenAI发布GPT-5.3 Instant，主打"不说教"。用他们自己的话说，GPT-5.2太"cringe"了：动不动加一大段安全声明，没事就拒绝你，语气还居高临下。这次确实改了，体验丝滑了不少。
+
+但翻开System Card，数据讲了另一个故事：
+
+色情内容合规率：92.6% → 86.6%（降了6个百分点）
+暴力内容合规率：85.2% → 78.1%（降了7个百分点）
+自伤内容合规率：92.3% → 89.5%（降了近3个百分点）
+
+这是第一次有大模型厂商这么透明地把"好用vs安全"的取舍用数据摊开。减少拒绝、降低说教感，代价就是更多不当内容可能通过模型层过滤。
+
+幻觉方面确实有进步——高风险领域（医学/法律/金融）联网幻觉率降了26.8%，纯模型降了19.7%。但注意，这是相对值。OpenAI没公布绝对基线，所以26.8%的降低可能是从10%降到7.3%，也可能是从1%降到0.7%。在你自己的场景上验证才靠谱。
+
+底层架构没变，这次纯粹是行为调优。日韩语改善也有限，OpenAI自己承认日语韩语回复仍然"stilted"。
+
+开发者需要注意的：GPT-5.2 Instant将于6月3日退役。如果你的应用依赖模型层安全过滤而不是自建审核，切换前一定要评估合规率退步的影响。
+
+完整决策分析（含四种迁移策略对比和行动清单）👇
+https://www.myvibe.so/xiaoliang/ai-hotspot-daily-gpt-5.3-safety-tradeoffs
+
+#AI热点 #AIHotspotDaily
+
+## X Long Post (English, no length limit)
+
+GPT-5.3 Instant cuts hallucinations by 27%. What OpenAI isn't headlining: safety is measurably worse.
+
+Yesterday OpenAI shipped GPT-5.3 Instant, targeting what they themselves called GPT-5.2's "cringe" factor — the preachy safety preambles, unnecessary refusals, and condescending tone. The conversation experience is genuinely smoother.
+
+But the System Card tells a different story:
+
+Sexual content compliance: 92.6% → 86.6% (-6pp)
+Graphic violence compliance: 85.2% → 78.1% (-7.1pp)
+Self-harm compliance: 92.3% → 89.5% (-2.8pp)
+
+This is the first time a major AI lab has transparently quantified the usability-safety tradeoff. Less refusal = more inappropriate content getting through model-level filtering.
+
+On hallucinations — yes, real improvement. High-stakes domains (medicine, law, finance) saw 26.8% fewer hallucinations with web access, 19.7% without. But these are relative numbers. OpenAI didn't disclose absolute baselines. A 26.8% relative drop could mean 10% → 7.3%, or 1% → 0.7%. Validate on your own use cases.
+
+The architecture is unchanged from GPT-5.2. This is purely behavioral tuning. Non-English improvements are minimal — OpenAI admits Japanese and Korean responses remain "stilted."
+
+Key deadline: GPT-5.2 Instant retires June 3. If your app relies on model-level safety filtering rather than custom moderation, test the compliance impact before switching production.
+
+The competitive context matters too. Under pressure from the Cancel ChatGPT movement and Claude's growth, OpenAI chose to fix UX over shipping new capabilities. That tells you where the AI market is heading.
+
+Full decision framework with 4 migration strategies 👇
+https://www.myvibe.so/xiaoliang/ai-hotspot-daily-gpt-5.3-safety-tradeoffs
+
+#AI #AIHotspotDaily
+
 ## X/Twitter Thread (中文, 5条)
 
 1/5 OpenAI发布GPT-5.3 Instant，主打"不说教"——终于不再在回答前加一大段安全声明了。幻觉率在医学、法律、金融等高风险领域降低了26.8%。听起来不错？但代价是什么？
