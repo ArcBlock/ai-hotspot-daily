@@ -1,0 +1,201 @@
+{
+  "source": "hackernews",
+  "fetchedAt": "2026-03-04T03:04:38.839Z",
+  "items": [
+    {
+      "id": "hn-47240694",
+      "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
+      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 250,
+      "comments": 96,
+      "publishedAt": "2026-03-03T23:34:05.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47240694"
+      }
+    },
+    {
+      "id": "hn-47230710",
+      "title": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 499,
+      "comments": 217,
+      "publishedAt": "2026-03-03T10:57:42.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47230710"
+      }
+    },
+    {
+      "id": "hn-47236169",
+      "title": "GPT‑5.3 Instant",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 303,
+      "comments": 234,
+      "publishedAt": "2026-03-03T17:57:33.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47236169"
+      }
+    },
+    {
+      "id": "hn-47234917",
+      "title": "When AI writes the software, who verifies it?",
+      "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 156,
+      "comments": 146,
+      "publishedAt": "2026-03-03T16:34:53.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47234917"
+      }
+    },
+    {
+      "id": "hn-47232903",
+      "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+      "url": "https://news.ycombinator.com/item?id=47232903",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 72,
+      "comments": 19,
+      "publishedAt": "2026-03-03T14:30:58.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47232903"
+      }
+    },
+    {
+      "id": "hn-47203219",
+      "title": "TorchLean: Formalizing Neural Networks in Lean",
+      "url": "https://leandojo.org/torchlean.html",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 76,
+      "comments": 10,
+      "publishedAt": "2026-03-01T03:03:46.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47203219"
+      }
+    },
+    {
+      "id": "hn-47232502",
+      "title": "MacBook Air with M5",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 380,
+      "comments": 421,
+      "publishedAt": "2026-03-03T14:04:56.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47232502"
+      }
+    },
+    {
+      "id": "hn-47225130",
+      "title": "Meta’s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 1373,
+      "comments": 774,
+      "publishedAt": "2026-03-02T22:32:35.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47225130"
+      }
+    },
+    {
+      "id": "hn-47241813",
+      "title": "Marcus AI Claims Dataset",
+      "url": "https://github.com/davegoldblatt/marcus-claims-dataset",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 58,
+      "comments": 47,
+      "publishedAt": "2026-03-04T01:30:43.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47241813"
+      }
+    },
+    {
+      "id": "hn-47235430",
+      "title": "Claude is an Electron App because we've lost native",
+      "url": "https://tonsky.me/blog/fall-of-native/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 131,
+      "comments": 145,
+      "publishedAt": "2026-03-03T17:09:15.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47235430"
+      }
+    },
+    {
+      "id": "hn-47226608",
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 572,
+      "comments": 356,
+      "publishedAt": "2026-03-03T01:12:30.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47226608"
+      }
+    },
+    {
+      "id": "hn-47231261",
+      "title": "India's top court angry after junior judge cites fake AI-generated orders",
+      "url": "https://www.bbc.com/news/articles/c178zzw780xo",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 340,
+      "comments": 179,
+      "publishedAt": "2026-03-03T12:13:40.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47231261"
+      }
+    },
+    {
+      "id": "hn-47228390",
+      "title": "Daily Driving GrapheneOS",
+      "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 137,
+      "comments": 131,
+      "publishedAt": "2026-03-03T05:18:24.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47228390"
+      }
+    },
+    {
+      "id": "hn-47232289",
+      "title": "AI-generated art can’t be copyrighted after Supreme Court declines review",
+      "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 164,
+      "comments": 121,
+      "publishedAt": "2026-03-03T13:51:34.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47232289"
+      }
+    },
+    {
+      "id": "hn-47218743",
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 342,
+      "comments": 67,
+      "publishedAt": "2026-03-02T14:54:58.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47218743"
+      }
+    }
+  ]
+}

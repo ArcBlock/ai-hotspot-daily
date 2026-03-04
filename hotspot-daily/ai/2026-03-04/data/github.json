@@ -1,0 +1,176 @@
+{
+  "source": "github",
+  "fetchedAt": "2026-03-04T03:05:09.072Z",
+  "items": [
+    {
+      "id": "gh-ruvnet-RuView",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "source": "github",
+      "category": "project",
+      "score": 25576,
+      "summary": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "Rust",
+        "forks": 3164,
+        "starsToday": 4419,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-K-Dense-AI-claude-scientific-skills",
+      "title": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "source": "github",
+      "category": "project",
+      "score": 12044,
+      "summary": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "Python",
+        "forks": 1316,
+        "starsToday": 798,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-moeru-ai-airi",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "source": "github",
+      "category": "project",
+      "score": 22268,
+      "summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 2081,
+        "starsToday": 832,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-CodebuffAI-codebuff",
+      "title": "CodebuffAI/codebuff",
+      "url": "https://github.com/CodebuffAI/codebuff",
+      "source": "github",
+      "category": "project",
+      "score": 3315,
+      "summary": "Generate code from the terminal!",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 424,
+        "starsToday": 126,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-agentscope-ai-agentscope",
+      "title": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "source": "github",
+      "category": "project",
+      "score": 17084,
+      "summary": "Build and run agents you can see, understand and trust.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "Python",
+        "forks": 1529,
+        "starsToday": 112,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-agentscope-ai-ReMe",
+      "title": "agentscope-ai/ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "source": "github",
+      "category": "project",
+      "score": 1337,
+      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "Python",
+        "forks": 119,
+        "starsToday": 49,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-LMCache-LMCache",
+      "title": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "source": "github",
+      "category": "project",
+      "score": 7426,
+      "summary": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "Python",
+        "forks": 963,
+        "starsToday": 135,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-superset-sh-superset",
+      "title": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "source": "github",
+      "category": "project",
+      "score": 4254,
+      "summary": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 276,
+        "starsToday": 632,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-aquasecurity-trivy",
+      "title": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "source": "github",
+      "category": "project",
+      "score": 577,
+      "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "Go",
+        "forks": 41,
+        "starsToday": 164,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-alibaba-OpenSandbox",
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github",
+      "category": "project",
+      "score": 5461,
+      "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "extra": {
+        "language": "Python",
+        "forks": 388,
+        "starsToday": 1150,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    }
+  ]
+}

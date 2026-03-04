@@ -1,0 +1,58 @@
+{
+  "source": "papers-with-code",
+  "fetchedAt": "2026-03-04T03:05:32.139Z",
+  "items": [
+    {
+      "id": "pwc-2603.02578",
+      "title": "Paper 2603.02578",
+      "url": "https://huggingface.co/papers/2603.02578",
+      "source": "papers-with-code",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:32.139Z",
+      "extra": {
+        "arxivId": "2603.02578",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "pwc-2603.01571",
+      "title": "Paper 2603.01571",
+      "url": "https://huggingface.co/papers/2603.01571",
+      "source": "papers-with-code",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:32.139Z",
+      "extra": {
+        "arxivId": "2603.01571",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "pwc-2603.02667",
+      "title": "Paper 2603.02667",
+      "url": "https://huggingface.co/papers/2603.02667",
+      "source": "papers-with-code",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:32.139Z",
+      "extra": {
+        "arxivId": "2603.02667",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "pwc-2603.02479",
+      "title": "Paper 2603.02479",
+      "url": "https://huggingface.co/papers/2603.02479",
+      "source": "papers-with-code",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:32.139Z",
+      "extra": {
+        "arxivId": "2603.02479",
+        "fromScrape": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "alibaba-qwen-shakeup",
+  "title": "阿里千问团队核心集体出走引震动",
+  "category": "科技",
+  "color": "#2563eb",
+  "template": "tech-breakdown",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "千问团队一日四将出走",
+      "content": {
+        "paragraphs": [
+          "3月4日凌晨，阿里巴巴通义千问（Qwen）核心技术负责人林俊旸在社交平台发文宣布离职，写下\"me stepping down, bye my beloved Qwen\"。这位32岁的阿里最年轻P10级技术专家的离开，拉开了千问团队核心人员集体出走的序幕。",
+          "与林俊旸同步离职的还有千问后训练负责人郁博文、千问Code负责人惠彬原（已于1月加入Meta），以及Qwen3.5与VL核心贡献者Kaixin Li。千问团队研究科学家赵文婷称林俊旸的离开是\"一个时代的终结\"。",
+          "据多方消息，阿里云高层近期对千问团队进行了架构调整，从原来覆盖全训练流程的垂直整合体系改为预训练、后训练、文本、多模态等水平分工团队。同时空降了前Google DeepMind Gemini团队成员周昊担任新的技术负责人，这一人事变动被认为是引发核心团队不满的导火索。"
+        ]
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键信息",
+      "content": {
+        "facts": [
+          { "label": "离职核心成员", "value": "4人" },
+          { "label": "林俊旸年龄", "value": "32岁" },
+          { "label": "林俊旸级别", "value": "阿里P10（最年轻）" },
+          { "label": "Qwen3.5参数量", "value": "3970亿（MoE）" },
+          { "label": "离职时间点", "value": "Qwen3.5发布次日" },
+          { "label": "新任负责人背景", "value": "前DeepMind Gemini" }
+        ]
+      }
+    },
+    {
+      "type": "comparison",
+      "heading": "路线之争：开源先锋 vs 产品导向",
+      "content": {
+        "left": {
+          "label": "林俊旸时代（开源路线）",
+          "points": [
+            "垂直整合，一个团队全流程负责",
+            "积极拥抱开源社区，衍生模型超越Meta Llama",
+            "研究驱动，快速迭代试错",
+            "中国工程人才与国际开源生态的桥梁",
+            "Qwen系列在Hugging Face下载量排名前列"
+          ]
+        },
+        "right": {
+          "label": "新管理层（产品路线）",
+          "points": [
+            "水平分工，各模块独立团队运作",
+            "引入DeepMind式指标驱动管理",
+            "偏向产品化、商业化落地",
+            "强调与阿里云业务深度整合",
+            "风险：可能退回\"围墙花园\"策略"
+          ]
+        }
+      }
+    },
+    {
+      "type": "text",
+      "heading": "行业影响与深层解读",
+      "content": {
+        "paragraphs": [
+          "千问团队的人事震荡发生在Qwen3.5刚刚发布的敏感时刻。该模型拥有3970亿参数，在数学、编程等多项基准测试中超越GPT-5.2和Gemini 3 Pro，被视为中国大模型的里程碑之作。核心团队的离职给这一势头蒙上阴影。",
+          "业界担忧此次事件标志着千问从\"研究优先\"向\"Gemini化\"的转型——即转向高度规范化的产品导向文化。林俊旸作为中国AI工程能力与西方开源生态之间的关键纽带，其离开可能削弱千问在国际开源社区的影响力。",
+          "更宏观地看，这并非中国AI行业的孤例。从DeepSeek到智谱再到千问，核心技术人才的流动与组织架构的调整反映了中国AI公司在快速成长期面临的共同挑战：如何在技术理想主义与商业化压力之间找到平衡。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "新浪财经", "url": "https://finance.sina.com.cn/tech/2026-03-04/doc-inhpusks6933990.shtml" },
+    { "name": "TechCrunch", "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/" },
+    { "name": "VentureBeat", "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in" },
+    { "name": "量子位", "url": "https://www.qbitai.com/2026/03/383842.html" },
+    { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-03-04/alibaba-qwen-head-who-warned-of-openai-gap-steps-down" }
+  ],
+  "generatedAt": "2026-03-04T12:45:00.000Z"
+}

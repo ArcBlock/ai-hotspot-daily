@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "date": "2026-03-04",
+    "slug": "2026-03-04",
+    "generatedAt": "2026-03-04T12:30:00.000Z",
+    "language": "zh"
+  },
+  "hero": {
+    "title": "美伊全面开战：19轮打击瘫痪中东",
+    "category": "国际",
+    "color": "#0891b2",
+    "chart": {
+      "type": "timeline",
+      "data": [
+        { "label": "2/28 美以联合空袭伊朗", "value": 1, "unit": "阶段" },
+        { "label": "3/1 伊朗发动真实承诺4反击", "value": 2, "unit": "阶段" },
+        { "label": "3/1 哈梅内伊遇袭身亡确认", "value": 3, "unit": "阶段" },
+        { "label": "3/2 霍尔木兹海峡宣布关闭", "value": 4, "unit": "阶段" },
+        { "label": "3/3 伊朗完成第15轮打击", "value": 5, "unit": "阶段" },
+        { "label": "3/4 第19轮打击命中美军舰", "value": 6, "unit": "阶段" }
+      ]
+    },
+    "keyNumbers": [
+      { "value": "19轮", "label": "伊朗打击轮次" },
+      { "value": "420枚", "label": "导弹发射量" },
+      { "value": "$82", "label": "布伦特原油" }
+    ],
+    "takeaway": "伊朗19轮反击瘫痪美军中东基地，油价飙涨全球市场震荡",
+    "sources": [
+      { "name": "中新网", "url": "https://www.chinanews.com.cn/gj/2026/03-03/10580296.shtml" },
+      { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/3/3/iran-live-news-israel-bombs-tehran-beirut-trump-says-war-to-last-4-weeks" },
+      { "name": "NPR", "url": "https://www.npr.org/2026/03/01/nx-s1-5731584/oil-prices-iran-us-israel-attacks-war" }
+    ]
+  },
+  "cards": [
+    {
+      "title": "三桶油涨停后齐发风险公告",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "miniBar",
+        "data": {
+          "items": [
+            { "label": "中国海油", "value": 43.84, "color": "#d97706" },
+            { "label": "中国石化", "value": 26.54, "color": "#f59e0b" },
+            { "label": "中国石油", "value": 20.0, "color": "#fbbf24" }
+          ]
+        }
+      },
+      "insight": "史上首次连续两日集体涨停后跌停",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "three-barrels-oil-surge"
+    },
+    {
+      "title": "2026全国两会今日开幕",
+      "category": "社会",
+      "color": "#dc2626",
+      "miniChart": {
+        "type": "tags",
+        "data": {
+          "items": ["十五五规划", "生态环境法典", "GDP目标", "积极财政", "新质生产力"]
+        }
+      },
+      "insight": "十五五规划开局之年，聚焦四大议题",
+      "needsDetail": true,
+      "detailTemplate": "event-timeline",
+      "detailSlug": "2026-two-sessions"
+    },
+    {
+      "title": "科技大佬两会建议引热议",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "雷军", "value": "自动驾驶量产" },
+          "right": { "label": "何小鹏", "value": "L3级机器人" }
+        }
+      },
+      "insight": "雷军何小鹏共推自动驾驶立法",
+      "needsDetail": true,
+      "detailTemplate": "tech-breakdown",
+      "detailSlug": "tech-leaders-npc-proposals"
+    },
+    {
+      "title": "韩国股市连续两日熔断",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "trend",
+        "data": {
+          "direction": "down",
+          "value": "-7.24%",
+          "label": "KOSPI单日跌幅"
+        }
+      },
+      "insight": "KOSPI暴跌7.24%创18月新低",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "korea-stock-crash"
+    },
+    {
+      "title": "飞驰人生3登顶全球票房",
+      "category": "娱乐",
+      "color": "#7c3aed",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": {
+          "value": "5.55亿",
+          "label": "全球票房(美元)"
+        }
+      },
+      "insight": "超越阿凡达3暂列2026年全球第一",
+      "needsDetail": true,
+      "detailTemplate": "ranking-visual",
+      "detailSlug": "pegasus3-box-office"
+    },
+    {
+      "title": "阿里千问团队核心出走",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "千问团队", "value": "4人离职" },
+          "right": { "label": "DeepMind", "value": "空降负责人" }
+        }
+      },
+      "insight": "负责人林俊旸辞职，团队架构重组",
+      "needsDetail": true,
+      "detailTemplate": "tech-breakdown",
+      "detailSlug": "alibaba-qwen-shakeup"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-03-04T03:23:45.867Z",
+  "checks": {
+    "sourceCount": {
+      "pass": true,
+      "value": 7,
+      "required": 3
+    },
+    "actionCount": {
+      "pass": true,
+      "value": 6,
+      "required": 3,
+      "message": "immediate(2) + thisWeek(2) + watchAndWait(2)"
+    },
+    "riskCount": {
+      "pass": true,
+      "value": 3,
+      "required": 2
+    },
+    "conclusionTitle": {
+      "pass": true,
+      "message": "zh(18字): \"GPT-5.3 幻觉降低，安全却在滑坡...\" | en(6词): \"GPT-5.3 Instant: Less Preachy, Safety Slipping...\""
+    },
+    "subtitlePresent": {
+      "pass": true,
+      "value": {
+        "zh": true,
+        "en": true
+      }
+    },
+    "confidence": {
+      "pass": true,
+      "value": 85,
+      "required": 60
+    },
+    "zhComplete": {
+      "pass": true
+    },
+    "enComplete": {
+      "pass": true
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "gpt-5-3-instant-less-cringe-more-accurate"
+    }
+  },
+  "bonuses": {
+    "hasOptions": true,
+    "hasTldr": true,
+    "hasAffectedGroups": true,
+    "sourceDiversity": true
+  },
+  "failReasons": []
+}

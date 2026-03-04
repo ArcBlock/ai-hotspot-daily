@@ -1,0 +1,841 @@
+{
+  "primary": {
+    "id": "hn-47236169",
+    "title": "GPT-5.3 Instant",
+    "url": "https://openai.com/index/gpt-5-3-instant/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "OpenAI发布GPT-5.3 Instant模型，定位为更流畅、更实用的日常对话模型，减少了被用户诟病的\"说教感\"。HN上234条评论热议，TechCrunch和OpenAI官方博客同步报道。",
+    "publishedAt": "2026-03-03T17:57:33.000Z",
+    "rawScore": 303,
+    "category": "discussion",
+    "comments": 234,
+    "mergedFrom": [
+      "rss-TechCrunch-AI-https---techcrunch-com--p-3099008",
+      "rss-OpenAI-Blog-https---openai-com-index-gpt-5-3-instant-system-card",
+      "rss-OpenAI-Blog-https---openai-com-index-gpt-5-3-instant"
+    ],
+    "scores": {
+      "timeliness": 4,
+      "impact": 5,
+      "actionability": 5,
+      "credibility": 5,
+      "audienceMatch": 5,
+      "total": 4.80
+    },
+    "rankReason": "OpenAI正式发布GPT-5.3 Instant新模型，多源确认、开发者可立即试用API，对AI从业者日常工作有直接影响"
+  },
+  "alternates": [
+    {
+      "id": "gh-superset-sh-superset",
+      "title": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "rawScore": 4254,
+      "category": "project",
+      "starsToday": 632,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 3,
+        "audienceMatch": 5,
+        "total": 4.45
+      },
+      "rankReason": "面向AI Agent时代的IDE工具，支持同时运行多个Claude Code/Codex实例，632星今日增长，AI开发者可立即上手提效"
+    },
+    {
+      "id": "gh-alibaba-OpenSandbox",
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "rawScore": 5461,
+      "category": "project",
+      "starsToday": 1150,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 4.20
+      },
+      "rankReason": "阿里巴巴开源的AI应用通用沙箱平台，1150星今日增长，为Coding Agent和GUI Agent提供安全运行环境"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "hn-47236169",
+      "title": "GPT-5.3 Instant",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "source": "hackernews",
+      "sourceType": "script",
+      "summary": "OpenAI发布GPT-5.3 Instant模型，定位为更流畅、更实用的日常对话模型，减少了被用户诟病的\"说教感\"。HN上234条评论热议，TechCrunch和OpenAI官方博客同步报道。",
+      "publishedAt": "2026-03-03T17:57:33.000Z",
+      "rawScore": 303,
+      "category": "discussion",
+      "comments": 234,
+      "mergedFrom": [
+        "rss-TechCrunch-AI-https---techcrunch-com--p-3099008",
+        "rss-OpenAI-Blog-https---openai-com-index-gpt-5-3-instant-system-card",
+        "rss-OpenAI-Blog-https---openai-com-index-gpt-5-3-instant"
+      ],
+      "scores": {
+        "timeliness": 4,
+        "impact": 5,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 4.80
+      },
+      "rankReason": "OpenAI正式发布GPT-5.3 Instant新模型，多源确认、开发者可立即试用API，对AI从业者日常工作有直接影响"
+    },
+    {
+      "id": "gh-superset-sh-superset",
+      "title": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "rawScore": 4254,
+      "category": "project",
+      "starsToday": 632,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 3,
+        "audienceMatch": 5,
+        "total": 4.45
+      },
+      "rankReason": "面向AI Agent时代的IDE工具，支持同时运行多个Claude Code/Codex实例，632星今日增长，AI开发者可立即上手提效"
+    },
+    {
+      "id": "gh-alibaba-OpenSandbox",
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "rawScore": 5461,
+      "category": "project",
+      "starsToday": 1150,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 4.20
+      },
+      "rankReason": "阿里巴巴开源的AI应用通用沙箱平台，1150星今日增长，为Coding Agent和GUI Agent提供安全运行环境"
+    },
+    {
+      "id": "gh-K-Dense-AI-claude-scientific-skills",
+      "title": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "rawScore": 12044,
+      "category": "project",
+      "starsToday": 798,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 5,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 4.05
+      },
+      "rankReason": "Claude科研Agent技能包，覆盖研究/工程/金融等领域，798星今日增长，可即装即用"
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "google/gemini-3-flash",
+      "url": "https://replicate.com/google/gemini-3-flash",
+      "source": "replicate",
+      "sourceType": "script",
+      "summary": "Google Gemini 3 Flash模型上线Replicate平台，开发者可通过API直接调用。",
+      "publishedAt": "2026-03-04T03:05:33.362Z",
+      "rawScore": 30,
+      "category": "release",
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 4.05
+      },
+      "rankReason": "Gemini 3 Flash上线Replicate，开发者多了一个快速接入Google最新模型的渠道"
+    },
+    {
+      "id": "gh-agentscope-ai-agentscope",
+      "title": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "Build and run agents you can see, understand and trust.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "rawScore": 17084,
+      "category": "project",
+      "starsToday": 112,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.80
+      },
+      "rankReason": "可视化Agent构建平台，强调可理解性和可信任性，适合想快速搭建Agent应用的开发者"
+    },
+    {
+      "id": "gh-agentscope-ai-ReMe",
+      "title": "agentscope-ai/ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "rawScore": 1337,
+      "category": "project",
+      "starsToday": 49,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.80
+      },
+      "rankReason": "Agent记忆管理工具包，解决Agent长期记忆和上下文管理的痛点问题"
+    },
+    {
+      "id": "replicate-qwen-qwen3-tts",
+      "title": "qwen/qwen3-tts",
+      "url": "https://replicate.com/qwen/qwen3-tts",
+      "source": "replicate",
+      "sourceType": "script",
+      "summary": "Qwen3 TTS语音合成模型上线Replicate平台。",
+      "publishedAt": "2026-03-04T03:05:33.362Z",
+      "rawScore": 30,
+      "category": "release",
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.65
+      },
+      "rankReason": "通义千问TTS模型上线Replicate，语音AI开发者可直接调用"
+    },
+    {
+      "id": "dlm-Agent-Skill-Framework-Perspec",
+      "title": "Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments",
+      "url": "https://deeplearn.org/arxiv/703050/agent-skill-framework:-perspectives-on-the-potential-of-small-language-models-in-industrial-environments",
+      "source": "deep-learning-monitor",
+      "sourceType": "script",
+      "summary": "探讨小语言模型在工业环境中作为Agent技能框架的潜力。",
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "rawScore": 45,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.40
+      },
+      "rankReason": "探索小模型在工业场景中的Agent技能框架应用，对关注边缘部署和工业AI的开发者有参考价值"
+    },
+    {
+      "id": "qbitai-阿里千问大模型换将-32岁林俊旸官宣告别",
+      "title": "阿里千问大模型换将，32岁林俊旸官宣告别",
+      "url": "https://www.qbitai.com/2026/03/383842.html",
+      "source": "quantumbit",
+      "sourceType": "script",
+      "summary": "组织架构调整了",
+      "publishedAt": "2026-03-04T01:44:32.000Z",
+      "rawScore": 35,
+      "category": "news",
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 3.30
+      },
+      "rankReason": "阿里千问团队核心人物变动，反映中国大模型行业人才流动趋势"
+    },
+    {
+      "id": "gh-ruvnet-RuView",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection without a single pixel of video.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "rawScore": 25576,
+      "category": "project",
+      "starsToday": 4419,
+      "aiRelated": false,
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 3.25
+      },
+      "rankReason": "WiFi信号实现人体姿态估计，4419星日增长惊人，但与AI开发者核心需求关联度偏低"
+    },
+    {
+      "id": "qbitai-AI-Agent搞定世纪首次菲尔兹奖成果形式化-一周时间独立",
+      "title": "AI Agent搞定世纪首次菲尔兹奖成果形式化！一周时间独立完成，20万行代码已公开",
+      "url": "https://www.qbitai.com/2026/03/383368.html",
+      "source": "quantumbit",
+      "sourceType": "script",
+      "summary": "历史上最大规模的单一目的Lean形式化项目",
+      "publishedAt": "2026-03-03T10:28:48.000Z",
+      "rawScore": 35,
+      "category": "news",
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.25
+      },
+      "rankReason": "AI Agent独立完成菲尔兹奖成果的Lean形式化验证，20万行代码已开源，是AI+数学的里程碑事件"
+    },
+    {
+      "id": "qbitai-GPT-5-4意外泄露-OpenAI最新模型瞄准这2大能力突",
+      "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
+      "url": "https://www.qbitai.com/2026/03/383592.html",
+      "source": "quantumbit",
+      "sourceType": "script",
+      "summary": "并不是第一次发现GPT-5.4的踪迹了",
+      "publishedAt": "2026-03-03T10:55:37.000Z",
+      "rawScore": 35,
+      "category": "news",
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.15
+      },
+      "rankReason": "GPT-5.4被意外发现，暗示OpenAI正在准备下一代模型，但尚无可行动的内容"
+    },
+    {
+      "id": "alphaxiv-2602.24286",
+      "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+      "url": "https://www.alphaxiv.org/abs/2602.24286",
+      "source": "alphaxiv",
+      "sourceType": "script",
+      "summary": "用大规模Agent RL方法自动生成高性能CUDA内核。",
+      "publishedAt": "2026-03-04T03:05:36.250Z",
+      "rawScore": 40,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "用RL Agent自动生成CUDA内核，对GPU优化和编译器方向的研究者有参考价值"
+    },
+    {
+      "id": "websearch-1772593777-6",
+      "title": "Meta tests AI shopping research tool to challenge ChatGPT and Gemini",
+      "url": "https://www.theverge.com/meta/888100/meta-ai-shopping-research-tool",
+      "source": "websearch",
+      "sourceType": "websearch",
+      "summary": "Meta正在其AI聊天机器人中推出购物研究功能，与OpenAI和Google的类似工具竞争。",
+      "publishedAt": "2026-03-03T17:00:00Z",
+      "rawScore": 0,
+      "category": "news",
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "Meta进军AI购物领域，与ChatGPT和Gemini竞争，但功能尚未公开可用"
+    },
+    {
+      "id": "hn-47232502",
+      "title": "MacBook Air with M5",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "source": "hackernews",
+      "sourceType": "script",
+      "summary": "Apple发布搭载M5芯片的新MacBook Air。",
+      "publishedAt": "2026-03-03T14:04:56.000Z",
+      "rawScore": 380,
+      "category": "discussion",
+      "comments": 421,
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 5,
+        "audienceMatch": 2,
+        "total": 3.15
+      },
+      "rankReason": "Apple发布M5 MacBook Air，HN 421条评论热议，但与AI开发日常关联度不高"
+    },
+    {
+      "id": "hn-47230710",
+      "title": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "source": "hackernews",
+      "sourceType": "script",
+      "summary": "Knuth发表关于Claude的学术论文。",
+      "publishedAt": "2026-03-03T10:57:42.000Z",
+      "rawScore": 499,
+      "category": "discussion",
+      "comments": 217,
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 5,
+        "audienceMatch": 3,
+        "total": 3.05
+      },
+      "rankReason": "计算机科学大师Knuth发表关于Claude的论文，学术价值高但对开发者日常工作参考性有限"
+    },
+    {
+      "id": "mcp-opennews-1772593777-0",
+      "title": "OpenAI in talks to deploy AI across NATO classified networks",
+      "url": "https://dbws.io/newsbot/i/nL4N3ZS02N",
+      "source": "mcp-opennews",
+      "sourceType": "mcp",
+      "summary": "OpenAI正就向北约机密网络部署AI进行谈判。",
+      "publishedAt": "2026-03-04T01:22:27.402622Z",
+      "rawScore": 0,
+      "category": "news",
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 3.00
+      },
+      "rankReason": "OpenAI与北约的AI合作谈判，地缘政治意义大但对开发者日常无直接影响"
+    },
+    {
+      "id": "gh-moeru-ai-airi",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "Self hosted AI companion project, capable of realtime voice chat and Minecraft interaction.",
+      "publishedAt": "2026-03-04T03:05:09.072Z",
+      "rawScore": 22268,
+      "category": "project",
+      "starsToday": 832,
+      "aiRelated": true,
+      "scores": {
+        "timeliness": 5,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 3.00
+      },
+      "rankReason": "自托管AI虚拟伴侣项目，支持实时语音和Minecraft交互，832星日增长但方向偏小众"
+    },
+    {
+      "id": "hn-47235430",
+      "title": "Claude is an Electron App because we've lost native",
+      "url": "https://tonsky.me/blog/fall-of-native/",
+      "source": "hackernews",
+      "sourceType": "script",
+      "summary": "讨论原生应用退化和Electron应用泛滥的现状。",
+      "publishedAt": "2026-03-03T17:09:15.000Z",
+      "rawScore": 131,
+      "category": "discussion",
+      "comments": 145,
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.90
+      },
+      "rankReason": "知名博主tonsky关于原生应用衰落的讨论，以Claude桌面端为例，偏工程文化话题"
+    },
+    {
+      "id": "alphaxiv-2602.23008",
+      "title": "Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization",
+      "url": "https://www.alphaxiv.org/abs/2602.23008",
+      "source": "alphaxiv",
+      "sourceType": "script",
+      "summary": "探索性记忆增强LLM Agent的混合策略优化方法。",
+      "publishedAt": "2026-03-04T03:05:36.250Z",
+      "rawScore": 40,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "混合策略优化的记忆增强Agent研究，对Agent记忆和RL方向的研究者有参考价值"
+    },
+    {
+      "id": "alphaxiv-2603.02193",
+      "title": "Symbol-Equivariant Recurrent Reasoning Models",
+      "url": "https://www.alphaxiv.org/abs/2603.02193",
+      "source": "alphaxiv",
+      "sourceType": "script",
+      "summary": "符号等变的循环推理模型。",
+      "publishedAt": "2026-03-04T03:05:36.250Z",
+      "rawScore": 40,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.75
+      },
+      "rankReason": "符号推理与等变模型的交叉研究，偏理论方向"
+    },
+    {
+      "id": "dlm-Saliency-Aware-Multi-Route-Thi",
+      "title": "Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning",
+      "url": "https://deeplearn.org/arxiv/703023/saliency-aware-multi-route-thinking:-revisiting-vision-language-reasoning",
+      "source": "deep-learning-monitor",
+      "sourceType": "script",
+      "summary": "显著性感知的多路径思考方法，重新审视视觉-语言推理。",
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "rawScore": 45,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "多模态推理新方法，对视觉-语言模型研究者有参考价值"
+    },
+    {
+      "id": "dlm-Calibrate-Then-Act-Cost-Aware",
+      "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
+      "url": "https://deeplearn.org/arxiv/703024/calibrate-then-act:-cost-aware-exploration-in-llm-agents",
+      "source": "deep-learning-monitor",
+      "sourceType": "script",
+      "summary": "LLM Agent中的成本感知探索方法。",
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "rawScore": 45,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.40
+      },
+      "rankReason": "提出LLM Agent的成本感知探索策略，对关注Agent效率优化的开发者有实用参考"
+    },
+    {
+      "id": "dlm-EconEvals-Benchmarks-and-Litm",
+      "title": "EconEvals: Benchmarks and Litmus Tests for Economic Decision-Making by LLM Agents",
+      "url": "https://deeplearn.org/arxiv/703029/econevals:-benchmarks-and-litmus-tests-for-economic-decision-making-by-llm-agents",
+      "source": "deep-learning-monitor",
+      "sourceType": "script",
+      "summary": "LLM Agent经济决策能力的基准测试。",
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "rawScore": 45,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.75
+      },
+      "rankReason": "LLM经济决策基准测试，偏学术研究方向"
+    },
+    {
+      "id": "alphaxiv-2602.22661",
+      "title": "dLLM: Simple Diffusion Language Modeling",
+      "url": "https://www.alphaxiv.org/abs/2602.22661",
+      "source": "alphaxiv",
+      "sourceType": "script",
+      "summary": "简单扩散语言建模方法。",
+      "publishedAt": "2026-03-04T03:05:36.250Z",
+      "rawScore": 40,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "扩散模型应用于语言建模的简洁方案，是对LLM范式的有趣探索"
+    },
+    {
+      "id": "hn-47240694",
+      "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
+      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+      "source": "hackernews",
+      "sourceType": "script",
+      "summary": "联想新ThinkPad获得iFixit满分可维修性评分。",
+      "publishedAt": "2026-03-03T23:34:05.000Z",
+      "rawScore": 250,
+      "category": "discussion",
+      "comments": 96,
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 1,
+        "total": 2.65
+      },
+      "rankReason": "ThinkPad满分维修性是硬件好消息，但与AI领域关联度低"
+    },
+    {
+      "id": "mcp-opennews-1772593777-1",
+      "title": "India's AI software freakout has solid foundation",
+      "url": "https://dbws.io/newsbot/i/nL6N3ZK05U",
+      "source": "mcp-opennews",
+      "sourceType": "mcp",
+      "summary": "印度IT外包行业面临AI自动化带来的严峻挑战。",
+      "publishedAt": "2026-03-04T01:58:46.550906Z",
+      "rawScore": 0,
+      "category": "news",
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.75
+      },
+      "rankReason": "印度IT行业面临AI冲击的分析，宏观趋势但对开发者日常无直接指导"
+    },
+    {
+      "id": "websearch-1772593777-2",
+      "title": "China AI startup MiniMax reports 159% revenue growth after Hong Kong IPO",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/china-ai-startup-minimax-reports-159-revenue-growth-2026-03-03/",
+      "source": "websearch",
+      "sourceType": "websearch",
+      "summary": "中国AI创业公司MiniMax在港股IPO后报告收入同比增长159%。",
+      "publishedAt": "2026-03-03T18:00:00Z",
+      "rawScore": 0,
+      "category": "news",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.90
+      },
+      "rankReason": "MiniMax收入增长159%，中国AI创业融资生态的积极信号"
+    },
+    {
+      "id": "websearch-1772593777-4",
+      "title": "From Anthropic to Iran: Who sets the limits on AI's use in war and surveillance?",
+      "url": "https://techxplore.com/news/2026-03-anthropic-iran-limits-ai-war.html",
+      "source": "websearch",
+      "sourceType": "websearch",
+      "summary": "Anthropic拒绝了五角大楼要求\"无限制访问\"其AI技术的合同。",
+      "publishedAt": "2026-03-03T21:00:00Z",
+      "rawScore": 0,
+      "category": "news",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.55
+      },
+      "rankReason": "Anthropic拒绝军方无限制使用AI的合同，AI伦理话题但对开发者不可行动"
+    },
+    {
+      "id": "pwc-2603.02578",
+      "title": "Paper 2603.02578",
+      "url": "https://huggingface.co/papers/2603.02578",
+      "source": "papers-with-code",
+      "sourceType": "script",
+      "summary": "",
+      "publishedAt": "2026-03-04T03:05:32.139Z",
+      "rawScore": 45,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.75
+      },
+      "rankReason": "HuggingFace新论文，缺少标题和摘要信息"
+    },
+    {
+      "id": "pwc-2603.01571",
+      "title": "Paper 2603.01571",
+      "url": "https://huggingface.co/papers/2603.01571",
+      "source": "papers-with-code",
+      "sourceType": "script",
+      "summary": "",
+      "publishedAt": "2026-03-04T03:05:32.139Z",
+      "rawScore": 45,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.75
+      },
+      "rankReason": "HuggingFace新论文，缺少标题和摘要信息"
+    },
+    {
+      "id": "pwc-2603.02667",
+      "title": "Paper 2603.02667",
+      "url": "https://huggingface.co/papers/2603.02667",
+      "source": "papers-with-code",
+      "sourceType": "script",
+      "summary": "",
+      "publishedAt": "2026-03-04T03:05:32.139Z",
+      "rawScore": 45,
+      "category": "paper",
+      "scores": {
+        "timeliness": 5,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.75
+      },
+      "rankReason": "HuggingFace新论文，缺少标题和摘要信息"
+    },
+    {
+      "id": "replicate-black-forest-labs-flux-2-pro",
+      "title": "black-forest-labs/flux-2-pro",
+      "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+      "source": "replicate",
+      "sourceType": "script",
+      "summary": "Flux 2 Pro图像生成模型上线Replicate。",
+      "publishedAt": "2026-03-04T03:05:33.362Z",
+      "rawScore": 30,
+      "category": "release",
+      "scores": {
+        "timeliness": 5,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.95
+      },
+      "rankReason": "Flux 2 Pro上线Replicate，图像生成开发者可试用"
+    },
+    {
+      "id": "ph-sequirly",
+      "title": "Sequirly",
+      "url": "https://www.producthunt.com/products/sequirly-ai-adoption-without-the-risk",
+      "source": "product-hunt",
+      "sourceType": "script",
+      "summary": "Prevent accidental data leaks while using AI tools.",
+      "publishedAt": "2026-03-03T03:27:48.000Z",
+      "rawScore": 25,
+      "category": "release",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.55
+      },
+      "rankReason": "AI数据泄露防护工具，小众但实用方向"
+    },
+    {
+      "id": "ph-agentcenter-for-openclaw",
+      "title": "AgentCenter for OpenClaw",
+      "url": "https://www.producthunt.com/products/agentcenter-for-openclaw",
+      "source": "product-hunt",
+      "sourceType": "script",
+      "summary": "Mission Control for your OpenClaw agents.",
+      "publishedAt": "2026-03-02T07:38:36.000Z",
+      "rawScore": 25,
+      "category": "release",
+      "scores": {
+        "timeliness": 2,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.35
+      },
+      "rankReason": "OpenClaw Agent管理面板，小众工具"
+    },
+    {
+      "id": "ph-deep-personality",
+      "title": "Deep Personality",
+      "url": "https://www.producthunt.com/products/deep-personality",
+      "source": "product-hunt",
+      "sourceType": "script",
+      "summary": "Science-backed personality insights for you and your partner.",
+      "publishedAt": "2026-03-03T00:18:14.000Z",
+      "rawScore": 25,
+      "category": "release",
+      "scores": {
+        "timeliness": 3,
+        "impact": 1,
+        "actionability": 2,
+        "credibility": 2,
+        "audienceMatch": 1,
+        "total": 1.80
+      },
+      "rankReason": "个性洞察工具，与AI开发者核心需求关联度低"
+    }
+  ],
+  "rankedAt": "2026-03-04T04:00:00.000Z"
+}

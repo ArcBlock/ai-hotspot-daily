@@ -1,0 +1,741 @@
+[
+  {
+    "id": "gh-K-Dense-AI-claude-scientific-skills",
+    "title": "K-Dense-AI/claude-scientific-skills",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "publishedAt": "2026-03-04T03:05:09.072Z",
+    "rawScore": 12044,
+    "category": "project",
+    "starsToday": 798,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-superset-sh-superset",
+    "title": "superset-sh/superset",
+    "url": "https://github.com/superset-sh/superset",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+    "publishedAt": "2026-03-04T03:05:09.072Z",
+    "rawScore": 4254,
+    "category": "project",
+    "starsToday": 632,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47236169",
+    "title": "GPT‑5.3 Instant",
+    "url": "https://openai.com/index/gpt-5-3-instant/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T17:57:33.000Z",
+    "rawScore": 303,
+    "category": "discussion",
+    "comments": 234,
+    "prerankScore": 92,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "gh-alibaba-OpenSandbox",
+    "title": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+    "publishedAt": "2026-03-04T03:05:09.072Z",
+    "rawScore": 5461,
+    "category": "project",
+    "starsToday": 1150,
+    "aiRelated": true,
+    "prerankScore": 83,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47235430",
+    "title": "Claude is an Electron App because we've lost native",
+    "url": "https://tonsky.me/blog/fall-of-native/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T17:09:15.000Z",
+    "rawScore": 131,
+    "category": "discussion",
+    "comments": 145,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 21,
+      "keywords": 15,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "hn-47230710",
+    "title": "Claude's Cycles [pdf]",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T10:57:42.000Z",
+    "rawScore": 499,
+    "category": "discussion",
+    "comments": 217,
+    "prerankScore": 77,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-Agent-Skill-Framework-Perspec",
+    "title": "Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments",
+    "url": "https://deeplearn.org/arxiv/703050/agent-skill-framework:-perspectives-on-the-potential-of-small-language-models-in-industrial-environments",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:40.674Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "qbitai-GPT-5-4意外泄露-OpenAI最新模型瞄准这2大能力突",
+    "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
+    "url": "https://www.qbitai.com/2026/03/383592.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "并不是第一次发现GPT-5.4的踪迹了",
+    "publishedAt": "2026-03-03T10:55:37.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 71,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 25,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "gh-agentscope-ai-agentscope",
+    "title": "agentscope-ai/agentscope",
+    "url": "https://github.com/agentscope-ai/agentscope",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Build and run agents you can see, understand and trust.",
+    "publishedAt": "2026-03-04T03:05:09.072Z",
+    "rawScore": 17084,
+    "category": "project",
+    "starsToday": 112,
+    "aiRelated": true,
+    "prerankScore": 70,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 17,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.24286",
+    "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+    "url": "https://www.alphaxiv.org/abs/2602.24286",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:36.250Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.23008",
+    "title": "Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization",
+    "url": "https://www.alphaxiv.org/abs/2602.23008",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:36.250Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.02193",
+    "title": "Symbol-Equivariant Recurrent Reasoning Models",
+    "url": "https://www.alphaxiv.org/abs/2603.02193",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:36.250Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-ruvnet-RuView",
+    "title": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "publishedAt": "2026-03-04T03:05:09.072Z",
+    "rawScore": 25576,
+    "category": "project",
+    "starsToday": 4419,
+    "aiRelated": false,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-moeru-ai-airi",
+    "title": "moeru-ai/airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecr",
+    "publishedAt": "2026-03-04T03:05:09.072Z",
+    "rawScore": 22268,
+    "category": "project",
+    "starsToday": 832,
+    "aiRelated": true,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47240694",
+    "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
+    "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T23:34:05.000Z",
+    "rawScore": 250,
+    "category": "discussion",
+    "comments": 96,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 21,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-Saliency-Aware-Multi-Route-Thi",
+    "title": "Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning",
+    "url": "https://deeplearn.org/arxiv/703023/saliency-aware-multi-route-thinking:-revisiting-vision-language-reasoning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:40.674Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-Calibrate-Then-Act-Cost-Aware",
+    "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
+    "url": "https://deeplearn.org/arxiv/703024/calibrate-then-act:-cost-aware-exploration-in-llm-agents",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:40.674Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099008",
+    "title": "ChatGPT&#8217;s new GPT-5.3 Instant model will stop telling you to calm down",
+    "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
+    "publishedAt": "Tue, 03 Mar 2026 20:20:56 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "dlm-EconEvals-Benchmarks-and-Litm",
+    "title": "EconEvals: Benchmarks and Litmus Tests for Economic Decision-Making by LLM Agents",
+    "url": "https://deeplearn.org/arxiv/703029/econevals:-benchmarks-and-litmus-tests-for-economic-decision-making-by-llm-agents",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:40.674Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:33.362Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "gh-agentscope-ai-ReMe",
+    "title": "agentscope-ai/ReMe",
+    "url": "https://github.com/agentscope-ai/ReMe",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+    "publishedAt": "2026-03-04T03:05:09.072Z",
+    "rawScore": 1337,
+    "category": "project",
+    "starsToday": 49,
+    "aiRelated": true,
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 13,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.22661",
+    "title": "dLLM: Simple Diffusion Language Modeling",
+    "url": "https://www.alphaxiv.org/abs/2602.22661",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:36.250Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 64,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "websearch-1772593777-6",
+    "title": "Meta tests AI shopping research tool to challenge ChatGPT and Gemini",
+    "url": "https://www.theverge.com/meta/888100/meta-ai-shopping-research-tool",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "Meta正在其AI聊天机器人中推出购物研究功能，与OpenAI和Google的类似工具竞争，可能改变消费者在线发现产品的方式。",
+    "publishedAt": "2026-03-03T17:00:00Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 63,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "hn-47232502",
+    "title": "MacBook Air with M5",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T14:04:56.000Z",
+    "rawScore": 380,
+    "category": "discussion",
+    "comments": 421,
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-gpt-5-3-instant-system-card",
+    "title": "GPT-5.3 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-gpt-5-3-instant",
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "url": "https://openai.com/index/gpt-5-3-instant",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "qbitai-阿里千问大模型换将-32岁林俊旸官宣告别",
+    "title": "阿里千问大模型换将，32岁林俊旸官宣告别",
+    "url": "https://www.qbitai.com/2026/03/383842.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "组织架构调整了",
+    "publishedAt": "2026-03-04T01:44:32.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:33.362Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "pwc-2603.02578",
+    "title": "Paper 2603.02578",
+    "url": "https://huggingface.co/papers/2603.02578",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:32.139Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.01571",
+    "title": "Paper 2603.01571",
+    "url": "https://huggingface.co/papers/2603.01571",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:32.139Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.02667",
+    "title": "Paper 2603.02667",
+    "url": "https://huggingface.co/papers/2603.02667",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:32.139Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "qbitai-AI-Agent搞定世纪首次菲尔兹奖成果形式化-一周时间独立",
+    "title": "AI Agent搞定世纪首次菲尔兹奖成果形式化！一周时间独立完成，20万行代码已公开",
+    "url": "https://www.qbitai.com/2026/03/383368.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "历史上最大规模的单一目的Lean形式化项目",
+    "publishedAt": "2026-03-03T10:28:48.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 56,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T03:05:33.362Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "ph-sequirly",
+    "title": "Sequirly",
+    "url": "https://www.producthunt.com/products/sequirly-ai-adoption-without-the-risk",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Prevent accidental data leaks while using AI tools\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/sequirly-ai-adoption-with",
+    "publishedAt": "2026-03-03T03:27:48.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 44,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 5,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "mcp-opennews-1772593777-0",
+    "title": "OpenAI in talks to deploy AI across NATO classified networks",
+    "url": "https://dbws.io/newsbot/i/nL4N3ZS02N",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "OpenAI正就向北约机密网络部署AI进行谈判，这将使军事联盟能直接使用OpenAI的AI技术进行情报分析。",
+    "publishedAt": "2026-03-04T01:22:27.402622Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 40,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "mcp-opennews-1772593777-1",
+    "title": "India's AI software freakout has solid foundation",
+    "url": "https://dbws.io/newsbot/i/nL6N3ZK05U",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "Breakingviews分析指出，印度对AI软件的担忧有坚实基础，印度IT外包行业面临AI自动化带来的严峻挑战。",
+    "publishedAt": "2026-03-04T01:58:46.550906Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 40,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "ph-agentcenter-for-openclaw",
+    "title": "AgentCenter for OpenClaw",
+    "url": "https://www.producthunt.com/products/agentcenter-for-openclaw",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Mission Control for your OpenClaw agents.\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/agentcenter-for-openclaw?utm_campa",
+    "publishedAt": "2026-03-02T07:38:36.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 39,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1772593777-2",
+    "title": "China AI startup MiniMax reports 159% revenue growth after Hong Kong IPO",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/china-ai-startup-minimax-reports-159-revenue-growth-2026-03-03/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "中国AI创业公司MiniMax在港股IPO后报告收入同比增长159%，定位为美国AI巨头的低成本替代方案，正在全球扩张。",
+    "publishedAt": "2026-03-03T18:00:00Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 38,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "websearch-1772593777-4",
+    "title": "From Anthropic to Iran: Who sets the limits on AI's use in war and surveillance?",
+    "url": "https://techxplore.com/news/2026-03-anthropic-iran-limits-ai-war.html",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "Anthropic拒绝了五角大楼要求\"无限制访问\"其AI技术的合同，坚持禁止大规模监控和全自主武器，导致遭受特朗普政府制裁。",
+    "publishedAt": "2026-03-03T21:00:00Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 38,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "ph-deep-personality",
+    "title": "Deep Personality",
+    "url": "https://www.producthunt.com/products/deep-personality",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Science-backed personality insights for you and your partner\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/deep-personalit",
+    "publishedAt": "2026-03-03T00:18:14.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 34,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 12
+    }
+  }
+]

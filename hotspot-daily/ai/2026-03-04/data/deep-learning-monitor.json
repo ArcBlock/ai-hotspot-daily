@@ -1,0 +1,186 @@
+{
+  "source": "deep-learning-monitor",
+  "fetchedAt": "2026-03-04T03:05:40.674Z",
+  "items": [
+    {
+      "id": "dlm-Harpoon-Generalised-Manifold-",
+      "title": "Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion",
+      "url": "https://deeplearn.org/arxiv/704361/harpoon:-generalised-manifold-guidance-for-conditional-tabular-diffusion",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Benchmarking-Stochastic-Approx",
+      "title": "Benchmarking Stochastic Approximation Algorithms for Fairness-Constrained Training of Deep Neural Networks",
+      "url": "https://deeplearn.org/arxiv/703107/benchmarking-stochastic-approximation-algorithms-for-fairness-constrained-training-of-deep-neural-networks",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Saliency-Aware-Multi-Route-Thi",
+      "title": "Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning",
+      "url": "https://deeplearn.org/arxiv/703023/saliency-aware-multi-route-thinking:-revisiting-vision-language-reasoning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Calibrate-Then-Act-Cost-Aware",
+      "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
+      "url": "https://deeplearn.org/arxiv/703024/calibrate-then-act:-cost-aware-exploration-in-llm-agents",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Causality-is-Key-for-Interpret",
+      "title": "Causality is Key for Interpretability Claims to Generalise",
+      "url": "https://deeplearn.org/arxiv/703025/causality-is-key-for-interpretability-claims-to-generalise",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Protecting-the-Undeleted-in-Ma",
+      "title": "Protecting the Undeleted in Machine Unlearning",
+      "url": "https://deeplearn.org/arxiv/703026/protecting-the-undeleted-in-machine-unlearning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Parameter-free-representations",
+      "title": "Parameter-free representations outperform single-cell foundation models on downstream benchmarks",
+      "url": "https://deeplearn.org/arxiv/703027/parameter-free-representations-outperform-single-cell-foundation-models-on-downstream-benchmarks",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-EconEvals-Benchmarks-and-Litm",
+      "title": "EconEvals: Benchmarks and Litmus Tests for Economic Decision-Making by LLM Agents",
+      "url": "https://deeplearn.org/arxiv/703029/econevals:-benchmarks-and-litmus-tests-for-economic-decision-making-by-llm-agents",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Random-Scaling-of-Emergent-Cap",
+      "title": "Random Scaling of Emergent Capabilities",
+      "url": "https://deeplearn.org/arxiv/703030/random-scaling-of-emergent-capabilities",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Synthetic-Powered-Multiple-Tes",
+      "title": "Synthetic-Powered Multiple Testing with FDR Control",
+      "url": "https://deeplearn.org/arxiv/703031/synthetic-powered-multiple-testing-with-fdr-control",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Are-Object-Centric-Representat",
+      "title": "Are Object-Centric Representations Better At Compositional Generalization?",
+      "url": "https://deeplearn.org/arxiv/703032/are-object-centric-representations-better-at-compositional-generalization?",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-On-the-Hardness-of-Approximati",
+      "title": "On the Hardness of Approximation of the Fair k-Center Problem",
+      "url": "https://deeplearn.org/arxiv/703033/on-the-hardness-of-approximation-of-the-fair-k-center-problem",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-ColBERT-Zero-To-Pre-train-Or-",
+      "title": "ColBERT-Zero: To Pre-train Or Not To Pre-train ColBERT models",
+      "url": "https://deeplearn.org/arxiv/703066/colbert-zero:-to-pre-train-or-not-to-pre-train-colbert-models",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Agent-Skill-Framework-Perspec",
+      "title": "Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments",
+      "url": "https://deeplearn.org/arxiv/703050/agent-skill-framework:-perspectives-on-the-potential-of-small-language-models-in-industrial-environments",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-SoK-Data-Minimization-in-Mach",
+      "title": "SoK: Data Minimization in Machine Learning",
+      "url": "https://deeplearn.org/arxiv/703051/sok:-data-minimization-in-machine-learning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-04T03:05:40.674Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}

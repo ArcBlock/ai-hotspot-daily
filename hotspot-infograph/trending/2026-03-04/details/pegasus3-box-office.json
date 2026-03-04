@@ -1,0 +1,69 @@
+{
+  "slug": "pegasus3-box-office",
+  "title": "飞驰人生3登顶2026全球票房榜首",
+  "category": "娱乐",
+  "color": "#7c3aed",
+  "template": "ranking-visual",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "中国赛车片问鼎全球票房冠军",
+      "content": {
+        "paragraphs": [
+          "截至3月3日，由韩寒执导、沈腾主演的《飞驰人生3》全球票房突破5.55亿美元，正式超越《阿凡达3》的5.53亿美元，暂列2026年全球票房年榜第一。这也是中国电影首次以非动画类型片身份登顶全球年度票房榜。",
+          "影片于2月17日春节档上映后一路领跑，国内票房已突破38.45亿元人民币，预测最终总票房将达44.45亿元。凭借春节档的强劲表现，2026年中国电影市场总票房率先突破100亿元，以领先北美超25亿元的成绩领跑全球。"
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "2026全球票房TOP6",
+      "content": {
+        "chartType": "bar",
+        "data": [
+          { "label": "飞驰人生3", "value": 555 },
+          { "label": "阿凡达3", "value": 553 },
+          { "label": "疯狂动物城2", "value": 447 },
+          { "label": "镖人", "value": 280 },
+          { "label": "呼啸山庄", "value": 192 },
+          { "label": "惊声尖叫7", "value": 97 }
+        ],
+        "highlight": "飞驰人生3以5.55亿美元登顶，领先阿凡达3约200万美元",
+        "caption": "单位：百万美元，截至2026年3月3日，数据来源：Box Office Mojo / 猫眼专业版"
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "票房数据亮点",
+      "content": {
+        "facts": [
+          { "label": "全球总票房", "value": "5.55亿美元" },
+          { "label": "国内总票房", "value": "38.45亿元" },
+          { "label": "春节档票房", "value": "29.13亿元" },
+          { "label": "预测总票房", "value": "44.45亿元" },
+          { "label": "上映天数", "value": "15天" },
+          { "label": "全球排名", "value": "年度第1" }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "从春节档现象到全球票房传奇",
+      "content": {
+        "paragraphs": [
+          "《飞驰人生3》的成功离不开2026年史上最长春节档的助力。春节档总票房超57亿元，总场次刷新历史纪录，而飞驰人生3以29亿元断层式领跑，票房占比超过50%，展现出极强的市场统治力。",
+          "影片在伦敦举办了海外首映礼，标志着中国商业片在国际市场的突破尝试。不过目前其票房主要来自中国市场，海外市场仍有巨大增长空间。随着影片在更多海外市场上映，其全球票房纪录有望继续刷新。",
+          "值得一提的是，这也是韩寒导演的飞驰人生系列第三部作品。从第一部的17亿到第二部的34亿再到第三部预测的44亿，系列票房呈现稳定增长态势，验证了中国电影IP系列化运营的商业价值。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "新浪财经", "url": "https://finance.sina.com.cn/jjxw/2026-03-03/doc-inhpsxzq4681548.shtml" },
+    { "name": "Deadline", "url": "https://deadline.com/2026/03/box-office-scream-7-pegasus-3-wuthering-heights-1236740458/" },
+    { "name": "澎湃新闻", "url": "https://www.thepaper.cn/newsDetail_forward_32646746" },
+    { "name": "SlashFilm", "url": "https://www.slashfilm.com/2109234/pegasus-3-biggest-2026-box-office-hit/" },
+    { "name": "Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/china-box-office-pegasus-3-530m-1236519258/" }
+  ],
+  "generatedAt": "2026-03-04T12:45:00.000Z"
+}

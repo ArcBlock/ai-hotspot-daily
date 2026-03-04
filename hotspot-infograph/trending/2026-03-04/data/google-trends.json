@@ -1,0 +1,359 @@
+{
+  "source": "google-trends",
+  "fetchedAt": "2026-03-04T03:27:16.788Z",
+  "items": [
+    {
+      "id": "gtrends-0",
+      "title": "nhl standings",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 5000,
+      "publishedAt": "2026-03-04T03:10:00.000Z",
+      "extra": {
+        "traffic": "5000+",
+        "relatedQueries": [
+          "Path to the Playoffs | Standings, tonight's games to watch, and more",
+          "Surging Sabres shed years of trade-deadline dread with playoffs in sight",
+          "Early-season turnaround has Sabres primed for playoff run"
+        ],
+        "newsItems": [
+          {
+            "title": "Path to the Playoffs | Standings, tonight's games to watch, and more",
+            "url": "https://www.nhl.com/sabres/news/buffalo-sabres-playoff-odds-standings-schedule",
+            "source": "NHL.com"
+          },
+          {
+            "title": "Surging Sabres shed years of trade-deadline dread with playoffs in sight",
+            "url": "https://www.sportsnet.ca/nhl/article/surging-sabres-shed-years-of-trade-deadline-dread-with-playoffs-in-sight/",
+            "source": "Sportsnet"
+          },
+          {
+            "title": "Early-season turnaround has Sabres primed for playoff run",
+            "url": "https://www.tsn.ca/nhl/article/early-season-turnaround-has-sabres-primed-for-playoff-run/",
+            "source": "TSN"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-1",
+      "title": "suns vs kings",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-04T03:10:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Suns-Kings live updates. Devin Booker back, Phoenix looks for sweep",
+          "Suns vs. Kings odds, prediction, spread, time: 2026 NBA picks for Tuesday, March 3 from proven model",
+          "2 Best Bets and Player Props for Suns vs. Kings"
+        ],
+        "newsItems": [
+          {
+            "title": "Suns-Kings live updates. Devin Booker back, Phoenix looks for sweep",
+            "url": "https://sports.yahoo.com/articles/suns-kings-live-updates-devin-013631983.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "Suns vs. Kings odds, prediction, spread, time: 2026 NBA picks for Tuesday, March 3 from proven model",
+            "url": "https://www.cbssports.com/nba/news/suns-kings-odds-prediction-spread-line-time-2026-nba-picks-tuesday-march-3/",
+            "source": "CBS Sports"
+          },
+          {
+            "title": "2 Best Bets and Player Props for Suns vs. Kings",
+            "url": "https://www.fanduel.com/research/2-best-bets-and-player-props-for-suns-vs-kings",
+            "source": "FanDuel"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-2",
+      "title": "texas supreme court",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-04T03:10:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Judge orders Dallas County to extend polling hours for Texas Democratic primary amid voter confusion",
+          "Hundreds of voters in Dallas area turned away from polling places amid new rules confusion",
+          "Voting extended two hours in Dallas County after push from Talarico, Crockett"
+        ],
+        "newsItems": [
+          {
+            "title": "Judge orders Dallas County to extend polling hours for Texas Democratic primary amid voter confusion",
+            "url": "https://www.nbcnews.com/politics/2026-election/thousands-texas-voters-showed-wrong-polling-site-state-democrats-say-rcna261618",
+            "source": "NBC News"
+          },
+          {
+            "title": "Hundreds of voters in Dallas area turned away from polling places amid new rules confusion",
+            "url": "https://www.cnn.com/2026/03/03/politics/dallas-voter-rule-confusion-texas-primary",
+            "source": "CNN"
+          },
+          {
+            "title": "Voting extended two hours in Dallas County after push from Talarico, Crockett",
+            "url": "https://www.nbcdfw.com/news/politics/lone-star-politics/jasmine-crockett-wants-voting-hours-extended-dallas-williamson-county/3992620/",
+            "source": "NBC 5 Dallas-Fort Worth"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-3",
+      "title": "bill self",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-04T03:00:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Self ejected after pair of technical fouls at Arizona State",
+          "Kansas basketball coach Bill Self ejected from game at Arizona State",
+          "WATCH: Bill Self ejected following controversial Darryn Peterson foul call"
+        ],
+        "newsItems": [
+          {
+            "title": "Self ejected after pair of technical fouls at Arizona State",
+            "url": "https://www2.kusports.com/sports/college/basketball-men/2026/mar/03/self-ejected-after-pair-of-technical-fouls-at-asu/",
+            "source": "KU Sports"
+          },
+          {
+            "title": "Kansas basketball coach Bill Self ejected from game at Arizona State",
+            "url": "https://www.hutchnews.com/story/sports/college/hawk-zone/2026/03/03/kansas-basketball-coach-bill-self-ejected-from-game-at-arizona-state-with-darryn-peterson-foul-call/88938749007/",
+            "source": "The Hutchinson News"
+          },
+          {
+            "title": "WATCH: Bill Self ejected following controversial Darryn Peterson foul call",
+            "url": "https://www.on3.com/news/bill-self-ejected-during-first-half-vs-arizona-state-darryn-peterson-foul/",
+            "source": "On3"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-4",
+      "title": "tiger woods",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-04T03:00:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Tiger Woods gives hilarious (and relatable) update when asked about returning to competitive golf",
+          "Rich Beem on Tiger Woods' playing return at The Masters and possible Ryder Cup captaincy in Adare Manor, in County Limerick",
+          "Tiger Woods' latest admission dampens Masters expectations"
+        ],
+        "newsItems": [
+          {
+            "title": "Tiger Woods gives hilarious (and relatable) update when asked about returning to competitive golf",
+            "url": "https://sports.yahoo.com/articles/tiger-woods-gives-hilarious-relatable-153036317.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "Rich Beem on Tiger Woods' playing return at The Masters and possible Ryder Cup captaincy in Adare Manor, in County Limerick",
+            "url": "https://www.skysports.com/golf/news/12176/13511456/rich-beem-on-tiger-woods-playing-return-at-the-masters-and-possible-ryder-cup-captaincy-in-adare-manor-in-county-limerick",
+            "source": "Sky Sports"
+          },
+          {
+            "title": "Tiger Woods' latest admission dampens Masters expectations",
+            "url": "https://www.the-express.com/sport/golf/200887/tiger-woods-masters-health-injury",
+            "source": "Daily Express US"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-5",
+      "title": "korea",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-04T03:00:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Seoul’s AI sex crime detection tool goes nationwide in South Korea",
+          "Seoul to Distribute \"Digital Sex Crime AI Deletion Technology\" Free of Charge",
+          "Seoul unveils 24-hour AI system to combat digital sex crimes"
+        ],
+        "newsItems": [
+          {
+            "title": "Seoul’s AI sex crime detection tool goes nationwide in South Korea",
+            "url": "https://www.scmp.com/news/asia/east-asia/article/3345335/seoul-shares-award-winning-ai-sex-crime-detection-tool-free-across-south-korea",
+            "source": "South China Morning Post"
+          },
+          {
+            "title": "Seoul to Distribute \"Digital Sex Crime AI Deletion Technology\" Free of Charge",
+            "url": "https://cm.asiae.co.kr/en/article/2026030210382342048",
+            "source": "아시아경제"
+          },
+          {
+            "title": "Seoul unveils 24-hour AI system to combat digital sex crimes",
+            "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260304/seoul-unveils-24-hour-ai-system-to-combat-digital-sex-crimes",
+            "source": "The Korea Times"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-6",
+      "title": "san diego st vs boise state",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-04T03:00:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "How to watch, listen to San Diego State vs. Boise State men's basketball game",
+          "Men’s Hoops Play Final Mountain West Road Game on Tuesday Night",
+          "Broncos Drop to San Diego State"
+        ],
+        "newsItems": [
+          {
+            "title": "How to watch, listen to San Diego State vs. Boise State men's basketball game",
+            "url": "https://www.si.com/college/san-diego-state/basketball/how-to-watch-listen-san-diego-state-boise-state-mens-basketball-game",
+            "source": "Sports Illustrated"
+          },
+          {
+            "title": "Men’s Hoops Play Final Mountain West Road Game on Tuesday Night",
+            "url": "https://goaztecs.com/news/2026/03/2/mens-hoops-play-final-mountain-west-road-game-on-tuesday-night",
+            "source": "San Diego State Aztecs"
+          },
+          {
+            "title": "Broncos Drop to San Diego State",
+            "url": "https://broncosports.com/news/2026/2/25/womens-basketball-broncos-drop-to-san-diego-state",
+            "source": "Boise State University Athletics"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-7",
+      "title": "bobby hurley",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-04T03:00:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Arizona State’s zone defense trips up Utah in one of Utes’ ‘more selfish games of the year’",
+          "ASU grinds out convincing win over Utah behind Massamba Diop’s strong defense",
+          "GRIT: Sun Devils' Mo Odom LEADS ASU Basketball to Statement WIN, Turnovers PLUMMET, Momentum BUILDS"
+        ],
+        "newsItems": [
+          {
+            "title": "Arizona State’s zone defense trips up Utah in one of Utes’ ‘more selfish games of the year’",
+            "url": "https://www.deseret.com/sports/2026/02/28/analysis-utah-at-arizona-state-basketball/",
+            "source": "Deseret News"
+          },
+          {
+            "title": "ASU grinds out convincing win over Utah behind Massamba Diop’s strong defense",
+            "url": "https://arizonasports.com/ncaa/arizona-state-basketball/asu-win-over-utah/3613100/",
+            "source": "Arizona Sports"
+          },
+          {
+            "title": "GRIT: Sun Devils' Mo Odom LEADS ASU Basketball to Statement WIN, Turnovers PLUMMET, Momentum BUILDS",
+            "url": "https://www.5newsonline.com/video/sports/locked-on/lo-arizona/sun-devils-show/grit-sun-devils-mo-odom-leads-asu-basketball-to-statement-win-turnovers-plummet-momentum-builds/535-76057026-722a-4fe2-8e09-3d4c9c195114",
+            "source": "5newsonline.com"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-8",
+      "title": "anne burrell",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-04T03:00:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Food Network Star Anne Burrell Was Not Given Narcan to Revive Her, Report Says",
+          "Anne Burrell's Suicide: Chilling Details About Her Death Reveal Medics Didn't Try to Revive Food Network Star",
+          "Medics Didn’t Give Chef Anne Burrell Narcan at Scene of Her Death, Police Report Says"
+        ],
+        "newsItems": [
+          {
+            "title": "Food Network Star Anne Burrell Was Not Given Narcan to Revive Her, Report Says",
+            "url": "https://www.tmz.com/2026/02/26/anne-burrell-not-given-narcan/",
+            "source": "TMZ"
+          },
+          {
+            "title": "Anne Burrell's Suicide: Chilling Details About Her Death Reveal Medics Didn't Try to Revive Food Network Star",
+            "url": "https://www.aol.com/articles/anne-burrells-suicide-chilling-details-185423182.html",
+            "source": "AOL.com"
+          },
+          {
+            "title": "Medics Didn’t Give Chef Anne Burrell Narcan at Scene of Her Death, Police Report Says",
+            "url": "https://www.usmagazine.com/celebrity-news/news/medics-didnt-give-chef-anne-burrell-narcan-at-scene-of-her-death/",
+            "source": "Us Weekly"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-9",
+      "title": "cruz azul",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-04T02:50:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Goals and Highlights: Santos 1-2 Cruz Azul in Liga MX",
+          "Tijuana vs. Santos - Boxscore - Live Score - March 08, 2026",
+          "David vs. Goliath in the Heartland: Lineups for Santos vs. Cruz Azul"
+        ],
+        "newsItems": [
+          {
+            "title": "Goals and Highlights: Santos 1-2 Cruz Azul in Liga MX",
+            "url": "https://www.vavel.com/en-us/mexican-soccer/2026/03/04/1252762-santos-vs-cruz-azul-live-score-liga-mx.html",
+            "source": "VAVEL.com"
+          },
+          {
+            "title": "Tijuana vs. Santos - Boxscore - Live Score - March 08, 2026",
+            "url": "https://www.foxsports.com/soccer/liga-mx-tijuana-vs-santos-mar-08-2026-game-boxscore-647998?tab=boxscore",
+            "source": "FOX Sports"
+          },
+          {
+            "title": "David vs. Goliath in the Heartland: Lineups for Santos vs. Cruz Azul",
+            "url": "https://www.soyfutbol.com/en/leagues/david-vs.-goliath-in-the-heartland-lineups-for-santos-vs.-cruz-azul-20260302-0042.html",
+            "source": "Soy Fútbol"
+          }
+        ],
+        "geo": "CN"
+      }
+    }
+  ],
+  "errors": [
+    "Google Trends RSS returned 400 for geo=CN"
+  ]
+}

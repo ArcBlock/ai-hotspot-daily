@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>韩国股市暴跌连续两日触发熔断 | 热点速览</title>
+<meta property="og:title" content="韩国股市暴跌连续两日触发熔断 | 热点速览">
+<meta property="og:description" content="韩国股市暴跌连续两日触发熔断">
+<meta property="og:type" content="article">
+<meta name="description" content="韩国股市暴跌连续两日触发熔断">
+<style>
+/* ============================================================
+   Reset & Base
+   ============================================================ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --accent: #d97706;
+  --accent-light: color-mix(in srgb, var(--accent) 12%, transparent);
+  --accent-medium: color-mix(in srgb, var(--accent) 25%, transparent);
+  --accent-soft: color-mix(in srgb, var(--accent) 6%, transparent);
+  --bg: #f8f9fb;
+  --bg-card: #ffffff;
+  --text-primary: #1a1a2e;
+  --text-secondary: #64748b;
+  --text-tertiary: #94a3b8;
+  --border: #e2e8f0;
+  --border-light: #f1f5f9;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
+  --shadow-md: 0 2px 8px rgba(0,0,0,0.08);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.1);
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f0f1a;
+    --bg-card: #1a1a2e;
+    --text-primary: #e8e8f0;
+    --text-secondary: #94a3b8;
+    --text-tertiary: #64748b;
+    --border: #2d2d44;
+    --border-light: #23233a;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+    --shadow-md: 0 2px 8px rgba(0,0,0,0.3);
+    --shadow-lg: 0 8px 24px rgba(0,0,0,0.4);
+  }
+}
+
+[data-theme="dark"] {
+  --bg: #0f0f1a;
+  --bg-card: #1a1a2e;
+  --text-primary: #e8e8f0;
+  --text-secondary: #94a3b8;
+  --text-tertiary: #64748b;
+  --border: #2d2d44;
+  --border-light: #23233a;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+  --shadow-md: 0 2px 8px rgba(0,0,0,0.3);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.4);
+}
+
+[data-theme="light"] {
+  --bg: #f8f9fb;
+  --bg-card: #ffffff;
+  --text-primary: #1a1a2e;
+  --text-secondary: #64748b;
+  --text-tertiary: #94a3b8;
+  --border: #e2e8f0;
+  --border-light: #f1f5f9;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
+  --shadow-md: 0 2px 8px rgba(0,0,0,0.08);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+html { font-size: 16px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text-primary);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ============================================================
+   Page Container
+   ============================================================ */
+.page {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 0 0 40px;
+}
+
+/* ============================================================
+   Top Nav Bar
+   ============================================================ */
+.detail-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px 8px;
+}
+
+.detail-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-light);
+  transition: all 0.2s ease;
+}
+
+.detail-back:hover { background: var(--accent-light); }
+
+.detail-nav-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.date-label {
+  font-size: 13px;
+  color: var(--text-tertiary);
+  font-weight: 500;
+}
+
+.theme-toggle {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+.theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ============================================================
+   Detail Header
+   ============================================================ */
+.detail-header {
+  margin: 8px 16px 0;
+  border-radius: var(--radius-lg);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+  position: relative;
+  animation: fadeInUp 0.5s ease-out;
+}
+
+.detail-header::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 120px;
+  background: linear-gradient(135deg, var(--accent-light) 0%, var(--accent-soft) 60%, transparent 100%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.detail-header-inner {
+  position: relative;
+  z-index: 1;
+  padding: 24px 20px 20px;
+}
+
+.detail-category {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  background: var(--accent);
+  color: #ffffff;
+  letter-spacing: 0.04em;
+  margin-bottom: 14px;
+}
+
+.detail-title {
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 1.35;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+/* ============================================================
+   Detail Sections — Common
+   ============================================================ */
+.detail-section {
+  margin: 16px 16px 0;
+  padding: 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  animation: fadeInUp 0.4s ease-out both;
+}
+
+.detail-section:nth-child(1) { animation-delay: 0.05s; }
+.detail-section:nth-child(2) { animation-delay: 0.10s; }
+.detail-section:nth-child(3) { animation-delay: 0.15s; }
+.detail-section:nth-child(4) { animation-delay: 0.20s; }
+.detail-section:nth-child(5) { animation-delay: 0.25s; }
+.detail-section:nth-child(6) { animation-delay: 0.30s; }
+
+.detail-section h2 {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--accent-light);
+}
+
+/* ============================================================
+   Section: Text
+   ============================================================ */
+.detail-text p {
+  font-size: 15px;
+  color: var(--text-secondary);
+  line-height: 1.75;
+  margin-bottom: 12px;
+}
+
+.detail-text p:last-child { margin-bottom: 0; }
+
+/* ============================================================
+   Section: Chart
+   ============================================================ */
+.detail-chart-container {
+  margin: 8px 0;
+  padding: 16px;
+  background: var(--bg);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+}
+
+.detail-chart-caption {
+  font-size: 12px;
+  color: var(--text-tertiary);
+  text-align: center;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+/* ============================================================
+   Section: Timeline
+   ============================================================ */
+.detail-timeline-track {
+  position: relative;
+  padding-left: 24px;
+}
+
+.detail-timeline-track::before {
+  content: '';
+  position: absolute;
+  left: 7px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--accent), var(--accent-light));
+  border-radius: 1px;
+}
+
+.detail-timeline-event {
+  position: relative;
+  padding: 0 0 20px 20px;
+}
+
+.detail-timeline-event:last-child { padding-bottom: 0; }
+
+.detail-timeline-event::before {
+  content: '';
+  position: absolute;
+  left: -21px;
+  top: 8px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--bg-card);
+  border: 3px solid var(--accent-light);
+  transition: border-color 0.2s;
+}
+
+.detail-timeline-event[data-highlight="true"]::before {
+  border-color: var(--accent);
+  background: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-light);
+}
+
+.detail-timeline-time {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+
+.detail-timeline-desc {
+  font-size: 14px;
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+/* ============================================================
+   Section: Comparison
+   ============================================================ */
+.detail-comparison-grid {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 12px;
+  align-items: start;
+}
+
+.detail-comparison-side {
+  padding: 16px;
+  border-radius: var(--radius-sm);
+  background: var(--bg);
+  border: 1px solid var(--border-light);
+}
+
+.detail-comparison-side h3 {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.detail-comparison-side ul {
+  list-style: none;
+  padding: 0;
+}
+
+.detail-comparison-side li {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.detail-comparison-side li:last-child { border-bottom: none; }
+
+.detail-comparison-divider {
+  width: 2px;
+  align-self: stretch;
+  background: linear-gradient(to bottom, transparent, var(--border), transparent);
+  margin: 16px 0;
+}
+
+/* ============================================================
+   Section: Key Facts
+   ============================================================ */
+.detail-facts-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.detail-fact {
+  text-align: center;
+  padding: 16px 12px;
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-light);
+  border-radius: var(--radius-md);
+}
+
+.detail-fact-value {
+  display: block;
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--accent);
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.detail-fact-label {
+  display: block;
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-top: 4px;
+  font-weight: 500;
+}
+
+/* ============================================================
+   Section: Quote
+   ============================================================ */
+.detail-quote blockquote {
+  padding: 16px 20px;
+  background: var(--accent-soft);
+  border-left: 4px solid var(--accent);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 15px;
+  color: var(--text-primary);
+  line-height: 1.7;
+  font-style: italic;
+}
+
+.detail-quote cite {
+  display: block;
+  margin-top: 10px;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  color: var(--text-tertiary);
+}
+
+/* ============================================================
+   Sources
+   ============================================================ */
+.detail-sources {
+  margin: 16px 16px 0;
+  padding: 16px 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+}
+
+.detail-sources-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  margin-bottom: 8px;
+}
+
+.detail-sources-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.source-link {
+  font-size: 11px;
+  color: var(--text-tertiary);
+  text-decoration: none;
+  padding: 2px 8px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.source-link:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* ============================================================
+   Footer
+   ============================================================ */
+.detail-footer {
+  margin: 24px 16px 0;
+  padding: 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  text-align: center;
+}
+
+.detail-footer-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 10px 24px;
+  border-radius: var(--radius-sm);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-light);
+  transition: all 0.2s ease;
+  margin-bottom: 12px;
+}
+
+.detail-footer-back:hover { background: var(--accent-light); }
+
+.detail-footer-text {
+  font-size: 12px;
+  color: var(--text-tertiary);
+}
+
+/* ============================================================
+   Hero Chart Styles (reused from main page)
+   ============================================================ */
+.chart-bar { display: flex; flex-direction: column; gap: 10px; }
+.chart-bar-item { display: flex; align-items: center; gap: 10px; }
+.chart-bar-label { width: 72px; flex-shrink: 0; font-size: 13px; font-weight: 500; color: var(--text-primary); text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.chart-bar-track { flex: 1; height: 28px; background: var(--border-light); border-radius: 6px; overflow: hidden; }
+.chart-bar-fill { height: 100%; border-radius: 6px; background: linear-gradient(90deg, var(--accent), color-mix(in srgb, var(--accent) 75%, #ffffff)); transition: width 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+.chart-bar-fill[data-highlight="true"] { background: linear-gradient(90deg, var(--accent), color-mix(in srgb, var(--accent) 60%, #ffffff)); box-shadow: 0 2px 8px var(--accent-medium); }
+.chart-bar-value { font-size: 13px; font-weight: 700; color: var(--text-primary); min-width: 48px; flex-shrink: 0; text-align: left; }
+
+.chart-line { width: 100%; overflow: visible; }
+.chart-line svg { width: 100%; height: auto; }
+.chart-line-path { fill: none; stroke: var(--accent); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.chart-line-area { fill: var(--accent-light); }
+.chart-line-dot { fill: var(--accent); stroke: var(--bg-card); stroke-width: 2; }
+.chart-line-label { font-size: 11px; fill: var(--text-tertiary); text-anchor: middle; }
+.chart-line-value { font-size: 11px; fill: var(--text-primary); font-weight: 600; text-anchor: middle; }
+
+.chart-ring { display: flex; align-items: center; gap: 20px; }
+.chart-ring svg { flex-shrink: 0; }
+.chart-ring-label { font-size: 14px; font-weight: 700; text-anchor: middle; fill: var(--text-primary); }
+.chart-ring-sublabel { font-size: 11px; text-anchor: middle; fill: var(--text-secondary); }
+.chart-ring-legend { display: flex; flex-direction: column; gap: 8px; }
+.chart-ring-legend-item { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--text-primary); }
+.chart-ring-legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+.chart-ring-legend-value { font-weight: 700; margin-left: auto; color: var(--text-secondary); }
+
+.chart-timeline { position: relative; padding-left: 20px; }
+.chart-timeline::before { content: ''; position: absolute; left: 7px; top: 4px; bottom: 4px; width: 2px; background: linear-gradient(to bottom, var(--accent), var(--accent-light)); border-radius: 1px; }
+.chart-timeline-item { position: relative; padding: 0 0 16px 16px; }
+.chart-timeline-item:last-child { padding-bottom: 0; }
+.chart-timeline-item::before { content: ''; position: absolute; left: -17px; top: 6px; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); border: 2px solid var(--bg-card); box-shadow: 0 0 0 2px var(--accent-light); }
+.chart-timeline-time { font-size: 11px; font-weight: 600; color: var(--accent); margin-bottom: 2px; }
+.chart-timeline-text { font-size: 13px; color: var(--text-primary); line-height: 1.5; }
+
+.chart-versus { display: grid; grid-template-columns: 1fr auto 1fr; gap: 12px; align-items: center; }
+.chart-versus-left, .chart-versus-right { text-align: center; padding: 16px 12px; border-radius: var(--radius-md); }
+.chart-versus-left { background: var(--accent-soft); border: 1px solid var(--accent-light); }
+.chart-versus-right { background: var(--border-light); border: 1px solid var(--border); }
+.chart-versus-name { font-size: 14px; font-weight: 700; color: var(--text-primary); margin-bottom: 6px; }
+.chart-versus-value { font-size: 28px; font-weight: 800; line-height: 1.2; }
+.chart-versus-left .chart-versus-value { color: var(--accent); }
+.chart-versus-right .chart-versus-value { color: var(--text-secondary); }
+.chart-versus-unit { font-size: 12px; color: var(--text-tertiary); margin-top: 2px; }
+.chart-versus-badge { font-size: 16px; font-weight: 800; color: var(--text-tertiary); background: var(--bg-card); border: 2px solid var(--border); border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; }
+
+.chart-heatmap { display: grid; gap: 4px; }
+.chart-heatmap-cell { aspect-ratio: 1; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 600; color: var(--text-primary); }
+.chart-heatmap-label { font-size: 11px; color: var(--text-tertiary); text-align: center; }
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+@media (min-width: 768px) {
+  .page { max-width: 640px; }
+  .detail-title { font-size: 28px; }
+  .detail-facts-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 1024px) {
+  .page { max-width: 720px; }
+}
+
+/* ============================================================
+   Animations
+   ============================================================ */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <!-- ===== Nav Bar ===== -->
+  <div class="detail-nav">
+    <a class="detail-back" href="./index.html">&larr; 返回速览</a>
+    <div class="detail-nav-right">
+      <span class="date-label">2026-03-04</span>
+      <button class="theme-toggle" id="themeToggle" aria-label="切换深色/浅色模式">
+        <span class="theme-toggle-icon">&#9790;</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ===== Header ===== -->
+  <header class="detail-header">
+    <div class="detail-header-inner">
+      <div class="detail-category">财经</div>
+      <h1 class="detail-title">韩国股市暴跌连续两日触发熔断</h1>
+    </div>
+  </header>
+
+  <!-- ===== Sections ===== -->
+  <section class="detail-section detail-text">
+<h2>地缘风暴重创韩国股市</h2>
+<p>3月3日至4日，韩国综合股价指数KOSPI连续两个交易日暴跌并触发熔断机制，成为自2024年8月日元套利交易危机以来最严重的市场崩盘事件。美伊全面冲突升级、霍尔木兹海峡关闭威胁成为引爆市场恐慌的核心导火索。</p>
+<p>韩国作为全球主要石油进口国，日均通过霍尔木兹海峡进口约276万桶原油。海峡关闭的威胁直接冲击韩国经济命脉，叠加全球避险情绪急剧升温，外资大规模撤离韩国市场，引发连锁抛售。</p>
+<p>值得注意的是，此次暴跌发生在KOSPI创下历史新高的背景下。2月25日KOSPI首次突破6000点大关，2月底更攀升至6347点的历史高位，年内涨幅曾高达近50%，随后急转直下令市场措手不及。</p>
+</section>
+<section class="detail-section detail-chart">
+<h2>KOSPI近期走势：从历史高位到连续熔断</h2>
+<div class="detail-chart-container"><div class="chart-line">
+  <svg viewBox="0 0 400 200" preserveAspectRatio="xMidYMid meet">
+    <polygon class="chart-line-area" points="30,55.9 115,35.1 200,20 285,101.3 370,170 370,170 30,170" opacity="0.1"/>
+    <polyline class="chart-line-path" points="30,55.9 115,35.1 200,20 285,101.3 370,170"/>
+    <circle class="chart-line-dot" cx="30" cy="55.9" r="4"/>
+    <circle class="chart-line-dot" cx="115" cy="35.1" r="4"/>
+    <circle class="chart-line-dot" cx="200" cy="20" r="4"/>
+    <circle class="chart-line-dot" cx="285" cy="101.3" r="4"/>
+    <circle class="chart-line-dot" cx="370" cy="170" r="4"/>
+    <text class="chart-line-value" x="30" y="45.9">6102</text>
+    <text class="chart-line-value" x="115" y="25.1">6244</text>
+    <text class="chart-line-value" x="200" y="12">6347</text>
+    <text class="chart-line-value" x="285" y="91.3">5792</text>
+    <text class="chart-line-value" x="370" y="160">5323</text>
+    <text class="chart-line-label" x="30" y="192">2/21 周五</text>
+    <text class="chart-line-label" x="115" y="192">2/25 周二</text>
+    <text class="chart-line-label" x="200" y="192">2/27 周四</text>
+    <text class="chart-line-label" x="285" y="192">3/3 周一</text>
+    <text class="chart-line-label" x="370" y="192">3/4 周二</text>
+  </svg>
+</div></div>
+<p class="detail-chart-caption">数据来源：韩国交易所，KOSPI收盘点位</p>
+</section>
+<section class="detail-section detail-key-facts">
+<h2>关键数据一览</h2>
+<div class="detail-facts-grid">
+<div class="detail-fact"><span class="detail-fact-value">-7.24%</span><span class="detail-fact-label">3/3单日跌幅</span></div>
+<div class="detail-fact"><span class="detail-fact-value">-8.10%</span><span class="detail-fact-label">3/4单日跌幅</span></div>
+<div class="detail-fact"><span class="detail-fact-value">超2700亿美元</span><span class="detail-fact-label">两日市值蒸发</span></div>
+<div class="detail-fact"><span class="detail-fact-value">-8.8%</span><span class="detail-fact-label">三星电子跌幅</span></div>
+<div class="detail-fact"><span class="detail-fact-value">-11.5%</span><span class="detail-fact-label">SK海力士跌幅</span></div>
+<div class="detail-fact"><span class="detail-fact-value">+49%</span><span class="detail-fact-label">年内前高涨幅</span></div>
+</div>
+</section>
+<section class="detail-section detail-chart">
+<h2>权重股跌幅对比</h2>
+<div class="detail-chart-container"><div class="chart-bar">
+<div class="chart-bar-item">
+    <span class="chart-bar-label">KOSPI指数</span>
+    <div class="chart-bar-track">
+      <div class="chart-bar-fill" style="width: 100.0%;"></div>
+    </div>
+    <span class="chart-bar-value">-7.24</span>
+  </div>
+<div class="chart-bar-item">
+    <span class="chart-bar-label">三星电子</span>
+    <div class="chart-bar-track">
+      <div class="chart-bar-fill" style="width: 121.5%;"></div>
+    </div>
+    <span class="chart-bar-value">-8.8</span>
+  </div>
+<div class="chart-bar-item">
+    <span class="chart-bar-label">LG电子</span>
+    <div class="chart-bar-track">
+      <div class="chart-bar-fill" style="width: 151.9%;"></div>
+    </div>
+    <span class="chart-bar-value">-11</span>
+  </div>
+<div class="chart-bar-item">
+    <span class="chart-bar-label">现代汽车</span>
+    <div class="chart-bar-track">
+      <div class="chart-bar-fill" style="width: 154.7%;"></div>
+    </div>
+    <span class="chart-bar-value">-11.2</span>
+  </div>
+<div class="chart-bar-item">
+    <span class="chart-bar-label">SK海力士</span>
+    <div class="chart-bar-track">
+      <div class="chart-bar-fill" style="width: 158.8%;"></div>
+    </div>
+    <span class="chart-bar-value">-11.5</span>
+  </div>
+</div></div>
+<p class="detail-chart-caption">3月3日主要权重股跌幅（%），数据来源：韩国交易所</p>
+</section>
+<section class="detail-section detail-text">
+<h2>分析与展望</h2>
+<p>此轮暴跌暴露了韩国股市的结构性脆弱：外资持仓占比高达30.8%，半导体权重股三星电子和SK海力士合计占总市值35%，高度集中的市场结构在地缘冲击面前极易形成踩踏效应。</p>
+<p>短期来看，韩国股市走势高度取决于中东局势演变。若霍尔木兹海峡航运恢复正常、油价回落，KOSPI有望技术性反弹。但地缘溢价消退前，外资回流仍需时间，市场波动率预计维持高位。</p>
+<p>长远而言，韩国AI芯片产业的基本面并未改变。全球AI算力需求持续增长，三星和海力士的HBM产能扩张计划仍在推进，待地缘风险缓解后，韩国股市的科技牛市逻辑有望延续。</p>
+</section>
+
+  <!-- ===== Sources ===== -->
+  <div class="detail-sources">
+    <div class="detail-sources-title">数据来源</div>
+    <div class="detail-sources-list">
+      <a class="source-link" href="https://finance.sina.com.cn/stock/zqgd/2026-03-03/doc-inhpstts4661202.shtml" target="_blank" rel="noopener noreferrer">新浪财经</a>
+<a class="source-link" href="https://www.cnbc.com/2026/03/04/asia-markets-hang-seng-index-kospi-nikkei-225.html" target="_blank" rel="noopener noreferrer">CNBC</a>
+<a class="source-link" href="https://www.disruptionbanking.com/2026/03/03/south-korea-market-crash-kospi-plunges-7-270b-wiped-out-in-iran-war-shock/" target="_blank" rel="noopener noreferrer">Disruption Banking</a>
+<a class="source-link" href="https://www.cls.cn/detail/2300746" target="_blank" rel="noopener noreferrer">财联社</a>
+<a class="source-link" href="https://finance.ifeng.com/c/8rDNfSH7Zd4" target="_blank" rel="noopener noreferrer">凤凰财经</a>
+    </div>
+  </div>
+
+  <!-- ===== Footer ===== -->
+  <footer class="detail-footer">
+    <a class="detail-footer-back" href="./index.html">&larr; 返回今日热点速览</a>
+    <div class="detail-footer-text">热点速览 · 由 AI 自动生成 · 发布在 MyVibe</div>
+  </footer>
+</div>
+
+<script>
+(function() {
+  'use strict';
+
+  var toggle = document.getElementById('themeToggle');
+  var icon = toggle.querySelector('.theme-toggle-icon');
+  var root = document.documentElement;
+  var SUN = '\u2600';
+  var MOON = '\u263E';
+
+  function getSystemTheme() {
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+
+  function applyTheme(theme) {
+    root.setAttribute('data-theme', theme);
+    icon.textContent = theme === 'dark' ? SUN : MOON;
+  }
+
+  var saved = null;
+  try { saved = localStorage.getItem('theme'); } catch(e) {}
+  if (saved === 'dark' || saved === 'light') {
+    applyTheme(saved);
+  } else {
+    icon.textContent = getSystemTheme() === 'dark' ? SUN : MOON;
+  }
+
+  toggle.addEventListener('click', function() {
+    var current = root.getAttribute('data-theme');
+    if (!current) current = getSystemTheme();
+    var next = current === 'dark' ? 'light' : 'dark';
+    applyTheme(next);
+    try { localStorage.setItem('theme', next); } catch(e) {}
+  });
+
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+    var hasSaved = false;
+    try { hasSaved = !!localStorage.getItem('theme'); } catch(ex) {}
+    if (!hasSaved) {
+      icon.textContent = e.matches ? SUN : MOON;
+      root.removeAttribute('data-theme');
+    }
+  });
+})();
+</script>
+</body>
+</html>

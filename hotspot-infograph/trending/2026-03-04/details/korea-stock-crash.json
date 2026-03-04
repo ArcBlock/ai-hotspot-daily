@@ -1,0 +1,85 @@
+{
+  "slug": "korea-stock-crash",
+  "title": "韩国股市暴跌连续两日触发熔断",
+  "category": "财经",
+  "color": "#d97706",
+  "template": "data-story",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "地缘风暴重创韩国股市",
+      "content": {
+        "paragraphs": [
+          "3月3日至4日，韩国综合股价指数KOSPI连续两个交易日暴跌并触发熔断机制，成为自2024年8月日元套利交易危机以来最严重的市场崩盘事件。美伊全面冲突升级、霍尔木兹海峡关闭威胁成为引爆市场恐慌的核心导火索。",
+          "韩国作为全球主要石油进口国，日均通过霍尔木兹海峡进口约276万桶原油。海峡关闭的威胁直接冲击韩国经济命脉，叠加全球避险情绪急剧升温，外资大规模撤离韩国市场，引发连锁抛售。",
+          "值得注意的是，此次暴跌发生在KOSPI创下历史新高的背景下。2月25日KOSPI首次突破6000点大关，2月底更攀升至6347点的历史高位，年内涨幅曾高达近50%，随后急转直下令市场措手不及。"
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "KOSPI近期走势：从历史高位到连续熔断",
+      "content": {
+        "chartType": "line",
+        "data": [
+          { "label": "2/21 周五", "value": 6102 },
+          { "label": "2/25 周二", "value": 6244 },
+          { "label": "2/27 周四", "value": 6347 },
+          { "label": "3/3 周一", "value": 5792 },
+          { "label": "3/4 周二", "value": 5323 }
+        ],
+        "highlight": "3个交易日从6347跌至5323，跌幅超16%",
+        "caption": "数据来源：韩国交易所，KOSPI收盘点位"
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键数据一览",
+      "content": {
+        "facts": [
+          { "label": "3/3单日跌幅", "value": "-7.24%" },
+          { "label": "3/4单日跌幅", "value": "-8.10%" },
+          { "label": "两日市值蒸发", "value": "超2700亿美元" },
+          { "label": "三星电子跌幅", "value": "-8.8%" },
+          { "label": "SK海力士跌幅", "value": "-11.5%" },
+          { "label": "年内前高涨幅", "value": "+49%" }
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "权重股跌幅对比",
+      "content": {
+        "chartType": "bar",
+        "data": [
+          { "label": "SK海力士", "value": -11.5 },
+          { "label": "现代汽车", "value": -11.2 },
+          { "label": "LG电子", "value": -11.0 },
+          { "label": "三星电子", "value": -8.8 },
+          { "label": "KOSPI指数", "value": -7.24 }
+        ],
+        "highlight": "半导体与汽车板块领跌，SK海力士单日跌超11%",
+        "caption": "3月3日主要权重股跌幅（%），数据来源：韩国交易所"
+      }
+    },
+    {
+      "type": "text",
+      "heading": "分析与展望",
+      "content": {
+        "paragraphs": [
+          "此轮暴跌暴露了韩国股市的结构性脆弱：外资持仓占比高达30.8%，半导体权重股三星电子和SK海力士合计占总市值35%，高度集中的市场结构在地缘冲击面前极易形成踩踏效应。",
+          "短期来看，韩国股市走势高度取决于中东局势演变。若霍尔木兹海峡航运恢复正常、油价回落，KOSPI有望技术性反弹。但地缘溢价消退前，外资回流仍需时间，市场波动率预计维持高位。",
+          "长远而言，韩国AI芯片产业的基本面并未改变。全球AI算力需求持续增长，三星和海力士的HBM产能扩张计划仍在推进，待地缘风险缓解后，韩国股市的科技牛市逻辑有望延续。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "新浪财经", "url": "https://finance.sina.com.cn/stock/zqgd/2026-03-03/doc-inhpstts4661202.shtml" },
+    { "name": "CNBC", "url": "https://www.cnbc.com/2026/03/04/asia-markets-hang-seng-index-kospi-nikkei-225.html" },
+    { "name": "Disruption Banking", "url": "https://www.disruptionbanking.com/2026/03/03/south-korea-market-crash-kospi-plunges-7-270b-wiped-out-in-iran-war-shock/" },
+    { "name": "财联社", "url": "https://www.cls.cn/detail/2300746" },
+    { "name": "凤凰财经", "url": "https://finance.ifeng.com/c/8rDNfSH7Zd4" }
+  ],
+  "generatedAt": "2026-03-04T12:45:00.000Z"
+}
