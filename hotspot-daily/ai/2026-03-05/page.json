@@ -1,0 +1,432 @@
+{
+  "meta": {
+    "date": "2026-03-05",
+    "slug": "gpt-5-3-instant",
+    "generatedAt": "2026-03-05T08:30:00.000Z",
+    "timezone": "Asia/Shanghai",
+    "confidence": 81,
+    "sourceCount": 5,
+    "language": "zh"
+  },
+  "zh": {
+    "title": "GPT-5.3 幻觉率降27%，零成本切换",
+    "subtitle": "API 模型名 gpt-5.3-chat-latest 已上线，定价与 GPT-5.2 持平，切换成本极低",
+    "tldr": "OpenAI 于 3 月 3 日全量推送 GPT-5.3 Instant，幻觉率最高降 26.8%，过度说教语气被修复，开发者可零成本切换 API 端点并立即验证效果。",
+    "keyMetrics": {
+      "subject": "GPT-5.3 Instant",
+      "competitors": [
+        "Claude Sonnet 4.5",
+        "Gemini 3 Flash"
+      ],
+      "rows": [
+        {
+          "metric": "幻觉率改善（含联网）",
+          "values": [
+            "↓26.8%（高风险）/ ↓22.5%（用户反馈）",
+            "—",
+            "—"
+          ],
+          "unit": "",
+          "note": "与 GPT-5.2 Instant 相比，高风险评估覆盖医学、法律、金融领域"
+        },
+        {
+          "metric": "幻觉率改善（纯内部知识）",
+          "values": [
+            "↓19.7%（高风险）/ ↓9.6%（用户反馈）",
+            "—",
+            "—"
+          ],
+          "unit": "",
+          "note": "OpenAI 仅公布相对改善幅度，未披露绝对错误率基线"
+        },
+        {
+          "metric": "API 输入定价",
+          "values": [
+            "$1.75/1M tokens",
+            "$3.00/1M tokens",
+            "$0.50/1M tokens"
+          ],
+          "unit": "",
+          "note": "GPT-5.3 定价与 GPT-5.2 相同；Claude Sonnet 4.5 超 200K tokens 涨至 $6.00/1M"
+        },
+        {
+          "metric": "API 输出定价",
+          "values": [
+            "$14.00/1M tokens",
+            "$15.00/1M tokens",
+            "$3.00/1M tokens"
+          ],
+          "unit": "",
+          "note": "Gemini 3 Flash 成本约为 GPT-5.3 的 1/5，适合高吞吐量低复杂度场景"
+        },
+        {
+          "metric": "上下文窗口",
+          "values": [
+            "128K tokens",
+            "200K tokens",
+            "1M tokens"
+          ],
+          "unit": "",
+          "note": "Gemini 3 Flash 上下文窗口远大于其他两款，长文档处理有优势"
+        },
+        {
+          "metric": "API 模型标识符",
+          "values": [
+            "gpt-5.3-chat-latest",
+            "claude-sonnet-4-5-20251101",
+            "gemini-3-flash-preview"
+          ],
+          "unit": "",
+          "note": "gpt-5.3-chat-latest 是别名，也可固定版本号"
+        }
+      ],
+      "footnote": "定价数据来源：OpenRouter（GPT-5.3）、Anthropic 官方文档（Claude Sonnet 4.5）、Google AI for Developers（Gemini 3 Flash）。幻觉率数据为相对改善幅度，来源：OpenAI 官方博客。"
+    },
+    "whatHappened": "OpenAI 于 2026 年 3 月 3 日正式发布 GPT-5.3 Instant，并将其设为全体 ChatGPT 用户（含免费层）的默认模型。该版本直接继承 GPT-5.2 Instant 的定价（$1.75/$14.00 per million tokens），开发者可将 API 调用端点由 gpt-5.2-instant-latest 切换为 gpt-5.3-chat-latest 完成升级。\n\n核心改进集中在两个方向：其一，幻觉率显著下降——在含联网搜索的高风险评估（医学、法律、金融）中降低 26.8%，纯内部知识问答中降低 19.7%；其二，回复语气大幅调整——移除过度规劝性表达（如「先冷静一下」）、不必要的安全免责声明及说教式前言，转为更直接、更工程师友好的输出风格。\n\nGPT-5.2 Instant 将在 2026 年 6 月 3 日正式退役，届时进入 Legacy Models 选择器。OpenAI 同时宣布将在未来几周内将同类改进推送至 Thinking 模式和 Pro 模式。",
+    "whyItMatters": "对于日常大量调用 ChatGPT API 的开发者和产品团队，幻觉率降低 26.8% 意味着用于后处理校验的人力成本可同比压缩。在法律审查、医疗信息摘要、金融报告等高置信度要求场景中，该数字的实际业务价值尤为显著。\n\n语气修复同样重要：在面向 B2B 客户的 AI 客服、内部知识库助手等产品中，模型过度说教曾是用户投诉的主要原因之一。GPT-5.3 的调整直接降低了这类场景的提示词工程负担——过去需要显式指令「不要加免责声明」，现在模型默认行为已对齐。\n\n值得关注的是，OpenAI 此次并未宣布任何架构升级或参数规模变化，改进完全来自后训练阶段（RLHF/对齐调整）。这说明在同等计算成本下，后训练优化仍有显著提升空间，也预示竞品会快速跟进。",
+    "whoIsAffected": {
+      "groups": [
+        {
+          "name": "使用 OpenAI API 的后端/AI 工程师",
+          "impact": "high",
+          "description": "可直接切换模型标识符获得更低幻觉率和更干净的输出，无需修改提示词或额外成本。需在切换后重新运行测试套件验证行为变化。"
+        },
+        {
+          "name": "构建 AI 客服/助手产品的团队",
+          "impact": "high",
+          "description": "模型默认语气改变将影响现有输出样本，需重新评估 A/B 测试基线和用户满意度指标。语气变直接对大多数 B2B 场景是正向改变。"
+        },
+        {
+          "name": "医疗、法律、金融领域 AI 应用开发者",
+          "impact": "high",
+          "description": "幻觉率改善在高风险领域评估中数据最为显著，但 OpenAI 未披露绝对错误率基线，仍需领域专家进行独立验证测试。"
+        },
+        {
+          "name": "ChatGPT 普通用户",
+          "impact": "medium",
+          "description": "无需任何操作，已自动升级至 GPT-5.3 Instant。回复将更简洁直接，减少不必要的说教性内容。"
+        },
+        {
+          "name": "选用 Claude Sonnet 4.5 或 Gemini 3 Flash 的团队",
+          "impact": "medium",
+          "description": "竞争格局发生变化，需重新评估成本效益比。Gemini 3 Flash 在价格上（$0.50/$3.00）仍有明显优势；Claude Sonnet 4.5 在 Agent 工具调用场景中仍领先。"
+        }
+      ]
+    },
+    "whatToDo": {
+      "immediate": [
+        "将 API 调用中的 gpt-5.2-instant-latest 替换为 gpt-5.3-chat-latest，运行现有回归测试套件，记录输出差异",
+        "在高风险业务场景（法律文本、医疗摘要、金融报告）中专项测试幻觉率变化，评估是否可减少人工校验步骤",
+        "检查现有系统提示词中是否有冗余的语气控制指令（如「不要加免责声明」），测试去除后输出是否仍符合预期"
+      ],
+      "thisWeek": [
+        "针对自身业务场景建立幻觉率基准测试集，量化 GPT-5.3 vs GPT-5.2 的实际改善幅度（OpenAI 数字是内部评估，不代表所有场景）",
+        "如当前使用 Claude Sonnet 4.5（$3.00/$15.00），评估 GPT-5.3（$1.75/$14.00）在相同任务上的质量，测算迁移的成本节省空间",
+        "关注 OpenAI 后续将同类改进推送至 Thinking 模式和 Pro 模式的时间节点，提前评估对推理密集型任务的影响"
+      ],
+      "watchAndWait": [
+        "等待 OpenAI 发布 GPT-5.3 Instant System Card 的完整版本，获取绝对幻觉率基线数据",
+        "观察 GPT-5.4 发布节奏——OpenAI 已暗示「比你想象的更快」，避免在过渡期进行大规模迁移工程",
+        "持续监测 Gemini 3 Flash（$0.50/$3.00）在准确率上的追赶进度，该模型价格优势明显"
+      ]
+    },
+    "options": [
+      {
+        "name": "立即切换至 GPT-5.3 Instant",
+        "description": "将 API 端点从 gpt-5.2-instant-latest 改为 gpt-5.3-chat-latest，运行测试验证后全量上线",
+        "suitableFor": "已大量使用 GPT-5.2 Instant、且对幻觉率改善有明确需求的团队",
+        "cost": "零迁移成本（定价相同），测试人力 1-2 天",
+        "risk": "输出语气变化可能影响依赖特定语气的下游流程；需重新验证提示词效果"
+      },
+      {
+        "name": "A/B 测试后渐进切换",
+        "description": "将 10-20% 流量路由至 GPT-5.3，对比输出质量和用户满意度指标，数据支撑后全量切换",
+        "suitableFor": "有线上服务 SLA 要求、或依赖特定输出格式的生产系统",
+        "cost": "中等工程投入，约 3-5 天",
+        "risk": "较低，可控制影响范围并快速回滚"
+      },
+      {
+        "name": "评估迁移至 Gemini 3 Flash",
+        "description": "对于高吞吐量、低复杂度的任务（摘要、分类、简单问答），测试 Gemini 3 Flash 在质量可接受的前提下是否可将成本降低至 GPT-5.3 的约 1/5",
+        "suitableFor": "对成本敏感、且任务不依赖 OpenAI 生态工具（Assistants API、Structured Outputs）的团队",
+        "cost": "中高迁移成本（需适配不同 SDK 和接口），约 1-2 周",
+        "risk": "中等，Gemini 3 Flash 在复杂推理任务上与 GPT-5.3 仍存在差距"
+      },
+      {
+        "name": "保持现状，继续使用 GPT-5.2",
+        "description": "等待 GPT-5.2 退役期（2026 年 6 月 3 日）前被动切换，或持续观察 GPT-5.3 社区反馈",
+        "suitableFor": "系统稳定、无明显幻觉问题、当前提示词经过精细调优的团队",
+        "cost": "零成本，但错过幻觉率改善收益",
+        "risk": "GPT-5.2 将于 6 月 3 日强制退役，届时需被动迁移；提前主动测试成本更低"
+      }
+    ],
+    "risks": [
+      {
+        "title": "误将相对改善数据当作绝对可靠性指标",
+        "description": "OpenAI 仅披露了相对改善幅度（26.8%、19.7%），未公布绝对幻觉错误率基线。例如，若基线错误率为 10%，26.8% 的改善意味着降至 7.3%；若基线为 3%，则降至 2.2%。两者业务含义截然不同。不要基于该数字跳过人工验证步骤，需用自己业务的测试集重新评估。"
+      },
+      {
+        "title": "语气变化破坏依赖特定输出格式的下游流程",
+        "description": "GPT-5.3 减少了安全免责声明和前言，直接进入回答。若当前系统依赖解析输出中的特定结构（如「注意：...」前缀）来触发后续逻辑，切换后这些触发词可能消失，导致下游流程静默失效。切换前需全面审查基于输出内容的条件判断逻辑。"
+      },
+      {
+        "title": "过早锁定模型版本，错过 GPT-5.4 升级窗口",
+        "description": "OpenAI 已明确暗示 GPT-5.4 即将发布。若此时进行大规模迁移工程（如重写提示词库、更新评估框架），可能在数周内面临再次升级的需求。建议本轮迁移保持轻量，等 GPT-5.4 稳定后统一评估。"
+      },
+      {
+        "title": "评估数据不代表所有语言和领域",
+        "description": "OpenAI 的幻觉率评估主要基于英语高风险领域（医学、法律、金融）。对于中文内容、代码生成、创意写作等场景，改善幅度可能与公布数字差异显著。非英语场景的开发者需独立测试。"
+      }
+    ],
+    "sources": [
+      {
+        "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+        "url": "https://openai.com/index/gpt-5-3-instant/",
+        "publisher": "OpenAI",
+        "tier": "official",
+        "excerpt": "幻觉率改善：联网场景高风险评估降低 26.8%（用户反馈评估降低 22.5%），纯内部知识高风险评估降低 19.7%（用户反馈评估降低 9.6%）。模型标识符 gpt-5.3-chat-latest，全体 ChatGPT 用户可用。",
+        "publishedAt": "2026-03-03"
+      },
+      {
+        "title": "GPT-5.3 Chat: Pricing, Context Window, Benchmarks, and More",
+        "url": "https://llm-stats.com/models/gpt-5.3-chat-latest",
+        "publisher": "LLM Stats",
+        "tier": "media",
+        "excerpt": "API 定价：输入 $1.75/1M tokens，输出 $14.00/1M tokens。上下文窗口 128K tokens。发布日期 2026 年 3 月 4 日。支持多模态输入（文本+图像）。HealthBench 得分 54.1%，HealthBench Hard 25.9%。",
+        "publishedAt": "2026-03-04"
+      },
+      {
+        "title": "ChatGPT's new GPT-5.3 Instant model will stop telling you to calm down",
+        "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+        "publisher": "TechCrunch",
+        "tier": "media",
+        "excerpt": "详述语气改进：移除「先冷静一下」等规劝性表达，减少不必要的安全免责声明。GPT-5.2 Instant 将于 2026 年 6 月 3 日退役并移入 Legacy Models。",
+        "publishedAt": "2026-03-03"
+      },
+      {
+        "title": "OpenAI: GPT-5.3 Chat – Effective Pricing",
+        "url": "https://openrouter.ai/openai/gpt-5.3-chat/pricing",
+        "publisher": "OpenRouter",
+        "tier": "media",
+        "excerpt": "输入 $1.75/1M tokens，输出 $14.00/1M tokens，联网搜索 $100/K 次调用。最大输出 16,384 tokens，支持结构化输出和工具调用。",
+        "publishedAt": "2026-03-04"
+      },
+      {
+        "title": "GPT-5.3 Instant cuts hallucinations by 26.8% as OpenAI shifts focus from speed to accuracy",
+        "url": "https://venturebeat.com/orchestration/gpt-5-3-instant-cuts-hallucinations-by-26-8-as-openai-shifts-focus-from",
+        "publisher": "VentureBeat",
+        "tier": "media",
+        "excerpt": "强调此次改进全部来自后训练优化而非架构升级，OpenAI 未披露绝对错误率基线，外部独立验证存在局限性。",
+        "publishedAt": "2026-03-04"
+      }
+    ]
+  },
+  "en": {
+    "title": "GPT-5.3: 27% Fewer Hallucinations, Zero-Cost Switch",
+    "subtitle": "Drop-in API replacement with same pricing, less preachy tone, and measurably better accuracy",
+    "tldr": "OpenAI shipped GPT-5.3 Instant on March 3 with up to 26.8% fewer hallucinations and a less preachy tone—available via gpt-5.3-chat-latest at identical pricing to GPT-5.2.",
+    "keyMetrics": {
+      "subject": "GPT-5.3 Instant",
+      "competitors": [
+        "Claude Sonnet 4.5",
+        "Gemini 3 Flash"
+      ],
+      "rows": [
+        {
+          "metric": "Hallucination reduction (with web)",
+          "values": [
+            "↓26.8% (high-stakes) / ↓22.5% (user feedback)",
+            "—",
+            "—"
+          ],
+          "unit": "",
+          "note": "High-stakes eval covers medicine, law, finance; relative improvement vs GPT-5.2 Instant only—absolute baseline not disclosed"
+        },
+        {
+          "metric": "Hallucination reduction (no web)",
+          "values": [
+            "↓19.7% (high-stakes) / ↓9.6% (user feedback)",
+            "—",
+            "—"
+          ],
+          "unit": "",
+          "note": "Two separate eval tracks: domain expert-graded (high-stakes) and user-flagged errors"
+        },
+        {
+          "metric": "API input price",
+          "values": [
+            "$1.75/1M tokens",
+            "$3.00/1M tokens",
+            "$0.50/1M tokens"
+          ],
+          "unit": "",
+          "note": "GPT-5.3 pricing unchanged from GPT-5.2; Claude Sonnet 4.5 rises to $6.00/1M above 200K context"
+        },
+        {
+          "metric": "API output price",
+          "values": [
+            "$14.00/1M tokens",
+            "$15.00/1M tokens",
+            "$3.00/1M tokens"
+          ],
+          "unit": "",
+          "note": "Gemini 3 Flash is ~5x cheaper for output—compelling for high-volume, lower-complexity workloads"
+        },
+        {
+          "metric": "Context window",
+          "values": [
+            "128K tokens",
+            "200K tokens",
+            "1M tokens"
+          ],
+          "unit": "",
+          "note": "Gemini 3 Flash's 1M context is a significant advantage for long-document workloads"
+        },
+        {
+          "metric": "API model identifier",
+          "values": [
+            "gpt-5.3-chat-latest",
+            "claude-sonnet-4-5-20251101",
+            "gemini-3-flash-preview"
+          ],
+          "unit": "",
+          "note": "gpt-5.3-chat-latest is an alias; pin to a versioned identifier for production stability"
+        }
+      ],
+      "footnote": "Pricing sources: OpenRouter (GPT-5.3), Anthropic official docs (Claude Sonnet 4.5), Google AI for Developers (Gemini 3 Flash). Hallucination figures are relative improvements from OpenAI's internal evaluations."
+    },
+    "whatHappened": "OpenAI released GPT-5.3 Instant on March 3, 2026, rolling it out as the default model for all ChatGPT users—including the free tier. The API is available as gpt-5.3-chat-latest at unchanged pricing ($1.75/$14.00 per million tokens), making it a zero-cost drop-in replacement for gpt-5.2-instant-latest.\n\nThe update targets two issues: hallucination rates and tone. On hallucinations, OpenAI's internal high-stakes evaluations (medicine, law, finance) show a 26.8% reduction with web search enabled and 19.7% without. On tone, the model removes formulaic phrases like 'Stop. Take a breath,' reduces unsolicited safety disclaimers, and cuts preachy preambles in favor of direct answers.\n\nGPT-5.2 Instant enters legacy status on June 3, 2026. OpenAI says equivalent improvements will come to Thinking and Pro modes in coming weeks. A separate X post from OpenAI teased that GPT-5.4 is 'sooner than you think.'",
+    "whyItMatters": "For engineering teams running OpenAI API at scale, a 26.8% hallucination reduction in high-stakes domains translates directly to reduced post-processing overhead—fewer human review cycles, lower QA costs, and faster time-to-production for accuracy-sensitive features.\n\nThe tone shift matters too. AI assistants and B2B chatbots built on GPT-5.2 often required explicit prompt engineering to suppress preachy output. GPT-5.3's default behavior change reduces that burden, potentially simplifying system prompts and improving out-of-the-box user satisfaction.\n\nThis release carries a structural signal: all improvements are post-training only—no architecture change, no new parameters. That means the remaining headroom from RLHF/alignment tuning is still being unlocked, and competitors will follow quickly. The window where GPT-5.3's quality gains are differentiated may be measured in weeks, not months.",
+    "whoIsAffected": {
+      "groups": [
+        {
+          "name": "Backend and AI engineers using OpenAI API",
+          "impact": "high",
+          "description": "One-line model identifier change yields lower hallucination rates and cleaner output. Existing regression test suites should be re-run to capture behavioral differences before full rollout."
+        },
+        {
+          "name": "AI customer service and assistant product teams",
+          "impact": "high",
+          "description": "Default tone change will shift output characteristics. Teams need to re-validate A/B baselines and re-evaluate CSAT benchmarks. The directness shift is positive for most B2B scenarios."
+        },
+        {
+          "name": "High-stakes domain AI developers (medical, legal, financial)",
+          "impact": "high",
+          "description": "The largest measured improvements are precisely in these domains. However, OpenAI's relative figures lack absolute baselines—independent validation with domain-specific test sets remains mandatory."
+        },
+        {
+          "name": "Teams currently using Claude Sonnet 4.5 or Gemini 3 Flash",
+          "impact": "medium",
+          "description": "Competitive landscape has shifted. Claude Sonnet 4.5 retains an edge in agentic tool-use scenarios. Gemini 3 Flash holds a substantial price advantage ($0.50/$3.00) for high-volume, lower-complexity tasks."
+        }
+      ]
+    },
+    "whatToDo": {
+      "immediate": [
+        "Replace gpt-5.2-instant-latest with gpt-5.3-chat-latest in your API calls; run your existing regression tests and log output diffs before full rollout",
+        "Run targeted hallucination tests on your highest-stakes use cases (legal review, medical summaries, financial analysis) to quantify real-world improvement against your own data",
+        "Audit system prompts for redundant tone-control instructions; test whether removing them still produces acceptable outputs with GPT-5.3"
+      ],
+      "thisWeek": [
+        "Build a domain-specific hallucination benchmark with 50-100 queries from your actual workload; measure GPT-5.3 vs GPT-5.2 to validate whether OpenAI's published figures hold for your use case",
+        "If currently using Claude Sonnet 4.5 ($3.00/$15.00), run parallel quality evaluation on representative tasks at GPT-5.3 pricing ($1.75/$14.00) to quantify potential cost savings",
+        "Track OpenAI's timeline for rolling improvements to Thinking and Pro modes—relevant for reasoning-intensive workloads"
+      ],
+      "watchAndWait": [
+        "Wait for the full GPT-5.3 Instant System Card to be published for absolute hallucination baseline data before updating internal accuracy SLAs",
+        "Monitor the GPT-5.4 release cadence before committing to large-scale migration engineering—another upgrade cycle may arrive within weeks",
+        "Watch Gemini 3 Flash's quality trajectory; at $0.50/$3.00 input/output it offers ~5x cost advantage if quality parity is achievable for your workload"
+      ]
+    },
+    "options": [
+      {
+        "name": "Immediate full switch to GPT-5.3 Instant",
+        "description": "Change the model identifier, run regression tests, deploy to production",
+        "suitableFor": "Teams with established test suites and clear hallucination pain points on GPT-5.2",
+        "cost": "Zero API cost change; 1-2 days of engineering validation time",
+        "risk": "Tone shift may break downstream logic that parses specific output structures; requires prompt re-validation"
+      },
+      {
+        "name": "Gradual A/B rollout",
+        "description": "Route 10-20% of traffic to GPT-5.3, monitor quality and user metrics, then ramp to 100%",
+        "suitableFor": "Production systems with SLA commitments or structured output dependencies",
+        "cost": "Moderate engineering investment, 3-5 days",
+        "risk": "Low; controlled blast radius with easy rollback path"
+      },
+      {
+        "name": "Evaluate migration to Gemini 3 Flash",
+        "description": "For high-volume, lower-complexity tasks (summarization, classification, simple Q&A), benchmark Gemini 3 Flash quality—at $0.50/$3.00 it is ~5x cheaper than GPT-5.3",
+        "suitableFor": "Cost-sensitive teams not reliant on OpenAI-specific features (Assistants API, Structured Outputs format)",
+        "cost": "Higher migration cost (SDK and prompt adaptation), 1-2 weeks",
+        "risk": "Medium; Gemini 3 Flash may underperform on complex reasoning tasks compared to GPT-5.3"
+      },
+      {
+        "name": "Stay on GPT-5.2, defer decision",
+        "description": "Continue using GPT-5.2 until its June 3, 2026 retirement date or until GPT-5.4 benchmarks are available",
+        "suitableFor": "Stable systems with carefully tuned prompts and no acute hallucination issues",
+        "cost": "Zero immediate cost; defers but does not eliminate migration work",
+        "risk": "Forced migration at GPT-5.2 end-of-life (June 3) with less preparation time; misses current hallucination improvements"
+      }
+    ],
+    "risks": [
+      {
+        "title": "Treating relative improvement figures as absolute reliability guarantees",
+        "description": "OpenAI's 26.8% and 19.7% figures are relative improvements over GPT-5.2—no absolute baseline error rates were disclosed. Without knowing whether the baseline was 10% or 2% hallucination rate, the business significance differs substantially. Do not remove human review steps based on these numbers alone; validate against your own benchmark."
+      },
+      {
+        "title": "Tone change silently breaking downstream parsing logic",
+        "description": "GPT-5.3 removes preambles and safety disclaimers by default. If any downstream system parses output for specific trigger phrases to route or filter responses, those triggers may disappear post-switch, causing silent failures. Audit all output-conditional logic before deployment."
+      },
+      {
+        "title": "Over-investing in migration ahead of GPT-5.4",
+        "description": "OpenAI has explicitly signaled GPT-5.4 is imminent. If you rebuild prompt libraries or evaluation frameworks specifically for GPT-5.3 behavioral characteristics, you may face another optimization cycle within weeks. Keep this migration lightweight."
+      },
+      {
+        "title": "Evaluation coverage gaps for non-English and non-domain workloads",
+        "description": "OpenAI's hallucination evaluations focused on English-language high-stakes domains. Improvement figures for Chinese-language content, code generation, creative writing, or general-purpose Q&A may differ significantly. Non-English-primary deployments must run independent tests."
+      }
+    ],
+    "sources": [
+      {
+        "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+        "url": "https://openai.com/index/gpt-5-3-instant/",
+        "publisher": "OpenAI",
+        "tier": "official",
+        "excerpt": "Official release post detailing 26.8% hallucination reduction (web, high-stakes), 19.7% (no web, high-stakes), 22.5% and 9.6% on user-feedback eval. Model available as gpt-5.3-chat-latest for all ChatGPT users and API developers.",
+        "publishedAt": "2026-03-03"
+      },
+      {
+        "title": "GPT-5.3 Chat: Pricing, Context Window, Benchmarks, and More",
+        "url": "https://llm-stats.com/models/gpt-5.3-chat-latest",
+        "publisher": "LLM Stats",
+        "tier": "media",
+        "excerpt": "API pricing confirmed at $1.75/$14.00 per 1M tokens. Context window 128K tokens. Release date March 4, 2026. Multimodal (text + image input). HealthBench: 54.1%, HealthBench Hard: 25.9%.",
+        "publishedAt": "2026-03-04"
+      },
+      {
+        "title": "ChatGPT's new GPT-5.3 Instant model will stop telling you to calm down",
+        "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+        "publisher": "TechCrunch",
+        "tier": "media",
+        "excerpt": "Detailed coverage of tone improvements and GPT-5.2 retirement timeline (June 3, 2026). Notes that improvements to Thinking and Pro modes are coming in subsequent weeks.",
+        "publishedAt": "2026-03-03"
+      },
+      {
+        "title": "OpenAI: GPT-5.3 Chat – Effective Pricing",
+        "url": "https://openrouter.ai/openai/gpt-5.3-chat/pricing",
+        "publisher": "OpenRouter",
+        "tier": "media",
+        "excerpt": "Confirmed pricing: $1.75/1M input, $14/1M output, $100/K web searches. Max completion tokens: 16,384. Supports structured outputs, tool choice, seed parameter.",
+        "publishedAt": "2026-03-04"
+      },
+      {
+        "title": "GPT-5.3 Instant cuts hallucinations by 26.8% as OpenAI shifts focus from speed to accuracy",
+        "url": "https://venturebeat.com/orchestration/gpt-5-3-instant-cuts-hallucinations-by-26-8-as-openai-shifts-focus-from",
+        "publisher": "VentureBeat",
+        "tier": "media",
+        "excerpt": "Analysis emphasizing all improvements are post-training only (no architectural changes). Notes OpenAI did not disclose absolute error rate baselines, limiting independent external verification.",
+        "publishedAt": "2026-03-04"
+      }
+    ]
+  }
+}

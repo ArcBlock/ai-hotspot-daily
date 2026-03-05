@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "date": "2026-03-05",
+    "slug": "mideast-crisis-iran-israel-war",
+    "generatedAt": "2026-03-05T14:30:00+08:00",
+    "language": "zh"
+  },
+  "hero": {
+    "title": "美以伊冲突第6天伊朗死亡超千人",
+    "category": "国际",
+    "color": "#0891b2",
+    "chart": {
+      "type": "bar",
+      "data": [
+        { "label": "伊朗军方", "value": 1300, "color": "#dc2626" },
+        { "label": "伊朗平民", "value": 201, "color": "#f97316" },
+        { "label": "以军", "value": 680, "color": "#2563eb" },
+        { "label": "美军", "value": 6, "color": "#6366f1" },
+        { "label": "海湾国家", "value": 10, "color": "#8b5cf6" }
+      ],
+      "highlight": "伊朗军方"
+    },
+    "keyNumbers": [
+      { "value": "1045+", "label": "伊朗死亡" },
+      { "value": "680+", "label": "以军伤亡" },
+      { "value": "6天", "label": "冲突持续" }
+    ],
+    "takeaway": "美以联合空袭伊朗致千人死亡,伊朗导弹突破萨德反击",
+    "sources": [
+      { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker" },
+      { "name": "CNN", "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26" },
+      { "name": "新华网", "url": "https://www.news.cn/world/20260302/cbf458c06205442ab361881aedda3b03/c.html" },
+      { "name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Iran_conflict" }
+    ]
+  },
+  "cards": [
+    {
+      "title": "全国两会今日开幕",
+      "category": "社会",
+      "color": "#dc2626",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": { "value": "4.5-5%", "label": "GDP目标预期" }
+      },
+      "insight": "十五五开局年,赤字率或维持4%左右",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "npc-2026-economic-targets"
+    },
+    {
+      "title": "AI真人微短剧成本降90%",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "传统真人剧", "value": "5万/集" },
+          "right": { "label": "AI短剧", "value": "千元/集" }
+        }
+      },
+      "insight": "春节档AI漫剧播放量占短剧大盘29.4%",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "ai-short-drama-cost-revolution"
+    },
+    {
+      "title": "4款椰子水均检出掺假",
+      "category": "生活",
+      "color": "#ec4899",
+      "miniChart": {
+        "type": "miniBar",
+        "data": {
+          "items": [
+            { "label": "盒马", "value": 1, "color": "#dc2626" },
+            { "label": "轻上", "value": 1, "color": "#dc2626" },
+            { "label": "佳果源", "value": 1, "color": "#dc2626" }
+          ]
+        }
+      },
+      "insight": "同位素检测显示外源水和外源糖",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "coconut-water-fraud-test"
+    },
+    {
+      "title": "建议个税起征点升至万元",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "miniBar",
+        "data": {
+          "items": [
+            { "label": "2011年", "value": 3500 },
+            { "label": "2018年", "value": 5000 },
+            { "label": "建议值", "value": 10000, "color": "#d97706" }
+          ]
+        }
+      },
+      "insight": "董明珠建议1万元,张学武建议8000元",
+      "needsDetail": false
+    },
+    {
+      "title": "委员建议废除劳务派遣",
+      "category": "社会",
+      "color": "#dc2626",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "派遣工薪资", "value": "30-50%" },
+          "right": { "label": "正式工薪资", "value": "100%" }
+        }
+      },
+      "insight": "仅29.3%派遣工有工伤保险",
+      "needsDetail": false
+    },
+    {
+      "title": "今日惊蛰春雷始鸣",
+      "category": "文化",
+      "color": "#4f46e5",
+      "miniChart": {
+        "type": "progress",
+        "data": { "value": 12, "label": "节气进度3/24" }
+      },
+      "insight": "二十四节气第三个,太阳到达黄经345度",
+      "needsDetail": false
+    }
+  ]
+}

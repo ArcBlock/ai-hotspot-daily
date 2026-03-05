@@ -1,0 +1,149 @@
+{
+  "source": "hackernews",
+  "fetchedAt": "2026-03-05T00:37:52.282Z",
+  "items": [
+    {
+      "id": "hn-47251259",
+      "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+      "url": "https://qlabs.sh/slowrun",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 111,
+      "comments": 22,
+      "publishedAt": "2026-03-04T17:56:04.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47251259"
+      }
+    },
+    {
+      "id": "hn-47246044",
+      "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
+      "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 136,
+      "comments": 80,
+      "publishedAt": "2026-03-04T11:33:46.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47246044"
+      }
+    },
+    {
+      "id": "hn-47230710",
+      "title": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 758,
+      "comments": 324,
+      "publishedAt": "2026-03-03T10:57:42.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47230710"
+      }
+    },
+    {
+      "id": "hn-47252838",
+      "title": "Father claims Google's AI product fuelled son's delusional spiral",
+      "url": "https://www.bbc.com/news/articles/czx44p99457o",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 163,
+      "comments": 200,
+      "publishedAt": "2026-03-04T19:48:07.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47252838"
+      }
+    },
+    {
+      "id": "hn-47232903",
+      "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+      "url": "https://news.ycombinator.com/item?id=47232903",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 89,
+      "comments": 25,
+      "publishedAt": "2026-03-03T14:30:58.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47232903"
+      }
+    },
+    {
+      "id": "hn-47236169",
+      "title": "GPT‑5.3 Instant",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 388,
+      "comments": 296,
+      "publishedAt": "2026-03-03T17:57:33.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47236169"
+      }
+    },
+    {
+      "id": "hn-47225130",
+      "title": "Meta’s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 1406,
+      "comments": 798,
+      "publishedAt": "2026-03-02T22:32:35.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47225130"
+      }
+    },
+    {
+      "id": "hn-47246746",
+      "title": "Did Alibaba just kneecap its powerful Qwen AI team?",
+      "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 130,
+      "comments": 38,
+      "publishedAt": "2026-03-04T12:54:04.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47246746"
+      }
+    },
+    {
+      "id": "hn-47245211",
+      "title": "Bet on German Train Delays",
+      "url": "https://bahn.bet",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 277,
+      "comments": 186,
+      "publishedAt": "2026-03-04T09:42:20.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47245211"
+      }
+    },
+    {
+      "id": "hn-47203219",
+      "title": "TorchLean: Formalizing Neural Networks in Lean",
+      "url": "https://leandojo.org/torchlean.html",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 99,
+      "comments": 20,
+      "publishedAt": "2026-03-01T03:03:46.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47203219"
+      }
+    },
+    {
+      "id": "hn-47249448",
+      "title": "1.5 Million Users Leave ChatGPT",
+      "url": "https://www.forbes.com/sites/barrycollins/2026/03/02/leaving-chatgpt-make-sure-to-do-this-before-you-cancel/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 70,
+      "comments": 26,
+      "publishedAt": "2026-03-04T16:02:09.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47249448"
+      }
+    }
+  ]
+}

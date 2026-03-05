@@ -1,0 +1,325 @@
+{
+  "hero": {
+    "id": "baidu-6",
+    "title": "中东局势失控：伊朗突破萨德袭击以色列，美以空袭致千人丧生",
+    "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%AA%81%E7%A0%B4%E2%80%9C%E8%90%A8%E5%BE%B7%E2%80%9D%E8%A2%AD%E5%87%BB%E4%BB%A5%E5%9B%BD%E9%98%B2%E9%83%A8%E5%A4%A7%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news",
+    "source": "baidu",
+    "category": "国际",
+    "hotScore": 7331072,
+    "crossPlatformCount": 5,
+    "relatedSources": ["weibo", "baidu", "douyin", "agent-reach-youtube", "google-trends"],
+    "mergedTitles": [
+      "伊朗突破"萨德"袭击以国防部大楼",
+      "伊朗媒体：美以袭击致伊朗1045人丧生",
+      "中东局势彻底失控",
+      "伊朗沉没军舰已找到80具遗体",
+      "伊朗表示无意与美谈判",
+      "伊朗确定最高领袖候选人",
+      "沙特阿美避开霍尔木兹海峡运原油",
+      "美国多地爆发反战抗议活动"
+    ],
+    "scores": {
+      "popularity": 5,
+      "vizPotential": 5,
+      "freshness": 5,
+      "polarity": 5,
+      "diversity": 5,
+      "total": 5.00
+    },
+    "suggestedChartType": "timeline",
+    "rankReason": "中东局势全面升级，伊朗突破萨德系统、美以空袭致1045人死亡、军舰沉没等多条消息横跨5个平台，伤亡数字和事件时间线天然适合可视化"
+  },
+  "cards": [
+    {
+      "id": "douyin-0",
+      "title": "十四届全国人大四次会议今日开幕",
+      "url": "https://www.douyin.com/search/%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95%E4%BC%9A",
+      "source": "douyin",
+      "category": "社会",
+      "hotScore": 11312838,
+      "crossPlatformCount": 4,
+      "relatedSources": ["weibo", "baidu", "douyin", "agent-reach-bilibili"],
+      "mergedTitles": [
+        "十四届全国人大四次会议开幕会",
+        "全国政协十四届四次会议开幕",
+        "全国两会首场代表通道",
+        "3月5日两会日程"
+      ],
+      "scores": {
+        "popularity": 5,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 2,
+        "diversity": 5,
+        "total": 4.30
+      },
+      "suggestedMiniChartType": "bigNumber",
+      "rankReason": "全国两会开幕覆盖4大平台，全网最高热度话题，政府工作报告中GDP目标等关键数字适合大数字展示"
+    },
+    {
+      "id": "baidu-4",
+      "title": "AI真人微短剧爆火：制作成本降90%，演员会被替代吗",
+      "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "科技",
+      "hotScore": 7524395,
+      "crossPlatformCount": 3,
+      "relatedSources": ["baidu", "weibo", "weibo"],
+      "mergedTitles": [
+        "AI真人微短剧爆火 演员会被替代吗",
+        "人大代表反问微短剧爽完之后呢",
+        "叶璇说拍短剧老爽了"
+      ],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 5,
+        "freshness": 4,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 4.05
+      },
+      "suggestedMiniChartType": "versus",
+      "rankReason": "AI短剧制作周期缩短80%、成本降90%，数据对比鲜明，且引发'替代vs不可替代'的明确两方争论"
+    },
+    {
+      "id": "baidu-13",
+      "title": "315还没到，4款"100%椰子水"均检出掺假",
+      "url": "https://www.baidu.com/s?wd=315%E8%BF%98%E6%B2%A1%E5%88%B0+%E6%A4%B0%E5%AD%90%E6%B0%B4%E2%80%9C%E5%A1%8C%E6%88%BF%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "生活",
+      "hotScore": 6660889,
+      "crossPlatformCount": 2,
+      "relatedSources": ["baidu", "agent-reach-bilibili"],
+      "mergedTitles": [
+        "315还没到 椰子水"塌房"了"
+      ],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 5,
+        "freshness": 4,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 4.05
+      },
+      "suggestedMiniChartType": "miniBar",
+      "rankReason": "4款椰子水产品的同位素检测结果可直接柱状图对比，消费者维权话题情绪极性高"
+    },
+    {
+      "id": "douyin-9",
+      "title": "两会建议：提高个税起征点至8000元或1万元",
+      "url": "https://www.douyin.com/search/%E5%BB%BA%E8%AE%AE%E6%8F%90%E9%AB%98%E4%B8%AA%E7%A8%8E%E8%B5%B7%E5%BE%81%E7%82%B9%E8%87%B38000%E6%88%961%E4%B8%87",
+      "source": "douyin",
+      "category": "财经",
+      "hotScore": 7967894,
+      "crossPlatformCount": 1,
+      "relatedSources": ["douyin"],
+      "mergedTitles": [
+        "建议提高个税起征点至8000或1万"
+      ],
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 3.95
+      },
+      "suggestedMiniChartType": "miniBar",
+      "rankReason": "个税起征点从3500→5000→8000/10000的数字演变天然适合柱状图，涉及每个人钱包的话题争议度高"
+    },
+    {
+      "id": "douyin-7",
+      "title": "两会建议废除劳务派遣制度",
+      "url": "https://www.douyin.com/search/%E5%BB%BA%E8%AE%AE%E5%BA%9F%E9%99%A4%E5%8A%B3%E5%8A%A1%E6%B4%BE%E9%81%A3%E5%88%B6%E5%BA%A6",
+      "source": "douyin",
+      "category": "社会",
+      "hotScore": 8772838,
+      "crossPlatformCount": 2,
+      "relatedSources": ["baidu", "douyin"],
+      "mergedTitles": [
+        "建议废除劳务派遣制度"
+      ],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 5,
+        "diversity": 3,
+        "total": 3.70
+      },
+      "suggestedMiniChartType": "bigNumber",
+      "rankReason": "劳务派遣制度涉及数千万派遣工权益，两会期间争议性极强，赞反两方立场鲜明"
+    },
+    {
+      "id": "baidu-8",
+      "title": "今日惊蛰：山桃初绽，春雷渐起",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E2%80%9C%E6%83%8A%E8%9B%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "文化",
+      "hotScore": 7138561,
+      "crossPlatformCount": 3,
+      "relatedSources": ["weibo", "baidu", "douyin"],
+      "mergedTitles": [
+        "今日"惊蛰"",
+        "今天惊蛰"
+      ],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 1,
+        "diversity": 5,
+        "total": 3.55
+      },
+      "suggestedMiniChartType": "progress",
+      "rankReason": "惊蛰节气覆盖3个平台，山桃初绽地图和全国气温数据适合进度条式展示24节气进程"
+    }
+  ],
+  "allRanked": [
+    {
+      "rank": 1,
+      "id": "baidu-6",
+      "title": "中东局势失控：伊朗突破萨德袭击以色列，美以空袭致千人丧生",
+      "category": "国际",
+      "scores": { "popularity": 5, "vizPotential": 5, "freshness": 5, "polarity": 5, "diversity": 5, "total": 5.00 },
+      "selected": "hero"
+    },
+    {
+      "rank": 2,
+      "id": "douyin-0",
+      "title": "十四届全国人大四次会议今日开幕",
+      "category": "社会",
+      "scores": { "popularity": 5, "vizPotential": 4, "freshness": 5, "polarity": 2, "diversity": 5, "total": 4.30 },
+      "selected": "card"
+    },
+    {
+      "rank": 3,
+      "id": "baidu-4",
+      "title": "AI真人微短剧爆火：制作成本降90%，演员会被替代吗",
+      "category": "科技",
+      "scores": { "popularity": 3, "vizPotential": 5, "freshness": 4, "polarity": 4, "diversity": 5, "total": 4.05 },
+      "selected": "card"
+    },
+    {
+      "rank": 4,
+      "id": "baidu-13",
+      "title": "315还没到，4款"100%椰子水"均检出掺假",
+      "category": "生活",
+      "scores": { "popularity": 3, "vizPotential": 5, "freshness": 4, "polarity": 4, "diversity": 5, "total": 4.05 },
+      "selected": "card"
+    },
+    {
+      "rank": 5,
+      "id": "douyin-9",
+      "title": "两会建议：提高个税起征点至8000元或1万元",
+      "category": "财经",
+      "scores": { "popularity": 2, "vizPotential": 5, "freshness": 5, "polarity": 4, "diversity": 5, "total": 3.95 },
+      "selected": "card"
+    },
+    {
+      "rank": 6,
+      "id": "douyin-7",
+      "title": "两会建议废除劳务派遣制度",
+      "category": "社会",
+      "scores": { "popularity": 3, "vizPotential": 3, "freshness": 5, "polarity": 5, "diversity": 3, "total": 3.70 },
+      "selected": "card"
+    },
+    {
+      "rank": 7,
+      "id": "baidu-8",
+      "title": "今日惊蛰：山桃初绽，春雷渐起",
+      "category": "文化",
+      "scores": { "popularity": 3, "vizPotential": 4, "freshness": 5, "polarity": 1, "diversity": 5, "total": 3.55 },
+      "selected": "card"
+    },
+    {
+      "rank": 8,
+      "id": "douyin-14",
+      "title": "纽卡2:1曼联",
+      "category": "体育",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 5, "polarity": 3, "diversity": 5, "total": 3.55 },
+      "selected": null
+    },
+    {
+      "rank": 9,
+      "id": "weibo-1",
+      "title": "普京说考虑主动给欧洲断气",
+      "category": "国际",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 5, "polarity": 4, "diversity": 2, "total": 3.40 },
+      "selected": null
+    },
+    {
+      "rank": 10,
+      "id": "baidu-17",
+      "title": "1克拉钻石价格已经1000多了",
+      "category": "财经",
+      "scores": { "popularity": 2, "vizPotential": 5, "freshness": 3, "polarity": 3, "diversity": 4, "total": 3.30 },
+      "selected": null
+    },
+    {
+      "rank": 11,
+      "id": "douyin-13",
+      "title": "苹果春季发布会",
+      "category": "科技",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 4, "polarity": 3, "diversity": 3, "total": 3.15 },
+      "selected": null
+    },
+    {
+      "rank": 12,
+      "id": "douyin-2",
+      "title": "中国量子计算稳居国际第一方阵",
+      "category": "科技",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 5, "polarity": 2, "diversity": 2, "total": 3.10 },
+      "selected": null
+    },
+    {
+      "rank": 13,
+      "id": "douyin-3",
+      "title": "建议合理增加下半年节假日",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 5, "polarity": 3, "diversity": 2, "total": 3.00 },
+      "selected": null
+    },
+    {
+      "rank": 14,
+      "id": "weibo-7",
+      "title": "20岁小伙长期戴骨传导耳机致聋",
+      "category": "生活",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 4, "polarity": 3, "diversity": 4, "total": 3.00 },
+      "selected": null
+    },
+    {
+      "rank": 15,
+      "id": "weibo-9",
+      "title": "中国芯片让区块链性能提升50倍",
+      "category": "科技",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 5, "polarity": 2, "diversity": 1, "total": 3.00 },
+      "selected": null
+    },
+    {
+      "rank": 16,
+      "id": "weibo-29",
+      "title": "社保迎来第六险",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 4, "polarity": 3, "diversity": 1, "total": 2.95 },
+      "selected": null
+    },
+    {
+      "rank": 17,
+      "id": "weibo-4",
+      "title": "物业费越来越难收",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 3, "polarity": 4, "diversity": 1, "total": 2.65 },
+      "selected": null
+    },
+    {
+      "rank": 18,
+      "id": "douyin-4",
+      "title": "中央政治局原常委宋平逝世",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 5, "polarity": 1, "diversity": 1, "total": 2.35 },
+      "selected": null
+    }
+  ],
+  "rankedAt": "2026-03-05T12:00:00+08:00"
+}

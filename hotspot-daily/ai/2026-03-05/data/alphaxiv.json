@@ -1,0 +1,201 @@
+{
+  "source": "alphaxiv",
+  "fetchedAt": "2026-03-05T00:39:20.893Z",
+  "items": [
+    {
+      "id": "alphaxiv-2603.01097",
+      "title": "Understanding LoRA as Knowledge Memory: An Empirical Analysis",
+      "url": "https://www.alphaxiv.org/abs/2603.01097",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.892Z",
+      "extra": {
+        "arxivId": "2603.01097",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03276",
+      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+      "url": "https://www.alphaxiv.org/abs/2603.03276",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.03276",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.24286",
+      "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+      "url": "https://www.alphaxiv.org/abs/2602.24286",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2602.24286",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03251",
+      "title": "Speculative Speculative Decoding",
+      "url": "https://www.alphaxiv.org/abs/2603.03251",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.03251",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03283",
+      "title": "Utonia: Toward One Encoder for All Point Clouds",
+      "url": "https://www.alphaxiv.org/abs/2603.03283",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.03283",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.01562",
+      "title": "RubricBench: Aligning Model-Generated Rubrics with Human Standards",
+      "url": "https://www.alphaxiv.org/abs/2603.01562",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.01562",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03195",
+      "title": "Chain of World: World Model Thinking in Latent Motion",
+      "url": "https://www.alphaxiv.org/abs/2603.03195",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.03195",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.02298",
+      "title": "CuTe Layout Representation and Algebra",
+      "url": "https://www.alphaxiv.org/abs/2603.02298",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.02298",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.02049",
+      "title": "WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories",
+      "url": "https://www.alphaxiv.org/abs/2603.02049",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.02049",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.23361",
+      "title": "VGG-T3^33: Offline Feed-Forward 3D Reconstruction at Scale",
+      "url": "https://www.alphaxiv.org/abs/2602.23361",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2602.23361",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.01896",
+      "title": "Agentic Code Reasoning",
+      "url": "https://www.alphaxiv.org/abs/2603.01896",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.01896",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.01229",
+      "title": "RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design",
+      "url": "https://www.alphaxiv.org/abs/2603.01229",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.01229",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.01223",
+      "title": "Learn Hard Problems During RL with Reference Guided Fine-tuning",
+      "url": "https://www.alphaxiv.org/abs/2603.01223",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.01223",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.02138",
+      "title": "OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens",
+      "url": "https://www.alphaxiv.org/abs/2603.02138",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2603.02138",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.24287",
+      "title": "Do LLMs Benefit From Their Own Words?",
+      "url": "https://www.alphaxiv.org/abs/2602.24287",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-05T00:39:20.893Z",
+      "extra": {
+        "arxivId": "2602.24287",
+        "fromScrape": true
+      }
+    }
+  ]
+}

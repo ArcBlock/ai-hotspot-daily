@@ -1,0 +1,55 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-03-05T01:03:12.033Z",
+  "checks": {
+    "sourceCount": {
+      "pass": true,
+      "value": 5,
+      "required": 3
+    },
+    "actionCount": {
+      "pass": true,
+      "value": 9,
+      "required": 3,
+      "message": "immediate(3) + thisWeek(3) + watchAndWait(3)"
+    },
+    "riskCount": {
+      "pass": true,
+      "value": 4,
+      "required": 2
+    },
+    "conclusionTitle": {
+      "pass": true,
+      "message": "zh(20字): \"GPT-5.3 幻觉率降27%，零成本切换...\" | en(6词): \"GPT-5.3: 27% Fewer Hallucinations, Zero-Cost Switc...\""
+    },
+    "subtitlePresent": {
+      "pass": true,
+      "value": {
+        "zh": true,
+        "en": true
+      }
+    },
+    "confidence": {
+      "pass": true,
+      "value": 81,
+      "required": 60
+    },
+    "zhComplete": {
+      "pass": true
+    },
+    "enComplete": {
+      "pass": true
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "gpt-5-3-instant"
+    }
+  },
+  "bonuses": {
+    "hasOptions": true,
+    "hasTldr": true,
+    "hasAffectedGroups": true,
+    "sourceDiversity": true
+  },
+  "failReasons": []
+}

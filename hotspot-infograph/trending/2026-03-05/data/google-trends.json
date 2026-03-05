@@ -1,0 +1,359 @@
+{
+  "source": "google-trends",
+  "fetchedAt": "2026-03-05T01:06:52.248Z",
+  "items": [
+    {
+      "id": "gtrends-0",
+      "title": "jason dickinson",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-05T00:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Oilers looking at trading for Chicago centre, top NHL insider reports",
+          "Report: Oilers working on trade for Blackhawks' Dickinson",
+          "Oilers, Blackhawks Discussing Jason Dickinson Trade"
+        ],
+        "newsItems": [
+          {
+            "title": "Oilers looking at trading for Chicago centre, top NHL insider reports",
+            "url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/oilers-jason-dickinson-trade-chicago-blackhawks-edmonton-oilers",
+            "source": "Edmonton Journal"
+          },
+          {
+            "title": "Report: Oilers working on trade for Blackhawks' Dickinson",
+            "url": "https://thescore.com/nhl/news/3481692",
+            "source": "theScore.com"
+          },
+          {
+            "title": "Oilers, Blackhawks Discussing Jason Dickinson Trade",
+            "url": "https://www.prohockeyrumors.com/2026/03/oilers-blackhawks-discussing-jason-dickinson-trade.html",
+            "source": "NHL Rumors - ProHockeyRumors.com"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-1",
+      "title": "school spirits season 4",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-05T00:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Will ‘School Spirits’ Return for Season 4?",
+          "'School Spirits' Bosses Unravel Shocking Season 3 Finale Twists",
+          "Here's Everything We Know About ‘School Spirits‘ Season 4, Since You're Nosy"
+        ],
+        "newsItems": [
+          {
+            "title": "Will ‘School Spirits’ Return for Season 4?",
+            "url": "https://www.yahoo.com/entertainment/tv/articles/school-spirits-return-season-4-225754599.html",
+            "source": "Yahoo"
+          },
+          {
+            "title": "'School Spirits' Bosses Unravel Shocking Season 3 Finale Twists",
+            "url": "https://www.tvinsider.com/1249256/school-spirits-season-3-finale-ending-plans-season-4/",
+            "source": "TV Insider"
+          },
+          {
+            "title": "Here's Everything We Know About ‘School Spirits‘ Season 4, Since You're Nosy",
+            "url": "https://www.cosmopolitan.com/entertainment/tv/a70593424/school-spirits-season-4-cast-news-details/",
+            "source": "Cosmopolitan"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-2",
+      "title": "kevin kisner",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-05T00:50:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "TGL Match 15 recap: Tom Kim’s ace fuels Jupiter’s comeback to earn playoff bid",
+          "TGL highlights: Jupiter Links beats The Bay 9-6 to make postseason",
+          "Watch Tiger Woods' wild celebration after Tom Kim's ace in TGL match comeback"
+        ],
+        "newsItems": [
+          {
+            "title": "TGL Match 15 recap: Tom Kim’s ace fuels Jupiter’s comeback to earn playoff bid",
+            "url": "https://www.pgatour.com/article/news/tgl/2026/03/04/tgl-match-15-recap-tom-kim-ace-fuels-jupiter-links-comeback-to-earn-playoff-bid",
+            "source": "PGA Tour"
+          },
+          {
+            "title": "TGL highlights: Jupiter Links beats The Bay 9-6 to make postseason",
+            "url": "https://www.espn.com/tgl/story/_/id/48095520/tgl-highlights-jupiter-links-golf-club-vs-bay-golf-club",
+            "source": "ESPN"
+          },
+          {
+            "title": "Watch Tiger Woods' wild celebration after Tom Kim's ace in TGL match comeback",
+            "url": "https://www.usatoday.com/story/sports/golf/2026/03/04/tiger-woods-goes-crazy-tom-kim-hole-in-one-tgl-comeback/88978175007/",
+            "source": "USA Today"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-3",
+      "title": "love is blind reunion",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-05T00:50:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Love Is Blind Season 10 Reunion Watch Party, How to Attend, RSVP",
+          "When will 'Love Is Blind' finale drop? How to watch season 10",
+          "'Love is Blind' Season 10's married couples, revealed"
+        ],
+        "newsItems": [
+          {
+            "title": "Love Is Blind Season 10 Reunion Watch Party, How to Attend, RSVP",
+            "url": "https://www.netflix.com/tudum/events/love-is-blind-season-10-exclusive-reunion-watch-party",
+            "source": "Netflix"
+          },
+          {
+            "title": "When will 'Love Is Blind' finale drop? How to watch season 10",
+            "url": "https://www.dispatch.com/story/entertainment/television/2026/03/03/love-is-blind-drop-finale-march-4-netflix-season-10-ohio/88957705007/",
+            "source": "The Columbus Dispatch"
+          },
+          {
+            "title": "'Love is Blind' Season 10's married couples, revealed",
+            "url": "https://www.usatoday.com/story/entertainment/tv/2026/03/04/love-is-blind-season-10-who-got-married/88972348007/",
+            "source": "USA Today"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-4",
+      "title": "copa sudamericana",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-05T00:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Cuándo juegan Universidad de Chile vs. Palestino por la CONMEBOL Sudamericana: equipo, fecha y hora",
+          "Fabián Hormazábal: «Zaldivia es fundamental en la defensa, pero hay compañeros preparados para reemplazarlo",
+          "“Tiene mucho peso durante el año”: Claudio Borghi le pone tarea a la U tras vencer en el Superclásico"
+        ],
+        "newsItems": [
+          {
+            "title": "Cuándo juegan Universidad de Chile vs. Palestino por la CONMEBOL Sudamericana: equipo, fecha y hora",
+            "url": "https://espndeportes.espn.com/futbol/copa-sudamericana/nota/_/id/16383911/universidad-de-chile-vs-palestino-fase-preliminar-conmebol-sudamericana-equipo-fecha-y-hora",
+            "source": "ESPN Deportes"
+          },
+          {
+            "title": "Fabián Hormazábal: «Zaldivia es fundamental en la defensa, pero hay compañeros preparados para reemplazarlo",
+            "url": "https://onefootball.com/en/news/fabian-hormazabal-zaldivia-es-fundamental-en-la-defensa-pero-hay-companeros-preparados-para-reemplazarlo-42498969",
+            "source": "OneFootball"
+          },
+          {
+            "title": "“Tiene mucho peso durante el año”: Claudio Borghi le pone tarea a la U tras vencer en el Superclásico",
+            "url": "https://www.encancha.cl/futbol-chileno/u-de-chile/2026/03/04/tiene-mucho-peso-durante-el-ano-claudio-borghi-le-pone-tarea-a-la-u-tras-vencer-en-el-superclasico/",
+            "source": "En Cancha"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-5",
+      "title": "big ten women's basketball tournament",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-05T00:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "2026 Allstate Big Ten Women's Basketball Tournament Bracket Announced",
+          "Indiana Hoosiers 72 - Nebraska Cornhuskers 69: Final score, results, recap, box score, stats",
+          "Ciezki scores 22, Indiana women rally from 20-point deficit, beat Nebraska at Big Ten tourney"
+        ],
+        "newsItems": [
+          {
+            "title": "2026 Allstate Big Ten Women's Basketball Tournament Bracket Announced",
+            "url": "https://bigten.org/wbb/article/59494/",
+            "source": "Big Ten Conference"
+          },
+          {
+            "title": "Indiana Hoosiers 72 - Nebraska Cornhuskers 69: Final score, results, recap, box score, stats",
+            "url": "https://sports.yahoo.com/ncaaw/indiana-hoosiers-nebraska-cornhuskers-202603040400/",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "Ciezki scores 22, Indiana women rally from 20-point deficit, beat Nebraska at Big Ten tourney",
+            "url": "https://www.10tv.com/article/syndication/associatedpress/ciezki-scores-22-indiana-women-rally-from-20-point-deficit-beat-nebraska-at-big-ten-tourney/616-bf039efc-27ae-41ee-8810-1f50aea18be3",
+            "source": "10tv.com"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-6",
+      "title": "tyler callihan",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-05T00:40:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Pirates trade for Reds' No. 19 prospect Tyler Callihan",
+          "Reds Add Pitching Depth, Acquire Kyle Nicolas in Trade With Division Rival",
+          "Pirates' Tyler Callihan: Sent to Pittsburgh"
+        ],
+        "newsItems": [
+          {
+            "title": "Pirates trade for Reds' No. 19 prospect Tyler Callihan",
+            "url": "https://www.mlb.com/news/tyler-callihan-traded-from-reds-to-pirates",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Reds Add Pitching Depth, Acquire Kyle Nicolas in Trade With Division Rival",
+            "url": "https://www.si.com/mlb/reds/onsi/transactions/reds-add-pitching-depth-acquire-kyle-nicolas-in-trade-with-division-rival-01kjxpkrw0py",
+            "source": "Sports Illustrated"
+          },
+          {
+            "title": "Pirates' Tyler Callihan: Sent to Pittsburgh",
+            "url": "https://www.cbssports.com/fantasy/baseball/news/pirates-tyler-callihan-sent-to-pittsburgh/",
+            "source": "CBS Sports"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-7",
+      "title": "rj decker cast",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 5000,
+      "publishedAt": "2026-03-05T00:40:00.000Z",
+      "extra": {
+        "traffic": "5000+",
+        "relatedQueries": [
+          "Scott Speedman Explains How He’s Balancing Leading R.J. Decker with His Role on Grey’s Anatomy (Exclusive)",
+          "‘RJ Decker’s Scott Speedman on Emi’s Betrayal: ‘He Can’t Help That He Likes Her’",
+          "‘RJ Decker’ Review: Scott Speedman in ABC’s Breezy but Unconvincing Crime Procedural"
+        ],
+        "newsItems": [
+          {
+            "title": "Scott Speedman Explains How He’s Balancing Leading R.J. Decker with His Role on Grey’s Anatomy (Exclusive)",
+            "url": "https://people.com/scott-speedman-explains-balancing-rj-decker-with-greys-anatomy-exclusive-11917520",
+            "source": "People.com"
+          },
+          {
+            "title": "‘RJ Decker’s Scott Speedman on Emi’s Betrayal: ‘He Can’t Help That He Likes Her’",
+            "url": "https://www.tvinsider.com/1249201/rj-decker-premiere-recap-emi-sent-rj-prison-scott-speedman-interview/",
+            "source": "TV Insider"
+          },
+          {
+            "title": "‘RJ Decker’ Review: Scott Speedman in ABC’s Breezy but Unconvincing Crime Procedural",
+            "url": "https://www.hollywoodreporter.com/tv/tv-reviews/rj-decker-review-scott-speedman-abc-carl-hiaasen-1236519592/",
+            "source": "The Hollywood Reporter"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-8",
+      "title": "robinhood platinum card",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-05T00:40:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Robinhood Aims High With New Products, Including a Premium Credit Card",
+          "Robinhood launches the Robinhood Platinum Card with premium benefits and a $695 fee",
+          "Robinhood targets wealthy customers with new Platinum credit card"
+        ],
+        "newsItems": [
+          {
+            "title": "Robinhood Aims High With New Products, Including a Premium Credit Card",
+            "url": "https://www.barrons.com/advisor/articles/robinhood-aims-high-with-new-products-including-a-premium-credit-card-737abde7?gaa_at=eafs&gaa_n=AWEtsqeL-o_dRjkFn6akpWQ2ck2x-LcBpOMPTj6ZxWUbtHFp5zrP96GNnF_J&gaa_ts=69a8d9d2&gaa_sig=GxV59ZfB0BJ7KKXTHx7tAkjsrVJ1mPruPRUkwznFpWcnC3PW41NXLlhiygYPZqNFdw-j5MdqwpwwZRTh0WVfjA%3D%3D",
+            "source": "Barron's"
+          },
+          {
+            "title": "Robinhood launches the Robinhood Platinum Card with premium benefits and a $695 fee",
+            "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/robinhood-platinum-card-launch-004511514.html",
+            "source": "Yahoo Finance"
+          },
+          {
+            "title": "Robinhood targets wealthy customers with new Platinum credit card",
+            "url": "https://www.reuters.com/business/finance/robinhood-targets-wealthy-customers-with-new-platinum-credit-card-2026-03-05/",
+            "source": "Reuters"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-9",
+      "title": "mohamed diawara",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-05T00:40:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Knicks' Mohamed Diawara: Fires away from deep in win",
+          "The Knicks have found a hidden gem in 2nd round rookie Mohamed Diawara",
+          "Knicks’ Mohamed Diawara answers call with strong game off bench"
+        ],
+        "newsItems": [
+          {
+            "title": "Knicks' Mohamed Diawara: Fires away from deep in win",
+            "url": "https://www.cbssports.com/fantasy/basketball/news/knicks-mohamed-diawara-fires-away-from-deep-in-win/",
+            "source": "CBS Sports"
+          },
+          {
+            "title": "The Knicks have found a hidden gem in 2nd round rookie Mohamed Diawara",
+            "url": "https://empiresportsmedia.com/new-york-knicks/the-knicks-have-found-a-hidden-gem-in-2nd-round-rookie-mohamed-diawara/",
+            "source": "Empire Sports Media"
+          },
+          {
+            "title": "Knicks’ Mohamed Diawara answers call with strong game off bench",
+            "url": "https://nypost.com/2026/02/28/sports/knicks-mohamed-diawara-answers-call-with-strong-game-off-bench/",
+            "source": "New York Post"
+          }
+        ],
+        "geo": "CN"
+      }
+    }
+  ],
+  "errors": [
+    "Google Trends RSS returned 400 for geo=CN"
+  ]
+}

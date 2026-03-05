@@ -1,0 +1,227 @@
+{
+  "source": "github",
+  "fetchedAt": "2026-03-05T00:38:20.622Z",
+  "items": [
+    {
+      "id": "gh-KeygraphHQ-shannon",
+      "title": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "source": "github",
+      "category": "project",
+      "score": 30316,
+      "summary": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 3069,
+        "starsToday": 1854,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-msitarzewski-agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "github",
+      "category": "project",
+      "score": 5438,
+      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "",
+        "forks": 913,
+        "starsToday": 2209,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-aquasecurity-trivy",
+      "title": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "source": "github",
+      "category": "project",
+      "score": 852,
+      "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "Go",
+        "forks": 53,
+        "starsToday": 380,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-K-Dense-AI-claude-scientific-skills",
+      "title": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "source": "github",
+      "category": "project",
+      "score": 12711,
+      "summary": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "Python",
+        "forks": 1373,
+        "starsToday": 940,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-CodebuffAI-codebuff",
+      "title": "CodebuffAI/codebuff",
+      "url": "https://github.com/CodebuffAI/codebuff",
+      "source": "github",
+      "category": "project",
+      "score": 3566,
+      "summary": "Generate code from the terminal!",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 438,
+        "starsToday": 337,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-agentscope-ai-ReMe",
+      "title": "agentscope-ai/ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "source": "github",
+      "category": "project",
+      "score": 1618,
+      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "Python",
+        "forks": 134,
+        "starsToday": 345,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-alibaba-OpenSandbox",
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "source": "github",
+      "category": "project",
+      "score": 5970,
+      "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "Python",
+        "forks": 429,
+        "starsToday": 788,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-FujiwaraChoki-MoneyPrinterV2",
+      "title": "FujiwaraChoki/MoneyPrinterV2",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "source": "github",
+      "category": "project",
+      "score": 14188,
+      "summary": "Automate the process of making money online.",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "Python",
+        "forks": 1433,
+        "starsToday": 143,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-ItzCrazyKns-Perplexica",
+      "title": "ItzCrazyKns/Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "source": "github",
+      "category": "project",
+      "score": 30846,
+      "summary": "Perplexica is an AI-powered answering engine.",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 3260,
+        "starsToday": 1090,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-agentscope-ai-agentscope",
+      "title": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "source": "github",
+      "category": "project",
+      "score": 17376,
+      "summary": "Build and run agents you can see, understand and trust.",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "Python",
+        "forks": 1549,
+        "starsToday": 427,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-moeru-ai-airi",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "source": "github",
+      "category": "project",
+      "score": 24678,
+      "summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 2305,
+        "starsToday": 1454,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-nautechsystems-nautilus_trader",
+      "title": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "source": "github",
+      "category": "project",
+      "score": 20726,
+      "summary": "A high-performance algorithmic trading platform and event-driven backtester",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "Rust",
+        "forks": 2450,
+        "starsToday": 89,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-FlowiseAI-Flowise",
+      "title": "FlowiseAI/Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "source": "github",
+      "category": "project",
+      "score": 50069,
+      "summary": "Build AI Agents, Visually",
+      "publishedAt": "2026-03-05T00:38:20.622Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 23846,
+        "starsToday": 145,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    }
+  ]
+}

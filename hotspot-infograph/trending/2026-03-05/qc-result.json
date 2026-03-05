@@ -1,0 +1,88 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-03-05T01:21:23.690Z",
+  "checks": {
+    "heroTitle": {
+      "pass": true,
+      "value": 15,
+      "required": "≤ 20",
+      "message": "\"美以伊冲突第6天伊朗死亡超千人\""
+    },
+    "heroKeyNumbers": {
+      "pass": true,
+      "value": 3,
+      "required": 3
+    },
+    "heroChartData": {
+      "pass": true,
+      "value": 5,
+      "required": "≥ 2"
+    },
+    "heroChartType": {
+      "pass": true,
+      "value": "bar",
+      "required": "bar | line | ring | timeline | versus | heatmap"
+    },
+    "heroTakeaway": {
+      "pass": true,
+      "value": 24,
+      "required": "≤ 30"
+    },
+    "heroSources": {
+      "pass": true,
+      "value": 4,
+      "required": "≥ 1"
+    },
+    "cardsCount": {
+      "pass": true,
+      "value": 6,
+      "required": "4–6"
+    },
+    "cardsDiversity": {
+      "pass": true,
+      "value": 5,
+      "required": "≥ 3",
+      "message": "分类: 社会, 科技, 生活, 财经, 文化"
+    },
+    "cardTitles": {
+      "pass": true,
+      "value": [
+        8,
+        13,
+        10,
+        11,
+        10,
+        8
+      ],
+      "required": "每张 ≤ 15"
+    },
+    "cardInsights": {
+      "pass": true,
+      "value": [
+        17,
+        20,
+        14,
+        19,
+        14,
+        19
+      ],
+      "required": "每张 ≤ 20"
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "mideast-crisis-iran-israel-war"
+    },
+    "detailSlugsMatch": {
+      "pass": true,
+      "value": "expected: 3, found: 3",
+      "required": "all match"
+    },
+    "detailPages": {
+      "pass": true,
+      "value": 3,
+      "required": "quality checks",
+      "message": "all good"
+    }
+  },
+  "failReasons": []
+}

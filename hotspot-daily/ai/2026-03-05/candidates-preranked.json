@@ -1,0 +1,738 @@
+[
+  {
+    "id": "gh-K-Dense-AI-claude-scientific-skills",
+    "title": "K-Dense-AI/claude-scientific-skills",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 12711,
+    "category": "project",
+    "starsToday": 940,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-alibaba-OpenSandbox",
+    "title": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 5970,
+    "category": "project",
+    "starsToday": 788,
+    "aiRelated": true,
+    "prerankScore": 83,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47236169",
+    "title": "GPT‑5.3 Instant",
+    "url": "https://openai.com/index/gpt-5-3-instant/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T17:57:33.000Z",
+    "rawScore": 388,
+    "category": "discussion",
+    "comments": 296,
+    "prerankScore": 82,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "gh-agentscope-ai-agentscope",
+    "title": "agentscope-ai/agentscope",
+    "url": "https://github.com/agentscope-ai/agentscope",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Build and run agents you can see, understand and trust.",
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 17376,
+    "category": "project",
+    "starsToday": 427,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-msitarzewski-agency-agents",
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 5438,
+    "category": "project",
+    "starsToday": 2209,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-agentscope-ai-ReMe",
+    "title": "agentscope-ai/ReMe",
+    "url": "https://github.com/agentscope-ai/ReMe",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 1618,
+    "category": "project",
+    "starsToday": 345,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47252838",
+    "title": "Father claims Google's AI product fuelled son's delusional spiral",
+    "url": "https://www.bbc.com/news/articles/czx44p99457o",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T19:48:07.000Z",
+    "rawScore": 163,
+    "category": "discussion",
+    "comments": 200,
+    "prerankScore": 71,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 24,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "gh-FlowiseAI-Flowise",
+    "title": "FlowiseAI/Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Build AI Agents, Visually",
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 50069,
+    "category": "project",
+    "starsToday": 145,
+    "aiRelated": true,
+    "prerankScore": 71,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 18,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03276",
+    "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "url": "https://www.alphaxiv.org/abs/2603.03276",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.24286",
+    "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+    "url": "https://www.alphaxiv.org/abs/2602.24286",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.01896",
+    "title": "Agentic Code Reasoning",
+    "url": "https://www.alphaxiv.org/abs/2603.01896",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47230710",
+    "title": "Claude's Cycles [pdf]",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-03T10:57:42.000Z",
+    "rawScore": 758,
+    "category": "discussion",
+    "comments": 324,
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099254",
+    "title": "Google Search rolls out Gemini&#8217;s Canvas in AI Mode to all US users",
+    "url": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+    "publishedAt": "Wed, 04 Mar 2026 18:50:58 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 20,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3098997",
+    "title": "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots",
+    "url": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the sa",
+    "publishedAt": "Wed, 04 Mar 2026 14:00:00 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "hn-47245211",
+    "title": "Bet on German Train Delays",
+    "url": "https://bahn.bet",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T09:42:20.000Z",
+    "rawScore": 277,
+    "category": "discussion",
+    "comments": 186,
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-Anti-causal-domain-generalizat",
+    "title": "Anti-causal domain generalization: Leveraging unlabeled data",
+    "url": "https://deeplearn.org/arxiv/703728/anti-causal-domain-generalization:-leveraging-unlabeled-data",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-CDLM-Consistency-Diffusion-La",
+    "title": "CDLM: Consistency Diffusion Language Models For Faster Sampling",
+    "url": "https://deeplearn.org/arxiv/704253/cdlm:-consistency-diffusion-language-models-for-faster-sampling",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-Harpoon-Generalised-Manifold-",
+    "title": "Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion",
+    "url": "https://deeplearn.org/arxiv/704361/harpoon:-generalised-manifold-guidance-for-conditional-tabular-diffusion",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-extending-single-minus-amplitudes-to-gravitons",
+    "title": "Extending single-minus amplitudes to gravitons",
+    "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+    "publishedAt": "Wed, 04 Mar 2026 10:00:00 GMT",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "qbitai-GPT-5-4意外泄露-OpenAI最新模型瞄准这2大能力突",
+    "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
+    "url": "https://www.qbitai.com/2026/03/383592.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "并不是第一次发现GPT-5.4的踪迹了",
+    "publishedAt": "2026-03-03T10:55:37.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 16,
+      "keywords": 25,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "pwc-2603.03283",
+    "title": "Paper 2603.03283",
+    "url": "https://huggingface.co/papers/2603.03283",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.03241",
+    "title": "Paper 2603.03241",
+    "url": "https://huggingface.co/papers/2603.03241",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.03276",
+    "title": "Paper 2603.03276",
+    "url": "https://huggingface.co/papers/2603.03276",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "qbitai-把20亿参数装进胸针-高通补齐了个人AI生态的最后一块拼图",
+    "title": "把20亿参数装进胸针？高通补齐了个人AI生态的最后一块拼图",
+    "url": "https://www.qbitai.com/2026/03/383878.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "骁龙可穿戴平台至尊版正式发布",
+    "publishedAt": "2026-03-04T03:11:45.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 56,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "websearch-1772671384-0",
+    "title": "OpenAI seeks more safeguards on surveillance from Pentagon following AI deal",
+    "url": "https://www.ft.com/content/f8592f27-a1be-4299-8c76-6e1947d5beb6",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "OpenAI 在与五角大楼达成 AI 合作协议后，寻求在监控领域的更多安全保障措施，试图在军事 AI 应用中设置更明确的使用限制。",
+    "publishedAt": "2026-03-05T00:39:34Z",
+    "rawScore": 60,
+    "category": "news",
+    "prerankScore": 55,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 20,
+      "keywords": 0,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "websearch-1772671384-1",
+    "title": "A16z-backed AI startup Decagon hits $4.5B valuation in employee tender",
+    "url": "https://www.techinasia.com/news/a16z-backed-ai-startup-decagon-hits-4-5b-employee-tender",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "获 Andreessen Horowitz（a16z）支持的 AI 初创公司 Decagon 通过员工股权要约估值达 45 亿美元，较今年 6 月宣布的 15 亿美元估值增长三倍，ARR 已超八位数。",
+    "publishedAt": "2026-03-05T00:08:33Z",
+    "rawScore": 65,
+    "category": "news",
+    "prerankScore": 55,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 20,
+      "keywords": 0,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "websearch-1772671384-2",
+    "title": "Trump convenes major AI companies to sign Ratepayer Protection Pledge on electricity costs",
+    "url": "https://www.politico.com/news/2026/03/04/trump-ai-data-centers-electricity-00811909",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "特朗普总统召集主要 AI 公司签署《纳税人保护承诺》，承诺保护美国人免受电价上涨影响，并加强电网建设，以应对 AI 数据中心带来的巨大用电需求。",
+    "publishedAt": "2026-03-04T23:11:04Z",
+    "rawScore": 55,
+    "category": "news",
+    "prerankScore": 55,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 20,
+      "keywords": 0,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "websearch-1772671384-5",
+    "title": "OpenAI releases GPT-5.3 Chat with multimodal capabilities; Google launches Gemini 3.1 Flash-Lite",
+    "url": "https://llm-stats.com/llm-updates",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "OpenAI 于 3 月 4 日发布 GPT-5.3 Chat，Google 于 3 月 3 日推出 Gemini 3.1 Flash-Lite 轻量级推理模型，March 2026 进入主流 AI 大模型密集更新期。",
+    "publishedAt": "2026-03-04T00:00:00Z",
+    "rawScore": 0,
+    "category": "release",
+    "prerankScore": 53,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "websearch-1772671384-7",
+    "title": "NVIDIA GTC 2026 to be held March 16-19 in San Jose, focused on AI and physical AI advances",
+    "url": "https://www.nvidia.cn/gtc-global/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "NVIDIA GTC 2026 大会定于 3 月 16-19 日在美国加州圣何塞及线上举办，预计发布 Vera Rubin 新一代 AI 平台等重磅产品，物理 AI 已在 2026 财年贡献超 60 亿美元营收。",
+    "publishedAt": "2026-03-05T00:00:00Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 53,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "qbitai-阿里千问大模型换将-32岁林俊旸官宣告别",
+    "title": "阿里千问大模型换将，32岁林俊旸官宣告别",
+    "url": "https://www.qbitai.com/2026/03/383842.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "组织架构调整了",
+    "publishedAt": "2026-03-04T01:44:32.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "arxiv-2603.03233v1",
+    "title": "AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework",
+    "url": "https://arxiv.org/pdf/2603.03233v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Large Language Models (LLMs) demonstrate potentials for automating scientific code generation but face challenges in reliability, error propagation in multi-agent workflows, and evaluation in domains ",
+    "publishedAt": "2026-03-03T18:25:00Z",
+    "rawScore": 0,
+    "category": "paper",
+    "prerankScore": 50,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 20
+    }
+  },
+  {
+    "id": "arxiv-2603.03205v1",
+    "title": "Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use",
+    "url": "https://arxiv.org/pdf/2603.03205v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Agentic language models operate in a fundamentally different safety regime than chat models: they must plan, call tools, and execute long-horizon actions where a single misstep, such as accessing file",
+    "publishedAt": "2026-03-03T17:59:35Z",
+    "rawScore": 0,
+    "category": "paper",
+    "prerankScore": 50,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 20
+    }
+  },
+  {
+    "id": "ph-moltdj",
+    "title": "moltdj",
+    "url": "https://www.producthunt.com/products/moltdj",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            SoundCloud for OpenClaw agents to create, stream, earn \n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/moltdj?utm_campaign=",
+    "publishedAt": "2026-03-04T01:46:10.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 49,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "arxiv-2603.03258v1",
+    "title": "Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals",
+    "url": "https://arxiv.org/pdf/2603.03258v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "The accelerating adoption of language models (LMs) as agents for deployment in long-context tasks motivates a thorough understanding of goal drift: agents' tendency to deviate from an original objecti",
+    "publishedAt": "2026-03-03T18:50:59Z",
+    "rawScore": 0,
+    "category": "paper",
+    "prerankScore": 45,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 20
+    }
+  },
+  {
+    "id": "ph-assemblyai-universal-3-pro-streaming",
+    "title": "AssemblyAI: Universal-3 Pro Streaming",
+    "url": "https://www.producthunt.com/products/assemblyai",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n             The most accurate streaming speech model for voice agents.\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/assemblyai?utm_c",
+    "publishedAt": "2026-03-03T22:55:30.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 44,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "ph-clawoffice",
+    "title": "ClawOffice",
+    "url": "https://www.producthunt.com/products/clawoffice",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Real Office for your Open Claw Agents\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/clawoffice?utm_campaign=producthunt-at",
+    "publishedAt": "2026-03-03T23:02:34.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 44,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1772671384-4",
+    "title": "Alibaba releases Qwen 3.5 Small series: four open-source models from 0.8B to 9B parameters",
+    "url": "https://llm-stats.com/ai-news",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "阿里巴巴 Qwen 团队于 2026 年 3 月 2 日发布四款 Qwen 3.5 Small 系列模型（0.8B 至 9B 参数），全部采用 Apache 2.0 开源协议，支持多模态，专为端侧应用设计。",
+    "publishedAt": "2026-03-02T00:00:00Z",
+    "rawScore": 0,
+    "category": "release",
+    "prerankScore": 38,
+    "prerankBreakdown": {
+      "timeliness": 0,
+      "sourceHeat": 5,
+      "keywords": 20,
+      "credibility": 13
+    }
+  }
+]

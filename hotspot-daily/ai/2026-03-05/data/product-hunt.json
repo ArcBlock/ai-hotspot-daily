@@ -1,0 +1,106 @@
+{
+  "source": "product-hunt",
+  "fetchedAt": "2026-03-05T00:39:10.763Z",
+  "items": [
+    {
+      "id": "ph-fix-in-cursor",
+      "title": "Fix in Cursor",
+      "url": "https://www.producthunt.com/products/fix-in-cursor",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-03-04T05:36:22.000Z",
+      "summary": "&lt;p&gt;\n            GitHub PR comment to Cursor prompt in one click\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/fix-in-cursor?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-fee"
+    },
+    {
+      "id": "ph-moltdj",
+      "title": "moltdj",
+      "url": "https://www.producthunt.com/products/moltdj",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-03-04T01:46:10.000Z",
+      "summary": "&lt;p&gt;\n            SoundCloud for OpenClaw agents to create, stream, earn \n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/moltdj?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-fe"
+    },
+    {
+      "id": "ph-nova",
+      "title": "NOVA",
+      "url": "https://www.producthunt.com/products/nova-18",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-03-03T18:44:05.000Z",
+      "summary": "&lt;p&gt;\n            AI coding that goes beyond suggestions\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/nova-18?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-feed\"&gt;Discussio"
+    },
+    {
+      "id": "ph-personal-ai-memory",
+      "title": "Personal AI Memory",
+      "url": "https://www.producthunt.com/products/personal-ai-memory",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-03-03T21:20:41.000Z",
+      "summary": "&lt;p&gt;\n            Captures and stores your chat from various AI platforms\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/personal-ai-memory?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-a"
+    },
+    {
+      "id": "ph-assemblyai-universal-3-pro-streaming",
+      "title": "AssemblyAI: Universal-3 Pro Streaming",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-03-03T22:55:30.000Z",
+      "summary": "&lt;p&gt;\n             The most accurate streaming speech model for voice agents.\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/assemblyai?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-"
+    },
+    {
+      "id": "ph-clawpane",
+      "title": "ClawPane",
+      "url": "https://www.producthunt.com/products/clawpane",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-02-23T23:46:05.000Z",
+      "summary": "&lt;p&gt;\n            One API. LLM routing for cost, task-fit, latency per request\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/clawpane?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-p"
+    },
+    {
+      "id": "ph-clawoffice",
+      "title": "ClawOffice",
+      "url": "https://www.producthunt.com/products/clawoffice",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-03-03T23:02:34.000Z",
+      "summary": "&lt;p&gt;\n            Real Office for your Open Claw Agents\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/clawoffice?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-feed\"&gt;Discuss"
+    },
+    {
+      "id": "ph-floyd-enterprise-world-model",
+      "title": "Floyd enterprise world model",
+      "url": "https://www.producthunt.com/products/floyd-enterprise-world-model",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-03-03T18:12:11.000Z",
+      "summary": "&lt;p&gt;\n            Enterprise world model that learns how you would do tasks\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/floyd-enterprise-world-model?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=p"
+    },
+    {
+      "id": "ph-agile-flights",
+      "title": "agile.flights",
+      "url": "https://www.producthunt.com/products/agile-flights",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-03-03T23:45:00.000Z",
+      "summary": "&lt;p&gt;\n            Agile died in a JIRA board - replace sprints with flights\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/agile-flights?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom"
+    },
+    {
+      "id": "ph-anything-api",
+      "title": "Anything API",
+      "url": "https://www.producthunt.com/products/notte",
+      "source": "product-hunt",
+      "category": "release",
+      "score": 25,
+      "publishedAt": "2026-02-27T17:50:25.000Z",
+      "summary": "&lt;p&gt;\n            Any website. We deliver the API.\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/notte?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-feed\"&gt;Discussion&lt;/a&"
+    }
+  ]
+}

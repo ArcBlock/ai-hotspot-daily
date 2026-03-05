@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-03-05",
+    "urls": [
+      "https://www.ft.com/content/f8592f27-a1be-4299-8c76-6e1947d5beb6",
+      "https://www.techinasia.com/news/a16z-backed-ai-startup-decagon-hits-4-5b-employee-tender",
+      "https://www.politico.com/news/2026/03/04/trump-ai-data-centers-electricity-00811909",
+      "https://finance.yahoo.com/news/block-cfo-ai-layoffs-productivity-2026",
+      "https://llm-stats.com/ai-news",
+      "https://llm-stats.com/llm-updates",
+      "https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/",
+      "https://www.nvidia.cn/gtc-global/",
+      "https://nationaltoday.com/us/dc/washington/news/2026/03/04/tech-stock-surges-after-ai-investment-boost/"
+    ]
+  },
+  {
     "date": "2026-03-04",
     "urls": [
       "https://github.com/agentscope-ai/ReMe",

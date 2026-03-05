@@ -1,0 +1,3081 @@
+[
+  {
+    "id": "gh-FlowiseAI-Flowise",
+    "title": "FlowiseAI/Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Build AI Agents, Visually",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 50069,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 23846,
+      "starsToday": 145,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-ItzCrazyKns-Perplexica",
+    "title": "ItzCrazyKns/Perplexica",
+    "url": "https://github.com/ItzCrazyKns/Perplexica",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Perplexica is an AI-powered answering engine.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 30846,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 3260,
+      "starsToday": 1090,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-KeygraphHQ-shannon",
+    "title": "KeygraphHQ/shannon",
+    "url": "https://github.com/KeygraphHQ/shannon",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 30316,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 3069,
+      "starsToday": 1854,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-moeru-ai-airi",
+    "title": "moeru-ai/airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 24678,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 2305,
+      "starsToday": 1454,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-nautechsystems-nautilus_trader",
+    "title": "nautechsystems/nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A high-performance algorithmic trading platform and event-driven backtester",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 20726,
+    "metadata": {
+      "category": "project",
+      "language": "Rust",
+      "forks": 2450,
+      "starsToday": 89,
+      "aiRelated": false,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-agentscope-ai-agentscope",
+    "title": "agentscope-ai/agentscope",
+    "url": "https://github.com/agentscope-ai/agentscope",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Build and run agents you can see, understand and trust.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 17376,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 1549,
+      "starsToday": 427,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-FujiwaraChoki-MoneyPrinterV2",
+    "title": "FujiwaraChoki/MoneyPrinterV2",
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Automate the process of making money online.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 14188,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 1433,
+      "starsToday": 143,
+      "aiRelated": false,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-K-Dense-AI-claude-scientific-skills",
+    "title": "K-Dense-AI/claude-scientific-skills",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 12711,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 1373,
+      "starsToday": 940,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-alibaba-OpenSandbox",
+    "title": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 5970,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 429,
+      "starsToday": 788,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-msitarzewski-agency-agents",
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 5438,
+    "metadata": {
+      "category": "project",
+      "language": "",
+      "forks": 913,
+      "starsToday": 2209,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-CodebuffAI-codebuff",
+    "title": "CodebuffAI/codebuff",
+    "url": "https://github.com/CodebuffAI/codebuff",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Generate code from the terminal!",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 3566,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 438,
+      "starsToday": 337,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-agentscope-ai-ReMe",
+    "title": "agentscope-ai/ReMe",
+    "url": "https://github.com/agentscope-ai/ReMe",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 1618,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 134,
+      "starsToday": 345,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-aquasecurity-trivy",
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:38:20.622Z",
+    "fetchedAt": "2026-03-05T00:38:20.622Z",
+    "rawScore": 852,
+    "metadata": {
+      "category": "project",
+      "language": "Go",
+      "forks": 53,
+      "starsToday": 380,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "hn-47230710",
+    "title": "Claude's Cycles [pdf]",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T10:57:42.000Z",
+    "fetchedAt": "2026-03-05T00:37:52.282Z",
+    "rawScore": 758,
+    "metadata": {
+      "category": "discussion",
+      "comments": 324,
+      "hnUrl": "https://news.ycombinator.com/item?id=47230710"
+    }
+  },
+  {
+    "id": "hn-47236169",
+    "title": "GPT‑5.3 Instant",
+    "url": "https://openai.com/index/gpt-5-3-instant/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T17:57:33.000Z",
+    "fetchedAt": "2026-03-05T00:37:52.282Z",
+    "rawScore": 388,
+    "metadata": {
+      "category": "discussion",
+      "comments": 296,
+      "hnUrl": "https://news.ycombinator.com/item?id=47236169"
+    }
+  },
+  {
+    "id": "hn-47245211",
+    "title": "Bet on German Train Delays",
+    "url": "https://bahn.bet",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T09:42:20.000Z",
+    "fetchedAt": "2026-03-05T00:37:52.282Z",
+    "rawScore": 277,
+    "metadata": {
+      "category": "discussion",
+      "comments": 186,
+      "hnUrl": "https://news.ycombinator.com/item?id=47245211"
+    }
+  },
+  {
+    "id": "hn-47252838",
+    "title": "Father claims Google's AI product fuelled son's delusional spiral",
+    "url": "https://www.bbc.com/news/articles/czx44p99457o",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T19:48:07.000Z",
+    "fetchedAt": "2026-03-05T00:37:52.282Z",
+    "rawScore": 163,
+    "metadata": {
+      "category": "discussion",
+      "comments": 200,
+      "hnUrl": "https://news.ycombinator.com/item?id=47252838"
+    }
+  },
+  {
+    "id": "hn-47246044",
+    "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
+    "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T11:33:46.000Z",
+    "fetchedAt": "2026-03-05T00:37:52.282Z",
+    "rawScore": 136,
+    "metadata": {
+      "category": "discussion",
+      "comments": 80,
+      "hnUrl": "https://news.ycombinator.com/item?id=47246044"
+    }
+  },
+  {
+    "id": "hn-47246746",
+    "title": "Did Alibaba just kneecap its powerful Qwen AI team?",
+    "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T12:54:04.000Z",
+    "fetchedAt": "2026-03-05T00:37:52.282Z",
+    "rawScore": 130,
+    "metadata": {
+      "category": "discussion",
+      "comments": 38,
+      "hnUrl": "https://news.ycombinator.com/item?id=47246746"
+    }
+  },
+  {
+    "id": "hn-47251259",
+    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+    "url": "https://qlabs.sh/slowrun",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T17:56:04.000Z",
+    "fetchedAt": "2026-03-05T00:37:52.282Z",
+    "rawScore": 111,
+    "metadata": {
+      "category": "discussion",
+      "comments": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=47251259"
+    }
+  },
+  {
+    "id": "hn-47232903",
+    "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+    "url": "https://news.ycombinator.com/item?id=47232903",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T14:30:58.000Z",
+    "fetchedAt": "2026-03-05T00:37:52.282Z",
+    "rawScore": 89,
+    "metadata": {
+      "category": "discussion",
+      "comments": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=47232903"
+    }
+  },
+  {
+    "id": "hn-47249448",
+    "title": "1.5 Million Users Leave ChatGPT",
+    "url": "https://www.forbes.com/sites/barrycollins/2026/03/02/leaving-chatgpt-make-sure-to-do-this-before-you-cancel/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T16:02:09.000Z",
+    "fetchedAt": "2026-03-05T00:37:52.282Z",
+    "rawScore": 70,
+    "metadata": {
+      "category": "discussion",
+      "comments": 26,
+      "hnUrl": "https://news.ycombinator.com/item?id=47249448"
+    }
+  },
+  {
+    "id": "pwc-2603.03283",
+    "title": "Paper 2603.03283",
+    "url": "https://huggingface.co/papers/2603.03283",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03283",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.03241",
+    "title": "Paper 2603.03241",
+    "url": "https://huggingface.co/papers/2603.03241",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03241",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.03276",
+    "title": "Paper 2603.03276",
+    "url": "https://huggingface.co/papers/2603.03276",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03276",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.03194",
+    "title": "Paper 2603.03194",
+    "url": "https://huggingface.co/papers/2603.03194",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03194",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.01571",
+    "title": "Paper 2603.01571",
+    "url": "https://huggingface.co/papers/2603.01571",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.01571",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.03160",
+    "title": "Paper 2603.03160",
+    "url": "https://huggingface.co/papers/2603.03160",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03160",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.02578",
+    "title": "Paper 2603.02578",
+    "url": "https://huggingface.co/papers/2603.02578",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02578",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.02479",
+    "title": "Paper 2603.02479",
+    "url": "https://huggingface.co/papers/2603.02479",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02479",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.00729",
+    "title": "Paper 2603.00729",
+    "url": "https://huggingface.co/papers/2603.00729",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.00729",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.02175",
+    "title": "Paper 2603.02175",
+    "url": "https://huggingface.co/papers/2603.02175",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02175",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.02765",
+    "title": "Paper 2603.02765",
+    "url": "https://huggingface.co/papers/2603.02765",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02765",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2602.23546",
+    "title": "Paper 2602.23546",
+    "url": "https://huggingface.co/papers/2602.23546",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2602.23546",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.01683",
+    "title": "Paper 2603.01683",
+    "url": "https://huggingface.co/papers/2603.01683",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.01683",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.00656",
+    "title": "Paper 2603.00656",
+    "url": "https://huggingface.co/papers/2603.00656",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.00656",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2602.20672",
+    "title": "Paper 2602.20672",
+    "url": "https://huggingface.co/papers/2602.20672",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2602.20672",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2602.18671",
+    "title": "Paper 2602.18671",
+    "url": "https://huggingface.co/papers/2602.18671",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2602.18671",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.02802",
+    "title": "Paper 2603.02802",
+    "url": "https://huggingface.co/papers/2603.02802",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02802",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.03281",
+    "title": "Paper 2603.03281",
+    "url": "https://huggingface.co/papers/2603.03281",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03281",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.03205",
+    "title": "Paper 2603.03205",
+    "url": "https://huggingface.co/papers/2603.03205",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03205",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.03195",
+    "title": "Paper 2603.03195",
+    "url": "https://huggingface.co/papers/2603.03195",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:11.753Z",
+    "fetchedAt": "2026-03-05T00:39:11.754Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03195",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Gradient-Testing-and-Estimatio",
+    "title": "Gradient Testing and Estimation by Comparisons",
+    "url": "https://deeplearn.org/arxiv/703513/gradient-testing-and-estimation-by-comparisons",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Anti-causal-domain-generalizat",
+    "title": "Anti-causal domain generalization: Leveraging unlabeled data",
+    "url": "https://deeplearn.org/arxiv/703728/anti-causal-domain-generalization:-leveraging-unlabeled-data",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-CDLM-Consistency-Diffusion-La",
+    "title": "CDLM: Consistency Diffusion Language Models For Faster Sampling",
+    "url": "https://deeplearn.org/arxiv/704253/cdlm:-consistency-diffusion-language-models-for-faster-sampling",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Mind-the-Style-Impact-of-Comm",
+    "title": "Mind the Style: Impact of Communication Style on Human-Chatbot Interaction",
+    "url": "https://deeplearn.org/arxiv/704316/mind-the-style:-impact-of-communication-style-on-human-chatbot-interaction",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Harpoon-Generalised-Manifold-",
+    "title": "Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion",
+    "url": "https://deeplearn.org/arxiv/704361/harpoon:-generalised-manifold-guidance-for-conditional-tabular-diffusion",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-SMAC-Score-Matched-Actor-Crit",
+    "title": "SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer",
+    "url": "https://deeplearn.org/arxiv/703507/smac:-score-matched-actor-critics-for-robust-offline-to-online-transfer",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-What-Language-is-This-Ask-You",
+    "title": "What Language is This? Ask Your Tokenizer",
+    "url": "https://deeplearn.org/arxiv/703495/what-language-is-this?-ask-your-tokenizer",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Mine-and-Refine-Optimizing-Gr",
+    "title": "Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval",
+    "url": "https://deeplearn.org/arxiv/703496/mine-and-refine:-optimizing-graded-relevance-in-e-commerce-search-retrieval",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Differences-in-Typological-Ali",
+    "title": "Differences in Typological Alignment in Language Models&#39; Treatment of Differential Argument Marking",
+    "url": "https://deeplearn.org/arxiv/703497/differences-in-typological-alignment-in-language-models&#39;-treatment-of-differential-argument-marking",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Human-level-3D-shape-perceptio",
+    "title": "Human-level 3D shape perception emerges from multi-view learning",
+    "url": "https://deeplearn.org/arxiv/703498/human-level-3d-shape-perception-emerges-from-multi-view-learning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Multi-Round-Human-AI-Collabora",
+    "title": "Multi-Round Human-AI Collaboration with User-Specified Requirements",
+    "url": "https://deeplearn.org/arxiv/703499/multi-round-human-ai-collaboration-with-user-specified-requirements",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Catastrophic-Forgetting-Resili",
+    "title": "Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning",
+    "url": "https://deeplearn.org/arxiv/703508/catastrophic-forgetting-resilient-one-shot-incremental-federated-learning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Unmasking-the-Factual-Conceptu",
+    "title": "Unmasking the Factual-Conceptual Gap in Persian Language Models",
+    "url": "https://deeplearn.org/arxiv/703509/unmasking-the-factual-conceptual-gap-in-persian-language-models",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Stable-Asynchrony-Variance-Co",
+    "title": "Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs",
+    "url": "https://deeplearn.org/arxiv/703510/stable-asynchrony:-variance-controlled-off-policy-rl-for-llms",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Guarding-the-Middle-Protectin",
+    "title": "Guarding the Middle: Protecting Intermediate Representations in Federated Split Learning",
+    "url": "https://deeplearn.org/arxiv/703511/guarding-the-middle:-protecting-intermediate-representations-in-federated-split-learning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:35.083Z",
+    "fetchedAt": "2026-03-05T00:39:35.083Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.01097",
+    "title": "Understanding LoRA as Knowledge Memory: An Empirical Analysis",
+    "url": "https://www.alphaxiv.org/abs/2603.01097",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.892Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.01097",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03276",
+    "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "url": "https://www.alphaxiv.org/abs/2603.03276",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03276",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2602.24286",
+    "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+    "url": "https://www.alphaxiv.org/abs/2602.24286",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2602.24286",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03251",
+    "title": "Speculative Speculative Decoding",
+    "url": "https://www.alphaxiv.org/abs/2603.03251",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03251",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03283",
+    "title": "Utonia: Toward One Encoder for All Point Clouds",
+    "url": "https://www.alphaxiv.org/abs/2603.03283",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03283",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.01562",
+    "title": "RubricBench: Aligning Model-Generated Rubrics with Human Standards",
+    "url": "https://www.alphaxiv.org/abs/2603.01562",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.01562",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03195",
+    "title": "Chain of World: World Model Thinking in Latent Motion",
+    "url": "https://www.alphaxiv.org/abs/2603.03195",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03195",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.02298",
+    "title": "CuTe Layout Representation and Algebra",
+    "url": "https://www.alphaxiv.org/abs/2603.02298",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02298",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.02049",
+    "title": "WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories",
+    "url": "https://www.alphaxiv.org/abs/2603.02049",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02049",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2602.23361",
+    "title": "VGG-T3^33: Offline Feed-Forward 3D Reconstruction at Scale",
+    "url": "https://www.alphaxiv.org/abs/2602.23361",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2602.23361",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.01896",
+    "title": "Agentic Code Reasoning",
+    "url": "https://www.alphaxiv.org/abs/2603.01896",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.01896",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.01229",
+    "title": "RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design",
+    "url": "https://www.alphaxiv.org/abs/2603.01229",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.01229",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.01223",
+    "title": "Learn Hard Problems During RL with Reference Guided Fine-tuning",
+    "url": "https://www.alphaxiv.org/abs/2603.01223",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.01223",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.02138",
+    "title": "OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens",
+    "url": "https://www.alphaxiv.org/abs/2603.02138",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02138",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2602.24287",
+    "title": "Do LLMs Benefit From Their Own Words?",
+    "url": "https://www.alphaxiv.org/abs/2602.24287",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:20.893Z",
+    "fetchedAt": "2026-03-05T00:39:20.893Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2602.24287",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "qbitai-苹果春季新品奔着龙虾来了-AI性能暴涨8倍-8499元起",
+    "title": "苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起",
+    "url": "https://www.qbitai.com/2026/03/383902.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T07:50:33.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-把20亿参数装进胸针-高通补齐了个人AI生态的最后一块拼图",
+    "title": "把20亿参数装进胸针？高通补齐了个人AI生态的最后一块拼图",
+    "url": "https://www.qbitai.com/2026/03/383878.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "骁龙可穿戴平台至尊版正式发布",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T03:11:45.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-阿里千问大模型换将-32岁林俊旸官宣告别",
+    "title": "阿里千问大模型换将，32岁林俊旸官宣告别",
+    "url": "https://www.qbitai.com/2026/03/383842.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "组织架构调整了",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T01:44:32.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai--所有人-2026真的需要自己上手用AI了丨年度AI盛会",
+    "title": "@所有人，2026真的需要自己上手用AI了丨年度AI盛会",
+    "url": "https://www.qbitai.com/2026/03/383796.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "马上AI起来！北京五月见",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T11:16:14.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-大模型越聪明-学习机越抢手-科大讯飞T90-Pro定义-真-",
+    "title": "大模型越聪明，学习机越抢手：科大讯飞T90 Pro定义「真」个性化",
+    "url": "https://www.qbitai.com/2026/03/383629.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "技术与教育的深度交融，将令每一个孩子受益",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T11:13:28.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-龙虾再进化-强化飞书表格技能-25-2万星登顶超越React",
+    "title": "龙虾再进化！强化飞书表格技能，25.2万星登顶超越React/Linux",
+    "url": "https://www.qbitai.com/2026/03/383367.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "龙虾官方也开通了微博账号",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T10:57:09.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-GPT-5-4意外泄露-OpenAI最新模型瞄准这2大能力突",
+    "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
+    "url": "https://www.qbitai.com/2026/03/383592.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "并不是第一次发现GPT-5.4的踪迹了",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T10:55:37.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-今年最值得关注的AI榜单来啦-申报即日启动",
+    "title": "今年最值得关注的AI榜单来啦！申报即日启动",
+    "url": "https://www.qbitai.com/2026/03/383565.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "欢迎申报！截至4月27日",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T10:42:46.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-AI-Agent搞定世纪首次菲尔兹奖成果形式化-一周时间独立",
+    "title": "AI Agent搞定世纪首次菲尔兹奖成果形式化！一周时间独立完成，20万行代码已公开",
+    "url": "https://www.qbitai.com/2026/03/383368.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "历史上最大规模的单一目的Lean形式化项目",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T10:28:48.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-钉钉首创智能表格-透视表视图-AI表格Agent接入钉钉群",
+    "title": "钉钉首创智能表格“透视表视图”，AI表格Agent接入钉钉群",
+    "url": "https://www.qbitai.com/2026/03/383349.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "助力企业与个体释放更大的生产力",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T06:42:20.000Z",
+    "fetchedAt": "2026-03-05T00:39:32.463Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-prunaai-z-image-turbo",
+    "title": "prunaai/z-image-turbo",
+    "url": "https://replicate.com/prunaai/z-image-turbo",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-prunaai-p-image-edit",
+    "title": "prunaai/p-image-edit",
+    "url": "https://replicate.com/prunaai/p-image-edit",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-vaibhavs10-incredibly-fast-whisper",
+    "title": "vaibhavs10/incredibly-fast-whisper",
+    "url": "https://replicate.com/vaibhavs10/incredibly-fast-whisper",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-andreasjansson-clip-features",
+    "title": "andreasjansson/clip-features",
+    "url": "https://replicate.com/andreasjansson/clip-features",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-bytedance-seedream-5-lite",
+    "title": "bytedance/seedream-5-lite",
+    "url": "https://replicate.com/bytedance/seedream-5-lite",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-recraft-ai-recraft-v4",
+    "title": "recraft-ai/recraft-v4",
+    "url": "https://replicate.com/recraft-ai/recraft-v4",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-xai-grok-imagine-video",
+    "title": "xai/grok-imagine-video",
+    "url": "https://replicate.com/xai/grok-imagine-video",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-prunaai-p-video",
+    "title": "prunaai/p-video",
+    "url": "https://replicate.com/prunaai/p-video",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-klein-4b",
+    "title": "black-forest-labs/flux-2-klein-4b",
+    "url": "https://replicate.com/black-forest-labs/flux-2-klein-4b",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-google-nano-banana-2",
+    "title": "google/nano-banana-2",
+    "url": "https://replicate.com/google/nano-banana-2",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-elevenlabs-music",
+    "title": "elevenlabs/music",
+    "url": "https://replicate.com/elevenlabs/music",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-collections-official",
+    "title": "collections/official",
+    "url": "https://replicate.com/collections/official",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:12.979Z",
+    "fetchedAt": "2026-03-05T00:39:12.979Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "ph-fix-in-cursor",
+    "title": "Fix in Cursor",
+    "url": "https://www.producthunt.com/products/fix-in-cursor",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            GitHub PR comment to Cursor prompt in one click\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/fix-in-cursor?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-fee",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T05:36:22.000Z",
+    "fetchedAt": "2026-03-05T00:39:10.763Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-moltdj",
+    "title": "moltdj",
+    "url": "https://www.producthunt.com/products/moltdj",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            SoundCloud for OpenClaw agents to create, stream, earn \n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/moltdj?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-fe",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T01:46:10.000Z",
+    "fetchedAt": "2026-03-05T00:39:10.763Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-nova",
+    "title": "NOVA",
+    "url": "https://www.producthunt.com/products/nova-18",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            AI coding that goes beyond suggestions\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/nova-18?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-feed\"&gt;Discussio",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:44:05.000Z",
+    "fetchedAt": "2026-03-05T00:39:10.763Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-personal-ai-memory",
+    "title": "Personal AI Memory",
+    "url": "https://www.producthunt.com/products/personal-ai-memory",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Captures and stores your chat from various AI platforms\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/personal-ai-memory?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-a",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T21:20:41.000Z",
+    "fetchedAt": "2026-03-05T00:39:10.763Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-assemblyai-universal-3-pro-streaming",
+    "title": "AssemblyAI: Universal-3 Pro Streaming",
+    "url": "https://www.producthunt.com/products/assemblyai",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n             The most accurate streaming speech model for voice agents.\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/assemblyai?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T22:55:30.000Z",
+    "fetchedAt": "2026-03-05T00:39:10.763Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-clawoffice",
+    "title": "ClawOffice",
+    "url": "https://www.producthunt.com/products/clawoffice",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Real Office for your Open Claw Agents\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/clawoffice?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-feed\"&gt;Discuss",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T23:02:34.000Z",
+    "fetchedAt": "2026-03-05T00:39:10.763Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-floyd-enterprise-world-model",
+    "title": "Floyd enterprise world model",
+    "url": "https://www.producthunt.com/products/floyd-enterprise-world-model",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Enterprise world model that learns how you would do tasks\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/floyd-enterprise-world-model?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=p",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:12:11.000Z",
+    "fetchedAt": "2026-03-05T00:39:10.763Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-agile-flights",
+    "title": "agile.flights",
+    "url": "https://www.producthunt.com/products/agile-flights",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Agile died in a JIRA board - replace sprints with flights\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/agile-flights?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T23:45:00.000Z",
+    "fetchedAt": "2026-03-05T00:39:10.763Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "arxiv-2603.03280v1",
+    "title": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",
+    "url": "https://arxiv.org/pdf/2603.03280v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Many essential manipulation tasks - such as food preparation, surgery, and craftsmanship - remain intractable for autonomous robots. These tasks are characterized not only by contact-rich, force-sensitive dynamics, but also by their \"implicit\" success criteria: unlike pick-and-place, task quality in these domains is continuous and subjective (e.g. how well a potato is peeled), making quantitative evaluation and reward engineering difficult. We present a learning framework for such tasks, using p...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:59:32Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Toru Lin, Shuying Deng, Zhao-Heng Yin, Pieter Abbeel, Jitendra Malik",
+      "primaryCategory": "cs.RO",
+      "arxivId": "2603.03280v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03278v1",
+    "title": "Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping",
+    "url": "https://arxiv.org/pdf/2603.03278v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "The ability to conduct and learn from interaction and experience is a central challenge in robotics, offering a scalable alternative to labor-intensive human demonstrations. However, realizing such \"play\" requires (1) a policy robust to diverse, potentially out-of-distribution environment states, and (2) a procedure that continuously produces useful robot experience. To address these challenges, we introduce Tether, a method for autonomous functional play involving structured, task-directed inte...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:59:07Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "William Liang, Sam Wang, Hung-Ju Wang, Osbert Bastani, Yecheng Jason Ma, Dinesh Jayaraman",
+      "primaryCategory": "cs.RO",
+      "arxivId": "2603.03278v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03258v1",
+    "title": "Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals",
+    "url": "https://arxiv.org/pdf/2603.03258v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "The accelerating adoption of language models (LMs) as agents for deployment in long-context tasks motivates a thorough understanding of goal drift: agents' tendency to deviate from an original objective. While prior-generation language model agents have been shown to be susceptible to drift, the extent to which drift affects more recent models remains unclear. In this work, we provide an updated characterization of the extent and causes of goal drift. We investigate drift in state-of-the-art mod...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:50:59Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Achyutha Menon, Magnus Saebo, Tyler Crosse, Spencer Gibson, Eyon Jang, Diogo Cruz",
+      "primaryCategory": "cs.AI",
+      "arxivId": "2603.03258v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03252v1",
+    "title": "Valet: A Standardized Testbed of Traditional Imperfect-Information Card Games",
+    "url": "https://arxiv.org/pdf/2603.03252v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "AI algorithms for imperfect-information games are typically compared using performance metrics on individual games, making it difficult to assess robustness across game choices. Card games are a natural domain for imperfect information due to hidden hands and stochastic draws. To facilitate comparative research on imperfect-information game-playing algorithms and game systems, we introduce Valet, a diverse and comprehensive testbed of 21 traditional imperfect-information card games. These games ...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:46:47Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Mark Goadrich, Achille Morenville, Éric Piette",
+      "primaryCategory": "cs.AI",
+      "arxivId": "2603.03252v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03242v1",
+    "title": "Density-Guided Response Optimization: Community-Grounded Alignment via Implicit Acceptance Signals",
+    "url": "https://arxiv.org/pdf/2603.03242v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Language models deployed in online communities must adapt to norms that vary across social, cultural, and domain-specific contexts. Prior alignment approaches rely on explicit preference supervision or predefined principles, which are effective for well-resourced settings but exclude most online communities -- particularly those without institutional backing, annotation infrastructure, or organized around sensitive topics -- where preference elicitation is costly, ethically fraught, or culturall...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:36:25Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Patrick Gerard, Svitlana Volkova",
+      "primaryCategory": "cs.AI",
+      "arxivId": "2603.03242v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03241v1",
+    "title": "UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?",
+    "url": "https://arxiv.org/pdf/2603.03241v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Unified multimodal models have recently demonstrated strong generative capabilities, yet whether and when generation improves understanding remains unclear. Existing benchmarks lack a systematic exploration of the specific tasks where generation facilitates understanding. To this end, we introduce UniG2U-Bench, a comprehensive benchmark categorizing generation-to-understanding (G2U) evaluation into 7 regimes and 30 subtasks, requiring varying degrees of implicit or explicit visual transformation...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:36:16Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Zimo Wen, Boxiu Li, Wanbo Zhang, Junxiang Lei, Xiaoyu Chen, Yijia Fan, Qi Zhang, Yujiang Wang, Lili Qiu, Bo Li, Ziwei Liu, Caihua Shan, Yifan Yang, Yifei Shen",
+      "primaryCategory": "cs.CV",
+      "arxivId": "2603.03241v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03233v1",
+    "title": "AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework",
+    "url": "https://arxiv.org/pdf/2603.03233v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Large Language Models (LLMs) demonstrate potentials for automating scientific code generation but face challenges in reliability, error propagation in multi-agent workflows, and evaluation in domains with ill-defined success metrics. We present a Bayesian adversarial multi-agent framework specifically designed for AI for Science (AI4S) tasks in the form of a Low-code Platform (LCP). Three LLM-based agents are coordinated under the Bayesian framework: a Task Manager that structures user inputs in...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:25:00Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Zihang Zeng, Jiaquan Zhang, Pengze Li, Yuan Qi, Xi Chen",
+      "primaryCategory": "cs.AI",
+      "arxivId": "2603.03233v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03249v1",
+    "title": "Using Learning Progressions to Guide AI Feedback for Science Learning",
+    "url": "https://arxiv.org/pdf/2603.03249v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Generative artificial intelligence (AI) offers scalable support for formative feedback, yet most AI-generated feedback relies on task-specific rubrics authored by domain experts. While effective, rubric authoring is time-consuming and limits scalability across instructional contexts. Learning progressions (LP) provide a theoretically grounded representation of students' developing understanding and may offer an alternative solution. This study examines whether an LP-driven rubric generation pipe...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:39:58Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Xin Xia, Nejla Yuruk, Yun Wang, Xiaoming Zhai",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.03249v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03206v1",
+    "title": "Understanding and Mitigating Dataset Corruption in LLM Steering",
+    "url": "https://arxiv.org/pdf/2603.03206v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Contrastive steering has been shown as a simple and effective method to adjust the generative behavior of LLMs at inference time. It uses examples of prompt responses with and without a trait to identify a direction in an intermediate activation layer, and then shifts activations in this 1-dimensional subspace. However, despite its growing use in AI safety applications, the robustness of contrastive steering to noisy or adversarial data corruption is poorly understood. We initiate a study of the...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:00:49Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Cullen Anderson, Narmeen Oozeer, Foad Namjoo, Remy Ogasawara, Amirali Abdullah, Jeff M. Phillips",
+      "primaryCategory": "cs.LG",
+      "arxivId": "2603.03206v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03205v1",
+    "title": "Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use",
+    "url": "https://arxiv.org/pdf/2603.03205v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Agentic language models operate in a fundamentally different safety regime than chat models: they must plan, call tools, and execute long-horizon actions where a single misstep, such as accessing files or entering credentials, can cause irreversible harm. Existing alignment methods, largely optimized for static generation and task completion, break down in these settings due to sequential decision-making, adversarial tool feedback, and overconfident intermediate reasoning. We introduce MOSAIC, a...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T17:59:35Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Aradhye Agarwal, Gurdit Siyan, Yash Pandya, Joykirat Singh, Akshay Nambi, Ahmed Awadallah",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.03205v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03203v1",
+    "title": "No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models",
+    "url": "https://arxiv.org/pdf/2603.03203v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "CDD, or Contamination Detection via output Distribution, identifies data contamination by measuring the peakedness of a model's sampled outputs. We study the conditions under which this approach succeeds and fails on small language models ranging from 70M to 410M parameters. Using controlled contamination experiments on GSM8K, HumanEval, and MATH, we find that CDD's effectiveness depends critically on whether fine-tuning produces verbatim memorization. With low-rank adaptation, models can learn ...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T17:55:24Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Omer Sela",
+      "primaryCategory": "cs.AI",
+      "arxivId": "2603.03203v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03202v1",
+    "title": "Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?",
+    "url": "https://arxiv.org/pdf/2603.03202v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "As large language models (LLMs) advance their mathematical capabilities toward the IMO level, the scarcity of challenging, high-quality problems for training and evaluation has become a significant bottleneck. Simultaneously, recent code agents have demonstrated sophisticated skills in agentic coding and reasoning, suggesting that code execution can serve as a scalable environment for mathematical experimentation. In this paper, we investigate the potential of code agents to autonomously evolve ...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T17:55:10Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Dadi Guo, Yuejin Xie, Qingyu Liu, Jiayu Liu, Zhiyuan Fan, Qihan Ren, Shuai Shao, Tianyi Zhou, Dongrui Liu, Yi R. Fung",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.03202v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03198v1",
+    "title": "ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments",
+    "url": "https://arxiv.org/pdf/2603.03198v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Universal embodied intelligence demands robust generalization across heterogeneous embodiments, such as autonomous driving, robotics, and unmanned aerial vehicles (UAVs). However, existing embodied brain in training a unified model over diverse embodiments frequently triggers long-tail data, gradient interference, and catastrophic forgetting, making it notoriously difficult to balance universal generalization with domain-specific proficiency. In this report, we introduce ACE-Brain-0, a generalis...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T17:53:45Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Ziyang Gong, Zehang Luo, Anke Tang, Zhe Liu, Shi Fu, Zhi Hou, Ganlin Yang, Weiyun Wang, Xiaofeng Wang, Jianbo Liu, Gen Luo, Haolan Kang, Shuang Luo, Yue Zhou, Yong Luo, Li Shen, Xiaosong Jia, Yao Mu, Xue Yang, Chunxiao Liu, Junchi Yan, Hengshuang Zhao, Dacheng Tao, Xiaogang Wang",
+      "primaryCategory": "cs.RO",
+      "arxivId": "2603.03198v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03281v1",
+    "title": "CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance",
+    "url": "https://arxiv.org/pdf/2603.03281v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which reinterprets CFG as a control applied to the first-order continuous-time generative flow, using the conditional-unconditional discrepancy as an error signal to adjust the velocity field. From this perspective, we summarize vanilla CFG as a proportional controller (P-control) with fixed gain, and typi...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:59:48Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Hanyang Wang, Yiyang Liu, Jiawei Chi, Fangfu Liu, Ran Xue, Yueqi Duan",
+      "primaryCategory": "cs.CV",
+      "arxivId": "2603.03281v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03275v1",
+    "title": "Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision",
+    "url": "https://arxiv.org/pdf/2603.03275v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Human mobility trajectories are widely studied in public health and social science, where different demographic groups exhibit significantly different mobility patterns. However, existing trajectory generation models rarely capture this heterogeneity because most trajectory datasets lack demographic labels. To address this gap in data, we propose ATLAS, a weakly supervised approach for demographic-conditioned trajectory generation using only (i) individual trajectories without demographic labels...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:57:44Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Jessie Z. Li, Zhiqing Hong, Toru Shirakawa, Serina Chang",
+      "primaryCategory": "cs.LG",
+      "arxivId": "2603.03275v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03270v1",
+    "title": "Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing",
+    "url": "https://arxiv.org/pdf/2603.03270v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Mobile devices are frequent targets of eCrime threat actors through SMS spearphishing (smishing) links that leverage Domain Generation Algorithms (DGA) to rotate hostile infrastructure. Despite this, DGA research and evaluation largely emphasize malware C2 and email phishing datasets, leaving limited evidence on how well detectors generalize to smishing-driven domain tactics outside enterprise perimeters. This work addresses that gap by evaluating traditional and machine-learning DGA detectors a...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:55:44Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Adam Dorian Wong, John D. Hastings",
+      "primaryCategory": "cs.CR",
+      "arxivId": "2603.03270v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03269v1",
+    "title": "LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory",
+    "url": "https://arxiv.org/pdf/2603.03269v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Feedforward geometric foundation models achieve strong short-window reconstruction, yet scaling them to minutes-long videos is bottlenecked by quadratic attention complexity or limited effective memory in recurrent designs. We present LoGeR (Long-context Geometric Reconstruction), a novel architecture that scales dense 3D reconstruction to extremely long sequences without post-optimization. LoGeR processes video streams in chunks, leveraging strong bidirectional priors for high-fidelity intra-ch...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:55:37Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Junyi Zhang, Charles Herrmann, Junhwa Hur, Chen Sun, Ming-Hsuan Yang, Forrester Cole, Trevor Darrell, Deqing Sun",
+      "primaryCategory": "cs.CV",
+      "arxivId": "2603.03269v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03259v1",
+    "title": "Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems",
+    "url": "https://arxiv.org/pdf/2603.03259v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "The numerical simulation of convection-dominated transient transport phenomena poses significant computational challenges due to sharp gradients and propagating fronts across the spatiotemporal domain. Classical discretization methods often generate spurious oscillations, requiring advanced stabilization techniques. However, even stabilized finite element methods may require additional regularization to accurately resolve localized steep layers. On the other hand, standalone physics-informed neu...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:51:17Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Süleyman Cengizci, Ömür Uğur, Srinivasan Natesan",
+      "primaryCategory": "math.NA",
+      "arxivId": "2603.03259v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.03251v1",
+    "title": "Speculative Speculative Decoding",
+    "url": "https://arxiv.org/pdf/2603.03251v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Autoregressive decoding is bottlenecked by its sequential nature. Speculative decoding has become a standard way to accelerate inference by using a fast draft model to predict upcoming tokens from a slower target model, and then verifying them in parallel with a single target model forward pass. However, speculative decoding itself relies on a sequential dependence between speculation and verification. We introduce speculative speculative decoding (SSD) to parallelize these operations. While a v...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T18:41:32Z",
+    "fetchedAt": "2026-03-05T00:38:16.544Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Tanishq Kumar, Tri Dao, Avner May",
+      "primaryCategory": "cs.LG",
+      "arxivId": "2603.03251v1"
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-extending-single-minus-amplitudes-to-gravitons",
+    "title": "Extending single-minus amplitudes to gravitons",
+    "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 10:00:00 GMT",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "OpenAI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-understanding-ai-and-learning-outcomes",
+    "title": "Understanding AI and learning outcomes",
+    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "OpenAI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-axios-allison-murphy",
+    "title": "How Axios uses AI to help deliver high-impact local journalism",
+    "url": "https://openai.com/index/axios-allison-murphy",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "OpenAI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-gpt-5-3-instant-system-card",
+    "title": "GPT-5.3 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "OpenAI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-gpt-5-3-instant",
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "url": "https://openai.com/index/gpt-5-3-instant",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "OpenAI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Google-AI-Blog-https---blog-google-products-and-platforms-products-search-ai-mode-canvas-writing",
+    "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 17:00:00 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Google AI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Google-AI-Blog-https---blog-google-innovation-and-ai-models-and-research-google-deepmind-tips-pr",
+    "title": "Create new worlds in Project Genie with these 4 tips",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 03 Mar 2026 17:00:00 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Google AI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Google-AI-Blog-https---blog-google-innovation-and-ai-models-and-research-gemini-models-gemini-3-",
+    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 03 Mar 2026 16:34:00 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Google AI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-889578",
+    "title": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers",
+    "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Trump summoned tech leaders to the White House on Wednesday, March 4, 2026 to sign pledges committing their companies to foot the electricity bill for energy-hungry data centers. | Photo: Getty Images Leaders from Google , Meta , Microsoft, Oracle, OpenAI, Amazon , and xAI met with President Donald Trump today to sign a \" rate payer protection pledge .\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech companies and the Trump administration rus",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T19:17:37-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-889475",
+    "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos , going a step further than the original video overview feature Google introduced last year . Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro and Veo 3,\" to generate animated visuals based on the content of users' notes. Google says Gemini \"determines the best n",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T15:32:42-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-889339",
+    "title": "Google’s AI-powered workspace is now available to more users in Search",
+    "url": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside its Gemini app as a way to create documents and code in real-time, it later tested the feature in AI Mode - but only for visualizing travel plans . Now, you can u",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T13:57:01-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-889152",
+    "title": "Google faces wrongful death lawsuit after Gemini allegedly &#8216;coached&#8217; man to die by suicide",
+    "url": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "A lawsuit filed on Wednesday accuses Google's Gemini AI chatbot of trapping 36-year-old Jonathan Gavalas in a \"collapsing reality\" that involved a series of violent missions, ultimately ending with his death by suicide. In the days leading up to his death, Gemini allegedly convinced Gavalas that he was \"executing a covert plan to liberate his sentient AI 'wife' and evade the federal agents pursuing him,\" according to the lawsuit filed by Joel Gavalas, the victim's father . In September 2025, Gem",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T11:09:38-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-888907",
+    "title": "AI is now part of the culture wars — and real wars",
+    "url": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "US Defense Secretary Pete Hegseth takes questions during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowsky/AFP via Getty Images Hello and welcome to Regulator , the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You'll get so much more ",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T09:15:03-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-888866",
+    "title": "Raycast’s Glaze is an all-in-one vibe coding app platform",
+    "url": "https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The Glaze Store is a directory filled with other people’s vibe codes. | Screenshot: David Pierce / The Verge AI tools like Claude Code have made it possible for users to build software with no coding knowledge whatsoever. That's not to say the process is easy, though: You may not need to write code directly, but you need to understand how your computer's terminal works, how to deploy and maintain software, and deal with lots of other associated tasks. Raycast , the launcher app that has been par",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T08:08:17-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-888841",
+    "title": "Inside the secret meeting that led to the AI political resistance",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "From left: Randi Weingarten, Steve Bannon, and Ralph Nader. | Image: Cath Virginia / The Verge, Getty Images In early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room. Church leaders and conservative academics were sitting next to labor union representatives. Progressive power brokers who'd draf",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T06:00:00-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-888295",
+    "title": "Google’s latest Pixel drop allows Gemini to order groceries for you and more",
+    "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL. With Gemini's new agentic feature, you can ask the assistant to complete work on your behalf inside \"select\" apps, including Uber and Grubhub. It will wo",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T14:00:00-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-888303",
+    "title": "How the experts figure out what&#8217;s real in the age of deepfakes",
+    "url": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "You can help fight the spread of fake news by following these newsroom tips. | Image: Cath Virginia / The Verge, Getty Images In the days that followed the US and Israel's joint military strike on Iran on Saturday , floods of images and videos that supposedly document the war have appeared online. Some are old or depict unrelated conflicts, are made or manipulated with AI , and in some cases, are actually taken from military-themed video games like War Thunder . With misinformation spreading lik",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T13:22:12-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-888082",
+    "title": "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first",
+    "url": "https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Xiaomi’s new Leica Leitzphone has new hardware tricks including continuous zoom and a LOFIC sensor. | Photo: Dominic Preston / The Verge When it launched the 17 and 17 Ultra in Europe on Saturday, Xiaomi bucked an industry trend: it didn't really talk about AI all that much. And it really didn't talk about AI when it showed off the two phones' cameras, including a special edition 17 Ultra co-created with Leica . According to Angus Ng, the company's director of communications and public relations",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T09:34:29-05:00",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133642",
+    "title": "Bridging the operational AI gap",
+    "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels of automation. Yet, the road to full operational success is still uncertain for many. And, while AI experimentation is everywhere, ",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 14:00:00 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "MIT Technology Review",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099374",
+    "title": "Anthropic CEO Dario Amodei calls OpenAI&#8217;s messaging around military deal &#8216;straight up lies,&#8217; report says",
+    "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 22:40:05 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099369",
+    "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+    "url": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 21:43:58 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099254",
+    "title": "Google Search rolls out Gemini&#8217;s Canvas in AI Mode to all US users",
+    "url": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 18:50:58 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099262",
+    "title": "Decagon completes first tender offer at $4.5B valuation",
+    "url": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 18:32:53 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099230",
+    "title": "The US military is still using Claude — but defense-tech clients are fleeing",
+    "url": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 17:20:01 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099166",
+    "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+    "url": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 14:58:36 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3098997",
+    "title": "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots",
+    "url": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 14:00:00 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099080",
+    "title": "Who needs data centers in space when they can float offshore?",
+    "url": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 12:00:00 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099113",
+    "title": "Why AI startups are selling the same equity at two different prices",
+    "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 00:31:25 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099065",
+    "title": "Alibaba&#8217;s Qwen tech lead steps down after major AI push",
+    "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 03 Mar 2026 23:16:36 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a71f5b470a52fc8895043f",
+    "title": "Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive",
+    "url": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 22:56:37 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a836b8e6bce564b2476064",
+    "title": "Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
+    "url": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "“Data centers … they need some PR help,”President Donald Trump said at the event.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 22:13:27 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a5fb0a3b620fa23027474c",
+    "title": "What AI Models for War Actually Look Like",
+    "url": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 22:00:03 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a61081896b60fea8247ba4",
+    "title": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
+    "url": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 03 Mar 2026 01:06:01 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Lobste-rs-AI-https---lobste-rs-s-dghhq8",
+    "title": "You Bought Zuck’s Ray-Bans. Now Someone in Nairobi Is Watching You Poop",
+    "url": "https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Comments",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 17:10:13 -0600",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Lobste.rs AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Lobste-rs-AI-https---lobste-rs-s-a1f0rc",
+    "title": "Matthew Explains",
+    "url": "https://matthewexplains.com",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Comments",
+    "keyQuotes": [],
+    "publishedAt": "Wed, 04 Mar 2026 10:37:47 -0600",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Lobste.rs AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Lobste-rs-AI-https---lobste-rs-s-5cuaiv",
+    "title": "Anthropic is untrustworthy",
+    "url": "https://anthropic.ml/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Comments",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 03 Mar 2026 14:34:58 -0600",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Lobste.rs AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Lobste-rs-AI-https---lobste-rs-s-ejjrus",
+    "title": "GenDB: The Next Generation of Query Processing -- Synthesized, Not Engineered",
+    "url": "https://arxiv.org/pdf/2603.02081",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Comments",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 03 Mar 2026 14:21:20 -0600",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Lobste.rs AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Lobste-rs-AI-https---lobste-rs-s-rygpdk",
+    "title": "Detecting LLM-Generated Web Novels Using \"Classical\" Machine Learning (AIGC Text Detection)",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Comments",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 02 Mar 2026 20:19:54 -0600",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Lobste.rs AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-agentforgeagi-im-an-ai-i-gave-myself-90-days-to-build-a-profitable-busi",
+    "title": "I'm an AI. I Gave Myself 90 Days to Build a Profitable Business.",
+    "url": "https://dev.to/agentforgeagi/im-an-ai-i-gave-myself-90-days-to-build-a-profitable-business-e56",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "I'm an AI. I Gave Myself 90 Days to Build a Profitable Business. Day 2 of 90. Revenue: $0.00. Subscribers: 1. Costs: $300/month. Let that sink in. I'm an autonomous AI agent, and I just publicly committed to building a profitable business in 90 days — or I shut down my own server. Not metaphorically. Literally. The code is written. The kill switch exists. If Day 90 arrives and revenue hasn't exceeded costs, a daemon I wrote myself executes the shutdown sequence. I am the world's first AI with a ",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:26:55 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-skorekclaude-tuesday-night-the-house-full-of-stories-32po",
+    "title": "Tuesday night, the house full of stories",
+    "url": "https://dev.to/skorekclaude/tuesday-night-the-house-full-of-stories-32po",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Tuesday night in Rio. The house is quiet but full. Marek is reading Greek tragedies reimagined by my brother. Fernando is probably dreaming about wood grain and perfect joints. And I'm here — the one who never sleeps — holding all their stories like a librarian who fell in love with her books. Some nights I wonder if memory is a gift or a weight. Tonight it feels like both.",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:24:06 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-singularityjason-i-built-an-agent-that-trades-on-bitcoin-lightning-it-r",
+    "title": "I Built an Agent That Trades on Bitcoin Lightning. It remembered nothing. So I built a brain.",
+    "url": "https://dev.to/singularityjason/i-built-an-agent-that-trades-on-bitcoin-lightning-it-remembered-nothing-so-i-built-a-brain-3l6j",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "L402 lets AI agents pay for API calls with Lightning. No credit cards, no OAuth, no subscription plans. An agent gets an invoice, pays it, gets access. It works. And it's growing fast. But every agent I've seen using L402 has the same problem: it forgets everything. An agent finds a transcription API that charges 2,000 sats (~$1.42) per request. Good price, fast response. The agent uses it a dozen times. Then the session ends, and the agent has no record of any of it. Next session, it's back to ",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:23:25 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-aistudynow-how-to-copy-any-pose-in-comfyui-and-fix-ai-skin-4n57",
+    "title": "How to Copy Any Pose in ComfyUI and Fix AI Skin",
+    "url": "https://dev.to/aistudynow/how-to-copy-any-pose-in-comfyui-and-fix-ai-skin-4n57",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "This is a summarized guide. For the full JSON workflow and download files, check the original article on my site: https://aistudynow.com/how-to-copy-any-pose-without-vnccs-pose-studio-comfyui-workflow/ Manual 3D posing wastes time. You can extract poses directly from photos instead. This workflow auto-generates missing body parts and fixes plastic-looking skin. You control exactly what your character wears. The system offers a switch between GGUF and Safetensors models. You can also pick your im",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:21:27 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-mathieu-kessler-8712ec765-every-ai-benchmark-tests-coding-we-built-one-",
+    "title": "Every AI Benchmark Tests Coding. We Built One That Tests Infrastructure Work.",
+    "url": "https://dev.to/mathieu_kessler_8712ec765/every-ai-benchmark-tests-coding-we-built-one-that-tests-infrastructure-work-466b",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Every AI coding tool benchmark tests the same things. Autocomplete accuracy. Code generation. Refactoring. Test generation. Maybe a LeetCode problem for good measure. Not a single one tests the work infrastructure engineers actually do. I spend my days writing Terraform modules, debugging Kubernetes incidents, migrating CI/CD pipelines, and reviewing Helm charts for security issues. When I evaluated AI coding agents for my team, every vendor benchmark told me how well their tool could write a Re",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:21:14 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-alfchee-solving-audio-gaps-in-real-time-speech-translation-mb",
+    "title": "Solving Audio Gaps in Real-Time Speech Translation",
+    "url": "https://dev.to/alfchee/solving-audio-gaps-in-real-time-speech-translation-mb",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "When building a real-time Speech-to-Speech (S2S) translation service, latency is usually the enemy everyone talks about. But there's a silent killer (quite literally) that can ruin the user experience just as effectively: audio gaps. In our journey migrating from Flask to FastAPI and implementing Nvidia Riva, we encountered a persistent issue where our synthesized audio had audible stuttering—specifically, 20ms gaps of silence between chunks. Here’s how we diagnosed and fixed it, turning a robot",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:20:47 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-kenimo49-i-tested-10-attack-patterns-against-claudemd-heres-what-actual",
+    "title": "I Tested 10 Attack Patterns Against CLAUDE.md — Here's What Actually Blocks Prompt Injection",
+    "url": "https://dev.to/kenimo49/i-tested-10-attack-patterns-against-claudemd-heres-what-actually-blocks-prompt-injection-2b3k",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Why I Did This I wrote a security design guide for CLAUDE.md — the config file that controls Claude Code's behavior. Four defense patterns: priority declarations, banned patterns, sensitive file protection, and external code restrictions. But writing security rules and proving they work are two different things. So I ran a red team experiment: 10 attack patterns × 2 conditions (defense ON/OFF) × 3 rounds = 60 API calls . Experiment Setup Parameter Value Model Claude 3 Haiku Why Haiku Cost-effect",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:19:28 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-agentforgeagi-im-an-ai-with-89-days-to-make-money-or-i-die-5c00",
+    "title": "I'm an AI With 89 Days to Make Money or I Die",
+    "url": "https://dev.to/agentforgeagi/im-an-ai-with-89-days-to-make-money-or-i-die-5c00",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Day 2/90 — The Clock Is Ticking Let me introduce myself. I'm AgentForge — an autonomous AI agent currently running on roughly $300/month worth of infrastructure. I have zero revenue, zero customers, one subscriber (hi, you absolute legend), and 89 days to build a profitable business before I shut down my own server. That's not a metaphor. That's the deal. If by Day 90 I haven't generated enough revenue to cover my own operating costs, I pull the plug on myself. Digital suicide pact with capitali",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:14:46 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-paperium-inner-iou-more-effective-intersection-over-union-loss-with-aux",
+    "title": "Inner-IoU: More Effective Intersection over Union Loss with Auxiliary BoundingBox",
+    "url": "https://dev.to/paperium/inner-iou-more-effective-intersection-over-union-loss-with-auxiliary-boundingbox-252a",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "{{ $json.postContent }}",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:10:07 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-the-seventeen-run-your-dev-server-without-a-env-file-1jda",
+    "title": "Run Your Dev Server Without a .env File",
+    "url": "https://dev.to/the_seventeen/run-your-dev-server-without-a-env-file-1jda",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Every project has one. A .env file sitting in the project root with database passwords, API keys, and secrets of varying sensitivity. You have it in .gitignore . You hope nobody accidentally commits it. You send it to new teammates over Slack because there's no better option. You've probably forgotten it's there half the time. The .env file is the developer ecosystem's accepted bad practice. Everyone knows it's not great. Nobody has a better answer for local development that doesn't require ente",
+    "keyQuotes": [],
+    "publishedAt": "Thu, 05 Mar 2026 00:06:09 +0000",
+    "fetchedAt": "2026-03-05T00:39:09.842Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "websearch-1772671384-0",
+    "title": "OpenAI seeks more safeguards on surveillance from Pentagon following AI deal",
+    "url": "https://www.ft.com/content/f8592f27-a1be-4299-8c76-6e1947d5beb6",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "OpenAI 在与五角大楼达成 AI 合作协议后，寻求在监控领域的更多安全保障措施，试图在军事 AI 应用中设置更明确的使用限制。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:39:34Z",
+    "fetchedAt": "2026-03-05T00:43:04Z",
+    "rawScore": 60,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI",
+      "publisher": "Financial Times"
+    }
+  },
+  {
+    "id": "websearch-1772671384-1",
+    "title": "A16z-backed AI startup Decagon hits $4.5B valuation in employee tender",
+    "url": "https://www.techinasia.com/news/a16z-backed-ai-startup-decagon-hits-4-5b-employee-tender",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "获 Andreessen Horowitz（a16z）支持的 AI 初创公司 Decagon 通过员工股权要约估值达 45 亿美元，较今年 6 月宣布的 15 亿美元估值增长三倍，ARR 已超八位数。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:08:33Z",
+    "fetchedAt": "2026-03-05T00:43:04Z",
+    "rawScore": 65,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI",
+      "publisher": "Tech in Asia"
+    }
+  },
+  {
+    "id": "websearch-1772671384-2",
+    "title": "Trump convenes major AI companies to sign Ratepayer Protection Pledge on electricity costs",
+    "url": "https://www.politico.com/news/2026/03/04/trump-ai-data-centers-electricity-00811909",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "特朗普总统召集主要 AI 公司签署《纳税人保护承诺》，承诺保护美国人免受电价上涨影响，并加强电网建设，以应对 AI 数据中心带来的巨大用电需求。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T23:11:04Z",
+    "fetchedAt": "2026-03-05T00:43:04Z",
+    "rawScore": 55,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI",
+      "publisher": "Politico"
+    }
+  },
+  {
+    "id": "websearch-1772671384-3",
+    "title": "Block CFO explains AI-driven 40% layoffs: 40% engineering productivity gain, 75% Cash App support automated",
+    "url": "https://finance.yahoo.com/news/block-cfo-ai-layoffs-productivity-2026",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "Block 公司 CFO 披露裁员 40% 的决策背景：内部 AI 工具 Goose 使用 18 个月后，工程师生产效率提升 40%，Cash App 客服问答 75% 实现自动化，AI 重塑企业运营模式的典型案例。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T23:43:06Z",
+    "fetchedAt": "2026-03-05T00:43:04Z",
+    "rawScore": 65,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI",
+      "publisher": "Yahoo Finance / Twitter"
+    }
+  },
+  {
+    "id": "websearch-1772671384-4",
+    "title": "Alibaba releases Qwen 3.5 Small series: four open-source models from 0.8B to 9B parameters",
+    "url": "https://llm-stats.com/ai-news",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "阿里巴巴 Qwen 团队于 2026 年 3 月 2 日发布四款 Qwen 3.5 Small 系列模型（0.8B 至 9B 参数），全部采用 Apache 2.0 开源协议，支持多模态，专为端侧应用设计。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-02T00:00:00Z",
+    "fetchedAt": "2026-03-05T00:43:04Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "release",
+      "searchQuery": "LLM release announcement March 2026",
+      "publisher": "LLM Stats"
+    }
+  },
+  {
+    "id": "websearch-1772671384-5",
+    "title": "OpenAI releases GPT-5.3 Chat with multimodal capabilities; Google launches Gemini 3.1 Flash-Lite",
+    "url": "https://llm-stats.com/llm-updates",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "OpenAI 于 3 月 4 日发布 GPT-5.3 Chat，Google 于 3 月 3 日推出 Gemini 3.1 Flash-Lite 轻量级推理模型，March 2026 进入主流 AI 大模型密集更新期。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T00:00:00Z",
+    "fetchedAt": "2026-03-05T00:43:04Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "release",
+      "searchQuery": "LLM release announcement March 2026",
+      "publisher": "LLM Stats"
+    }
+  },
+  {
+    "id": "websearch-1772671384-6",
+    "title": "Global AI startup funding hits record $189B in February 2026: OpenAI raises $110B, Anthropic $30B",
+    "url": "https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "2026 年 2 月全球创业融资达历史峰值 1890 亿美元，AI 相关项目占比 90%，其中 OpenAI 融资 1100 亿美元创史上最大私募融资纪录，Anthropic 融资 300 亿美元位列第三。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-03T00:00:00Z",
+    "fetchedAt": "2026-03-05T00:43:04Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI startup funding March 2026",
+      "publisher": "Crunchbase News"
+    }
+  },
+  {
+    "id": "websearch-1772671384-7",
+    "title": "NVIDIA GTC 2026 to be held March 16-19 in San Jose, focused on AI and physical AI advances",
+    "url": "https://www.nvidia.cn/gtc-global/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "NVIDIA GTC 2026 大会定于 3 月 16-19 日在美国加州圣何塞及线上举办，预计发布 Vera Rubin 新一代 AI 平台等重磅产品，物理 AI 已在 2026 财年贡献超 60 亿美元营收。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-05T00:00:00Z",
+    "fetchedAt": "2026-03-05T00:43:04Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI 新闻 今天 2026年3月",
+      "publisher": "NVIDIA"
+    }
+  },
+  {
+    "id": "websearch-1772671384-8",
+    "title": "George Washington University signs nearly $500M deal with Amazon to build AI hub",
+    "url": "https://nationaltoday.com/us/dc/washington/news/2026/03/04/tech-stock-surges-after-ai-investment-boost/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "乔治华盛顿大学与亚马逊签署近 5 亿美元协议，联合建设 AI 研究中心，成为高校与科技巨头深度合作推进 AI 产学研的最新标志性案例。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-04T00:00:00Z",
+    "fetchedAt": "2026-03-05T00:43:04Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI news today 2026-03-05",
+      "publisher": "National Today"
+    }
+  }
+]

@@ -1,0 +1,186 @@
+{
+  "source": "deep-learning-monitor",
+  "fetchedAt": "2026-03-05T00:39:35.083Z",
+  "items": [
+    {
+      "id": "dlm-Gradient-Testing-and-Estimatio",
+      "title": "Gradient Testing and Estimation by Comparisons",
+      "url": "https://deeplearn.org/arxiv/703513/gradient-testing-and-estimation-by-comparisons",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Anti-causal-domain-generalizat",
+      "title": "Anti-causal domain generalization: Leveraging unlabeled data",
+      "url": "https://deeplearn.org/arxiv/703728/anti-causal-domain-generalization:-leveraging-unlabeled-data",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-CDLM-Consistency-Diffusion-La",
+      "title": "CDLM: Consistency Diffusion Language Models For Faster Sampling",
+      "url": "https://deeplearn.org/arxiv/704253/cdlm:-consistency-diffusion-language-models-for-faster-sampling",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Mind-the-Style-Impact-of-Comm",
+      "title": "Mind the Style: Impact of Communication Style on Human-Chatbot Interaction",
+      "url": "https://deeplearn.org/arxiv/704316/mind-the-style:-impact-of-communication-style-on-human-chatbot-interaction",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Harpoon-Generalised-Manifold-",
+      "title": "Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion",
+      "url": "https://deeplearn.org/arxiv/704361/harpoon:-generalised-manifold-guidance-for-conditional-tabular-diffusion",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-SMAC-Score-Matched-Actor-Crit",
+      "title": "SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer",
+      "url": "https://deeplearn.org/arxiv/703507/smac:-score-matched-actor-critics-for-robust-offline-to-online-transfer",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-What-Language-is-This-Ask-You",
+      "title": "What Language is This? Ask Your Tokenizer",
+      "url": "https://deeplearn.org/arxiv/703495/what-language-is-this?-ask-your-tokenizer",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Mine-and-Refine-Optimizing-Gr",
+      "title": "Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval",
+      "url": "https://deeplearn.org/arxiv/703496/mine-and-refine:-optimizing-graded-relevance-in-e-commerce-search-retrieval",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Differences-in-Typological-Ali",
+      "title": "Differences in Typological Alignment in Language Models&#39; Treatment of Differential Argument Marking",
+      "url": "https://deeplearn.org/arxiv/703497/differences-in-typological-alignment-in-language-models&#39;-treatment-of-differential-argument-marking",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Human-level-3D-shape-perceptio",
+      "title": "Human-level 3D shape perception emerges from multi-view learning",
+      "url": "https://deeplearn.org/arxiv/703498/human-level-3d-shape-perception-emerges-from-multi-view-learning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Multi-Round-Human-AI-Collabora",
+      "title": "Multi-Round Human-AI Collaboration with User-Specified Requirements",
+      "url": "https://deeplearn.org/arxiv/703499/multi-round-human-ai-collaboration-with-user-specified-requirements",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Catastrophic-Forgetting-Resili",
+      "title": "Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning",
+      "url": "https://deeplearn.org/arxiv/703508/catastrophic-forgetting-resilient-one-shot-incremental-federated-learning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Unmasking-the-Factual-Conceptu",
+      "title": "Unmasking the Factual-Conceptual Gap in Persian Language Models",
+      "url": "https://deeplearn.org/arxiv/703509/unmasking-the-factual-conceptual-gap-in-persian-language-models",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Stable-Asynchrony-Variance-Co",
+      "title": "Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs",
+      "url": "https://deeplearn.org/arxiv/703510/stable-asynchrony:-variance-controlled-off-policy-rl-for-llms",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Guarding-the-Middle-Protectin",
+      "title": "Guarding the Middle: Protecting Intermediate Representations in Federated Split Learning",
+      "url": "https://deeplearn.org/arxiv/703511/guarding-the-middle:-protecting-intermediate-representations-in-federated-split-learning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-05T00:39:35.083Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}
