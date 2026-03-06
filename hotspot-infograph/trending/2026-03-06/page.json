@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "date": "2026-03-06",
+    "slug": "2026-03-06-holiday-reform",
+    "generatedAt": "2026-03-06T14:30:00+08:00",
+    "language": "zh"
+  },
+  "hero": {
+    "title": "中国法定年假全球垫底仅5天",
+    "category": "社会",
+    "color": "#dc2626",
+    "chart": {
+      "type": "bar",
+      "data": [
+        { "label": "法国", "value": 25 },
+        { "label": "英国", "value": 28 },
+        { "label": "日本", "value": 10 },
+        { "label": "香港", "value": 7 },
+        { "label": "中国(现行)", "value": 5, "highlight": true },
+        { "label": "中国(建议)", "value": 10, "highlight": true }
+      ],
+      "highlight": "中国现行最低年假仅5天，代表建议翻倍至10天"
+    },
+    "keyNumbers": [
+      { "value": "5天", "label": "现行最低年假" },
+      { "value": "10天", "label": "建议提高至" },
+      { "value": "4平台", "label": "跨平台热议" }
+    ],
+    "takeaway": "两会代表建议扩假取消调休，最低年假从5天翻倍至10天",
+    "sources": [
+      { "name": "网易新闻", "url": "https://www.163.com/dy/article/KN9R3C3N0556CDOE.html" },
+      { "name": "36氪", "url": "https://36kr.com/p/3701091617975943" },
+      { "name": "新京报", "url": "https://m.bjnews.com.cn/detail/1766636840129083.html" }
+    ],
+    "needsDetail": true,
+    "detailTemplate": "event-timeline",
+    "detailSlug": "holiday-reform-proposals"
+  },
+  "cards": [
+    {
+      "title": "房贷利率下调最多省110万",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": {
+          "value": "110万",
+          "label": "30年房贷最高节省"
+        }
+      },
+      "insight": "利率降145基点，公积金低至2.6%",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "mortgage-rate-cut-savings"
+    },
+    {
+      "title": "伊朗称击中美航母双方互驳",
+      "category": "国际",
+      "color": "#0891b2",
+      "miniChart": {
+        "type": "tags",
+        "data": {
+          "items": ["林肯号航母", "无人机袭击", "美方否认", "第九波打击"]
+        }
+      },
+      "insight": "伊朗称无人机命中航母，美军全面否认",
+      "needsDetail": true,
+      "detailTemplate": "geo-explainer",
+      "detailSlug": "iran-us-carrier-clash"
+    },
+    {
+      "title": "政府工作报告核心KPI出炉",
+      "category": "社会",
+      "color": "#dc2626",
+      "miniChart": {
+        "type": "miniBar",
+        "data": {
+          "items": [
+            { "label": "GDP目标", "value": 4.75, "color": "#dc2626" },
+            { "label": "CPI目标", "value": 2.0, "color": "#f87171" },
+            { "label": "失业率", "value": 5.5, "color": "#fca5a5" }
+          ]
+        }
+      },
+      "insight": "GDP目标首降至5%以下，赤字率4%",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "govt-work-report-kpi"
+    },
+    {
+      "title": "芯片涨价手机或涨25%",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "trend",
+        "data": {
+          "direction": "up",
+          "value": "200%",
+          "label": "存储芯片涨幅"
+        }
+      },
+      "insight": "雷军称内存暴涨，涨价潮延至2027",
+      "needsDetail": false
+    },
+    {
+      "title": "委员建议取消私家车年审",
+      "category": "生活",
+      "color": "#ec4899",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "支持取消", "value": "减负省时" },
+          "right": { "label": "反对取消", "value": "安全隐患" }
+        }
+      },
+      "insight": "年审形式化争议大，车主呼吁以保养替代",
+      "needsDetail": false
+    },
+    {
+      "title": "特朗普白宫接见梅西庆冠军",
+      "category": "体育",
+      "color": "#059669",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": {
+          "value": "2连MVP",
+          "label": "梅西MLS荣誉"
+        }
+      },
+      "insight": "迈阿密国际获MLS冠军受邀访白宫",
+      "needsDetail": false
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "source": "github",
+  "fetchedAt": "2026-03-06T01:52:06.952Z",
+  "items": [
+    {
+      "id": "gh-msitarzewski-agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "github",
+      "category": "project",
+      "score": 7640,
+      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "",
+        "forks": 1192,
+        "starsToday": 1468,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-TheCraigHewitt-seomachine",
+      "title": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "source": "github",
+      "category": "project",
+      "score": 1664,
+      "summary": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "Python",
+        "forks": 319,
+        "starsToday": 310,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-KeygraphHQ-shannon",
+      "title": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "source": "github",
+      "category": "project",
+      "score": 31834,
+      "summary": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 3166,
+        "starsToday": 2930,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-aquasecurity-trivy",
+      "title": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "source": "github",
+      "category": "project",
+      "score": 32891,
+      "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "Go",
+        "forks": 68,
+        "starsToday": 298,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-moeru-ai-airi",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "source": "github",
+      "category": "project",
+      "score": 27468,
+      "summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 2592,
+        "starsToday": 3006,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-inclusionAI-AReaL",
+      "title": "inclusionAI/AReaL",
+      "url": "https://github.com/inclusionAI/AReaL",
+      "source": "github",
+      "category": "project",
+      "score": 4102,
+      "summary": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "Python",
+        "forks": 342,
+        "starsToday": 173,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-microsoft-mcp-for-beginners",
+      "title": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "source": "github",
+      "category": "project",
+      "score": 14930,
+      "summary": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "forks": 4865,
+        "starsToday": 137,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-CodebuffAI-codebuff",
+      "title": "CodebuffAI/codebuff",
+      "url": "https://github.com/CodebuffAI/codebuff",
+      "source": "github",
+      "category": "project",
+      "score": 3878,
+      "summary": "Generate code from the terminal!",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 456,
+        "starsToday": 275,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-FujiwaraChoki-MoneyPrinterV2",
+      "title": "FujiwaraChoki/MoneyPrinterV2",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "source": "github",
+      "category": "project",
+      "score": 14711,
+      "summary": "Automate the process of making money online.",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "Python",
+        "forks": 1473,
+        "starsToday": 511,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-agentscope-ai-ReMe",
+      "title": "agentscope-ai/ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "source": "github",
+      "category": "project",
+      "score": 1830,
+      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "Python",
+        "forks": 144,
+        "starsToday": 194,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-microsoft-hve-core",
+      "title": "microsoft/hve-core",
+      "url": "https://github.com/microsoft/hve-core",
+      "source": "github",
+      "category": "project",
+      "score": 317,
+      "summary": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "extra": {
+        "language": "PowerShell",
+        "forks": 74,
+        "starsToday": 11,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    }
+  ]
+}

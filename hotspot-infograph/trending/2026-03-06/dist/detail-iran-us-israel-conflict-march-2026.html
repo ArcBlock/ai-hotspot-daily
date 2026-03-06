@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>美以联合空袭伊朗：中东战火持续升级 | 热点速览</title>
+<meta property="og:title" content="美以联合空袭伊朗：中东战火持续升级 | 热点速览">
+<meta property="og:description" content="美以联合空袭伊朗：中东战火持续升级">
+<meta property="og:type" content="article">
+<meta name="description" content="美以联合空袭伊朗：中东战火持续升级">
+<style>
+/* ============================================================
+   Reset & Base
+   ============================================================ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --accent: #0891b2;
+  --accent-light: color-mix(in srgb, var(--accent) 12%, transparent);
+  --accent-medium: color-mix(in srgb, var(--accent) 25%, transparent);
+  --accent-soft: color-mix(in srgb, var(--accent) 6%, transparent);
+  --bg: #f8f9fb;
+  --bg-card: #ffffff;
+  --text-primary: #1a1a2e;
+  --text-secondary: #64748b;
+  --text-tertiary: #94a3b8;
+  --border: #e2e8f0;
+  --border-light: #f1f5f9;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
+  --shadow-md: 0 2px 8px rgba(0,0,0,0.08);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.1);
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f0f1a;
+    --bg-card: #1a1a2e;
+    --text-primary: #e8e8f0;
+    --text-secondary: #94a3b8;
+    --text-tertiary: #64748b;
+    --border: #2d2d44;
+    --border-light: #23233a;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+    --shadow-md: 0 2px 8px rgba(0,0,0,0.3);
+    --shadow-lg: 0 8px 24px rgba(0,0,0,0.4);
+  }
+}
+
+[data-theme="dark"] {
+  --bg: #0f0f1a;
+  --bg-card: #1a1a2e;
+  --text-primary: #e8e8f0;
+  --text-secondary: #94a3b8;
+  --text-tertiary: #64748b;
+  --border: #2d2d44;
+  --border-light: #23233a;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+  --shadow-md: 0 2px 8px rgba(0,0,0,0.3);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.4);
+}
+
+[data-theme="light"] {
+  --bg: #f8f9fb;
+  --bg-card: #ffffff;
+  --text-primary: #1a1a2e;
+  --text-secondary: #64748b;
+  --text-tertiary: #94a3b8;
+  --border: #e2e8f0;
+  --border-light: #f1f5f9;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
+  --shadow-md: 0 2px 8px rgba(0,0,0,0.08);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+html { font-size: 16px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text-primary);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ============================================================
+   Page Container
+   ============================================================ */
+.page {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 0 0 40px;
+}
+
+/* ============================================================
+   Top Nav Bar
+   ============================================================ */
+.detail-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px 8px;
+}
+
+.detail-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-light);
+  transition: all 0.2s ease;
+}
+
+.detail-back:hover { background: var(--accent-light); }
+
+.detail-nav-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.date-label {
+  font-size: 13px;
+  color: var(--text-tertiary);
+  font-weight: 500;
+}
+
+.theme-toggle {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+.theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ============================================================
+   Detail Header
+   ============================================================ */
+.detail-header {
+  margin: 8px 16px 0;
+  border-radius: var(--radius-lg);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+  position: relative;
+  animation: fadeInUp 0.5s ease-out;
+}
+
+.detail-header::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 120px;
+  background: linear-gradient(135deg, var(--accent-light) 0%, var(--accent-soft) 60%, transparent 100%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.detail-header-inner {
+  position: relative;
+  z-index: 1;
+  padding: 24px 20px 20px;
+}
+
+.detail-category {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  background: var(--accent);
+  color: #ffffff;
+  letter-spacing: 0.04em;
+  margin-bottom: 14px;
+}
+
+.detail-title {
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 1.35;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+/* ============================================================
+   Detail Sections — Common
+   ============================================================ */
+.detail-section {
+  margin: 16px 16px 0;
+  padding: 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  animation: fadeInUp 0.4s ease-out both;
+}
+
+.detail-section:nth-child(1) { animation-delay: 0.05s; }
+.detail-section:nth-child(2) { animation-delay: 0.10s; }
+.detail-section:nth-child(3) { animation-delay: 0.15s; }
+.detail-section:nth-child(4) { animation-delay: 0.20s; }
+.detail-section:nth-child(5) { animation-delay: 0.25s; }
+.detail-section:nth-child(6) { animation-delay: 0.30s; }
+
+.detail-section h2 {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--accent-light);
+}
+
+/* ============================================================
+   Section: Text
+   ============================================================ */
+.detail-text p {
+  font-size: 15px;
+  color: var(--text-secondary);
+  line-height: 1.75;
+  margin-bottom: 12px;
+}
+
+.detail-text p:last-child { margin-bottom: 0; }
+
+/* ============================================================
+   Section: Chart
+   ============================================================ */
+.detail-chart-container {
+  margin: 8px 0;
+  padding: 16px;
+  background: var(--bg);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+}
+
+.detail-chart-caption {
+  font-size: 12px;
+  color: var(--text-tertiary);
+  text-align: center;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+/* ============================================================
+   Section: Timeline
+   ============================================================ */
+.detail-timeline-track {
+  position: relative;
+  padding-left: 24px;
+}
+
+.detail-timeline-track::before {
+  content: '';
+  position: absolute;
+  left: 7px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--accent), var(--accent-light));
+  border-radius: 1px;
+}
+
+.detail-timeline-event {
+  position: relative;
+  padding: 0 0 20px 20px;
+}
+
+.detail-timeline-event:last-child { padding-bottom: 0; }
+
+.detail-timeline-event::before {
+  content: '';
+  position: absolute;
+  left: -21px;
+  top: 8px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--bg-card);
+  border: 3px solid var(--accent-light);
+  transition: border-color 0.2s;
+}
+
+.detail-timeline-event[data-highlight="true"]::before {
+  border-color: var(--accent);
+  background: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-light);
+}
+
+.detail-timeline-time {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+
+.detail-timeline-desc {
+  font-size: 14px;
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+/* ============================================================
+   Section: Comparison
+   ============================================================ */
+.detail-comparison-grid {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 12px;
+  align-items: start;
+}
+
+.detail-comparison-side {
+  padding: 16px;
+  border-radius: var(--radius-sm);
+  background: var(--bg);
+  border: 1px solid var(--border-light);
+}
+
+.detail-comparison-side h3 {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.detail-comparison-side ul {
+  list-style: none;
+  padding: 0;
+}
+
+.detail-comparison-side li {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.detail-comparison-side li:last-child { border-bottom: none; }
+
+.detail-comparison-divider {
+  width: 2px;
+  align-self: stretch;
+  background: linear-gradient(to bottom, transparent, var(--border), transparent);
+  margin: 16px 0;
+}
+
+/* ============================================================
+   Section: Key Facts
+   ============================================================ */
+.detail-facts-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.detail-fact {
+  text-align: center;
+  padding: 16px 12px;
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-light);
+  border-radius: var(--radius-md);
+}
+
+.detail-fact-value {
+  display: block;
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--accent);
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.detail-fact-label {
+  display: block;
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-top: 4px;
+  font-weight: 500;
+}
+
+/* ============================================================
+   Section: Quote
+   ============================================================ */
+.detail-quote blockquote {
+  padding: 16px 20px;
+  background: var(--accent-soft);
+  border-left: 4px solid var(--accent);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 15px;
+  color: var(--text-primary);
+  line-height: 1.7;
+  font-style: italic;
+}
+
+.detail-quote cite {
+  display: block;
+  margin-top: 10px;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  color: var(--text-tertiary);
+}
+
+/* ============================================================
+   Sources
+   ============================================================ */
+.detail-sources {
+  margin: 16px 16px 0;
+  padding: 16px 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+}
+
+.detail-sources-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  margin-bottom: 8px;
+}
+
+.detail-sources-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.source-link {
+  font-size: 11px;
+  color: var(--text-tertiary);
+  text-decoration: none;
+  padding: 2px 8px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.source-link:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* ============================================================
+   Footer
+   ============================================================ */
+.detail-footer {
+  margin: 24px 16px 0;
+  padding: 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  text-align: center;
+}
+
+.detail-footer-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 10px 24px;
+  border-radius: var(--radius-sm);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-light);
+  transition: all 0.2s ease;
+  margin-bottom: 12px;
+}
+
+.detail-footer-back:hover { background: var(--accent-light); }
+
+.detail-footer-text {
+  font-size: 12px;
+  color: var(--text-tertiary);
+}
+
+/* ============================================================
+   Hero Chart Styles (reused from main page)
+   ============================================================ */
+.chart-bar { display: flex; flex-direction: column; gap: 10px; }
+.chart-bar-item { display: flex; align-items: center; gap: 10px; }
+.chart-bar-label { width: 72px; flex-shrink: 0; font-size: 13px; font-weight: 500; color: var(--text-primary); text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.chart-bar-track { flex: 1; height: 28px; background: var(--border-light); border-radius: 6px; overflow: hidden; }
+.chart-bar-fill { height: 100%; border-radius: 6px; background: linear-gradient(90deg, var(--accent), color-mix(in srgb, var(--accent) 75%, #ffffff)); transition: width 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+.chart-bar-fill[data-highlight="true"] { background: linear-gradient(90deg, var(--accent), color-mix(in srgb, var(--accent) 60%, #ffffff)); box-shadow: 0 2px 8px var(--accent-medium); }
+.chart-bar-value { font-size: 13px; font-weight: 700; color: var(--text-primary); min-width: 48px; flex-shrink: 0; text-align: left; }
+
+.chart-line { width: 100%; overflow: visible; }
+.chart-line svg { width: 100%; height: auto; }
+.chart-line-path { fill: none; stroke: var(--accent); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.chart-line-area { fill: var(--accent-light); }
+.chart-line-dot { fill: var(--accent); stroke: var(--bg-card); stroke-width: 2; }
+.chart-line-label { font-size: 11px; fill: var(--text-tertiary); text-anchor: middle; }
+.chart-line-value { font-size: 11px; fill: var(--text-primary); font-weight: 600; text-anchor: middle; }
+
+.chart-ring { display: flex; align-items: center; gap: 20px; }
+.chart-ring svg { flex-shrink: 0; }
+.chart-ring-label { font-size: 14px; font-weight: 700; text-anchor: middle; fill: var(--text-primary); }
+.chart-ring-sublabel { font-size: 11px; text-anchor: middle; fill: var(--text-secondary); }
+.chart-ring-legend { display: flex; flex-direction: column; gap: 8px; }
+.chart-ring-legend-item { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--text-primary); }
+.chart-ring-legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+.chart-ring-legend-value { font-weight: 700; margin-left: auto; color: var(--text-secondary); }
+
+.chart-timeline { position: relative; padding-left: 20px; }
+.chart-timeline::before { content: ''; position: absolute; left: 7px; top: 4px; bottom: 4px; width: 2px; background: linear-gradient(to bottom, var(--accent), var(--accent-light)); border-radius: 1px; }
+.chart-timeline-item { position: relative; padding: 0 0 16px 16px; }
+.chart-timeline-item:last-child { padding-bottom: 0; }
+.chart-timeline-item::before { content: ''; position: absolute; left: -17px; top: 6px; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); border: 2px solid var(--bg-card); box-shadow: 0 0 0 2px var(--accent-light); }
+.chart-timeline-time { font-size: 11px; font-weight: 600; color: var(--accent); margin-bottom: 2px; }
+.chart-timeline-text { font-size: 13px; color: var(--text-primary); line-height: 1.5; }
+
+.chart-versus { display: grid; grid-template-columns: 1fr auto 1fr; gap: 12px; align-items: center; }
+.chart-versus-left, .chart-versus-right { text-align: center; padding: 16px 12px; border-radius: var(--radius-md); }
+.chart-versus-left { background: var(--accent-soft); border: 1px solid var(--accent-light); }
+.chart-versus-right { background: var(--border-light); border: 1px solid var(--border); }
+.chart-versus-name { font-size: 14px; font-weight: 700; color: var(--text-primary); margin-bottom: 6px; }
+.chart-versus-value { font-size: 28px; font-weight: 800; line-height: 1.2; }
+.chart-versus-left .chart-versus-value { color: var(--accent); }
+.chart-versus-right .chart-versus-value { color: var(--text-secondary); }
+.chart-versus-unit { font-size: 12px; color: var(--text-tertiary); margin-top: 2px; }
+.chart-versus-badge { font-size: 16px; font-weight: 800; color: var(--text-tertiary); background: var(--bg-card); border: 2px solid var(--border); border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; }
+
+.chart-heatmap { display: grid; gap: 4px; }
+.chart-heatmap-cell { aspect-ratio: 1; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 600; color: var(--text-primary); }
+.chart-heatmap-label { font-size: 11px; color: var(--text-tertiary); text-align: center; }
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+@media (min-width: 768px) {
+  .page { max-width: 640px; }
+  .detail-title { font-size: 28px; }
+  .detail-facts-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 1024px) {
+  .page { max-width: 720px; }
+}
+
+/* ============================================================
+   Animations
+   ============================================================ */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <!-- ===== Nav Bar ===== -->
+  <div class="detail-nav">
+    <a class="detail-back" href="./index.html">&larr; 返回速览</a>
+    <div class="detail-nav-right">
+      <span class="date-label">2026-03-06</span>
+      <button class="theme-toggle" id="themeToggle" aria-label="切换深色/浅色模式">
+        <span class="theme-toggle-icon">&#9790;</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ===== Header ===== -->
+  <header class="detail-header">
+    <div class="detail-header-inner">
+      <div class="detail-category">国际</div>
+      <h1 class="detail-title">美以联合空袭伊朗：中东战火持续升级</h1>
+    </div>
+  </header>
+
+  <!-- ===== Sections ===== -->
+  <section class="detail-section detail-text">
+<h2>局势概述</h2>
+<p>2026年2月28日，美国与以色列联合对伊朗发动大规模军事打击，美方代号“史诗狂怒“（Operation Epic Fury），以方代号“咆哮之狮“（Operation Roaring Lion）。打击目标涵盖伊朗核设施、导弹基地、军事指挥中心及高层领导人，伊朗最高领袖哈梅内伊在空袭中身亡。</p>
+<p>此次军事行动发生在美伊日内瓦核谈判第三轮会谈结束仅两天后。阿曼外长此前表示双方已取得“实质性进展“，但特朗普于2月27日公开表态对谈判进展“不满意“。空袭导致谈判无限期中止。</p>
+<p>伊朗随即展开报复行动，向以色列、阿联酋、卡塔尔、科威特、巴林、约旦与沙特发射超过500枚弹道导弹和2000架无人机。以色列于3月3日批准地面部队进入黎巴嫩南部。冲突已从双边军事对抗演变为多战线区域战争。</p>
+</section>
+<section class="detail-section detail-comparison">
+<h2>各方立场</h2>
+<div class="detail-comparison-grid">
+  <div class="detail-comparison-side"><h3>美国与以色列</h3><ul>
+<li>美方称打击目标为伊朗核武器研发设施和弹道导弹基地</li>
+<li>以色列将行动定性为“先发制人的自卫行动“</li>
+<li>截至3月4日，美以宣布已对伊朗境内目标发动超过1700次打击</li>
+<li>美国参议院投票否决了限制总统战争权力的决议</li>
+<li>美军击沉伊朗护卫舰“德纳号“，战区扩展至印度洋</li>
+</ul></div>
+  <div class="detail-comparison-divider"></div>
+  <div class="detail-comparison-side"><h3>伊朗及盟友</h3><ul>
+<li>伊朗外交部指控美以打击了33处民用设施，包括医院、学校和历史遗迹</li>
+<li>伊朗革命卫队启动“真实承诺4”报复行动，已执行16轮反击</li>
+<li>真主党于3月2日从黎巴嫩向以色列发射导弹</li>
+<li>伊朗威胁封锁霍尔木兹海峡，事实上已导致海峡航运中断</li>
+<li>伊朗宣布无限期中止核谈判</li>
+</ul></div>
+</div>
+</section>
+<section class="detail-section detail-key-facts">
+<h2>关键数据</h2>
+<div class="detail-facts-grid">
+<div class="detail-fact"><span class="detail-fact-value">超过1700次（截至3月4日，来源：中新网）</span><span class="detail-fact-label">美以打击次数</span></div>
+<div class="detail-fact"><span class="detail-fact-value">至少1230人（来源：Al Jazeera伤亡追踪）</span><span class="detail-fact-label">伊朗死亡人数</span></div>
+<div class="detail-fact"><span class="detail-fact-value">超过6000人（来源：伊朗国家媒体）</span><span class="detail-fact-label">伊朗受伤人数</span></div>
+<div class="detail-fact"><span class="detail-fact-value">至少11人（来源：Al Jazeera）</span><span class="detail-fact-label">以色列死亡人数</span></div>
+<div class="detail-fact"><span class="detail-fact-value">6人（来源：NBC News）</span><span class="detail-fact-label">美军死亡人数</span></div>
+<div class="detail-fact"><span class="detail-fact-value">500+枚弹道导弹、2000+架无人机（来源：ACLED）</span><span class="detail-fact-label">伊朗发射导弹/无人机</span></div>
+<div class="detail-fact"><span class="detail-fact-value">涨至80-82美元/桶，涨幅10-13%（来源：Bloomberg）</span><span class="detail-fact-label">布伦特原油价格</span></div>
+<div class="detail-fact"><span class="detail-fact-value">油轮通行量骤降约70%后近乎归零（来源：Kpler）</span><span class="detail-fact-label">霍尔木兹海峡航运</span></div>
+</div>
+</section>
+<section class="detail-section detail-timeline">
+<h2>事件发展</h2>
+<div class="detail-timeline-track">
+<div class="detail-timeline-event">
+    <div class="detail-timeline-time">2月26日</div>
+    <div class="detail-timeline-desc">美伊日内瓦核谈判第三轮会谈结束，阿曼外长称双方取得“实质性进展“</div>
+  </div>
+<div class="detail-timeline-event">
+    <div class="detail-timeline-time">2月27日</div>
+    <div class="detail-timeline-desc">特朗普公开表态对谈判进展“不满意“</div>
+  </div>
+<div class="detail-timeline-event" data-highlight="true">
+    <div class="detail-timeline-time">2月28日</div>
+    <div class="detail-timeline-desc">美国与以色列联合对伊朗发动大规模空袭，哈梅内伊在空袭中身亡，超过40名伊朗官员死亡</div>
+  </div>
+<div class="detail-timeline-event" data-highlight="true">
+    <div class="detail-timeline-time">3月1日</div>
+    <div class="detail-timeline-desc">伊朗发动报复性攻击，向以色列及多个海湾国家发射导弹和无人机；3名美军士兵阵亡</div>
+  </div>
+<div class="detail-timeline-event">
+    <div class="detail-timeline-time">3月2日</div>
+    <div class="detail-timeline-desc">真主党从黎巴嫩向以色列发射导弹；布伦特原油价格飙升至80美元以上</div>
+  </div>
+<div class="detail-timeline-event" data-highlight="true">
+    <div class="detail-timeline-time">3月3日</div>
+    <div class="detail-timeline-desc">以色列批准地面部队进入黎巴嫩南部；霍尔木兹海峡航运近乎中断</div>
+  </div>
+<div class="detail-timeline-event">
+    <div class="detail-timeline-time">3月4日</div>
+    <div class="detail-timeline-desc">美军击沉伊朗护卫舰“德纳号“，战区扩展至印度洋；美参议院否决战争权力限制决议</div>
+  </div>
+<div class="detail-timeline-event">
+    <div class="detail-timeline-time">3月5日</div>
+    <div class="detail-timeline-desc">冲突进入第6天，伊朗称已做好抵御地面入侵准备；黎巴嫩空袭已造成77人死亡</div>
+  </div>
+</div>
+</section>
+<section class="detail-section detail-text">
+<h2>影响评估</h2>
+<p>军事层面，冲突已从美以对伊朗的定点打击升级为涵盖伊朗、以色列、黎巴嫩、海湾国家及印度洋的多战线区域战争。伊朗核设施遭受重创，但其报复性打击能力仍在持续，地区安全格局面临根本性重塑。</p>
+<p>经济层面，霍尔木兹海峡事实上的关闭威胁全球约20%的石油供应。韩国KOSPI指数单日暴跌12%，创2008年以来最大跌幅；欧洲天然气价格因卡塔尔LNG设施受袭近乎翻倍。分析师警告，若冲突持续，布伦特原油可能冲击100-200美元/桶，全球通胀或上升0.8个百分点，经济衰退风险显著上升。</p>
+</section>
+
+  <!-- ===== Sources ===== -->
+  <div class="detail-sources">
+    <div class="detail-sources-title">数据来源</div>
+    <div class="detail-sources-list">
+      <a class="source-link" href="https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker" target="_blank" rel="noopener noreferrer">Al Jazeera - 伊朗伤亡实时追踪</a>
+<a class="source-link" href="https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26" target="_blank" rel="noopener noreferrer">CNN - 美以打击伊朗实时更新</a>
+<a class="source-link" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10521/" target="_blank" rel="noopener noreferrer">UK House of Commons Library - 美以空袭伊朗简报</a>
+<a class="source-link" href="https://en.wikipedia.org/wiki/2026_Iran_conflict" target="_blank" rel="noopener noreferrer">Wikipedia - 2026年伊朗冲突</a>
+<a class="source-link" href="https://acleddata.com/update/middle-east-special-issue-march-2026" target="_blank" rel="noopener noreferrer">ACLED - 中东特别报告</a>
+<a class="source-link" href="https://www.bloomberg.com/news/articles/2026-03-05/iran-war-how-oil-prices-are-surging-as-hormuz-shipping-production-disrupted" target="_blank" rel="noopener noreferrer">Bloomberg - 伊朗战争与油价</a>
+<a class="source-link" href="https://www.chinanews.com.cn/gj/2026/03-01/10578620.shtml" target="_blank" rel="noopener noreferrer">中新网 - 美伊冲突五大疑问</a>
+<a class="source-link" href="https://www.nbcnews.com/world/middle-east/live-blog/live-updates-iran-war-israel-us-hezbollah-lebanon-khamenei-trump-rcna261259" target="_blank" rel="noopener noreferrer">NBC News - 美军伤亡报道</a>
+<a class="source-link" href="https://www.kpler.com/blog/us-iran-conflict-strait-of-hormuz-crisis-reshapes-global-oil-markets" target="_blank" rel="noopener noreferrer">Kpler - 霍尔木兹海峡危机分析</a>
+<a class="source-link" href="https://www.armscontrol.org/act/2026-03/news/trump-strikes-iran-amid-nuclear-talks" target="_blank" rel="noopener noreferrer">Arms Control Association - 核谈判与军事打击</a>
+    </div>
+  </div>
+
+  <!-- ===== Footer ===== -->
+  <footer class="detail-footer">
+    <a class="detail-footer-back" href="./index.html">&larr; 返回今日热点速览</a>
+    <div class="detail-footer-text">热点速览 · 由 AI 自动生成 · 发布在 MyVibe</div>
+  </footer>
+</div>
+
+<script>
+(function() {
+  'use strict';
+
+  var toggle = document.getElementById('themeToggle');
+  var icon = toggle.querySelector('.theme-toggle-icon');
+  var root = document.documentElement;
+  var SUN = '\u2600';
+  var MOON = '\u263E';
+
+  function getSystemTheme() {
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+
+  function applyTheme(theme) {
+    root.setAttribute('data-theme', theme);
+    icon.textContent = theme === 'dark' ? SUN : MOON;
+  }
+
+  var saved = null;
+  try { saved = localStorage.getItem('theme'); } catch(e) {}
+  if (saved === 'dark' || saved === 'light') {
+    applyTheme(saved);
+  } else {
+    icon.textContent = getSystemTheme() === 'dark' ? SUN : MOON;
+  }
+
+  toggle.addEventListener('click', function() {
+    var current = root.getAttribute('data-theme');
+    if (!current) current = getSystemTheme();
+    var next = current === 'dark' ? 'light' : 'dark';
+    applyTheme(next);
+    try { localStorage.setItem('theme', next); } catch(e) {}
+  });
+
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+    var hasSaved = false;
+    try { hasSaved = !!localStorage.getItem('theme'); } catch(ex) {}
+    if (!hasSaved) {
+      icon.textContent = e.matches ? SUN : MOON;
+      root.removeAttribute('data-theme');
+    }
+  });
+})();
+</script>
+</body>
+</html>

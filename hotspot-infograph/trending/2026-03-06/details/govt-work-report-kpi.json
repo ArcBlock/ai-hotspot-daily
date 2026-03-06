@@ -1,0 +1,87 @@
+{
+  "slug": "govt-work-report-kpi",
+  "title": "政府工作报告GDP目标首次降至5%以下",
+  "category": "社会",
+  "color": "#dc2626",
+  "template": "data-story",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "报告核心要点",
+      "content": {
+        "paragraphs": [
+          "2026年3月5日，国务院总理李强在十四届全国人大四次会议上作政府工作报告，提出2026年GDP增长预期目标为4.5%-5%，并争取更好结果。这是改革开放以来经济增长预期目标首次落入5%及以下区间，释放出「求真务实、为调结构防风险留出空间」的政策信号。",
+          "财政政策延续积极基调，赤字率维持4%，一般财政支出首次达到30万亿元。超长期特别国债发行1.3万亿元、地方政府专项债4.4万亿元均与上年持平，政策性金融工具规模则从5000亿元大幅提升至8000亿元。全口径赤字规模达11.89万亿元，对应全口径赤字率8.1%。"
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "近年GDP增长目标变化",
+      "content": {
+        "chartType": "bar",
+        "data": [
+          { "label": "2021年", "value": 6.0, "note": "6%以上" },
+          { "label": "2022年", "value": 5.5, "note": "5.5%左右" },
+          { "label": "2023年", "value": 5.0, "note": "5%左右" },
+          { "label": "2024年", "value": 5.0, "note": "5%左右" },
+          { "label": "2025年", "value": 5.0, "note": "5%左右" },
+          { "label": "2026年", "value": 4.75, "note": "4.5%-5%", "highlight": true }
+        ],
+        "highlight": "GDP增长预期目标首次降至5%以下区间",
+        "caption": "数据来源：历年政府工作报告"
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "2026年主要预期目标",
+      "content": {
+        "facts": [
+          { "label": "GDP增长", "value": "4.5%-5%" },
+          { "label": "CPI涨幅", "value": "2%左右" },
+          { "label": "城镇失业率", "value": "5.5%左右" },
+          { "label": "城镇新增就业", "value": "1200万人以上" },
+          { "label": "赤字率", "value": "4%" },
+          { "label": "超长期特别国债", "value": "1.3万亿元" },
+          { "label": "地方专项债", "value": "4.4万亿元" },
+          { "label": "一般财政支出", "value": "30万亿元（首次）" }
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "2026年财政资金分配",
+      "content": {
+        "chartType": "bar",
+        "data": [
+          { "label": "消费品以旧换新", "value": 2500, "unit": "亿元" },
+          { "label": "设备更新", "value": 2000, "unit": "亿元" },
+          { "label": "补充国有大行资本金", "value": 3000, "unit": "亿元" },
+          { "label": "中央预算内投资", "value": 7550, "unit": "亿元" },
+          { "label": "「两重」建设", "value": 8000, "unit": "亿元", "highlight": true },
+          { "label": "政策性金融工具", "value": 8000, "unit": "亿元", "highlight": true }
+        ],
+        "highlight": "政策性金融工具从5000亿增至8000亿，增幅60%",
+        "caption": "数据来源：2026年政府工作报告及国盛宏观解读"
+      }
+    },
+    {
+      "type": "text",
+      "heading": "市场解读",
+      "content": {
+        "paragraphs": [
+          "多家券商认为GDP目标下调体现务实态度，实际政策力度并未缩减。全口径赤字规模11.89万亿元表明财政扩张基调未变，消费和科技是两大重点方向。报告新增「推动价格总水平由负转正」的表述，显示决策层对通缩风险的关注。",
+          "报告强调新质生产力发展，人工智能、生物医药、机器人、量子科技等领域研发应用「走在世界前列」。在消费端，强调增收与机制优化并重，以旧换新补贴延续并扩容，意在通过财政乘数效应拉动内需。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "界面新闻", "url": "https://www.jiemian.com/article/14071823.html" },
+    { "name": "新华网", "url": "https://www.news.cn/politics/20260305/e5c6a09cba0f445b9ee6cc6f8973132a/c.html" },
+    { "name": "新浪财经（国盛宏观）", "url": "https://finance.sina.com.cn/cj/2026-03-05/doc-inhpxwvp3141697.shtml" },
+    { "name": "新京报", "url": "https://www.bjnews.com.cn/detail/1772674571129996.html" },
+    { "name": "21经济网", "url": "https://www.21jingji.com/article/20260305/herald/90463f6682319d0a359f9e54f5f4ccf5.html" }
+  ],
+  "generatedAt": "2026-03-06T15:00:00+08:00"
+}

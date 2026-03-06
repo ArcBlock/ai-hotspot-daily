@@ -1,0 +1,186 @@
+{
+  "source": "deep-learning-monitor",
+  "fetchedAt": "2026-03-06T01:53:18.251Z",
+  "items": [
+    {
+      "id": "dlm-Going-Down-Memory-Lane-Scalin",
+      "title": "Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory",
+      "url": "https://deeplearn.org/arxiv/703984/going-down-memory-lane:-scaling-tokens-for-video-stream-understanding-with-dynamic-kv-cache-memory",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.250Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-SARAH-Spatially-Aware-Real-ti",
+      "title": "SARAH: Spatially Aware Real-time Agentic Humans",
+      "url": "https://deeplearn.org/arxiv/703985/sarah:-spatially-aware-real-time-agentic-humans",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.250Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Online-Smoothed-Demand-Managem",
+      "title": "Online Smoothed Demand Management",
+      "url": "https://deeplearn.org/arxiv/703986/online-smoothed-demand-management",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.250Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-VIRAASAT-Traversing-Novel-Pat",
+      "title": "VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning",
+      "url": "https://deeplearn.org/arxiv/703987/viraasat:-traversing-novel-paths-for-indian-cultural-reasoning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.250Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Quantum-Maximum-Likelihood-Pre",
+      "title": "Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings",
+      "url": "https://deeplearn.org/arxiv/704017/quantum-maximum-likelihood-prediction-via-hilbert-space-embeddings",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.250Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-The-Geometry-of-Noise-Why-Dif",
+      "title": "The Geometry of Noise: Why Diffusion Models Don&#39;t Need Noise Conditioning",
+      "url": "https://deeplearn.org/arxiv/703988/the-geometry-of-noise:-why-diffusion-models-don&#39;t-need-noise-conditioning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.250Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Spatio-Spectroscopic-Represent",
+      "title": "Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks",
+      "url": "https://deeplearn.org/arxiv/703989/spatio-spectroscopic-representation-learning-using-unsupervised-convolutional-long-short-term-memory-networks",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.251Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-RVR-Retrieve-Verify-Retrieve-",
+      "title": "RVR: Retrieve-Verify-Retrieve for Comprehensive Question Answering",
+      "url": "https://deeplearn.org/arxiv/703990/rvr:-retrieve-verify-retrieve-for-comprehensive-question-answering",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.251Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-CapNav-Benchmarking-Vision-La",
+      "title": "CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation",
+      "url": "https://deeplearn.org/arxiv/703991/capnav:-benchmarking-vision-language-models-on-capability-conditioned-indoor-navigation",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.251Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Generated-Reality-Human-centr",
+      "title": "Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control",
+      "url": "https://deeplearn.org/arxiv/703992/generated-reality:-human-centric-world-simulation-using-interactive-video-generation-with-hand-and-camera-control",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.251Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-SPQ-An-Ensemble-Technique-for",
+      "title": "SPQ: An Ensemble Technique for Large Language Model Compression",
+      "url": "https://deeplearn.org/arxiv/703993/spq:-an-ensemble-technique-for-large-language-model-compression",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.251Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Benchmarking-Graph-Neural-Netw",
+      "title": "Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems",
+      "url": "https://deeplearn.org/arxiv/703994/benchmarking-graph-neural-networks-in-solving-hard-constraint-satisfaction-problems",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.251Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Subgroups-of-U-d-Induce-Nat",
+      "title": "Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures",
+      "url": "https://deeplearn.org/arxiv/703995/subgroups-of-$u(d)$-induce-natural-rnn-and-transformer-architectures",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.251Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Deep-Generative-model-that-use",
+      "title": "Deep Generative model that uses physical quantities to generate and retrieve solar magnetic active regions",
+      "url": "https://deeplearn.org/arxiv/703996/deep-generative-model-that-uses-physical-quantities-to-generate-and-retrieve-solar-magnetic-active-regions",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.251Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Learning-Performance-Maximizin",
+      "title": "Learning Performance Maximizing Ensembles with Explainability Guarantees",
+      "url": "https://deeplearn.org/arxiv/703997/learning-performance-maximizing-ensembles-with-explainability-guarantees",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-06T01:53:18.251Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}

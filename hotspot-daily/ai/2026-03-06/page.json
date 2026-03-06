@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "date": "2026-03-06",
+    "slug": "gpt-5-4-unified-frontier-model",
+    "generatedAt": "2026-03-06T09:15:00+08:00",
+    "timezone": "Asia/Shanghai",
+    "confidence": 85,
+    "sourceCount": 5,
+    "language": "zh"
+  },
+  "zh": {
+    "title": "GPT-5.4 发布：重新评估你的选型策略",
+    "subtitle": "首个大一统前沿模型，原生计算机操控 + 百万上下文窗口",
+    "tldr": "OpenAI 发布 GPT-5.4，整合推理、编码、Agent 和计算机操控能力于一体，Tool Search 机制使 Agent 调用成本降低 47%，API 已开放，开发者应立即评估迁移价值。",
+    "keyMetrics": {
+      "subject": "GPT-5.4",
+      "competitors": ["Claude Opus 4.6", "Gemini 3 Pro"],
+      "rows": [
+        { "metric": "Input 价格", "values": ["$2.50", "$5.00", "$2.00"], "unit": "/1M tokens", "note": "GPT-5.4 Pro 为 $30/1M" },
+        { "metric": "Output 价格", "values": ["$15.00", "$25.00", "$12.00"], "unit": "/1M tokens", "note": "GPT-5.4 Pro 为 $180/1M" },
+        { "metric": "上下文窗口", "values": ["1M", "1M", "1M"], "unit": "tokens", "note": "Claude 超 200K 时加价" },
+        { "metric": "GDPval 知识工作", "values": ["83.0%", "-", "-"], "unit": "", "note": "GPT-5.2 为 70.9%" },
+        { "metric": "OSWorld 计算机操控", "values": ["75.0%", "-", "-"], "unit": "", "note": "人类基线 72.4%，GPT-5.2 为 47.3%" },
+        { "metric": "SWE-Bench Pro 编码", "values": ["57.7%", "-", "-"], "unit": "", "note": "GPT-5.3 Codex 为 56.8%" },
+        { "metric": "BrowseComp 搜索", "values": ["82.7%", "-", "-"], "unit": "", "note": "GPT-5.4 Pro 达 89.3%" },
+        { "metric": "ARC-AGI-2 抽象推理", "values": ["83.3%", "-", "-"], "unit": "", "note": "GPT-5.4 Pro 数据，GPT-5.2 Pro 为 54.2%" }
+      ],
+      "footnote": "Claude Opus 4.6 和 Gemini 3 Pro 的 benchmark 数据来自各自官方发布，口径可能不完全一致；GPT-5.4 benchmark 来自 OpenAI 官方博客"
+    },
+    "whatHappened": "2026 年 3 月 5 日，OpenAI 发布 GPT-5.4，定位为「首个大一统前沿模型」，提供三个版本：标准版、Thinking（推理增强）和 Pro（最高性能）。核心升级包括：**原生计算机操控能力**（OSWorld 得分 75%，超过人类基线 72.4%）、**Tool Search 机制**（按需查找工具定义，Agent 场景 token 消耗降低 47%）、**1M token 上下文窗口**（OpenAI 最大）。Thinking 版本会展示初始推理计划，用户可中途调整方向。标准版 API 定价 $2.50/$15 per 1M tokens（input/output），较 GPT-5.2 的 $1.75/$14 有所上调。GPT-5.2 Thinking 将于 2026 年 6 月 5 日下线。",
+    "whyItMatters": "这是 OpenAI 首次在单一模型中整合编码、推理、Agent 工作流和计算机操控四大能力，意味着开发者不再需要为不同任务切换模型。**Tool Search 带来的 47% token 节省**对构建复杂 Agent 系统的团队影响最大——如果你的应用注册了大量工具，调用成本将显著下降。OSWorld 超越人类基线意味着自动化 GUI 操作场景（RPA、测试自动化）进入实用阶段。但需注意，input 单价从 $1.75 上调至 $2.50（+43%），简单调用场景成本可能不降反升。",
+    "whoIsAffected": {
+      "groups": [
+        { "name": "AI Agent 开发者", "impact": "high", "description": "Tool Search 机制大幅降低多工具 Agent 的 token 消耗；原生计算机操控能力开启新的自动化场景；需评估是否从 GPT-5.2 迁移" },
+        { "name": "个人开发者 / 独立开发者", "impact": "high", "description": "统一模型降低了选型复杂度，一个 API 覆盖推理+编码+Agent；但 input 单价上涨 43%，需根据使用模式计算实际成本变化" },
+        { "name": "企业 AI 平台团队", "impact": "medium", "description": "GPT-5.2 Thinking 6月下线，需要制定迁移计划；Pro 版本高昂定价（$30/$180）适合高价值任务但需严格控制调用量" },
+        { "name": "RPA / 测试自动化团队", "impact": "medium", "description": "计算机操控超越人类基线，GUI 自动化场景从概念验证进入生产可用阶段" }
+      ]
+    },
+    "whatToDo": {
+      "immediate": [
+        "在 OpenAI Playground 用 GPT-5.4 跑你现有应用的典型 prompt，对比 GPT-5.2 的输出质量和 token 消耗",
+        "检查你的 Agent 系统注册了多少工具——如果超过 20 个，Tool Search 可能为你节省显著成本",
+        "查看 OpenAI 官方迁移指南，确认 GPT-5.2 Thinking 的下线时间表（2026-06-05）"
+      ],
+      "thisWeek": [
+        "用实际业务数据做 A/B 测试：GPT-5.4 标准版 vs GPT-5.2，计算 input 涨价后的总体成本变化",
+        "如果有 RPA 或 GUI 自动化需求，搭建概念验证评估原生计算机操控能力",
+        "评估 GPT-5.4 Thinking 的推理透明性是否满足你的合规或审计需求"
+      ],
+      "watchAndWait": [
+        "等待第三方独立 benchmark（如 LMSYS Chatbot Arena）验证实际表现，OpenAI 自测数据可能存在偏差",
+        "观察 Anthropic 和 Google 是否在未来数周内发布竞品回应",
+        "关注社区反馈中 GPT-5.4 在长上下文（>500K tokens）场景下的实际表现"
+      ]
+    },
+    "options": [
+      {
+        "name": "立即迁移到 GPT-5.4",
+        "description": "将现有 GPT-5.2 调用切换到 GPT-5.4，启用 Tool Search 优化",
+        "suitableFor": "Agent 工具数量多（>20）、需要计算机操控能力、或需要更强推理能力的团队",
+        "cost": "input 单价上涨 43%（$1.75->$2.50），但 Tool Search 可抵消部分成本",
+        "risk": "新模型可能存在边缘场景 regression；已有 prompt 可能需要调优"
+      },
+      {
+        "name": "混合部署策略",
+        "description": "高价值任务用 GPT-5.4/Pro，简单任务继续用 GPT-5.2 或更便宜的模型",
+        "suitableFor": "成本敏感且任务类型多样的团队",
+        "cost": "需要维护多模型路由逻辑的工程开销",
+        "risk": "模型行为差异可能导致用户体验不一致"
+      },
+      {
+        "name": "等待竞品对比后再决定",
+        "description": "等 1-2 周独立评测出炉，同时评估 Claude Opus 4.6 和 Gemini 3 Pro",
+        "suitableFor": "不急于迁移、希望做充分选型对比的团队",
+        "cost": "时间成本；可能错过早期采用优势",
+        "risk": "GPT-5.2 Thinking 将在 3 个月后下线，不宜拖太久"
+      },
+      {
+        "name": "保持现状",
+        "description": "继续使用 GPT-5.2/5.3 或其他模型，暂不迁移",
+        "suitableFor": "当前方案运行良好、成本可控、且不需要计算机操控或 Tool Search 能力的团队",
+        "cost": "无额外成本",
+        "risk": "GPT-5.2 Thinking 将于 2026-06-05 下线，需在此之前完成迁移规划"
+      }
+    ],
+    "risks": [
+      {
+        "title": "Input 涨价被忽视",
+        "description": "47% 的 Agent 成本节省来自 Tool Search 减少 token 消耗，但 input 单价本身上涨了 43%。如果你的场景不涉及大量工具调用，实际成本可能不降反升。迁移前务必用真实流量做成本测算。"
+      },
+      {
+        "title": "Benchmark 数据来自 OpenAI 自测",
+        "description": "目前公布的 GDPval、OSWorld 等分数均来自 OpenAI 官方，尚无 LMSYS Arena 等独立第三方验证。历史上模型发布初期的自测数据与真实使用体验存在差距，不应仅凭 benchmark 做迁移决策。"
+      },
+      {
+        "title": "急于全量迁移导致 regression",
+        "description": "新模型在特定 prompt 模式或领域知识上可能存在退化。建议先在非关键路径上灰度测试，收集 1-2 周数据后再决定全量切换。"
+      }
+    ],
+    "sources": [
+      { "title": "Introducing GPT-5.4", "url": "https://openai.com/index/introducing-gpt-5-4/", "publisher": "OpenAI", "tier": "official", "excerpt": "GPT-5.4 是 OpenAI 首个整合推理、编码、Agent 和计算机操控的大一统前沿模型，提供标准版、Thinking 和 Pro 三个版本", "publishedAt": "2026-03-05" },
+      { "title": "OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model", "url": "https://the-decoder.com/openai-launches-gpt-5-4-thinking-and-pro-combining-coding-reasoning-and-computer-use-in-one-model/", "publisher": "The Decoder", "tier": "media", "excerpt": "详细列出所有变体定价和 benchmark 数据：GDPval 83%、OSWorld 75%、SWE-Bench Pro 57.7%；Tool Search 减少 47% token 消耗", "publishedAt": "2026-03-05" },
+      { "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions", "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/", "publisher": "TechCrunch", "tier": "media", "excerpt": "GPT-5.4 上下文窗口达 1M tokens，Thinking 版本展示推理计划降低欺骗风险", "publishedAt": "2026-03-05" },
+      { "title": "OpenAI launches GPT-5.4 with native computer use mode", "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for", "publisher": "VentureBeat", "tier": "media", "excerpt": "原生计算机操控模式和金融插件支持 Microsoft Excel、Google Sheets", "publishedAt": "2026-03-05" },
+      { "title": "GPT-5.4 is here -- OpenAI's most capable and efficient model", "url": "https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release", "publisher": "Interesting Engineering", "tier": "media", "excerpt": "OSWorld 超人类基线、投行任务得分 87.3%（GPT-5.2 为 68.4%）、事实错误率降低 33%", "publishedAt": "2026-03-05" }
+    ]
+  },
+  "en": {
+    "title": "GPT-5.4 Ships: Reassess Your LLM Strategy Now",
+    "subtitle": "OpenAI's unified model brings computer use, 1M context, and a pricing tradeoff",
+    "tldr": "OpenAI released GPT-5.4, combining reasoning, coding, agents, and native computer use in one model. Tool Search cuts agent token usage by 47%, but input pricing rose 43% vs GPT-5.2. Evaluate before migrating.",
+    "keyMetrics": {
+      "subject": "GPT-5.4",
+      "competitors": ["Claude Opus 4.6", "Gemini 3 Pro"],
+      "rows": [
+        { "metric": "Input price", "values": ["$2.50", "$5.00", "$2.00"], "unit": "/1M tokens", "note": "GPT-5.4 Pro is $30/1M" },
+        { "metric": "Output price", "values": ["$15.00", "$25.00", "$12.00"], "unit": "/1M tokens", "note": "GPT-5.4 Pro is $180/1M" },
+        { "metric": "Context window", "values": ["1M", "1M", "1M"], "unit": "tokens", "note": "Claude charges premium above 200K" },
+        { "metric": "GDPval knowledge work", "values": ["83.0%", "-", "-"], "unit": "", "note": "GPT-5.2 scored 70.9%" },
+        { "metric": "OSWorld computer use", "values": ["75.0%", "-", "-"], "unit": "", "note": "Human baseline 72.4%, GPT-5.2 was 47.3%" },
+        { "metric": "SWE-Bench Pro coding", "values": ["57.7%", "-", "-"], "unit": "", "note": "GPT-5.3 Codex scored 56.8%" },
+        { "metric": "BrowseComp search", "values": ["82.7%", "-", "-"], "unit": "", "note": "GPT-5.4 Pro reaches 89.3%" },
+        { "metric": "ARC-AGI-2 reasoning", "values": ["83.3%", "-", "-"], "unit": "", "note": "GPT-5.4 Pro; GPT-5.2 Pro was 54.2%" }
+      ],
+      "footnote": "Claude and Gemini benchmarks from their respective releases; GPT-5.4 benchmarks from OpenAI's official blog. Cross-model comparison may have methodology differences."
+    },
+    "whatHappened": "On March 5, 2026, OpenAI released GPT-5.4 in three variants: standard, Thinking (reasoning-enhanced), and Pro (maximum performance). Key upgrades: **native computer use** (75% on OSWorld, surpassing the 72.4% human baseline), **Tool Search** (on-demand tool definition lookup, cutting agent token consumption by 47%), and **1M token context window** (largest from OpenAI). The Thinking variant shows its reasoning plan upfront, allowing mid-process steering. Standard API pricing is $2.50/$15 per 1M tokens (input/output), up from GPT-5.2's $1.75/$14. GPT-5.2 Thinking will be deprecated on June 5, 2026.",
+    "whyItMatters": "This is OpenAI's first model unifying coding, reasoning, agent workflows, and computer use, eliminating the need to route between specialized models. **The 47% token savings from Tool Search** matters most for teams building complex agent systems with many registered tools. Computer use surpassing human baselines on OSWorld signals that GUI automation (RPA, test automation) is entering production-ready territory. However, the 43% input price increase ($1.75 to $2.50) means simple API call patterns may see higher costs, not lower.",
+    "whoIsAffected": {
+      "groups": [
+        { "name": "AI Agent developers", "impact": "high", "description": "Tool Search dramatically reduces token overhead for multi-tool agents; native computer use unlocks new automation capabilities; migration evaluation from GPT-5.2 is now necessary" },
+        { "name": "Solo / indie developers", "impact": "high", "description": "Unified model simplifies selection -- one API for reasoning + coding + agents; but the 43% input price increase requires cost recalculation based on your usage pattern" },
+        { "name": "Enterprise AI platform teams", "impact": "medium", "description": "GPT-5.2 Thinking deprecation in June requires migration planning; Pro tier pricing ($30/$180) suits high-value tasks but demands strict call volume control" },
+        { "name": "RPA / test automation teams", "impact": "medium", "description": "Computer use exceeding human baseline moves GUI automation from proof-of-concept to production viability" }
+      ]
+    },
+    "whatToDo": {
+      "immediate": [
+        "Run your existing prompts through GPT-5.4 in OpenAI Playground and compare output quality and token usage against GPT-5.2",
+        "Count how many tools your agent system registers -- if over 20, Tool Search likely saves you significant costs",
+        "Review the OpenAI migration guide and note the GPT-5.2 Thinking deprecation date (June 5, 2026)"
+      ],
+      "thisWeek": [
+        "A/B test with real production data: GPT-5.4 standard vs GPT-5.2, calculating total cost impact including the input price increase",
+        "If you have RPA or GUI automation needs, build a proof-of-concept using the native computer use capability",
+        "Evaluate whether GPT-5.4 Thinking's reasoning transparency meets your compliance or audit requirements"
+      ],
+      "watchAndWait": [
+        "Wait for independent benchmarks (e.g., LMSYS Chatbot Arena) to validate real-world performance -- OpenAI's self-reported scores may be optimistic",
+        "Watch for competitive responses from Anthropic and Google in the coming weeks",
+        "Monitor community feedback on GPT-5.4's actual performance with long contexts (>500K tokens)"
+      ]
+    },
+    "options": [
+      {
+        "name": "Migrate to GPT-5.4 now",
+        "description": "Switch existing GPT-5.2 calls to GPT-5.4, enable Tool Search optimization",
+        "suitableFor": "Teams with many agent tools (>20), needing computer use, or requiring stronger reasoning",
+        "cost": "Input price rises 43% ($1.75 to $2.50), partially offset by Tool Search savings",
+        "risk": "Edge-case regressions in new model; existing prompts may need tuning"
+      },
+      {
+        "name": "Hybrid deployment",
+        "description": "Use GPT-5.4/Pro for high-value tasks, keep GPT-5.2 or cheaper models for simple tasks",
+        "suitableFor": "Cost-sensitive teams with diverse task types",
+        "cost": "Engineering overhead to maintain multi-model routing logic",
+        "risk": "Behavioral differences between models may cause inconsistent user experience"
+      },
+      {
+        "name": "Wait for independent benchmarks",
+        "description": "Defer migration 1-2 weeks until third-party evaluations are available; compare with Claude Opus 4.6 and Gemini 3 Pro",
+        "suitableFor": "Teams not under time pressure who want thorough model selection",
+        "cost": "Time cost; may miss early-adopter advantages",
+        "risk": "GPT-5.2 Thinking sunsets in 3 months -- don't wait too long"
+      },
+      {
+        "name": "Stay on current setup",
+        "description": "Continue using GPT-5.2/5.3 or other models without migrating",
+        "suitableFor": "Teams whose current solution works well and doesn't need computer use or Tool Search",
+        "cost": "No additional cost",
+        "risk": "GPT-5.2 Thinking will be deprecated on June 5, 2026 -- plan migration before then"
+      }
+    ],
+    "risks": [
+      {
+        "title": "The 47% savings may not apply to your use case",
+        "description": "The cost reduction comes from Tool Search reducing token consumption in multi-tool agent scenarios. Meanwhile, input pricing itself rose 43% ($1.75 to $2.50). If your application doesn't use many tools, your actual costs may increase. Always benchmark with real traffic before committing to migration."
+      },
+      {
+        "title": "Benchmarks are self-reported",
+        "description": "All published GDPval, OSWorld, and other scores come from OpenAI. No independent verification (LMSYS Arena, etc.) is available yet. Historically, self-reported launch benchmarks have diverged from real-world performance. Do not make migration decisions based solely on these numbers."
+      },
+      {
+        "title": "Rushing a full migration may cause regressions",
+        "description": "New models can regress on specific prompt patterns or domain knowledge areas. Run a canary deployment on non-critical paths for 1-2 weeks before switching production traffic."
+      }
+    ],
+    "sources": [
+      { "title": "Introducing GPT-5.4", "url": "https://openai.com/index/introducing-gpt-5-4/", "publisher": "OpenAI", "tier": "official", "excerpt": "GPT-5.4 is OpenAI's first unified frontier model combining reasoning, coding, agents, and computer use in standard, Thinking, and Pro variants", "publishedAt": "2026-03-05" },
+      { "title": "OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model", "url": "https://the-decoder.com/openai-launches-gpt-5-4-thinking-and-pro-combining-coding-reasoning-and-computer-use-in-one-model/", "publisher": "The Decoder", "tier": "media", "excerpt": "Detailed pricing for all variants and benchmarks: GDPval 83%, OSWorld 75%, SWE-Bench Pro 57.7%; Tool Search reduces token usage by 47%", "publishedAt": "2026-03-05" },
+      { "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions", "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/", "publisher": "TechCrunch", "tier": "media", "excerpt": "1M token context window, Thinking variant exposes reasoning plan to reduce deception risk", "publishedAt": "2026-03-05" },
+      { "title": "OpenAI launches GPT-5.4 with native computer use mode", "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for", "publisher": "VentureBeat", "tier": "media", "excerpt": "Native computer use mode with financial plugins supporting Microsoft Excel and Google Sheets", "publishedAt": "2026-03-05" },
+      { "title": "GPT-5.4 is here -- OpenAI's most capable and efficient model", "url": "https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release", "publisher": "Interesting Engineering", "tier": "media", "excerpt": "OSWorld exceeds human baseline, investment banking tasks at 87.3% (GPT-5.2: 68.4%), 33% fewer factual errors", "publishedAt": "2026-03-05" }
+    ]
+  }
+}

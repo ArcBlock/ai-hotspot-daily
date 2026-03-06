@@ -1,0 +1,399 @@
+{
+  "hero": {
+    "id": "topic-holiday-reform",
+    "title": "假期改革呼声高涨：扩假期、取消调休、年假翻倍",
+    "mergedFrom": [
+      "douyin-1",
+      "weibo-17",
+      "baidu-14",
+      "weibo-9"
+    ],
+    "mergedTitles": [
+      "建议扩大公共假期 尽量不要调休",
+      "香港没有调休",
+      "建议最低法定年假从5天提高到10天",
+      "春假清明连休6天家长称很无奈"
+    ],
+    "url": "https://www.douyin.com/search/%E5%BB%BA%E8%AE%AE%E6%89%A9%E5%A4%A7%E5%85%AC%E5%85%B1%E5%81%87%E6%9C%9F%20%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E8%B0%83%E4%BC%91",
+    "source": "douyin",
+    "relatedSources": [
+      "douyin",
+      "weibo",
+      "baidu",
+      "agent-reach-bilibili"
+    ],
+    "crossPlatformCount": 4,
+    "hotScore": 10773994,
+    "scores": {
+      "popularity": 5,
+      "vizPotential": 5,
+      "freshness": 5,
+      "polarity": 5,
+      "diversity": 4,
+      "total": 4.85
+    },
+    "category": "社会",
+    "suggestedChartType": "versus",
+    "rankReason": "假期改革话题在两会期间集中爆发，涉及调休取消、年假从5天提至10天、香港无调休对比等多个维度，跨4个平台热议。数据维度丰富（现行5天vs建议10天、中国vs香港假期制度、各国年假天数对比），极适合做对比可视化。情绪极化明显——打工人强烈支持。"
+  },
+  "cards": [
+    {
+      "id": "topic-mortgage-rate-cut",
+      "title": "利率下调有人房贷省出110万元",
+      "mergedFrom": [
+        "baidu-1"
+      ],
+      "mergedTitles": [
+        "利率下调有人房贷省出110万元"
+      ],
+      "url": "https://www.baidu.com/s?wd=%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83%E6%9C%89%E4%BA%BA%E6%88%BF%E8%B4%B7%E7%9C%81%E5%87%BA110%E4%B8%87%E5%85%83",
+      "source": "baidu",
+      "relatedSources": [
+        "weibo",
+        "baidu",
+        "agent-reach-bilibili"
+      ],
+      "crossPlatformCount": 3,
+      "hotScore": 7808980,
+      "extra": {
+        "desc": "近年来，随着房贷利率的多次下调，许多家庭的月供账单正悄然发生变化。上海一律师家庭的房贷利率下调了145基点，30年的贷款可以节省近110万元。",
+        "img": "https://fyb-2.cdn.bcebos.com/hotboard_image/28f91168ee4ffd638b42ce5d837466d4"
+      },
+      "scores": {
+        "popularity": 5,
+        "vizPotential": 5,
+        "freshness": 4,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 4.60
+      },
+      "category": "财经",
+      "suggestedMiniChartType": "bigNumber",
+      "rankReason": "跨3平台热议，145基点、110万元、30年等硬数据极适合大数字展示。房贷话题全民关注度高，与民生财务直接相关。"
+    },
+    {
+      "id": "topic-iran-us-military",
+      "title": "伊朗称无人机击中美林肯号航母，局势持续升级",
+      "mergedFrom": [
+        "baidu-12",
+        "baidu-16",
+        "weibo-13",
+        "weibo-19",
+        "douyin-14"
+      ],
+      "mergedTitles": [
+        "伊朗：使用无人机击中美林肯号航母",
+        "伊朗：拦截摧毁以色列苍鹭无人机",
+        "伊朗称美军林肯号航母被击中后撤",
+        "伊朗称已准备好应对美军地面入侵",
+        "外交部副部长吊唁哈梅内伊遇难"
+      ],
+      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BD%BF%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%87%BB%E4%B8%AD%E7%BE%8E%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D",
+      "source": "baidu",
+      "relatedSources": [
+        "weibo",
+        "baidu",
+        "douyin"
+      ],
+      "crossPlatformCount": 3,
+      "hotScore": 6758468,
+      "scores": {
+        "popularity": 4,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 5,
+        "diversity": 5,
+        "total": 4.20
+      },
+      "category": "国际",
+      "suggestedMiniChartType": "tags",
+      "rankReason": "美伊冲突重大升级，5条相关候选合并，跨百度微博抖音3平台传播。中东局势突发事件新鲜度最高，情绪极化强烈，与两会类话题形成鲜明领域差异。"
+    },
+    {
+      "id": "topic-govt-work-report",
+      "title": "2026政府工作报告"民生清单"与KPI",
+      "mergedFrom": [
+        "douyin-2",
+        "baidu-3",
+        "baidu-9",
+        "douyin-8"
+      ],
+      "mergedTitles": [
+        "2026政府工作报告"民生清单"",
+        "这些KPI 事关你我的2026",
+        "提振消费！2026年这些最新部署",
+        "速览"十四五"经济社会发展成就"
+      ],
+      "url": "https://www.douyin.com/search/2026%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E2%80%9C%E6%B0%91%E7%94%9F%E6%B8%85%E5%8D%95%E2%80%9D",
+      "source": "douyin",
+      "relatedSources": [
+        "douyin",
+        "baidu",
+        "agent-reach-bilibili"
+      ],
+      "crossPlatformCount": 2,
+      "hotScore": 10735055,
+      "scores": {
+        "popularity": 4,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 3,
+        "diversity": 3,
+        "total": 4.10
+      },
+      "category": "社会",
+      "suggestedMiniChartType": "miniBar",
+      "rankReason": "两会核心议题，政府工作报告含GDP增速目标、CPI、就业率等多维KPI数据，天然适合迷你柱状图展示。4条候选合并，抖音百度双平台热议。"
+    },
+    {
+      "id": "topic-leijun-chip-price",
+      "title": "雷军回应手机内存芯片价格上涨",
+      "mergedFrom": [
+        "douyin-7",
+        "douyin-13"
+      ],
+      "mergedTitles": [
+        "雷军回应手机内存芯片价格上涨",
+        "雷军回应把周云杰带出圈"
+      ],
+      "url": "https://www.douyin.com/search/%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%BA%E5%86%85%E5%AD%98%E8%8A%AF%E7%89%87%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8",
+      "source": "douyin",
+      "relatedSources": [
+        "douyin"
+      ],
+      "crossPlatformCount": 1,
+      "hotScore": 8782430,
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 3.95
+      },
+      "category": "科技",
+      "suggestedMiniChartType": "trend",
+      "rankReason": "芯片涨价有价格趋势数据可做趋势图，雷军自带流量两会期间受关注。科技领域填补多样性，与社会/财经/国际形成差异。"
+    },
+    {
+      "id": "topic-car-inspection-cancel",
+      "title": "建议取消私家车年审制度",
+      "mergedFrom": [
+        "douyin-9"
+      ],
+      "mergedTitles": [
+        "建议取消私家车年审制度"
+      ],
+      "url": "https://www.douyin.com/search/%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%B9%B4%E5%AE%A1%E5%88%B6%E5%BA%A6",
+      "source": "douyin",
+      "relatedSources": [
+        "douyin",
+        "agent-reach-bilibili"
+      ],
+      "crossPlatformCount": 2,
+      "hotScore": 8688331,
+      "scores": {
+        "popularity": 4,
+        "vizPotential": 3,
+        "freshness": 4,
+        "polarity": 5,
+        "diversity": 4,
+        "total": 3.85
+      },
+      "category": "生活",
+      "suggestedMiniChartType": "versus",
+      "rankReason": "两会代表建议取消年审，车主群体共鸣极强，情绪极化明显（车主支持vs安全担忧）。可做支持/反对比例对比图。生活领域增加多样性。"
+    },
+    {
+      "id": "topic-trump-messi",
+      "title": "特朗普在白宫接见梅西",
+      "mergedFrom": [
+        "weibo-5"
+      ],
+      "mergedTitles": [
+        "特朗普在白宫接见梅西"
+      ],
+      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E6%8E%A5%E8%A7%81%E6%A2%85%E8%A5%BF",
+      "source": "weibo",
+      "relatedSources": [
+        "weibo"
+      ],
+      "crossPlatformCount": 1,
+      "hotScore": 448605,
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 3,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 3.70
+      },
+      "category": "体育",
+      "suggestedMiniChartType": "bigNumber",
+      "rankReason": "体育+政治跨界话题，梅西全球知名度高，特朗普自带争议。体育领域填补多样性空缺，与其他两会/财经/国际话题形成差异化。"
+    }
+  ],
+  "allRanked": [
+    {
+      "rank": 1,
+      "id": "topic-holiday-reform",
+      "title": "假期改革呼声高涨：扩假期、取消调休、年假翻倍",
+      "category": "社会",
+      "scores": { "popularity": 5, "vizPotential": 5, "freshness": 5, "polarity": 5, "diversity": 4, "total": 4.85 },
+      "rankReason": "4平台刷屏，数据丰富，情绪极化极强"
+    },
+    {
+      "rank": 2,
+      "id": "topic-mortgage-rate-cut",
+      "title": "利率下调有人房贷省出110万元",
+      "category": "财经",
+      "scores": { "popularity": 5, "vizPotential": 5, "freshness": 4, "polarity": 4, "diversity": 5, "total": 4.60 },
+      "rankReason": "3平台传播，硬数据突出"
+    },
+    {
+      "rank": 3,
+      "id": "topic-iran-us-military",
+      "title": "伊朗称无人机击中美林肯号航母",
+      "category": "国际",
+      "scores": { "popularity": 4, "vizPotential": 3, "freshness": 5, "polarity": 5, "diversity": 5, "total": 4.20 },
+      "rankReason": "重大国际突发事件，3平台传播"
+    },
+    {
+      "rank": 4,
+      "id": "topic-govt-work-report",
+      "title": "2026政府工作报告民生清单与KPI",
+      "category": "社会",
+      "scores": { "popularity": 4, "vizPotential": 5, "freshness": 5, "polarity": 3, "diversity": 3, "total": 4.10 },
+      "rankReason": "两会核心议题，KPI数据丰富"
+    },
+    {
+      "rank": 5,
+      "id": "topic-10trillion-fund",
+      "title": "10万亿存量公积金迎盘活契机",
+      "category": "财经",
+      "scores": { "popularity": 3, "vizPotential": 4, "freshness": 4, "polarity": 3, "diversity": 3, "total": 3.45 },
+      "rankReason": "10万亿大数字，2平台传播"
+    },
+    {
+      "rank": 6,
+      "id": "topic-leijun-chip-price",
+      "title": "雷军回应手机内存芯片价格上涨",
+      "category": "科技",
+      "scores": { "popularity": 3, "vizPotential": 4, "freshness": 5, "polarity": 4, "diversity": 5, "total": 3.95 },
+      "rankReason": "科技名人话题，芯片涨价有趋势数据"
+    },
+    {
+      "rank": 7,
+      "id": "topic-car-inspection-cancel",
+      "title": "建议取消私家车年审制度",
+      "category": "生活",
+      "scores": { "popularity": 4, "vizPotential": 3, "freshness": 4, "polarity": 5, "diversity": 4, "total": 3.85 },
+      "rankReason": "2平台传播，争议性极强"
+    },
+    {
+      "rank": 8,
+      "id": "topic-us-dhs-fired",
+      "title": "美国国土安全部长被解职",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 2, "freshness": 4, "polarity": 3, "diversity": 3, "total": 2.95 },
+      "rankReason": "国际政治新闻，2平台传播"
+    },
+    {
+      "rank": 9,
+      "id": "topic-trump-messi",
+      "title": "特朗普在白宫接见梅西",
+      "category": "体育",
+      "scores": { "popularity": 3, "vizPotential": 3, "freshness": 5, "polarity": 4, "diversity": 5, "total": 3.70 },
+      "rankReason": "体育+政治跨界，全球关注"
+    },
+    {
+      "rank": 10,
+      "id": "topic-medical-salary",
+      "title": "建议医务人员薪酬不得与创收挂钩",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 4, "polarity": 4, "diversity": 2, "total": 3.00 },
+      "rankReason": "医疗改革话题引发讨论"
+    },
+    {
+      "rank": 11,
+      "id": "topic-social-insurance-6th",
+      "title": "社保迎来"第六险"",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 4, "polarity": 3, "diversity": 2, "total": 2.80 },
+      "rankReason": "政策新动态，长期照护险引关注"
+    },
+    {
+      "rank": 12,
+      "id": "topic-birth-subsidy",
+      "title": "两会生育补贴建议：三孩每月5000元、农村育儿补贴",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 4, "polarity": 4, "diversity": 1, "total": 3.05 },
+      "rankReason": "有具体金额数据，但社会类已饱和"
+    },
+    {
+      "rank": 13,
+      "id": "topic-bank-ranking",
+      "title": "工行建行中行农行占全球银行品牌价值前四",
+      "category": "财经",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 3, "polarity": 1, "diversity": 3, "total": 2.65 },
+      "rankReason": "排名数据适合可视化但热度不高"
+    },
+    {
+      "rank": 14,
+      "id": "topic-outsource-equal-pay",
+      "title": "建议规制外包同工不同酬",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 4, "polarity": 4, "diversity": 1, "total": 2.60 },
+      "rankReason": "职场话题引共鸣但数据化潜力有限"
+    },
+    {
+      "rank": 15,
+      "id": "topic-gold-investment",
+      "title": "女子一年半攒2000克黄金挣50万",
+      "category": "财经",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 3, "polarity": 3, "diversity": 3, "total": 3.00 },
+      "rankReason": "有数据但单平台"
+    },
+    {
+      "rank": 16,
+      "id": "topic-robot-chef",
+      "title": "社区食堂引入6万元炒菜机器人",
+      "category": "科技",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 3, "polarity": 2, "diversity": 4, "total": 2.65 },
+      "rankReason": "AI+餐饮有趣但热度有限"
+    },
+    {
+      "rank": 17,
+      "id": "topic-guangzhou-recruitment",
+      "title": "广州制衣村数百名老板街头排队招人",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 3, "freshness": 3, "polarity": 3, "diversity": 1, "total": 2.45 },
+      "rankReason": "有画面感但数据有限"
+    },
+    {
+      "rank": 18,
+      "id": "topic-17yo-new-species",
+      "title": "17岁男生发现新物种筷子蛇登上SCI",
+      "category": "文化",
+      "scores": { "popularity": 2, "vizPotential": 2, "freshness": 3, "polarity": 1, "diversity": 5, "total": 2.30 },
+      "rankReason": "文化/科学领域独特但热度低"
+    },
+    {
+      "rank": 19,
+      "id": "topic-doctor-200yuan",
+      "title": "被医生咆哮塞200元母亲婉拒捐款",
+      "category": "社会",
+      "scores": { "popularity": 3, "vizPotential": 1, "freshness": 5, "polarity": 3, "diversity": 1, "total": 2.60 },
+      "rankReason": "微博热搜第一但可视化潜力低"
+    },
+    {
+      "rank": 20,
+      "id": "topic-now-depart-4",
+      "title": "《现在就出发4》沈腾白敬亭带队",
+      "category": "娱乐",
+      "scores": { "popularity": 2, "vizPotential": 1, "freshness": 4, "polarity": 2, "diversity": 5, "total": 2.35 },
+      "rankReason": "娱乐话题但可视化潜力低"
+    }
+  ],
+  "rankedAt": "2026-03-06T12:00:00+08:00"
+}

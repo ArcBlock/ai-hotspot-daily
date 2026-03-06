@@ -1,0 +1,240 @@
+{
+  "source": "hackernews",
+  "fetchedAt": "2026-03-06T01:51:41.922Z",
+  "items": [
+    {
+      "id": "hn-47265045",
+      "title": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 630,
+      "comments": 551,
+      "publishedAt": "2026-03-05T18:08:10.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47265045"
+      }
+    },
+    {
+      "id": "hn-47268662",
+      "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
+      "url": "https://charm.land/blog/v2/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 84,
+      "comments": 25,
+      "publishedAt": "2026-03-05T23:26:52.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47268662"
+      }
+    },
+    {
+      "id": "hn-47267947",
+      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "url": "https://406.fail/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 83,
+      "comments": 21,
+      "publishedAt": "2026-03-05T22:04:59.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47267947"
+      }
+    },
+    {
+      "id": "hn-47215602",
+      "title": "Hardware hotplug events on Linux, the gory details",
+      "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 117,
+      "comments": 5,
+      "publishedAt": "2026-03-02T09:26:04.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47215602"
+      }
+    },
+    {
+      "id": "hn-47267628",
+      "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+      "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 198,
+      "comments": 99,
+      "publishedAt": "2026-03-05T21:35:40.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47267628"
+      }
+    },
+    {
+      "id": "hn-47263661",
+      "title": "Datasets for Reconstructing Visual Perception from Brain Data",
+      "url": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 50,
+      "comments": 11,
+      "publishedAt": "2026-03-05T16:26:29.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47263661"
+      }
+    },
+    {
+      "id": "hn-47208341",
+      "title": "World-first gigabit laser link between aircraft and geostationary satellite",
+      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 167,
+      "comments": 65,
+      "publishedAt": "2026-03-01T16:49:46.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47208341"
+      }
+    },
+    {
+      "id": "hn-47240424",
+      "title": "A man who broke into jail",
+      "url": "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 108,
+      "comments": 50,
+      "publishedAt": "2026-03-03T23:09:21.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47240424"
+      }
+    },
+    {
+      "id": "hn-47258641",
+      "title": "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
+      "url": "https://netbsd-jails.petermann-digital.de/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 98,
+      "comments": 24,
+      "publishedAt": "2026-03-05T07:23:40.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47258641"
+      }
+    },
+    {
+      "id": "hn-47257394",
+      "title": "The L in \"LLM\" Stands for Lying",
+      "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 612,
+      "comments": 425,
+      "publishedAt": "2026-03-05T04:02:32.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47257394"
+      }
+    },
+    {
+      "id": "hn-47257803",
+      "title": "Relicensing with AI-Assisted Rewrite",
+      "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 377,
+      "comments": 366,
+      "publishedAt": "2026-03-05T05:07:33.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47257803"
+      }
+    },
+    {
+      "id": "hn-47268391",
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "url": "https://www.anthropic.com/research/labor-market-impacts",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 60,
+      "comments": 62,
+      "publishedAt": "2026-03-05T22:55:01.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47268391"
+      }
+    },
+    {
+      "id": "hn-47230710",
+      "title": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 804,
+      "comments": 347,
+      "publishedAt": "2026-03-03T10:57:42.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47230710"
+      }
+    },
+    {
+      "id": "hn-47216825",
+      "title": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
+      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 225,
+      "comments": 212,
+      "publishedAt": "2026-03-02T11:51:57.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47216825"
+      }
+    },
+    {
+      "id": "hn-47205009",
+      "title": "Intelligence is a commodity. Context is the real AI Moat",
+      "url": "https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 118,
+      "comments": 92,
+      "publishedAt": "2026-03-01T09:04:19.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47205009"
+      }
+    },
+    {
+      "id": "hn-47266084",
+      "title": "Pentagon formally labels Anthropic supply-chain risk",
+      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 374,
+      "comments": 250,
+      "publishedAt": "2026-03-05T19:24:35.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47266084"
+      }
+    },
+    {
+      "id": "hn-47246044",
+      "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
+      "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 181,
+      "comments": 95,
+      "publishedAt": "2026-03-04T11:33:46.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47246044"
+      }
+    },
+    {
+      "id": "hn-47263048",
+      "title": "AI and the Ship of Theseus",
+      "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 60,
+      "comments": 67,
+      "publishedAt": "2026-03-05T15:49:45.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47263048"
+      }
+    }
+  ]
+}

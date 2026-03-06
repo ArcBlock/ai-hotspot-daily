@@ -1,0 +1,201 @@
+{
+  "source": "alphaxiv",
+  "fetchedAt": "2026-03-06T01:53:04.426Z",
+  "items": [
+    {
+      "id": "alphaxiv-2603.03276",
+      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+      "url": "https://www.alphaxiv.org/abs/2603.03276",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.425Z",
+      "extra": {
+        "arxivId": "2603.03276",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03251",
+      "title": "Speculative Speculative Decoding",
+      "url": "https://www.alphaxiv.org/abs/2603.03251",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.425Z",
+      "extra": {
+        "arxivId": "2603.03251",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.01097",
+      "title": "Understanding LoRA as Knowledge Memory: An Empirical Analysis",
+      "url": "https://www.alphaxiv.org/abs/2603.01097",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.425Z",
+      "extra": {
+        "arxivId": "2603.01097",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03283",
+      "title": "Utonia: Toward One Encoder for All Point Clouds",
+      "url": "https://www.alphaxiv.org/abs/2603.03283",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.425Z",
+      "extra": {
+        "arxivId": "2603.03283",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.04379",
+      "title": "Helios: Real Real-Time Long Video Generation Model",
+      "url": "https://www.alphaxiv.org/abs/2603.04379",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.425Z",
+      "extra": {
+        "arxivId": "2603.04379",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03195",
+      "title": "Chain of World: World Model Thinking in Latent Motion",
+      "url": "https://www.alphaxiv.org/abs/2603.03195",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.425Z",
+      "extra": {
+        "arxivId": "2603.03195",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.01896",
+      "title": "Agentic Code Reasoning",
+      "url": "https://www.alphaxiv.org/abs/2603.01896",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.425Z",
+      "extra": {
+        "arxivId": "2603.01896",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.02765",
+      "title": "Next Embedding Prediction Makes World Models Stronger",
+      "url": "https://www.alphaxiv.org/abs/2603.02765",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.425Z",
+      "extra": {
+        "arxivId": "2603.02765",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2602.24286",
+      "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+      "url": "https://www.alphaxiv.org/abs/2602.24286",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.425Z",
+      "extra": {
+        "arxivId": "2602.24286",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.02766",
+      "title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems",
+      "url": "https://www.alphaxiv.org/abs/2603.02766",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.426Z",
+      "extra": {
+        "arxivId": "2603.02766",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.01562",
+      "title": "RubricBench: Aligning Model-Generated Rubrics with Human Standards",
+      "url": "https://www.alphaxiv.org/abs/2603.01562",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.426Z",
+      "extra": {
+        "arxivId": "2603.01562",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03279",
+      "title": "ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation",
+      "url": "https://www.alphaxiv.org/abs/2603.03279",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.426Z",
+      "extra": {
+        "arxivId": "2603.03279",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.02479",
+      "title": "PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference",
+      "url": "https://www.alphaxiv.org/abs/2603.02479",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.426Z",
+      "extra": {
+        "arxivId": "2603.02479",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.04385",
+      "title": "ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training",
+      "url": "https://www.alphaxiv.org/abs/2603.04385",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.426Z",
+      "extra": {
+        "arxivId": "2603.04385",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.01145",
+      "title": "AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution",
+      "url": "https://www.alphaxiv.org/abs/2603.01145",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-06T01:53:04.426Z",
+      "extra": {
+        "arxivId": "2603.01145",
+        "fromScrape": true
+      }
+    }
+  ]
+}

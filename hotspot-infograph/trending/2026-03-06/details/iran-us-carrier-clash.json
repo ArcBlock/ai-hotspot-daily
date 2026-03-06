@@ -1,0 +1,90 @@
+{
+  "slug": "iran-us-carrier-clash",
+  "title": "伊朗称无人机命中林肯号航母美方否认",
+  "category": "国际",
+  "color": "#0891b2",
+  "template": "geo-explainer",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "局势概述",
+      "content": {
+        "paragraphs": [
+          "2026年3月5日，伊朗伊斯兰革命卫队（IRGC）宣称其海军无人机部队在阿曼海域命中美国尼米兹级航母「亚伯拉罕·林肯号」（CVN-72），并称该航母及护航舰队随后高速撤退超过1000公里。美国中央司令部（CENTCOM）随即发表声明，全面否认航母遭袭，称林肯号「未被命中」，继续正常执行飞行作战任务。",
+          "此事发生在「史诗之怒」行动（Operation Epic Fury）持续推进的背景下。2月28日美以联军对伊朗发动大规模空袭以来，伊朗多次声称实施反击，但多数说法未获独立核实。伊朗国家电视台播出相关报道时未提供任何影像或数据证据。",
+          "双方信息战色彩浓厚。CENTCOM此前确认已击沉伊朗海军11艘舰艇，并摧毁伊朗无人机母舰「沙希德·巴格里号」。伊朗方面则持续宣传其打击成果，试图在国内和地区层面维持士气和威慑力。"
+        ]
+      }
+    },
+    {
+      "type": "comparison",
+      "heading": "双方说法对比",
+      "content": {
+        "left": {
+          "label": "伊朗（IRGC）",
+          "points": [
+            "海军无人机命中林肯号航母",
+            "航母在阿曼海距伊朗领海340公里处活动",
+            "航母及编队被迫高速撤退超1000公里",
+            "此为第九波对美打击的一部分"
+          ]
+        },
+        "right": {
+          "label": "美国（CENTCOM）",
+          "points": [
+            "林肯号未被命中，来袭武器未接近航母",
+            "航母保持全面作战状态，继续执行飞行任务",
+            "伊朗声称为虚假宣传，无证据支持",
+            "美军已击沉伊朗海军11艘舰艇并摧毁其无人机母舰"
+          ]
+        }
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键数据",
+      "content": {
+        "facts": [
+          { "label": "行动代号", "value": "史诗之怒（Epic Fury）" },
+          { "label": "行动起始日", "value": "2026年2月28日" },
+          { "label": "开战48小时打击目标数", "value": "超过1250个" },
+          { "label": "美方阵亡人数", "value": "6人" },
+          { "label": "伊朗海军被击沉舰艇", "value": "11艘" },
+          { "label": "争议航母", "value": "林肯号（CVN-72）" }
+        ]
+      }
+    },
+    {
+      "type": "timeline",
+      "heading": "冲突事件脉络",
+      "content": {
+        "events": [
+          { "time": "2月27日", "text": "特朗普在空军一号上下令启动「史诗之怒」行动", "highlight": false },
+          { "time": "2月28日", "text": "美以联军对德黑兰、伊斯法罕等5座城市发动空袭，首日打击900个目标", "highlight": true },
+          { "time": "3月1日", "text": "伊朗向波斯湾多国美军基地发射无人机和弹道导弹反击，美军3人阵亡", "highlight": true },
+          { "time": "3月2日", "text": "CENTCOM确认击沉伊朗11艘军舰，美方阵亡人数升至6人", "highlight": false },
+          { "time": "3月3-4日", "text": "美军摧毁伊朗无人机母舰「沙希德·巴格里号」", "highlight": false },
+          { "time": "3月5日", "text": "IRGC宣称无人机命中林肯号航母，CENTCOM全面否认", "highlight": true }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "影响评估",
+      "content": {
+        "paragraphs": [
+          "航母是否遭袭的真实性目前无法独立核实，但这一争议本身折射出美伊双方在信息战层面的激烈博弈。伊朗需要展示反击能力以维持国内民心和地区盟友信心，美方则需维护军事威慑的可信度。",
+          "冲突持续对全球能源市场和航运安全构成威胁。霍尔木兹海峡是全球约20%石油运输的要道，阿曼海域已发生多起商船遇袭事件，国际油价和海运保险费率均出现明显波动。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "Naval Today", "url": "https://www.navaltoday.com/2026/03/05/iran-claims-uss-abraham-lincoln-struck-by-drones-in-sea-of-oman/" },
+    { "name": "Naval Today", "url": "https://www.navaltoday.com/2026/03/04/us-strikes-iranian-drone-carrier-denies-missile-hit-on-uss-abraham-lincoln/" },
+    { "name": "Times of Israel", "url": "https://www.timesofisrael.com/liveblog_entry/iran-state-tv-claims-drones-struck-aircraft-carrier-uss-abraham-lincoln/" },
+    { "name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_conflict" },
+    { "name": "USNI News", "url": "https://news.usni.org/2026/03/02/iranian-naval-forces-are-major-target-in-operation-epic-fury-strikes" }
+  ],
+  "generatedAt": "2026-03-06T15:00:00+08:00"
+}

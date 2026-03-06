@@ -1,0 +1,83 @@
+{
+  "slug": "mortgage-rate-cut-savings",
+  "title": "房贷利率持续下调最多省110万利息",
+  "category": "财经",
+  "color": "#d97706",
+  "template": "data-story",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "利率下调概览",
+      "content": {
+        "paragraphs": [
+          "2026年1月1日起，存量住房公积金贷款利率正式下调25个基点，首套房5年期以上利率降至2.6%，二套房降至3.075%。这是继2024年三次LPR大幅下调后，房贷利率的又一次实质性降低，多城首套房商贷利率已进入「3%以下」时代。",
+          "以一线城市500万元首套住房为例，首付20%后贷款400万元、期限30年，按当前3.0%左右的商贷利率计算，较2023年初4.3%的利率水平，月供减少约3000元，30年总利息节省超过110万元。公积金贷款120万元、30年期限的首套房，利率调整后可节省利息约5.7万元。",
+          "LPR已连续9个月维持在1年期3.0%、5年期3.5%的水平。业内预计2026年仍有5-10个基点的降息空间，但难以重现2024年多次大幅下调的局面。"
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "近三年5年期以上LPR走势",
+      "content": {
+        "chartType": "line",
+        "data": [
+          { "label": "2024年1月", "value": 4.2 },
+          { "label": "2024年2月", "value": 3.95 },
+          { "label": "2024年7月", "value": 3.85 },
+          { "label": "2024年10月", "value": 3.6 },
+          { "label": "2025年5月", "value": 3.5 },
+          { "label": "2026年3月", "value": 3.5 }
+        ],
+        "highlight": "5年期LPR从4.2%降至3.5%，累计下调70个基点",
+        "caption": "数据来源：中国人民银行"
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键数据",
+      "content": {
+        "facts": [
+          { "label": "首套公积金利率（5年以上）", "value": "2.6%" },
+          { "label": "二套公积金利率（5年以上）", "value": "3.075%" },
+          { "label": "5年期LPR（当前）", "value": "3.5%" },
+          { "label": "400万贷款30年最多节省", "value": "约110万元" },
+          { "label": "LPR未调整月数", "value": "连续9个月" },
+          { "label": "2024年LPR累计降幅", "value": "60个基点" }
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "不同贷款额度利息节省估算",
+      "content": {
+        "chartType": "bar",
+        "data": [
+          { "label": "100万/30年", "value": 27.5, "unit": "万元" },
+          { "label": "200万/30年", "value": 55, "unit": "万元" },
+          { "label": "300万/30年", "value": 82.5, "unit": "万元" },
+          { "label": "400万/30年", "value": 110, "unit": "万元", "highlight": true }
+        ],
+        "highlight": "按利率从4.3%降至3.0%计算，等额本息还款",
+        "caption": "注：实际节省金额因各地利率政策和还款方式不同而有差异"
+      }
+    },
+    {
+      "type": "text",
+      "heading": "后续展望",
+      "content": {
+        "paragraphs": [
+          "2026年政府工作报告强调「促进房地产市场止跌回稳」，结合当前CPI低位运行和内需不足的背景，业内普遍预期年内仍有降准降息空间。存量房贷利率下调无需个人申请，重定价日自动执行，购房者可根据自身情况选择缩短还款期限或降低月供。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "人民日报海外版", "url": "http://paper.people.com.cn/rmrbhwb/pc/content/202601/08/content_30130383.html" },
+    { "name": "新浪财经", "url": "https://finance.sina.com.cn/jjxw/2026-01-01/doc-inheuffs8572451.shtml" },
+    { "name": "知乎", "url": "https://www.zhihu.com/question/1988320319740536305" },
+    { "name": "证券时报", "url": "https://www.stcn.com/article/detail/3594374.html" },
+    { "name": "中新网", "url": "https://www.chinanews.com.cn/cj/2026/02-24/10575788.shtml" }
+  ],
+  "generatedAt": "2026-03-06T15:00:00+08:00"
+}

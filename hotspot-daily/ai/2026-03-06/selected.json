@@ -1,0 +1,333 @@
+{
+  "primary": {
+    "id": "hn-47265045",
+    "title": "GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "OpenAI 发布 GPT-5.4，定位为首个大一统前沿模型，在推理、编码和专业办公方面全面升级，Agent 任务成本骤降 47%，提供 Pro 和 Thinking 两个版本，开发者可立即通过 API 接入。",
+    "publishedAt": "2026-03-05T18:08:10.000Z",
+    "rawScore": 630,
+    "category": "discussion",
+    "comments": 551,
+    "prerankScore": 92,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 22
+    },
+    "mergedFrom": [
+      "hn-47265045",
+      "qbitai-GPT-5-4发布-OpenAI首个大一统模型-简直是龙虾原",
+      "rss-The-Verge-AI-https---www-theverge-com--p-889926",
+      "rss-TechCrunch-AI-https---techcrunch-com--p-3099598",
+      "rss-Dev-to-AI-https---dev-to-victorstackai-gpt-54-meets-kev-reality-shipping-faster-without-getting-"
+    ],
+    "scores": {
+      "timeliness": 4,
+      "impact": 5,
+      "actionability": 5,
+      "credibility": 5,
+      "audienceMatch": 5,
+      "total": 4.80
+    },
+    "rankReason": "OpenAI 发布旗舰模型 GPT-5.4，Agent 成本降 47%，HN/Verge/TechCrunch/量子位等多家报道确认，开发者可立即通过 API 接入，对目标受众日常工作影响最大"
+  },
+  "alternates": [
+    {
+      "id": "gh-KeygraphHQ-shannon",
+      "title": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "Shannon Lite 是一个全自动 AI 渗透测试工具，在 XBOW 基准测试上达到 96.15% 的成功率（100/104 漏洞利用），支持白盒源码分析，今日 GitHub 飙升 2930 星。",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "rawScore": 31834,
+      "category": "project",
+      "starsToday": 2930,
+      "aiRelated": true,
+      "prerankScore": 73,
+      "prerankBreakdown": {
+        "timeliness": 25,
+        "sourceHeat": 25,
+        "keywords": 5,
+        "credibility": 18
+      },
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 4.45
+      },
+      "rankReason": "开源 AI 自动渗透测试工具，XBOW 基准 96.15%，安全团队和开发者可立即用于 Web 应用安全测试，今日 2930 星增长表明社区高度关注"
+    },
+    {
+      "id": "gh-msitarzewski-agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "完整的 AI Agency 多智能体套件，内置前端开发、AI 工程师、UX 设计、内容创作、增长黑客等专业化 Agent 模板，每个 Agent 配有独立人设、工作流程和工具链，今日 1468 星。",
+      "publishedAt": "2026-03-06T01:52:06.952Z",
+      "rawScore": 7640,
+      "category": "project",
+      "starsToday": 1468,
+      "aiRelated": true,
+      "prerankScore": 78,
+      "prerankBreakdown": {
+        "timeliness": 25,
+        "sourceHeat": 25,
+        "keywords": 10,
+        "credibility": 18
+      },
+      "scores": {
+        "timeliness": 5,
+        "impact": 3,
+        "actionability": 5,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 4.05
+      },
+      "rankReason": "提供即用型多角色 AI Agent 模板，创业团队可直接集成到工作流中快速搭建 AI 协作体系，与 GPT-5.4 的 Agent 主题形成互补"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "hn-47265045",
+      "title": "GPT-5.4（合并5条同事件报道）",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "source": "hackernews",
+      "mergedFrom": ["hn-47265045", "qbitai-GPT-5-4发布-OpenAI首个大一统模型-简直是龙虾原", "rss-The-Verge-AI-https---www-theverge-com--p-889926", "rss-TechCrunch-AI-https---techcrunch-com--p-3099598", "rss-Dev-to-AI-https---dev-to-victorstackai-gpt-54-meets-kev-reality-shipping-faster-without-getting-"],
+      "scores": { "timeliness": 4, "impact": 5, "actionability": 5, "credibility": 5, "audienceMatch": 5, "total": 4.80 },
+      "rankReason": "OpenAI 旗舰模型 GPT-5.4 发布，Agent 成本降 47%，多家权威媒体确认，开发者可立即通过 API 接入"
+    },
+    {
+      "id": "gh-KeygraphHQ-shannon",
+      "title": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "source": "github",
+      "scores": { "timeliness": 5, "impact": 4, "actionability": 5, "credibility": 4, "audienceMatch": 4, "total": 4.45 },
+      "rankReason": "开源 AI 自动渗透测试工具，XBOW 基准 96.15%，开发者可直接用于安全测试"
+    },
+    {
+      "id": "gh-msitarzewski-agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "github",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 5, "credibility": 3, "audienceMatch": 4, "total": 4.05 },
+      "rankReason": "完整 AI Agency Agent 模板集，可直接集成到团队工作流"
+    },
+    {
+      "id": "gh-microsoft-mcp-for-beginners",
+      "title": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "source": "github",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 4, "credibility": 4, "audienceMatch": 4, "total": 3.95 },
+      "rankReason": "微软官方 MCP 入门课程，六语言覆盖，帮助开发者上手 Agent 协议标准"
+    },
+    {
+      "id": "gh-agentscope-ai-ReMe",
+      "title": "agentscope-ai/ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "source": "github",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 4, "credibility": 3, "audienceMatch": 4, "total": 3.80 },
+      "rankReason": "Agent 记忆管理工具包，解决 LLM Agent 长期记忆痛点"
+    },
+    {
+      "id": "gh-inclusionAI-AReaL",
+      "title": "inclusionAI/AReaL",
+      "url": "https://github.com/inclusionAI/AReaL",
+      "source": "github",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 3, "credibility": 3, "audienceMatch": 4, "total": 3.55 },
+      "rankReason": "高性能 RL 训练框架用于 LLM 推理和 Agent"
+    },
+    {
+      "id": "hn-47266084",
+      "title": "Pentagon formally labels Anthropic supply-chain risk",
+      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+      "source": "hackernews",
+      "scores": { "timeliness": 4, "impact": 4, "actionability": 3, "credibility": 5, "audienceMatch": 3, "total": 3.75 },
+      "rankReason": "五角大楼将 Anthropic 列为供应链风险，WSJ 首发 HN 热议，政策影响面大"
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "google/gemini-3-flash",
+      "url": "https://replicate.com/google/gemini-3-flash",
+      "source": "replicate",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 4, "credibility": 3, "audienceMatch": 4, "total": 3.80 },
+      "rankReason": "Gemini 3 Flash 上线 Replicate，开发者可直接调用"
+    },
+    {
+      "id": "replicate-qwen-qwen3-tts",
+      "title": "qwen/qwen3-tts",
+      "url": "https://replicate.com/qwen/qwen3-tts",
+      "source": "replicate",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 4, "credibility": 3, "audienceMatch": 3, "total": 3.65 },
+      "rankReason": "Qwen3 TTS 模型上线 Replicate，语音合成开发者可直接使用"
+    },
+    {
+      "id": "gh-TheCraigHewitt-seomachine",
+      "title": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "source": "github",
+      "scores": { "timeliness": 5, "impact": 2, "actionability": 4, "credibility": 3, "audienceMatch": 3, "total": 3.40 },
+      "rankReason": "基于 Claude Code 的 SEO 内容生成工具，面向内容营销场景"
+    },
+    {
+      "id": "alphaxiv-2603.01896",
+      "title": "Agentic Code Reasoning",
+      "url": "https://www.alphaxiv.org/abs/2603.01896",
+      "source": "alphaxiv",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 2, "credibility": 4, "audienceMatch": 3, "total": 3.25 },
+      "rankReason": "Agent 代码推理论文，与 AI 编程 Agent 发展趋势相关"
+    },
+    {
+      "id": "alphaxiv-2602.24286",
+      "title": "CUDA Agent: Large-Scale Agentic RL for CUDA Kernel Generation",
+      "url": "https://www.alphaxiv.org/abs/2602.24286",
+      "source": "alphaxiv",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 2, "credibility": 4, "audienceMatch": 3, "total": 3.25 },
+      "rankReason": "用 RL Agent 自动生成高性能 CUDA 内核，对 GPU 编程有参考价值"
+    },
+    {
+      "id": "alphaxiv-2603.03276",
+      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+      "url": "https://www.alphaxiv.org/abs/2603.03276",
+      "source": "alphaxiv",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 2, "credibility": 4, "audienceMatch": 3, "total": 3.25 },
+      "rankReason": "多模态预训练研究，学术价值高但短期可行动性有限"
+    },
+    {
+      "id": "alphaxiv-2603.02766",
+      "title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems",
+      "url": "https://www.alphaxiv.org/abs/2603.02766",
+      "source": "alphaxiv",
+      "scores": { "timeliness": 5, "impact": 2, "actionability": 2, "credibility": 4, "audienceMatch": 3, "total": 3.05 },
+      "rankReason": "多智能体技能自动发现，学术研究方向"
+    },
+    {
+      "id": "websearch-1772762213-1",
+      "title": "UK licensing-first approach for AI training",
+      "url": "https://dbws.io/newsbot/i/nL8N3ZT0LM",
+      "source": "websearch",
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 2, "credibility": 3, "audienceMatch": 2, "total": 3.00 },
+      "rankReason": "英国 AI 训练数据许可政策变化，影响长远但短期可行动性低"
+    },
+    {
+      "id": "qbitai-阿里批准林俊旸离职-CTO周靖人接管千问-Gemini周浩确",
+      "title": "阿里批准林俊旸离职，CTO周靖人接管千问",
+      "url": "https://www.qbitai.com/2026/03/383927.html",
+      "source": "quantumbit",
+      "scores": { "timeliness": 3, "impact": 3, "actionability": 2, "credibility": 4, "audienceMatch": 3, "total": 2.90 },
+      "rankReason": "阿里 AI 高层人事变动，行业信号明确但开发者可行动性低"
+    },
+    {
+      "id": "gh-moeru-ai-airi",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "source": "github",
+      "scores": { "timeliness": 5, "impact": 2, "actionability": 2, "credibility": 3, "audienceMatch": 1, "total": 2.60 },
+      "rankReason": "AI 虚拟伴侣项目，热度高但偏娱乐向，与目标受众专业需求匹配度低"
+    },
+    {
+      "id": "ph-hermit",
+      "title": "Hermit",
+      "url": "https://www.producthunt.com/products/hermit-2",
+      "source": "product-hunt",
+      "scores": { "timeliness": 3, "impact": 2, "actionability": 3, "credibility": 2, "audienceMatch": 3, "total": 2.55 },
+      "rankReason": "ChatGPT 数据迁移工具，实用但影响面有限"
+    },
+    {
+      "id": "ph-step-3-5-flash",
+      "title": "Step 3.5 Flash",
+      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "source": "product-hunt",
+      "scores": { "timeliness": 3, "impact": 2, "actionability": 3, "credibility": 2, "audienceMatch": 3, "total": 2.55 },
+      "rankReason": "开源 MoE 模型面向 OpenClaw Agent，有一定参考价值"
+    },
+    {
+      "id": "websearch-1772762213-3",
+      "title": "Dyna.Ai raises Series A for agentic AI in finance",
+      "url": "https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/",
+      "source": "websearch",
+      "scores": { "timeliness": 4, "impact": 2, "actionability": 2, "credibility": 3, "audienceMatch": 2, "total": 2.55 },
+      "rankReason": "新加坡 AI 金融初创融资，行业动态"
+    },
+    {
+      "id": "websearch-1772762213-2",
+      "title": "JPMorgan expands AI investment",
+      "url": "https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/",
+      "source": "websearch",
+      "scores": { "timeliness": 4, "impact": 2, "actionability": 2, "credibility": 3, "audienceMatch": 2, "total": 2.55 },
+      "rankReason": "摩根大通扩大 AI 投资，企业动态"
+    },
+    {
+      "id": "hf-Lightricks/LTX-2.3",
+      "title": "Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "source": "huggingface",
+      "scores": { "timeliness": 3, "impact": 2, "actionability": 3, "credibility": 3, "audienceMatch": 2, "total": 2.50 },
+      "rankReason": "视频生成模型更新，非今日首发"
+    },
+    {
+      "id": "hn-47267628",
+      "title": "Proton Mail Helped FBI Unmask Anonymous Protester",
+      "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+      "source": "hackernews",
+      "scores": { "timeliness": 5, "impact": 2, "actionability": 1, "credibility": 4, "audienceMatch": 1, "total": 2.50 },
+      "rankReason": "隐私安全新闻，非 AI 相关"
+    },
+    {
+      "id": "gh-FujiwaraChoki-MoneyPrinterV2",
+      "title": "FujiwaraChoki/MoneyPrinterV2",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "source": "github",
+      "scores": { "timeliness": 5, "impact": 1, "actionability": 2, "credibility": 2, "audienceMatch": 1, "total": 2.20 },
+      "rankReason": "自动化赚钱工具，非 AI 核心相关"
+    },
+    {
+      "id": "hn-47257394",
+      "title": "The L in LLM Stands for Lying",
+      "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "source": "hackernews",
+      "scores": { "timeliness": 3, "impact": 2, "actionability": 1, "credibility": 3, "audienceMatch": 2, "total": 2.10 },
+      "rankReason": "观点文章讨论 LLM 幻觉问题，非新发现"
+    },
+    {
+      "id": "gh-aquasecurity-trivy",
+      "title": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "source": "github",
+      "scores": { "timeliness": 5, "impact": 2, "actionability": 3, "credibility": 3, "audienceMatch": 2, "total": 3.00 },
+      "rankReason": "容器安全扫描工具，非 AI 核心但 DevSecOps 相关"
+    },
+    {
+      "id": "replicate-black-forest-labs-flux-2-pro",
+      "title": "black-forest-labs/flux-2-pro",
+      "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+      "source": "replicate",
+      "scores": { "timeliness": 5, "impact": 2, "actionability": 4, "credibility": 3, "audienceMatch": 3, "total": 3.30 },
+      "rankReason": "Flux 2 Pro 图像生成模型上线 Replicate，可直接 API 调用"
+    },
+    {
+      "id": "qbitai-GPT-5-3-Instant上线-ChatGPT终于不说教",
+      "title": "GPT-5.3 Instant上线（旧闻，昨日已选为 primary）",
+      "url": "https://www.qbitai.com/2026/03/383974.html",
+      "source": "quantumbit",
+      "scores": { "timeliness": 2, "impact": 4, "actionability": 4, "credibility": 5, "audienceMatch": 5, "total": 3.90 },
+      "note": "与昨日 primary 重复，排除选择"
+    },
+    {
+      "id": "ph-gitsync-lite-for-macos",
+      "title": "GitSync Lite for macOS",
+      "url": "https://www.producthunt.com/products/gitsync-lite-for-macos",
+      "source": "product-hunt",
+      "scores": { "timeliness": 4, "impact": 1, "actionability": 3, "credibility": 2, "audienceMatch": 2, "total": 2.30 },
+      "rankReason": "Git 同步小工具，非 AI 相关"
+    }
+  ],
+  "rankedAt": "2026-03-06T08:30:00.000Z"
+}

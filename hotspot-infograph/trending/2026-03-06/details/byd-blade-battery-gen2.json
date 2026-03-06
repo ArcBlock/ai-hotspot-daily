@@ -1,0 +1,89 @@
+{
+  "slug": "byd-blade-battery-gen2",
+  "title": "比亚迪二代刀片电池发布：9分钟充至97%",
+  "category": "科技",
+  "color": "#2563eb",
+  "template": "tech-breakdown",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "技术概述",
+      "content": {
+        "paragraphs": [
+          "2026年3月5日，比亚迪在深圳大运中心体育馆正式发布第二代刀片电池及闪充技术。新电池沿用磷酸铁锂体系，采用凹型极柱和短刀片结构设计，单体能量密度从一代的140Wh/kg提升至190-210Wh/kg，内阻降低30%以上，支持800V高压平台和最高8C超级快充。",
+          "充电速度实现历史性突破：常温下10%到70%仅需5分钟，10%到97%仅需9分钟。在哈尔滨-20°C极寒环境实测中，20%充至97%仅需12分钟，-30°C放电容量保持率达80%，较一代提高10个百分点。经500次闪充循环后，电芯通过充电中针刺测试，无烟无明火。",
+          "首批搭载车型超过10款，包括仰望U7（150kWh电池包，纯电续航1006公里）、全新腾势Z9GT（纯电续航1036公里，全球量产纯电车最长）、海狮06EV、海狮07EV、方程豹钛7EV闪充版等。比亚迪同步宣布2026年在全国建设2万座闪充站。"
+        ]
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键数据",
+      "content": {
+        "facts": [
+          { "label": "单体能量密度", "value": "190-210Wh/kg" },
+          { "label": "充电倍率", "value": "最高8C超级快充" },
+          { "label": "10%-97%充电时间", "value": "9分钟（常温）" },
+          { "label": "10%-70%充电时间", "value": "5分钟（常温）" },
+          { "label": "低温充电（-20°C）", "value": "20%-97%仅需12分钟" },
+          { "label": "最大纯电续航", "value": "1036公里（CLTC，腾势Z9GT）" },
+          { "label": "循环寿命", "value": "超4500次，约120万公里" },
+          { "label": "电池质保", "value": "容量低于77.5%免费换新" },
+          { "label": "成本变化", "value": "较一代降低约15%" },
+          { "label": "闪充站规划", "value": "2026年全国建设2万座" }
+        ]
+      }
+    },
+    {
+      "type": "comparison",
+      "heading": "一代 vs 二代刀片电池",
+      "content": {
+        "left": {
+          "label": "一代刀片电池",
+          "points": [
+            "单体能量密度：140-150Wh/kg",
+            "快充倍率：1.5-2C",
+            "30-40分钟充至80%",
+            "纯电续航约600公里",
+            "循环寿命约3000次",
+            "-30°C放电容量约70%",
+            "质保换新门槛：容量低于75%",
+            "长刀片结构设计"
+          ]
+        },
+        "right": {
+          "label": "二代刀片电池",
+          "points": [
+            "单体能量密度：190-210Wh/kg",
+            "快充倍率：最高8C",
+            "9分钟充至97%",
+            "纯电续航突破1000公里",
+            "循环寿命超4500次",
+            "-30°C放电容量约80%",
+            "质保换新门槛：容量低于77.5%",
+            "短刀片结构，内阻降低30%"
+          ]
+        }
+      }
+    },
+    {
+      "type": "text",
+      "heading": "行业影响分析",
+      "content": {
+        "paragraphs": [
+          "二代刀片电池将磷酸铁锂的能量密度提升至接近三元锂电池水平，同时保持安全性和成本优势。9分钟充至97%的速度使电动车补能体验接近燃油车加油，配合2万座闪充站的基础设施布局，有望消除消费者对纯电车补能的焦虑。比亚迪此前目标将电池成本再降15%，进一步压缩纯电车型与燃油车的价格差距。",
+          "在竞争层面，宁德时代预计推出能量密度达210-230Wh/kg的磷酸锰铁锂电池，特斯拉4680电池也在持续迭代。比亚迪凭借整车与电池垂直整合的优势，首批即有10余款量产车型同步搭载二代刀片电池，从技术发布到大规模量产落地的速度领先于行业平均节奏。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "Electrive", "url": "https://www.electrive.com/2026/03/05/10-97-in-nine-minutes-byd-presents-second-generation-of-blade-battery/" },
+    { "name": "CnEVPost", "url": "https://cnevpost.com/2026/03/05/byd-unveils-2nd-gen-blade-battery/" },
+    { "name": "CarNewsChina", "url": "https://carnewschina.com/2026/03/05/byd-unveils-blade-battery-2-0-10-70-in-5-mins-10-97-in-9-mins-and-20000-flash-charging-stations-in-2026/" },
+    { "name": "Electrek", "url": "https://electrek.co/2026/03/04/byds-blade-ev-battery-2-0-unlocks-1000-km-pure-electric-range/" },
+    { "name": "IT之家", "url": "https://www.ithome.com/0/926/310.htm" },
+    { "name": "InsideEVs", "url": "https://insideevs.com/news/789094/byd-second-generation-blade-battery/" }
+  ],
+  "generatedAt": "2026-03-06T09:00:00.000Z"
+}

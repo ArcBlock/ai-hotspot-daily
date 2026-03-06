@@ -1,0 +1,744 @@
+[
+  {
+    "id": "hn-47265045",
+    "title": "GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T18:08:10.000Z",
+    "rawScore": 630,
+    "category": "discussion",
+    "comments": 551,
+    "prerankScore": 92,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "gh-TheCraigHewitt-seomachine",
+    "title": "TheCraigHewitt/seomachine",
+    "url": "https://github.com/TheCraigHewitt/seomachine",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
+    "publishedAt": "2026-03-06T01:52:06.952Z",
+    "rawScore": 1664,
+    "category": "project",
+    "starsToday": 310,
+    "aiRelated": true,
+    "prerankScore": 82,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 24,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "qbitai-GPT-5-4发布-OpenAI首个大一统模型-简直是龙虾原",
+    "title": "GPT-5.4发布：OpenAI首个大一统模型，简直是龙虾原生",
+    "url": "https://www.qbitai.com/2026/03/384345.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "Agent任务成本骤降47%",
+    "publishedAt": "2026-03-06T00:50:44.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 81,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 25,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "gh-msitarzewski-agency-agents",
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+    "publishedAt": "2026-03-06T01:52:06.952Z",
+    "rawScore": 7640,
+    "category": "project",
+    "starsToday": 1468,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-KeygraphHQ-shannon",
+    "title": "KeygraphHQ/shannon",
+    "url": "https://github.com/KeygraphHQ/shannon",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+    "publishedAt": "2026-03-06T01:52:06.952Z",
+    "rawScore": 31834,
+    "category": "project",
+    "starsToday": 2930,
+    "aiRelated": true,
+    "prerankScore": 73,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-agentscope-ai-ReMe",
+    "title": "agentscope-ai/ReMe",
+    "url": "https://github.com/agentscope-ai/ReMe",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+    "publishedAt": "2026-03-06T01:52:06.952Z",
+    "rawScore": 1830,
+    "category": "project",
+    "starsToday": 194,
+    "aiRelated": true,
+    "prerankScore": 73,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 20,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-victorstackai-gpt-54-meets-kev-reality-shipping-faster-without-getting-",
+    "title": "GPT‑5.4 Meets KEV Reality: Shipping Faster Without Getting Owned",
+    "url": "https://dev.to/victorstackai/gpt-54-meets-kev-reality-shipping-faster-without-getting-owned-577f",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "import Tabs from ' @theme /Tabs'; import TabItem from ' @theme /TabItem'; import TOCInline from ' @theme /TOCInline'; import IdealImage from ' @theme /IdealImage'; The signal this week is simple: mode",
+    "publishedAt": "Fri, 06 Mar 2026 01:34:43 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "gh-inclusionAI-AReaL",
+    "title": "inclusionAI/AReaL",
+    "url": "https://github.com/inclusionAI/AReaL",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+    "publishedAt": "2026-03-06T01:52:06.952Z",
+    "rawScore": 4102,
+    "category": "project",
+    "starsToday": 173,
+    "aiRelated": true,
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 19,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "qbitai-GPT-5-3-Instant上线-ChatGPT终于不说教",
+    "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
+    "url": "https://www.qbitai.com/2026/03/383974.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T07:10:17.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 71,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 25,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03276",
+    "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "url": "https://www.alphaxiv.org/abs/2603.03276",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:53:04.425Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.01896",
+    "title": "Agentic Code Reasoning",
+    "url": "https://www.alphaxiv.org/abs/2603.01896",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:53:04.425Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2602.24286",
+    "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+    "url": "https://www.alphaxiv.org/abs/2602.24286",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:53:04.425Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.02766",
+    "title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems",
+    "url": "https://www.alphaxiv.org/abs/2603.02766",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:53:04.426Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03279",
+    "title": "ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation",
+    "url": "https://www.alphaxiv.org/abs/2603.03279",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:53:04.426Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-moeru-ai-airi",
+    "title": "moeru-ai/airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecr",
+    "publishedAt": "2026-03-06T01:52:06.952Z",
+    "rawScore": 27468,
+    "category": "project",
+    "starsToday": 3006,
+    "aiRelated": true,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-FujiwaraChoki-MoneyPrinterV2",
+    "title": "FujiwaraChoki/MoneyPrinterV2",
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Automate the process of making money online.",
+    "publishedAt": "2026-03-06T01:52:06.952Z",
+    "rawScore": 14711,
+    "category": "project",
+    "starsToday": 511,
+    "aiRelated": false,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47266084",
+    "title": "Pentagon formally labels Anthropic supply-chain risk",
+    "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T19:24:35.000Z",
+    "rawScore": 374,
+    "category": "discussion",
+    "comments": 250,
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-SARAH-Spatially-Aware-Real-ti",
+    "title": "SARAH: Spatially Aware Real-time Agentic Humans",
+    "url": "https://deeplearn.org/arxiv/703985/sarah:-spatially-aware-real-time-agentic-humans",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:53:18.250Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-VIRAASAT-Traversing-Novel-Pat",
+    "title": "VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning",
+    "url": "https://deeplearn.org/arxiv/703987/viraasat:-traversing-novel-paths-for-indian-cultural-reasoning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:53:18.250Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-889926",
+    "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "OpenAI is launching GPT-5.4 , the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presenta",
+    "publishedAt": "2026-03-05T13:00:00-05:00",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099598",
+    "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+    "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+    "publishedAt": "Thu, 05 Mar 2026 18:00:15 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "gh-aquasecurity-trivy",
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "publishedAt": "2026-03-06T01:52:06.952Z",
+    "rawScore": 32891,
+    "category": "project",
+    "starsToday": 298,
+    "aiRelated": true,
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 24,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47267628",
+    "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+    "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T21:35:40.000Z",
+    "rawScore": 198,
+    "category": "discussion",
+    "comments": 99,
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 20,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:52:56.422Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "gh-microsoft-mcp-for-beginners",
+    "title": "microsoft/mcp-for-beginners",
+    "url": "https://github.com/microsoft/mcp-for-beginners",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for",
+    "publishedAt": "2026-03-06T01:52:06.952Z",
+    "rawScore": 14930,
+    "category": "project",
+    "starsToday": 137,
+    "aiRelated": true,
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 18,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47257394",
+    "title": "The L in \"LLM\" Stands for Lying",
+    "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-05T04:02:32.000Z",
+    "rawScore": 612,
+    "category": "discussion",
+    "comments": 425,
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-The-Geometry-of-Noise-Why-Dif",
+    "title": "The Geometry of Noise: Why Diffusion Models Don&#39;t Need Noise Conditioning",
+    "url": "https://deeplearn.org/arxiv/703988/the-geometry-of-noise:-why-diffusion-models-don&#39;t-need-noise-conditioning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:53:18.250Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "qbitai-阿里批准林俊旸离职-CTO周靖人接管千问-Gemini周浩确",
+    "title": "阿里批准林俊旸离职，CTO周靖人接管千问！Gemini周浩确定加盟",
+    "url": "https://www.qbitai.com/2026/03/383927.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "谁是周浩？",
+    "publishedAt": "2026-03-05T04:24:41.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:52:56.422Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "pwc-2603.04379",
+    "title": "Paper 2603.04379",
+    "url": "https://huggingface.co/papers/2603.04379",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:52:55.316Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.03790",
+    "title": "Paper 2603.03790",
+    "url": "https://huggingface.co/papers/2603.03790",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:52:55.316Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.02604",
+    "title": "Paper 2603.02604",
+    "url": "https://huggingface.co/papers/2603.02604",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:52:55.316Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "ph-step-3-5-flash",
+    "title": "Step 3.5 Flash",
+    "url": "https://www.producthunt.com/products/step-3-5-flash",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Frontier open-source MoE model built for OpenClaw agents\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/step-3-5-flash?utm_",
+    "publishedAt": "2026-03-05T04:32:05.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 54,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1772762213-1",
+    "title": "UK should back licensing-first approach for AI training, says upper house committee",
+    "url": "https://dbws.io/newsbot/i/nL8N3ZT0LM",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "英国上议院通信与数字委员会发布报告，建议政府正式放弃允许商业性文本和数据挖掘的opt-out方案，转而支持强制许可框架来规范AI训练对版权材料的使用。",
+    "publishedAt": "2026-03-06T00:01:00.125Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 53,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-06T01:52:56.422Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "ph-hermit",
+    "title": "Hermit",
+    "url": "https://www.producthunt.com/products/hermit-2",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Leave ChatGPT while keeping everything it learned about you\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/hermit-2?utm_cam",
+    "publishedAt": "2026-03-05T02:12:09.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 49,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "hf-Lightricks/LTX-2.3",
+    "title": "Lightricks/LTX-2.3",
+    "url": "https://huggingface.co/Lightricks/LTX-2.3",
+    "source": "huggingface",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-04T22:28:28.000Z",
+    "rawScore": 153,
+    "category": "release",
+    "prerankScore": 48,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 20,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "websearch-1772762213-3",
+    "title": "Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work",
+    "url": "https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "新加坡AI初创公司Dyna.Ai完成八位数Series A融资，由Lion X Ventures领投，专注于将agentic AI部署到受监管的金融机构中，解决银行业AI从概念验证到生产环境落地的难题。",
+    "publishedAt": "2026-03-05T12:00:00.000Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 48,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "ph-gitsync-lite-for-macos",
+    "title": "GitSync Lite for macOS",
+    "url": "https://www.producthunt.com/products/gitsync-lite-for-macos",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Monitor, sync &amp; back up your git repos from the menu bar\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/gitsync-lite-fo",
+    "publishedAt": "2026-03-05T07:01:18.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 39,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1772762213-2",
+    "title": "JPMorgan expands AI investment as tech spending nears $20B",
+    "url": "https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "摩根大通2026年技术预算预计达到198亿美元，大幅增加AI投资，将机器学习部署在交易、风控、反欺诈和内部运营等领域，15万员工每周使用内部大语言模型，平均每天节省4小时。",
+    "publishedAt": "2026-03-05T12:00:00.000Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 38,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 5,
+      "credibility": 13
+    }
+  }
+]
