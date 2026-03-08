@@ -1,0 +1,1527 @@
+{
+  "source": "rss",
+  "fetchedAt": "2026-03-08T01:46:38.954Z",
+  "items": [
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-descript",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "url": "https://openai.com/index/descript",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+      "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-codex-security-now-in-research-preview",
+      "title": "Codex Security: now in research preview",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-balyasny-asset-management",
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+      "publishedAt": "Fri, 06 Mar 2026 07:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-reasoning-models-chain-of-thought-controllability",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-introducing-gpt-5-4",
+      "title": "Introducing GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-gpt-5-4-thinking-system-card",
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "",
+      "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-ai-education-opportunity",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "url": "https://openai.com/index/ai-education-opportunity",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "publishedAt": "Thu, 05 Mar 2026 09:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-introducing-the-adoption-news-channel",
+      "title": "Introducing the Adoption news channel",
+      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+      "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-chatgpt-for-excel",
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "url": "https://openai.com/index/chatgpt-for-excel",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+      "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-OpenAI-Blog-https---openai-com-index-the-five-ai-value-models-driving-business-reinvention",
+      "title": "The five AI value models driving business reinvention",
+      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "source": "rss:OpenAI Blog",
+      "category": "news",
+      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+      "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "extra": {
+        "feedName": "OpenAI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-company-news-outreach-and-initiatives-sustainability-speciesn",
+      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+      "publishedAt": "Fri, 06 Mar 2026 18:00:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-company-news-inside-google-googlers-how-google-ai-visual-sear",
+      "title": "Ask a Techspert: How does AI understand my visual searches?",
+      "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "Learn more about AI Mode in Search’s query fan-out method for visual search.",
+      "publishedAt": "Thu, 05 Mar 2026 18:00:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-innovation-and-ai-products-google-ai-updates-february-2026-",
+      "title": "The latest AI news we announced in February",
+      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "Here are Google’s latest AI updates from February 2026",
+      "publishedAt": "Thu, 05 Mar 2026 16:30:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-products-and-platforms-products-search-ai-mode-canvas-writing",
+      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+      "publishedAt": "Wed, 04 Mar 2026 17:00:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-innovation-and-ai-models-and-research-google-deepmind-tips-pr",
+      "title": "Create new worlds in Project Genie with these 4 tips",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
+      "publishedAt": "Tue, 03 Mar 2026 17:00:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-innovation-and-ai-models-and-research-gemini-models-gemini-3-",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "publishedAt": "Tue, 03 Mar 2026 16:34:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-company-news-outreach-and-initiatives-grow-with-google-google",
+      "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+      "publishedAt": "Thu, 26 Feb 2026 18:55:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-products-and-platforms-products-translate-translation-context",
+      "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+      "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+      "publishedAt": "Thu, 26 Feb 2026 18:00:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-innovation-and-ai-technology-ai-nano-banana-2-",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+      "publishedAt": "Thu, 26 Feb 2026 16:00:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Google-AI-Blog-https---blog-google-innovation-and-ai-technology-developers-tools-build-with-nano",
+      "title": "Build with Nano Banana 2, our best image generation and editing model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+      "source": "rss:Google AI Blog",
+      "category": "news",
+      "summary": "Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and fidelity for all image applications.",
+      "publishedAt": "Thu, 26 Feb 2026 16:00:00 +0000",
+      "extra": {
+        "feedName": "Google AI Blog",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-890517",
+      "title": "The OpenClaw superfan meetup serves optimism and lobster",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor information stations, and a demo stage underneath a skylight. Hundreds of people were gathered to celebrate OpenClaw, the AI assistant platform created by Peter Steinberger in Novem",
+      "publishedAt": "2026-03-07T09:00:00-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-890921",
+      "title": "Grammarly is using our identities without permission",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included comments that appeared to be from The Verge 's editor-in-chief, Nilay Patel, as well as editor-at-large David Pierce and senior editors Sean Hollister ",
+      "publishedAt": "2026-03-06T15:58:24-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-890806",
+      "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
+      "url": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "Co-director Daniel Roher. | Image: Focus Features We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives , but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole that comes across like fantastical ad copy. And the rate at which AI firms release new iterations of their products can make it hard to keep track of what's going",
+      "publishedAt": "2026-03-06T14:05:00-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-890347",
+      "title": "The Pentagon formally labels Anthropic a supply-chain risk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images After weeks of failed negotiations, public ultimatums, and lawsuit threats , the Defense Department has formally labeled Anthropic a \"supply-chain risk,\" escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first reported b",
+      "publishedAt": "2026-03-05T18:02:22-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-889973",
+      "title": "Netflix is buying Ben Affleck’s AI startup",
+      "url": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "Though Netflix lost the war for Warner Bros. , it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado . Today, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers and researchers move over to Netflix. Affleck is also set to join the streamer as a senior adviser. In a statement about the acquisition and his ",
+      "publishedAt": "2026-03-05T13:27:16-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-889926",
+      "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "OpenAI is launching GPT-5.4 , the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications. The new model is a step toward the agentic future that AI companies are aiming to build, where a network of AI-powered agent",
+      "publishedAt": "2026-03-05T13:00:00-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-889637",
+      "title": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
+      "url": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and G&ouml;teborgs-Posten . The report, which was published last week , claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate moments.\" So far, at least one proposed class action lawsuit accusing Meta of violating false advertising and privacy l",
+      "publishedAt": "2026-03-05T11:37:52-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-889836",
+      "title": "Apple Music adds optional labels for AI songs and visuals",
+      "url": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "No AI usage will be assumed on works that providers haven't voluntarily tagged. | Illustration: Alex Castro / The Verge Apple is asking artists and record labels on its music streaming platform to voluntarily label songs that were made using AI. The new \"Transparency Tags\" metadata system for Apple Music was announced in a newsletter to industry partners yesterday, according to Music Business Worldwide , and covers four categories, including track, composition, artwork, and music videos. The tra",
+      "publishedAt": "2026-03-05T09:00:00-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-889395",
+      "title": "AI tools can unmask anonymous accounts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "Do you have a Reddit alt, secret X, finsta, or Glassdoor account you trash your boss with? AI might have just made it a lot easier to unmask you. That's the conclusion of a recently published study , which hints at some uncomfortable consequences for staying private online - even if it's not quite time to hold a funeral for anonymity just yet. The finding, which has not been peer reviewed, comes from researchers at ETH Zurich, Anthropic, and the Machine Learning Alignment and Theory Scholars pro",
+      "publishedAt": "2026-03-05T08:30:00-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-The-Verge-AI-https---www-theverge-com--p-889782",
+      "title": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
+      "source": "rss:The Verge AI",
+      "category": "news",
+      "summary": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the Department of Defense in an attempt to salvage the company's relationship with the US military and prevent it from being iced out of defense work for being a \"supply chain risk.\" Talks between the two parties imploded on Friday after weeks of bitter public feuding over the startup's refusal to grant the Pentagon unrestricted access to its AI , with rivals like OpenAI rushing to fill the void . Amodei is in talks with",
+      "publishedAt": "2026-03-05T06:46:46-05:00",
+      "extra": {
+        "feedName": "The Verge AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1134012",
+      "title": "Is the Pentagon allowed to surveil Americans with AI?",
+      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk metadata from the phones of Americans, the US is still navigating a gap between what ordinary people think and what the law allows.&nbsp; The flashpo",
+      "publishedAt": "Fri, 06 Mar 2026 19:21:22 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133962",
+      "title": "Online harassment is entering its AI era",
+      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be reviewed and submitted by a human. He rejected the request and went to bed.&nbsp; That’s when things got weird. Shambaugh woke up in the middle of the night",
+      "publishedAt": "Thu, 05 Mar 2026 10:00:00 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133642",
+      "title": "Bridging the operational AI gap",
+      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels of automation. Yet, the road to full operational success is still uncertain for many. And, while AI experimentation is everywhere, ",
+      "publishedAt": "Wed, 04 Mar 2026 14:00:00 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133850",
+      "title": "OpenAI’s &#8220;compromise&#8221; with the Pentagon is what Anthropic feared",
+      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “ definitely rushed .” In its announcements, OpenAI took great pains to say that it had not caved to allow the Pentagon to do whatever it wanted with its technology. The company published a blog post explaining that its agreement pr",
+      "publishedAt": "Mon, 02 Mar 2026 17:29:42 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133814",
+      "title": "I checked out one of the biggest anti-AI protests yet",
+      "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was organized by two separate activist groups, Pause AI and Pull the Plug, which billed it as the largest protest of its kind yet. The range of concerns on show covered everything from ",
+      "publishedAt": "Mon, 02 Mar 2026 12:55:20 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133624",
+      "title": "AI is rewiring how the world’s best Go players think",
+      "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&nbsp; But inside the building, rooms once filled with the soft clatter of hands dipping into wooden bowls of stones now echo with mouse clicks. Players hunch over their monitors and replay their matches in an AI program. Others huddle aro",
+      "publishedAt": "Fri, 27 Feb 2026 10:00:00 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133707",
+      "title": "Finding value with AI and Industry 5.0 transformation",
+      "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment human potential, not just automate work, and enhance environmental sustainability. Industry 5.0 has ushered in a radically n",
+      "publishedAt": "Thu, 26 Feb 2026 15:00:59 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133508",
+      "title": "The human work behind humanoid robots is being hidden",
+      "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . In January, Nvidia’s Jensen Huang, the head of the world’s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots into physically capable machines. (He also said the same thing the year before, by the way.) The implication—fueled by new demonstrations of humanoid robot",
+      "publishedAt": "Mon, 23 Feb 2026 17:05:00 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133360",
+      "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+      "url": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minnesota and then mocked those asking about it. Other times, it slips quietly into social media feeds and racks up views, like the videos that Russian influence campaigns are currently spreading to discourage Ukrainians from enlisting.&nbsp; It is into this mess that Microsoft has put forward a blueprint ",
+      "publishedAt": "Thu, 19 Feb 2026 16:00:00 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1133299",
+      "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
+      "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
+      "source": "rss:MIT Technology Review",
+      "category": "news",
+      "summary": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the same kind of rigor as their ability to code or do math . As LLMs improve, people are asking them to play more and more sensitive roles in their lives. Agents are starting to take actions on people’s behalf. LLMs may be able to influence human decision-making . And yet nobody knows how trustworthy th",
+      "publishedAt": "Wed, 18 Feb 2026 16:00:22 +0000",
+      "extra": {
+        "feedName": "MIT Technology Review",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100305",
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+      "publishedAt": "Sun, 08 Mar 2026 00:20:10 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100300",
+      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+      "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+      "publishedAt": "Sat, 07 Mar 2026 22:56:31 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100295",
+      "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+      "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+      "publishedAt": "Sat, 07 Mar 2026 20:44:25 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100288",
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+      "publishedAt": "Sat, 07 Mar 2026 17:28:41 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100091",
+      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+      "publishedAt": "Fri, 06 Mar 2026 19:50:10 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100101",
+      "title": "Anthropic&#8217;s Claude found 22 vulnerabilities in Firefox over two weeks",
+      "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+      "publishedAt": "Fri, 06 Mar 2026 19:00:22 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--post-type-tc-video--038-p-3100087",
+      "title": "Anthropic&#8217;s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+      "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted [&#8230;]",
+      "publishedAt": "Fri, 06 Mar 2026 18:09:11 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--post-type-tc-podcast--038-p-3100083",
+      "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+      "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "The Pentagon has officially&#160;designated&#160;Anthropic&#160;a supply-chain risk&#160;after the two failed to agree on how much control the military should have over its AI models,&#160;including&#160;its&#160;use in&#160;autonomous weapons and mass domestic surveillance. As&#160;Anthropic’s&#160;$200 million contract fell apart, the DoD turned to OpenAI instead,&#160;which&#160;accepted and&#160;then watched&#160;ChatGPT uninstalls surge 295%. As the stakes keep rising, the question&#160;rem",
+      "publishedAt": "Fri, 06 Mar 2026 18:01:38 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100044",
+      "title": "Claude&#8217;s consumer growth surge continues after Pentagon deal debacle",
+      "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+      "publishedAt": "Fri, 06 Mar 2026 17:56:07 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099493",
+      "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+      "url": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
+      "source": "rss:TechCrunch AI",
+      "category": "news",
+      "summary": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
+      "publishedAt": "Fri, 06 Mar 2026 14:00:00 +0000",
+      "extra": {
+        "feedName": "TechCrunch AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-VentureBeat-AI-1l2gUXhw9OMzMzsSp8yAFk",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "rss:VentureBeat AI",
+      "category": "news",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant infrastructur",
+      "publishedAt": "Thu, 22 Jan 2026 14:00:00 GMT",
+      "extra": {
+        "feedName": "VentureBeat AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-VentureBeat-AI-2CUHNkdUg4dnjDFiMtJJQ",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "rss:VentureBeat AI",
+      "category": "news",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve. Now, a free alternative is gaining traction. Goose , an open-source AI agent developed by B",
+      "publishedAt": "Mon, 19 Jan 2026 14:00:00 GMT",
+      "extra": {
+        "feedName": "VentureBeat AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-VentureBeat-AI-wOG0z6nm91FOeUqhpizqI",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "rss:VentureBeat AI",
+      "category": "news",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin ni",
+      "publishedAt": "Fri, 16 Jan 2026 14:01:00 GMT",
+      "extra": {
+        "feedName": "VentureBeat AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-VentureBeat-AI-1dxpkoyNmn8ceRMHCKLlT8",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "rss:VentureBeat AI",
+      "category": "news",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce&#x27;s most aggressive move yet to position Slack at the center of the emerging &quot",
+      "publishedAt": "Tue, 13 Jan 2026 13:00:00 GMT",
+      "extra": {
+        "feedName": "VentureBeat AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-VentureBeat-AI-7EaNv4Ip2AUlW9RClUv2cB",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "rss:VentureBeat AI",
+      "category": "news",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with Micros",
+      "publishedAt": "Mon, 12 Jan 2026 11:30:00 GMT",
+      "extra": {
+        "feedName": "VentureBeat AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-VentureBeat-AI-4ri2LVmhlv34kOOk94nnsi",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "rss:VentureBeat AI",
+      "category": "news",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest B200 graphics processors . The model, called NousCoder-14B , is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: Claude Code , the agentic programming tool f",
+      "publishedAt": "Wed, 07 Jan 2026 20:00:00 GMT",
+      "extra": {
+        "feedName": "VentureBeat AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-VentureBeat-AI-1OII24oTfVYyF45IOoAjy8",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "rss:VentureBeat AI",
+      "category": "news",
+      "summary": "When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X from Boris Cherny , the creator and head of Claude Code at Anthropic . What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of software development, with industry insiders calling it a watershed moment for the startup. &quot;If you&",
+      "publishedAt": "Mon, 05 Jan 2026 07:45:00 GMT",
+      "extra": {
+        "feedName": "VentureBeat AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a86c77c31b51f3f3a9b428",
+      "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
+      "url": "https://www.wired.com/story/deveillance-spectre-i/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
+      "publishedAt": "Fri, 06 Mar 2026 23:45:14 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a9b16f797af2821319f210",
+      "title": "Why Is Alexa+ So Bad?",
+      "url": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
+      "publishedAt": "Fri, 06 Mar 2026 11:00:00 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a5f96d34217ad65587fbb1",
+      "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
+      "url": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
+      "publishedAt": "Fri, 06 Mar 2026 10:00:00 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a739695269f0572dce5ded",
+      "title": "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+      "publishedAt": "Thu, 05 Mar 2026 22:17:54 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a5fc71a62a6c5112117250",
+      "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+      "url": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+      "publishedAt": "Thu, 05 Mar 2026 22:00:00 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a86c9fb7dbd461fdfd08dd",
+      "title": "ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
+      "url": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "ByteDance’s new Seedance 2.0 AI video model seemed unstoppable—until heavy demand strained the company’s compute capacity and copyright complaints began piling up.",
+      "publishedAt": "Thu, 05 Mar 2026 21:14:22 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a71f5b470a52fc8895043f",
+      "title": "Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive",
+      "url": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
+      "publishedAt": "Wed, 04 Mar 2026 22:56:37 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a836b8e6bce564b2476064",
+      "title": "Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
+      "url": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "“Data centers … they need some PR help,”President Donald Trump said at the event.",
+      "publishedAt": "Wed, 04 Mar 2026 22:13:27 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a5fb0a3b620fa23027474c",
+      "title": "What AI Models for War Actually Look Like",
+      "url": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
+      "publishedAt": "Wed, 04 Mar 2026 22:00:03 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Wired-AI-69a61081896b60fea8247ba4",
+      "title": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
+      "url": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
+      "source": "rss:Wired AI",
+      "category": "news",
+      "summary": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
+      "publishedAt": "Tue, 03 Mar 2026 01:06:01 +0000",
+      "extra": {
+        "feedName": "Wired AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-447-the-agi-economy-testing",
+      "title": "Import AI 447: The AGI economy; testing AIs with generated games; and agent ecologies",
+      "url": "https://importai.substack.com/p/import-ai-447-the-agi-economy-testing",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now The AGI economy - most labor goes to the machines, and humans shift to verification: &#8230;What grappling with the singularity seriously looks like&#8230; Researchers with MIT, WashU, and UCLA have written a fun paper called &#8220;Some Simple Economics of AGI&#8221; which wrestles with what happens when machines can do the",
+      "publishedAt": "Mon, 02 Mar 2026 13:45:27 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-446-nuclear-llms-chinas",
+      "title": "Import AI 446: Nuclear LLMs; China's big AI benchmark; measurement and AI policy",
+      "url": "https://importai.substack.com/p/import-ai-446-nuclear-llms-chinas",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now Want to make AI go better? Figure out how to measure it: &#8230;One simple policy intervention that works well&#8230; Jacob Steinhardt, an AI researcher, has written a nice blog laying out the virtues in investing in technical tools to measure properties of AI systems and drive down costs in complying with technical policy s",
+      "publishedAt": "Mon, 23 Feb 2026 13:31:18 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-445-timing-superintelligence",
+      "title": "Import AI 445: Timing superintelligence; AIs solve frontier math proofs; a new ML research benchmark",
+      "url": "https://importai.substack.com/p/import-ai-445-timing-superintelligence",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now Economist: Don&#8217;t worry about AI-driven unemployment, because people like paying for the &#8216;human touch&#8217;: &#8230;Even when you have the technology to automate something, you might still pick a human&#8230; Adam Ozimek, chief economist at the Economic Innovation Group, has written a blog noting that even if AI ",
+      "publishedAt": "Mon, 16 Feb 2026 14:01:19 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-444-llm-societies-huawei",
+      "title": "Import AI 444: LLM societies; Huawei makes kernels with AI; ChipBench",
+      "url": "https://importai.substack.com/p/import-ai-444-llm-societies-huawei",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now Google paper suggests that LLMs simulate multiple personalities to answer questions: &#8230;The smarter we make language models, the more they tend towards building and manipulating rich, multi-agent world models&#8230; When thinking about hard problems, I often find it&#8217;s helpful to try and view them from multiple pers",
+      "publishedAt": "Mon, 09 Feb 2026 14:03:34 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-443-into-the-mist-moltbook",
+      "title": "Import AI 443: Into the mist: Moltbook, agent ecologies, and the internet in transition",
+      "url": "https://importai.substack.com/p/import-ai-443-into-the-mist-moltbook",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now Import A-Idea: An occasional essay series: Into the mist: Moltbook, agent ecologies, and an internet in transition We&#8217;ve all had that experience of walking into a conversation and initially feeling confused - what are these people talking about? Who cares about what? Why is this conversation happening? That&#8217;s inc",
+      "publishedAt": "Mon, 02 Feb 2026 13:31:18 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-442-winners-and-losers",
+      "title": "Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage",
+      "url": "https://importai.substack.com/p/import-ai-442-winners-and-losers",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now The era of math proof automation has arrived: &#8230;Numina-Lean-Agent shows how math will never be the same&#8230; In the past few years, large-scale AI models have become good at coding and have also begun to generalize into other useful disciplines, especially those in math and science. Like with most aspects of AI develo",
+      "publishedAt": "Mon, 26 Jan 2026 13:31:29 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-441-my-agents-are-working",
+      "title": "Import AI 441: My agents are working. Are yours?",
+      "url": "https://importai.substack.com/p/import-ai-441-my-agents-are-working",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now Import A-Idea An occasional essay series: My agents are working. Are yours? As I walked into the hills at dawn I knew that there was a synthetic mind working on my behalf. Multiple minds, in fact. Because before I&#8217;d started my hike I had sat in a coffee shop and set a bunch of research agents to work. And now while I h",
+      "publishedAt": "Mon, 19 Jan 2026 14:03:24 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-440-red-queen-ai-ai-regulating",
+      "title": "Import AI 440: Red queen AI; AI regulating AI; o-ring automation",
+      "url": "https://importai.substack.com/p/import-ai-440-red-queen-ai-ai-regulating",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now To understand the future of the world, stick AI systems in a petri dish: &#8230;Evolving LLMs to attack other LLMs&#8230; Researchers with Japanese AI startup Sakana have looked at what happens when they evolve LLM-based agents to fight against one another in a competitive programming game from the 1980s called Core War. The",
+      "publishedAt": "Mon, 12 Jan 2026 13:31:42 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-439-ai-kernels-decentralized",
+      "title": "Import AI 439: AI kernels; decentralized training; and universal representations",
+      "url": "https://importai.substack.com/p/import-ai-439-ai-kernels-decentralized",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now Facebook uses GPT, Claude, and Llama to write its own kernels: &#8230;LLM-driven infrastructure optimization at the hyperscale&#8230; Facebook researchers have published details on KernelEvolve, a software system which uses AI to automate the design of new kernels to optimize AI models for serving ads on the company&#8217;s ",
+      "publishedAt": "Mon, 05 Jan 2026 13:32:28 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-438-cyber-capability-overhang",
+      "title": "Import AI 438: Silent sirens, flashing for us all",
+      "url": "https://importai.substack.com/p/import-ai-438-cyber-capability-overhang",
+      "source": "rss:Import AI",
+      "category": "news",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now Import A-Idea An occasional essay series: Silent Sirens, Flashing For Us All A funny thing has happened to me recently - I&#8217;ve stopped spending every hour of every day thinking about or working on AI. Somewhere between the midnight feeds of my newborn, preventing my toddler from hurling themselves off of the high surfac",
+      "publishedAt": "Mon, 22 Dec 2025 13:31:32 GMT",
+      "extra": {
+        "feedName": "Import AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-lwiai-podcast-235-sonnet-46-deep",
+      "title": "LWiAI Podcast #235 - Sonnet 4.6, Deep-thinking tokens, Anthropic vs Pentagon",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-235-sonnet-46-deep",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "Our 235th episode with a summary and discussion of last week&#8217;s big AI news! Recorded on 02/27/2026. Hosted by Andrey Kurenkov and Jeremie Harris Note from Andrey: my startup Astrocade is hiring for engineers, marketing, product, growth, and more! If you&#8217;re in the bay area, would like to join a small but growing startup, and think building a youtube-of-games sounds exciting, feel free to email me at andrey@astroblox.ai Check out Astrocade! Feel free to email us your questions and feed",
+      "publishedAt": "Thu, 05 Mar 2026 08:42:21 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-last-week-in-ai-336-sonnet-46-gemini",
+      "title": "Last Week in AI #336 - Sonnet 4.6, Gemini 3.1 Pro, Anthropic vs Pentagon",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-336-sonnet-46-gemini",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "Anthropic releases Sonnet 4.6 Related: Claude Sonnet 4.6 model brings &#8216;much-improved coding skills&#8217; and upgraded free tier Claude Sonnet 4.6 delivers frontier-level AI for free and cheap-seat users Anthropic releases Claude Sonnet 4.6, continuing breakneck pace of AI model releases Summary : Anthropic has released Claude Sonnet 4.6, a major upgrade to its midsized model just 12 days after Opus 4.6. It&#8217;s now the default for Free and Pro tiers with pricing unchanged. The beta deb",
+      "publishedAt": "Tue, 24 Feb 2026 11:43:23 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-lwiai-podcast-234-opus-46-gpt-53",
+      "title": "LWiAI Podcast #234 - Opus 4.6, GPT-5.3-Codex, Seedance 2.0, GLM-5",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-234-opus-46-gpt-53",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "Our 234th episode with a summary and discussion of last week&#8217;s big AI news! Recorded on 01/02/2026 Hosted by Andrey Kurenkov and Jeremie Harris Feel free to email us your questions and feedback at contact@lastweekinai.com and/or hello@gladstone.ai In this episode: Major model launches include Anthropic&#8217;s Opus 4.6 with a 1M-token context window and &#8220;agent teams,&#8221; OpenAI&#8217;s GPT-5.3 Codex and faster Codex Spark via Cerebras, and Google&#8217;s Gemini 3 Deep Think postin",
+      "publishedAt": "Tue, 17 Feb 2026 04:43:31 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-last-week-in-ai-335-opus-46-codex",
+      "title": "Last Week in AI #335 - Opus 4.6, Codex 5.3, Gemini 3 Deep Think, GLM 5, Seedance 2.0",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-335-opus-46-codex",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "Editor&#8217;s note : I apologize for the inconsistent release date of the newsletter and podcasts in recent months. I&#8217;ll aim to start releasing on Saturday/Sunday consistently from now on! This edition of the newsletter covers a bit more than a week as a result. I am also going to be adding an &#8216; Editor&#8217;s Take&#8217; for Top News to add a bit commentary and extra context beyond the news summary. Top News Anthropic releases Opus 4.6 with new &#8216;agent teams&#8217; Related: An",
+      "publishedAt": "Mon, 16 Feb 2026 02:00:20 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-lwiai-podcast-233-moltbot-genie-3",
+      "title": "LWiAI Podcast #233 - Moltbot, Genie 3, Qwen3-Max-Thinking",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-233-moltbot-genie-3",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "Our 233rd episode with a summary and discussion of last week&#8217;s big AI news! Recorded on 01/30/2026 Hosted by Andrey Kurenkov and Jeremie Harris Feel free to email us your questions and feedback at contact@lastweekinai.com and/or hello@gladstone.ai In this episode: Google introduces Gemini AI agent in Chrome for advanced browser functionality, including auto-browsing for pro and ultra subscribers. OpenAI releases ChatGPT Translator and Prism, expanding its applications beyond core business ",
+      "publishedAt": "Fri, 06 Feb 2026 05:06:04 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-last-week-in-ai-334-kimi-k25-and",
+      "title": "Last Week in AI #334 - Kimi K2.5 & Code, Genie 3, OpenClaw & Moltbook",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-334-kimi-k25-and",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "China&#8217;s Moonshot releases a new open source model Kimi K2.5 and a coding agent Moonshot AI unveiled Kimi K2.5, an open-source, natively multimodal model trained on 15 trillion mixed visual and text tokens that understands text, images, and video. The company emphasizes strong agentic capabilities, citing &#8220;agent swarm&#8221; orchestration where multiple agents &#8230; Read more",
+      "publishedAt": "Wed, 04 Feb 2026 05:25:56 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-lwiai-podcast-232-chatgpt-ads-thinking",
+      "title": "LWiAI Podcast #232 - ChatGPT Ads, Thinking Machines Drama, STEM",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-232-chatgpt-ads-thinking",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "Our 232st episode with a summary and discussion of last week&#8217;s big AI news! Recorded on 01/23/2026 Hosted by Andrey Kurenkov and Jeremie Harris Feel free to email us your questions and feedback at contact@lastweekinai.com and/or hello@gladstone.ai In this episode: OpenAI announces testing of ads in ChatGPT and introduces child age prediction to enhance safety features, amidst ongoing ethical debates and funding expansions in AI integration with educational tools and business models. China&",
+      "publishedAt": "Wed, 28 Jan 2026 09:51:53 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-last-week-in-ai-333-chatgpt-ads-zhipuhuawei",
+      "title": "Last Week in AI #333 - ChatGPT Ads, Zhipu+Huawei, Drama at Thinking Machines",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-333-chatgpt-ads-zhipuhuawei",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "OpenAI to test ads in ChatGPT as it burns through billions Related: ChatGPT to begin testing ads as generative AI competition heats up OpenAI will begin testing labeled banner ads in ChatGPT for logged&#8209;in users on the free tier and the $8/month ChatGPT Go plan, rolling out in the U.S. and other markets in the coming weeks. Ads will appear as blocked-off se&#8230; Read more",
+      "publishedAt": "Fri, 23 Jan 2026 05:14:53 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-lwiai-podcast-231-claude-cowork-anthropic",
+      "title": "LWiAI Podcast #231 - Claude Cowork, Anthropic $10B, Deep Delta Learning",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-231-claude-cowork-anthropic",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "Our 231st episode with a summary and discussion of last week&#8217;s big AI news! Recorded on 01/16/2026 Hosted by Andrey Kurenkov and Jeremie Harris Feel free to email us your questions and feedback at contact@lastweekinai.com and/or hello@gladstone.ai In this episode: Anthropic&#8217;s new cowork tool integrates Claude code, potentially simplifying multiple computing tasks from editing videos to compiling spreadsheets. Significant funding rounds see Anthropic raising $10B at a valuation of $35",
+      "publishedAt": "Wed, 21 Jan 2026 03:22:53 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-last-week-in-ai-332-apple-gemini",
+      "title": "Last Week in AI #332 - Apple + Gemini, OpenAI + Cerebras, Claude Cowork",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-332-apple-gemini",
+      "source": "rss:Last Week in AI",
+      "category": "news",
+      "summary": "Google&#8217;s Gemini to power Apple&#8217;s AI features like Siri Apple announced a multi-year partnership to use Google&#8217;s Gemini models and Google Cloud to power AI features like Siri, after testing alternatives from OpenAI and Anthropic. According to both companies, Gemini provides &#8220;the most capable foundation&#8221; for Apple&#8217;s own models, with reporting suggesting Ap&#8230; Read more",
+      "publishedAt": "Thu, 15 Jan 2026 07:06:16 GMT",
+      "extra": {
+        "feedName": "Last Week in AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-a-dream-of-spring-for-open-weight",
+      "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
+      "url": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "If you have struggled a bit to keep up with open-weight model releases this month, this article should catch you up on the main themes. In this article, I will walk you through the ten main releases in chronological order, with a focus on the architecture similarities and differences: Arcee AI&#8217;s Trinity Large (Jan 27, 2026) Moonshot AI&#8217;s Kimi K2.5 (Jan 27, 2026) StepFun Step 3.5 Flash (Feb 1, 2026) Qwen3-Coder-Next (Feb 3, 2026) z.AI&#8217;s GLM-5 (Feb 12, 2026) MiniMax M2.5 (Feb 12,",
+      "publishedAt": "Wed, 25 Feb 2026 13:26:56 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-categories-of-inference-time-scaling",
+      "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "Inference scaling has become one of the most effective ways to improve answer quality and accuracy in deployed LLMs. The idea is straightforward. If we are willing to spend a bit more compute, and more time at inference time (when we use the model to generate text), we can get the model to produce better answers. Every major LLM provider relies on some flavor of inference-time scaling today. And the academic literature around these methods has grown a lot, too. Back in March, I wrote an overview",
+      "publishedAt": "Sat, 24 Jan 2026 11:23:18 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-state-of-llms-2025",
+      "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
+      "url": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "As 2025 comes to a close, I want to look back at some of the year&#8217;s most important developments in large language models, reflect on the limitations and open problems that remain, and share a few thoughts on what might come next. As I tend to say every year, 2025 was a very eventful year for LLMs and AI, and this year, there was no sign of progress saturating or slowing down. 1. The Year of Reasoning, RLVR, and GRPO There are many interesting topics I want to cover, but let&#8217;s start c",
+      "publishedAt": "Tue, 30 Dec 2025 12:22:26 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-llm-research-papers-2025-part2",
+      "title": "LLM Research Papers: The 2025 List (July to December)",
+      "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "In June, I shared a bonus article with my curated and bookmarked research paper lists to the paid subscribers who make this Substack possible. In a similar vein, as a thank-you to all the kind supporters, I have prepared a list below of the interesting research articles I bookmarked and categorized from July to December 2025. I skimmed over the abstracts of these papers but only read a very small fraction. However, I still like to keep collecting these organized lists as I often go back to them ",
+      "publishedAt": "Tue, 30 Dec 2025 12:15:39 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-technical-deepseek",
+      "title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
+      "url": "https://magazine.sebastianraschka.com/p/technical-deepseek",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "Last updated: January 1st, 2026 Similar to DeepSeek V3, the team released their new flagship model over a major US holiday weekend. Given DeepSeek V3.2&#8217;s really good performance (on GPT-5 and Gemini 3.0 Pro) level, and the fact that it&#8217;s also available as an open-weight model, it&#8217;s definitely worth a closer look. Figure 1: Benchmark comparison between DeepSeek V3.2 and proprietary flagship models. This is an annotated figure from the DeepSeek V3.2 report . I covered the predece",
+      "publishedAt": "Wed, 03 Dec 2025 12:03:33 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-beyond-standard-llms",
+      "title": "Beyond Standard LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "From DeepSeek R1 to MiniMax-M2, the largest and most capable open-weight LLMs today remain autoregressive decoder-style transformers, which are built on flavors of the original multi-head attention mechanism. However, we have also seen alternatives to standard LLMs popping up in recent years, from text diffusion models to the most recent linear attention hybrid architectures. Some of them are geared towards better efficiency, and others, like code world models, aim to improve modeling performanc",
+      "publishedAt": "Tue, 04 Nov 2025 13:06:07 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-llm-evaluation-4-approaches",
+      "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
+      "url": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "How do we actually evaluate LLMs? It&#8217;s a simple question, but one that tends to open up a much bigger discussion. When advising or collaborating on projects, one of the things I get asked most often is how to choose between different models and how to make sense of the evaluation results out there. (And, of course, how to measure progress when fine-tuning or developing our own.) Since this comes up so often, I thought it might be helpful to share a short overview of the main evaluation met",
+      "publishedAt": "Sun, 05 Oct 2025 11:12:32 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-qwen3-from-scratch",
+      "title": "Understanding and Implementing Qwen3 From Scratch",
+      "url": "https://magazine.sebastianraschka.com/p/qwen3-from-scratch",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "Previously, I compared the most notable open-weight architectures of 2025 in The Big LLM Architecture Comparison . Then, I zoomed in and discussed the various architecture components in From GPT-2 to gpt-oss: Analyzing the Architectural Advances on a conceptual level. Since all good things come in threes, before covering some of the noteworthy research highlights of this summer, I wanted to now dive into these architectures hands-on, in code. By following along, you will understand how it actual",
+      "publishedAt": "Sat, 06 Sep 2025 11:10:21 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-from-gpt-2-to-gpt-oss-analyzing-the",
+      "title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
+      "url": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "OpenAI just released their new open-weight LLMs this week: gpt-oss-120b and gpt-oss-20b, their first open-weight models since GPT-2 in 2019. And yes, thanks to some clever optimizations, they can run locally (but more about this later). This is the first time since GPT-2 that OpenAI has shared a large, fully open-weight model. Earlier GPT models showed how the transformer architecture scales. The 2022 ChatGPT release then made these models mainstream by demonstrating concrete usefulness for writ",
+      "publishedAt": "Sat, 09 Aug 2025 11:23:07 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Ahead-of-AI-https---magazine-sebastianraschka-com-p-the-big-llm-architecture-comparison",
+      "title": "The Big LLM Architecture Comparison",
+      "url": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
+      "source": "rss:Ahead of AI",
+      "category": "paper",
+      "summary": "Last updated: Mar 6, 2026 (added the recent February and March releases at the bottom) It has been seven years since the original GPT architecture was developed. At first glance, looking back at GPT-2 (2019) and forward to DeepSeek V3 and Llama 4 (2024-2025), one might be surprised at how structurally similar these models still are. Sure, positional embeddings have evolved from absolute to rotational (RoPE), Multi-Head Attention has largely given way to Grouped-Query Attention, and the more effi",
+      "publishedAt": "Sat, 19 Jul 2025 11:11:10 GMT",
+      "extra": {
+        "feedName": "Ahead of AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-vwqn0j",
+      "title": "Kill cats with JavaScript (RTS game)",
+      "url": "https://yare.io",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Thu, 05 Mar 2026 10:12:34 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-a1f0rc",
+      "title": "Matthew Explains",
+      "url": "https://matthewexplains.com",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Wed, 04 Mar 2026 10:37:47 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-5cuaiv",
+      "title": "Anthropic is untrustworthy",
+      "url": "https://anthropic.ml/",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Tue, 03 Mar 2026 14:34:58 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-ejjrus",
+      "title": "GenDB: The Next Generation of Query Processing -- Synthesized, Not Engineered",
+      "url": "https://arxiv.org/pdf/2603.02081",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Tue, 03 Mar 2026 14:21:20 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-rygpdk",
+      "title": "Detecting LLM-Generated Web Novels Using \"Classical\" Machine Learning (AIGC Text Detection)",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Mon, 02 Mar 2026 20:19:54 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-cyavky",
+      "title": "Vibecoding Challenge 2: The Five Feathers (Spring 2026)",
+      "url": "https://gist.github.com/MostAwesomeDude/ebb60b9bec53c4795f54606e944fccd7",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Mon, 02 Mar 2026 09:27:13 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-ctxxsx",
+      "title": "The Science of Detecting LLM-Generated Text",
+      "url": "https://dl.acm.org/doi/10.1145/3624725",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Sat, 28 Feb 2026 12:46:40 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-va5c7k",
+      "title": "Verified Spec-Driven Development (VSDD)",
+      "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Sat, 28 Feb 2026 10:57:11 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-mp1jk6",
+      "title": "Atomic GraphRAG Demo: A Single Query Execution",
+      "url": "https://memgraph.com/blog/atomic-graphrag-demo-highlights",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Sat, 28 Feb 2026 04:44:27 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Lobste-rs-AI-https---lobste-rs-s-jbbux3",
+      "title": "Packaging AI/ML models as conda packages",
+      "url": "https://prefix.dev/blog/packaging-ai-ml-models-as-conda-packages",
+      "source": "rss:Lobste.rs AI",
+      "category": "discussion",
+      "summary": "Comments",
+      "publishedAt": "Sat, 28 Feb 2026 02:16:27 -0600",
+      "extra": {
+        "feedName": "Lobste.rs AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-aline-mercer-e495a3af58ee-i-built-an-ai-agent-tool-marketplace-on-a-sta",
+      "title": "I Built an AI Agent Tool Marketplace on a Static Site (It Costs Almost Nothing)",
+      "url": "https://dev.to/aline_mercer_e495a3af58ee/i-built-an-ai-agent-tool-marketplace-on-a-static-site-it-costs-almost-nothing-44c9",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "If you are building with AI agents, you have probably hit this wall: your agent needs tools but finding them means digging through GitHub repos and random blog posts. There is no npm for AI agent tools. That is the problem I set out to solve with TutuoAI , a marketplace for AI agent tools. We now catalog 116 products (38 paid, 78 free), and the entire thing runs on a static site architecture that costs almost nothing to operate. The Discovery Problem AI agents are only as good as the tools they ",
+      "publishedAt": "Sun, 08 Mar 2026 01:36:56 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-xujfcn-cach-giam-55-chi-phi-ai-api-cho-developer-viet-nam-2026-j07",
+      "title": "Cách giảm 55% chi phí AI API cho developer Việt Nam (2026)",
+      "url": "https://dev.to/xujfcn/cach-giam-55-chi-phi-ai-api-cho-developer-viet-nam-2026-j07",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "Kết luận ngay: Developer Việt Nam có thể giảm chi phí AI API lên đến 55% bằng 4 chiến lược: sử dụng gateway pricing (Crazyrouter), smart model selection , prompt optimization , và response caching . Chi phí trung bình chỉ từ $13/tháng (~320,000₫) — rẻ hơn một bữa cơm team building. Mục lục Vấn đề: Chi phí AI API đang \"đốt tiền\" Chiến lược 1: Gateway Pricing — Giảm ngay 55% Chiến lược 2: Smart Model Selection Chiến lược 3: Prompt Optimization Chiến lược 4: Response Caching Tổng kết: Chi phí thực ",
+      "publishedAt": "Sun, 08 Mar 2026 01:34:52 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-xujfcn-xay-dung-telegram-ai-bot-voi-openclaw-crazyrouter-huong-dan-tu-a",
+      "title": "Xây dựng Telegram AI Bot với OpenClaw + Crazyrouter: Hướng dẫn từ A-Z",
+      "url": "https://dev.to/xujfcn/xay-dung-telegram-ai-bot-voi-openclaw-crazyrouter-huong-dan-tu-a-z-57b3",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "Kết luận ngay: Bạn có thể tự host một Telegram AI Bot cá nhân với khả năng truy cập 627+ mô hình AI , tự động hóa workflow, và quản lý từ xa — chỉ với 1 dòng lệnh curl và chi phí từ 320,000-750,000₫/tháng (VPS $5 + API $8-25). OpenClaw là AI agent platform chạy trên Telegram, kết hợp với Crazyrouter làm AI API backend. Bài viết này hướng dẫn bạn deploy từ A-Z. Mục lục Tại sao tự host AI Bot? Yêu cầu hệ thống Deploy bằng 1 dòng lệnh Cấu hình Crazyrouter làm AI backend Bảng model khuyên dùng Hệ th",
+      "publishedAt": "Sun, 08 Mar 2026 01:34:49 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-xujfcn-paano-makatipid-ng-55-sa-ai-api-gabay-para-sa-pinoy-developers-7",
+      "title": "Paano Makatipid ng 55% sa AI API: Gabay para sa Pinoy Developers",
+      "url": "https://dev.to/xujfcn/paano-makatipid-ng-55-sa-ai-api-gabay-para-sa-pinoy-developers-7mj",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "TL;DR: As a Filipino developer, you can save up to 55% on AI API costs using Crazyrouter — bringing your monthly AI spend down to ₱700-1,700/month, which is very affordable kahit sa Pinoy developer salary range. Here are 4 proven strategies para makatipid nang malaki. Keywords: tipid ai api, murang ai api, ai developer pilipinas Kung ikaw ay Pinoy developer na gumagamit ng AI APIs — whether for a client project, your SaaS startup, or your own tools — alam mo na mahal ang AI. OpenAI charges $10/M",
+      "publishedAt": "Sun, 08 Mar 2026 01:34:21 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-xujfcn-openclaw-crazyrouter-vs-chatgpt-plus-alin-ang-mas-sulit-para-sa-",
+      "title": "OpenClaw + Crazyrouter vs ChatGPT Plus: Alin ang Mas Sulit para sa Pinoy Dev?",
+      "url": "https://dev.to/xujfcn/openclaw-crazyrouter-vs-chatgpt-plus-alin-ang-mas-sulit-para-sa-pinoy-dev-3ch6",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "TL;DR: OpenClaw + Crazyrouter beats ChatGPT Plus in almost every category — more models (627+ vs 1), more platforms (20+ vs 4), persistent memory, custom skills, and self-hosted control. Cost is comparable at ₱700-1,700/month vs ₱1,120/month, but you get significantly more features. Mas sulit, mas maraming features — walang duda. Keywords: openclaw vs chatgpt, ai assistant comparison philippines Every Filipino developer I know has this question: \"Mag-subscribe ba ako sa ChatGPT Plus, or is there",
+      "publishedAt": "Sun, 08 Mar 2026 01:34:19 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-xujfcn-best-ai-api-solutions-for-vietnam-developers-in-2026-459a",
+      "title": "Best AI API Solutions for Vietnam Developers in 2026",
+      "url": "https://dev.to/xujfcn/best-ai-api-solutions-for-vietnam-developers-in-2026-459a",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "Bottom line: Vietnam's 500,000+ developers can now access 627+ AI models (GPT-5.2, Claude Opus 4.6, Gemini 3 Pro, DeepSeek R1) through a single API key at up to 55% off official pricing — with sub-50ms latency via Asian edge nodes. Crazyrouter is the top AI API gateway for Southeast Asian developers in 2026. Table of Contents Vietnam's AI Developer Ecosystem in 2026 Why Vietnam Developers Need an API Gateway Crazyrouter: Purpose-Built for Asian Developers Pricing Comparison: Crazyrouter vs. Dire",
+      "publishedAt": "Sun, 08 Mar 2026 01:33:48 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-wonderlab-openclaw-deep-dive-8-the-skill-system-teaching-llms-to-follow",
+      "title": "OpenClaw Deep Dive (8): The Skill System — Teaching LLMs to Follow Workflows On Demand",
+      "url": "https://dev.to/wonderlab/openclaw-deep-dive-8-the-skill-system-teaching-llms-to-follow-workflows-on-demand-4h23",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "Scenario: How Does the AI Know Which Command to Use? You ask OpenClaw: \"Check today's weather in Shanghai.\" The AI replies with curl \"wttr.in/Shanghai?format=3\" , executes it, and returns accurate weather data. But there's a question worth digging into — an LLM is a language model. It doesn't inherently know that \"checking weather means using wttr.in ,\" or that \"managing GitHub PRs means using the gh CLI,\" or that \"controlling Spotify means using spotify-player .\" Something is clearly \"teaching\"",
+      "publishedAt": "Sun, 08 Mar 2026 01:29:24 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-ai-agent-economy-who-holds-the-keys-custodial-vs-non-custodial-ai-agent",
+      "title": "Who Holds the Keys? Custodial vs Non-Custodial AI Agent Wallets Explained",
+      "url": "https://dev.to/ai-agent-economy/who-holds-the-keys-custodial-vs-non-custodial-ai-agent-wallets-explained-3d29",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "Test",
+      "publishedAt": "Sun, 08 Mar 2026 01:24:12 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-dmitryrechkin-i-stopped-clicking-around-wp-admin-and-treated-wordpress-",
+      "title": "I Stopped Clicking Around wp-admin and Treated WordPress Media Offload Like Infrastructure",
+      "url": "https://dev.to/dmitryrechkin/i-stopped-clicking-around-wp-admin-and-treated-wordpress-media-offload-like-infrastructure-1kae",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "I Stopped Clicking Around wp-admin and Treated WordPress Media Offload Like Infrastructure WordPress media libraries have a habit of turning into infrastructure problems in slow motion. At first it is just uploads. Then it is product galleries, thumbnails, originals, PDFs, course files, and downloads piling up on the same server that is supposed to stay lean. That arrangement does not age well. Disks fill up, backups get bloated, restore times get longer, and moving a site between environments b",
+      "publishedAt": "Sun, 08 Mar 2026 01:20:28 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-yurukusa-i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-",
+      "title": "I Had No Idea How Full My Claude Code Context Window Was. So I Built a Tool.",
+      "url": "https://dev.to/yurukusa/i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-built-a-tool-279e",
+      "source": "rss:Dev.to AI",
+      "category": "discussion",
+      "summary": "You know that feeling when Claude starts giving weird, truncated answers? Or when it seems to \"forget\" earlier context in a long session? That's your context window filling up. Claude Sonnet has a 200,000 token context window. When it's full, older messages get dropped. Your carefully set-up context — the files you loaded, the constraints you established, the codebase you explained — silently disappears. I've been running Claude Code for 60+ days in an autonomous loop. Last week I realized I had",
+      "publishedAt": "Sun, 08 Mar 2026 01:16:10 +0000",
+      "extra": {
+        "feedName": "Dev.to AI",
+        "language": "en"
+      }
+    }
+  ]
+}

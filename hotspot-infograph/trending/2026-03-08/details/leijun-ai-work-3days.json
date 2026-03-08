@@ -1,0 +1,79 @@
+{
+  "slug": "leijun-ai-work-3days",
+  "title": "雷军展望AI时代：未来每周或仅需工作3天",
+  "category": "科技",
+  "color": "#2563eb",
+  "template": "versus",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "事件概述",
+      "content": {
+        "paragraphs": [
+          "2026年3月7日，全国人大代表、小米集团CEO雷军在两会期间接受中国新闻周刊采访时表示，AI时代将重写许多工作规则，未来每周或仅需工作3天、每天2小时，生活质量和工作质量都将显著提升。该言论迅速登上全网热搜，引发广泛讨论。",
+          "雷军同期在两会提交5份建议案，涉及人形机器人智造应用、科技公益、智能汽车安全等方向。此前在MWC 2026上，小米展示AI驱动的\"人车家\"全生态，人形机器人已在小米工厂实现连续3小时自主作业。"
+        ]
+      }
+    },
+    {
+      "type": "comparison",
+      "heading": "现在 vs AI时代工作模式",
+      "content": {
+        "left": {
+          "label": "当前工作模式",
+          "points": [
+            "每周工作5天，每天8小时",
+            "人工排产耗时约6小时",
+            "重复性岗位占比高",
+            "人形机器人处于\"学徒工\"阶段",
+            "AI辅助决策尚在初期",
+            "工厂依赖大量人力质检"
+          ]
+        },
+        "right": {
+          "label": "AI时代愿景",
+          "points": [
+            "每周工作3天，每天2小时",
+            "AI排产压缩至1.5分钟",
+            "AI替代重复性工作，催生新岗位",
+            "人形机器人转为\"正式工\"",
+            "AI深度参与生产与决策",
+            "AI视觉质检覆盖关键部件100%"
+          ]
+        }
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键数据",
+      "content": {
+        "facts": [
+          { "label": "雷军预测工作时长", "value": "每周3天，每天2小时" },
+          { "label": "小米人形机器人连续作业", "value": "3小时自主运行" },
+          { "label": "机器人安装成功率", "value": "90.2%（双侧安装）" },
+          { "label": "小米2026两会建议", "value": "5份，聚焦AI与智造" },
+          { "label": "MWC 2026主题", "value": "\"The New Wave of AI\"" },
+          { "label": "小米终端AI计划", "value": "自研芯片+OS+大模型\"大会师\"" }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "争议与展望",
+      "content": {
+        "paragraphs": [
+          "支持者认为AI驱动的效率提升将解放人力，使更多资源投入创造性领域。反对者则担忧收入与雇佣关系风险、不同行业实现难度差异大，以及可能加剧失业和社会不平等。多数讨论强调该愿景属于长期目标，短期内需配套政策保障。",
+          "小米已在智能工厂实现年产1000万支旗舰手机，AI视觉质检覆盖关键部件。但雷军也坦承，人形机器人尚处\"学徒工\"状态，从技术突破到全行业普及仍需时日。该言论的核心意义在于引导公众以开放心态拥抱AI变革，而非给出确切时间表。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "新浪财经", "url": "https://finance.sina.com.cn/jjxw/2026-03-07/doc-inhqeeti8397341.shtml" },
+    { "name": "Huawei Central", "url": "https://www.huaweicentral.com/xiaomi-ai-tech-will-lessen-weekly-workload-to-only-3-days-ceo/" },
+    { "name": "凤凰网", "url": "https://i.ifeng.com/c/8rIjbqTR8hT" },
+    { "name": "36氪", "url": "https://36kr.com/p/3710097983648131" },
+    { "name": "新浪财经（两会建议）", "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-03-04/doc-inhpuwsp0224825.shtml" }
+  ],
+  "generatedAt": "2026-03-08T09:00:00.000Z"
+}

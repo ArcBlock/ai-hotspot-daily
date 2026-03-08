@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "date": "2026-03-08",
+    "slug": "2026-03-08-daily",
+    "generatedAt": "2026-03-08T09:00:00.000Z",
+    "language": "zh"
+  },
+  "hero": {
+    "title": "美以空袭伊朗8天：1332人遇难",
+    "category": "国际",
+    "color": "#0891b2",
+    "chart": {
+      "type": "timeline",
+      "data": [
+        { "date": "2.28", "label": "美以发动联合空袭", "detail": "代号\"史诗怒火\"，打击德黑兰等多城军事设施" },
+        { "date": "3.1", "label": "伊朗发动\"真实承诺4\"反击", "detail": "向27个美军基地发射导弹和无人机，6名美军阵亡" },
+        { "date": "3.2", "label": "冲突扩散至海湾多国", "detail": "英国空军基地遭无人机袭击，科威特美军遇袭" },
+        { "date": "3.7", "label": "空袭进入第8天", "detail": "累计打击3000+目标，油价暴涨17%" }
+      ]
+    },
+    "keyNumbers": [
+      { "value": "1332+", "label": "伊朗遇难" },
+      { "value": "3000+", "label": "打击目标" },
+      { "value": "6名", "label": "美军阵亡" }
+    ],
+    "takeaway": "美以持续空袭伊朗8天，冲突外溢至海湾多国，油价飙涨17%",
+    "sources": [
+      { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker" },
+      { "name": "新华网", "url": "https://english.news.cn/20260307/3a6933e1290e4fa2b68f7b6d13f7b1a4/c.html" },
+      { "name": "央视网", "url": "https://news.cctv.cn/2026/03/01/ARTI1JMNHTz0Zbbvi67o9MG0260301.shtml" }
+    ]
+  },
+  "cards": [
+    {
+      "title": "雷军：AI时代周工作3天",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "现在", "value": "5天8h" },
+          "right": { "label": "未来", "value": "3天2h" }
+        }
+      },
+      "insight": "小米AI排产将6小时压缩至1.5分钟",
+      "needsDetail": true,
+      "detailTemplate": "versus",
+      "detailSlug": "leijun-ai-work-3days"
+    },
+    {
+      "title": "AI写作48小时产500万字",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": {
+          "value": "500万字",
+          "label": "48小时产出"
+        }
+      },
+      "insight": "人类日更万字极限被AI降维打击",
+      "needsDetail": false,
+      "detailTemplate": "",
+      "detailSlug": ""
+    },
+    {
+      "title": "三八妇女节全网刷屏",
+      "category": "社会",
+      "color": "#dc2626",
+      "miniChart": {
+        "type": "tags",
+        "data": {
+          "items": ["致敬她力量", "两会里的她", "妇女节送花", "寻找100个她"]
+        }
+      },
+      "insight": "3平台7条相关热搜同步霸榜",
+      "needsDetail": false,
+      "detailTemplate": "",
+      "detailSlug": ""
+    },
+    {
+      "title": "中东局势推油价暴涨17%",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "trend",
+        "data": {
+          "direction": "up",
+          "value": "17%",
+          "label": "年内涨幅"
+        }
+      },
+      "insight": "布伦特冲上92美元，油价预计涨500",
+      "needsDetail": true,
+      "detailTemplate": "trend",
+      "detailSlug": "oil-price-surge-iran"
+    },
+    {
+      "title": "卫健委发布癌症早筛指南",
+      "category": "生活",
+      "color": "#ec4899",
+      "miniChart": {
+        "type": "miniBar",
+        "data": {
+          "items": [
+            { "label": "肺癌筛查", "value": "每年1次" },
+            { "label": "肠镜检查", "value": "每3-5年" },
+            { "label": "乳腺癌筛查", "value": "每2-3年" }
+          ]
+        }
+      },
+      "insight": "4类重点人群需定期筛查",
+      "needsDetail": false,
+      "detailTemplate": "",
+      "detailSlug": ""
+    },
+    {
+      "title": "陈家政夺CBA星锐赛MVP",
+      "category": "体育",
+      "color": "#059669",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": {
+          "value": "26分",
+          "label": "全场最高"
+        }
+      },
+      "insight": "26分6板4助，星锐队94-76大胜",
+      "needsDetail": false,
+      "detailTemplate": "",
+      "detailSlug": ""
+    }
+  ]
+}

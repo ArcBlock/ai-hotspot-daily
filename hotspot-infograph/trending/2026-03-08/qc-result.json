@@ -1,0 +1,88 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-03-08T02:13:19.303Z",
+  "checks": {
+    "heroTitle": {
+      "pass": true,
+      "value": 16,
+      "required": "≤ 20",
+      "message": "\"美以空袭伊朗8天：1332人遇难\""
+    },
+    "heroKeyNumbers": {
+      "pass": true,
+      "value": 3,
+      "required": 3
+    },
+    "heroChartData": {
+      "pass": true,
+      "value": 4,
+      "required": "≥ 2"
+    },
+    "heroChartType": {
+      "pass": true,
+      "value": "timeline",
+      "required": "bar | line | ring | timeline | versus | heatmap"
+    },
+    "heroTakeaway": {
+      "pass": true,
+      "value": 28,
+      "required": "≤ 30"
+    },
+    "heroSources": {
+      "pass": true,
+      "value": 3,
+      "required": "≥ 1"
+    },
+    "cardsCount": {
+      "pass": true,
+      "value": 6,
+      "required": "4–6"
+    },
+    "cardsDiversity": {
+      "pass": true,
+      "value": 5,
+      "required": "≥ 3",
+      "message": "分类: 科技, 社会, 财经, 生活, 体育"
+    },
+    "cardTitles": {
+      "pass": true,
+      "value": [
+        12,
+        14,
+        9,
+        12,
+        11,
+        13
+      ],
+      "required": "每张 ≤ 15"
+    },
+    "cardInsights": {
+      "pass": true,
+      "value": [
+        18,
+        15,
+        13,
+        18,
+        11,
+        18
+      ],
+      "required": "每张 ≤ 20"
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "2026-03-08-daily"
+    },
+    "detailSlugsMatch": {
+      "pass": true,
+      "value": "expected: 2, found: 2",
+      "required": "all match"
+    },
+    "detailPages": {
+      "pass": true,
+      "value": 2,
+      "required": "quality checks",
+      "message": "all good"
+    }
+  },
+  "failReasons": []
+}

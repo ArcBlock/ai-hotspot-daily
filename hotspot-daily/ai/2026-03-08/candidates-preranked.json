@@ -1,0 +1,741 @@
+[
+  {
+    "id": "gh-QwenLM-Qwen-Agent",
+    "title": "QwenLM/Qwen-Agent",
+    "url": "https://github.com/QwenLM/Qwen-Agent",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 15033,
+    "category": "project",
+    "starsToday": 586,
+    "aiRelated": true,
+    "prerankScore": 88,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 20,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-GoogleCloudPlatform-generative-ai",
+    "title": "GoogleCloudPlatform/generative-ai",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 13547,
+    "category": "project",
+    "starsToday": 384,
+    "aiRelated": true,
+    "prerankScore": 83,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-msitarzewski-agency-agents",
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 10794,
+    "category": "project",
+    "starsToday": 1468,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-agentjido-jido",
+    "title": "agentjido/jido",
+    "url": "https://github.com/agentjido/jido",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 1426,
+    "category": "project",
+    "starsToday": 115,
+    "aiRelated": true,
+    "prerankScore": 75,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 17,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-microsoft-hve-core",
+    "title": "microsoft/hve-core",
+    "url": "https://github.com/microsoft/hve-core",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all C",
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 754,
+    "category": "project",
+    "starsToday": 217,
+    "aiRelated": true,
+    "prerankScore": 74,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 21,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47282777",
+    "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+    "url": "https://news.ycombinator.com/item?id=47282777",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-07T00:05:06.000Z",
+    "rawScore": 976,
+    "category": "discussion",
+    "comments": 853,
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-Enhancing-Reasoning-for-Diffus",
+    "title": "Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization",
+    "url": "https://deeplearn.org/arxiv/704390/enhancing-reasoning-for-diffusion-llms-via-distribution-matching-policy-optimization",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-xujfcn-best-ai-api-solutions-for-vietnam-developers-in-2026-459a",
+    "title": "Best AI API Solutions for Vietnam Developers in 2026",
+    "url": "https://dev.to/xujfcn/best-ai-api-solutions-for-vietnam-developers-in-2026-459a",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Bottom line: Vietnam's 500,000+ developers can now access 627+ AI models (GPT-5.2, Claude Opus 4.6, Gemini 3 Pro, DeepSeek R1) through a single API key at up to 55% off official pricing — with sub-50m",
+    "publishedAt": "Sun, 08 Mar 2026 01:33:48 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "gh-toeverything-AFFiNE",
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 64711,
+    "category": "project",
+    "starsToday": 281,
+    "aiRelated": true,
+    "prerankScore": 71,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 23,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-alibaba-page-agent",
+    "title": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 1389,
+    "category": "project",
+    "starsToday": 137,
+    "aiRelated": true,
+    "prerankScore": 71,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 18,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03276",
+    "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "url": "https://www.alphaxiv.org/abs/2603.03276",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.02766",
+    "title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems",
+    "url": "https://www.alphaxiv.org/abs/2603.02766",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03975",
+    "title": "Phi-4-reasoning-vision-15B Technical Report",
+    "url": "https://www.alphaxiv.org/abs/2603.03975",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05433",
+    "title": "On-Policy Self-Distillation for Reasoning Compression",
+    "url": "https://www.alphaxiv.org/abs/2603.05433",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-openai-skills",
+    "title": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Skills Catalog for Codex",
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 12731,
+    "category": "project",
+    "starsToday": 948,
+    "aiRelated": true,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "dlm-Interpreto-An-Explainability-",
+    "title": "Interpreto: An Explainability Library for Transformers",
+    "url": "https://deeplearn.org/arxiv/704391/interpreto:-an-explainability-library-for-transformers",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-City-Editing-Hierarchical-Age",
+    "title": "City Editing: Hierarchical Agentic Execution for Dependency-Aware Urban Geospatial Modification",
+    "url": "https://deeplearn.org/arxiv/704397/city-editing:-hierarchical-agentic-execution-for-dependency-aware-urban-geospatial-modification",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-yurukusa-i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-",
+    "title": "I Had No Idea How Full My Claude Code Context Window Was. So I Built a Tool.",
+    "url": "https://dev.to/yurukusa/i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-built-a-tool-279e",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "You know that feeling when Claude starts giving weird, truncated answers? Or when it seems to \"forget\" earlier context in a long session? That's your context window filling up. Claude Sonnet has a 200",
+    "publishedAt": "Sun, 08 Mar 2026 01:16:10 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 20,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "dlm-Anatomy-of-Agentic-Memory-Tax",
+    "title": "Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations",
+    "url": "https://deeplearn.org/arxiv/704402/anatomy-of-agentic-memory:-taxonomy-and-empirical-analysis-of-evaluation-and-system-limitations",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
+    "title": "Google released a CLI tool that lets AI agents access your Google Workspace",
+    "url": "https://alphasignalai.substack.com/p/google-released-a-cli-tool-that-lets",
+    "source": "alphasignal",
+    "sourceType": "script",
+    "summary": "Google Workspace lets AI agents access your entire Google Workspace ecosystem, including tools like Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.",
+    "publishedAt": "2026-03-07T12:25:02.000Z",
+    "rawScore": 50,
+    "category": "news",
+    "prerankScore": 63,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "hn-47285960",
+    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-07T09:18:40.000Z",
+    "rawScore": 407,
+    "category": "discussion",
+    "comments": 223,
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-aline-mercer-e495a3af58ee-i-built-an-ai-agent-tool-marketplace-on-a-sta",
+    "title": "I Built an AI Agent Tool Marketplace on a Static Site (It Costs Almost Nothing)",
+    "url": "https://dev.to/aline_mercer_e495a3af58ee/i-built-an-ai-agent-tool-marketplace-on-a-static-site-it-costs-almost-nothing-44c9",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "If you are building with AI agents, you have probably hit this wall: your agent needs tools but finding them means digging through GitHub repos and random blog posts. There is no npm for AI agent tool",
+    "publishedAt": "Sun, 08 Mar 2026 01:36:56 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "pwc-2603.03756",
+    "title": "Paper 2603.03756",
+    "url": "https://huggingface.co/papers/2603.03756",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.04448",
+    "title": "Paper 2603.04448",
+    "url": "https://huggingface.co/papers/2603.04448",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.04743",
+    "title": "Paper 2603.04743",
+    "url": "https://huggingface.co/papers/2603.04743",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "ph-21st-agents-sdk",
+    "title": "21st Agents SDK",
+    "url": "https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            SDK to add an Claude Code AI agent to your app\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/21st-dev-the-npm-for-design-e",
+    "publishedAt": "2026-03-06T19:53:56.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 59,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 25,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "hn-47283337",
+    "title": "LLMs work best when the user defines their acceptance criteria first",
+    "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-07T01:17:57.000Z",
+    "rawScore": 422,
+    "category": "discussion",
+    "comments": 377,
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100044",
+    "title": "Claude&#8217;s consumer growth surge continues after Pentagon deal debacle",
+    "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+    "publishedAt": "Fri, 06 Mar 2026 17:56:07 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:46:46.307Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "qbitai-央视点赞千问APP-AI办事-让人工智能走进日常生活",
+    "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
+    "url": "https://www.qbitai.com/2026/03/384637.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-07T08:40:25.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 46,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "qbitai-彻底告别VE与VAE-商汤硬核重构多模态-砍掉所有中间编码器",
+    "title": "彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器",
+    "url": "https://www.qbitai.com/2026/03/384623.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "2B规模吊打传统范式",
+    "publishedAt": "2026-03-07T04:39:02.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 46,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "qbitai-鹅厂门口免费装龙虾-几百人排爆了-一代人有一代人的鸡蛋要领",
+    "title": "鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领",
+    "url": "https://www.qbitai.com/2026/03/384595.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-07T02:32:50.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 46,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "ph-codex-security",
+    "title": "Codex Security",
+    "url": "https://www.producthunt.com/products/openai",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Our application security agent\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-fe",
+    "publishedAt": "2026-03-06T19:34:14.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 44,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "ph-olmo-hybrid",
+    "title": "Olmo Hybrid",
+    "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            7B open model mixing transformers and linear RNNs\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/allen-institute-of-artific",
+    "publishedAt": "2026-03-07T04:52:46.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 44,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 5,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1772934601041-3",
+    "title": "美国FTC将于3月11日发布AI监管政策声明",
+    "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "根据特朗普去年12月签署的AI行政令，美国联邦贸易委员会(FTC)须在3月11日前发布AI监管政策声明，说明FTC法案如何适用于AI技术，这是美国AI联邦监管的重要里程碑。",
+    "publishedAt": "2026-03-07T12:00:00.000Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 43,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "mcp-1772934601040-0",
+    "title": "OpenAI机器人负责人因五角大楼合作协议辞职",
+    "url": "https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "OpenAI机器人部门负责人Caitlin Kalinowski因公司与五角大楼达成AI技术合作协议而辞职，引发业界对AI军事化应用的讨论。",
+    "publishedAt": "2026-03-07T20:04:14.800Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 40,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "mcp-1772934601040-1",
+    "title": "Circle和Stripe竞相构建AI代理支付系统",
+    "url": "https://twitter.com/stockmktnewz/status/2030398648895623281",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "据彭博社报道，Circle和Stripe正竞相构建面向AI代理的支付系统，该系统将服务于每天进行数百万笔交易的自主AI代理，使用稳定币而非信用卡结算。",
+    "publishedAt": "2026-03-07T21:42:16.489Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 40,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "websearch-1772934601040-2",
+    "title": "AI私募股权平台Rowspace获5000万美元融资，Sequoia领投",
+    "url": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "AI私募股权分析平台Rowspace从隐身模式中亮相，获得Sequoia Capital、Emergence Capital、Stripe等5000万美元融资，旨在通过AI连接历史交易数据帮助PE机构规模化投资判断。",
+    "publishedAt": "2026-03-06T12:00:00.000Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 33,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 13
+    }
+  }
+]

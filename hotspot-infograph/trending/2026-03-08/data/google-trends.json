@@ -1,0 +1,347 @@
+{
+  "source": "google-trends",
+  "fetchedAt": "2026-03-08T02:02:59.234Z",
+  "items": [
+    {
+      "id": "gtrends-0",
+      "title": "auburn vs alabama",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-08T01:40:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Casagrande: Auburn not dead yet, Alabama could finish job",
+          "Bama Basketball Breakdown: Auburn",
+          "Which Alabama basketball players are available for home finale vs Auburn?"
+        ],
+        "newsItems": [
+          {
+            "title": "Casagrande: Auburn not dead yet, Alabama could finish job",
+            "url": "https://www.al.com/sports/2026/03/casagrande-auburn-not-dead-yet-alabama-could-finish-job.html",
+            "source": "AL.com"
+          },
+          {
+            "title": "Bama Basketball Breakdown: Auburn",
+            "url": "https://www.rollbamaroll.com/alabama-crimson-tide-basketball/80062/bama-basketball-breakdown-auburn",
+            "source": "Roll 'Bama Roll"
+          },
+          {
+            "title": "Which Alabama basketball players are available for home finale vs Auburn?",
+            "url": "https://www.tuscaloosanews.com/story/sports/college/sec/2026/03/06/which-players-out-alabama-basketball-home-finale-vs-auburn/88285222007/",
+            "source": "The Tuscaloosa News"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-1",
+      "title": "texas basketball",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-08T01:40:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Texas vs. Oklahoma gamethread",
+          "Where to watch & listen to Oklahoma men’s basketball at Texas",
+          "Texas hosts Oklahoma on Senior Night with SEC Tournament seed on the line"
+        ],
+        "newsItems": [
+          {
+            "title": "Texas vs. Oklahoma gamethread",
+            "url": "https://sports.yahoo.com/articles/texas-vs-oklahoma-gamethread-010131977.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "Where to watch & listen to Oklahoma men’s basketball at Texas",
+            "url": "https://247sports.com/college/oklahoma/article/where-to-watch-listen-to-oklahoma-mens-basketball-at-texas-276756647/",
+            "source": "247Sports"
+          },
+          {
+            "title": "Texas hosts Oklahoma on Senior Night with SEC Tournament seed on the line",
+            "url": "https://www.burntorangenation.com/texas-longhorns-basketball/100786/texas-longhorns-oklahoma-sooners-game-time-television",
+            "source": "Burnt Orange Nation"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-2",
+      "title": "michael porter jr.",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-08T01:40:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Do the Nuggets have a Nikola Jokić-Cam Johnson connection problem?",
+          "Zach Lowe confronts the growing Cam Johnson problem for the Nuggets",
+          "Why Cam Johnson has not been able to fill Michael Porter Jr.'s shoes for the Nuggets"
+        ],
+        "newsItems": [
+          {
+            "title": "Do the Nuggets have a Nikola Jokić-Cam Johnson connection problem?",
+            "url": "https://sports.yahoo.com/nba/article/do-the-nuggets-have-a-nikola-jokic-cam-johnson-connection-problem-172204393.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "Zach Lowe confronts the growing Cam Johnson problem for the Nuggets",
+            "url": "https://nugglove.com/zach-lowe-confronts-growing-cam-johnson-problem-for-nuggets",
+            "source": "Nugg Love"
+          },
+          {
+            "title": "Why Cam Johnson has not been able to fill Michael Porter Jr.'s shoes for the Nuggets",
+            "url": "https://www.cbssports.com/nba/news/cam-johnson-michael-porter-jr-nuggets/",
+            "source": "CBS Sports"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-3",
+      "title": "luis arraez",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-08T01:40:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Why Projected Giants Leadoff Hitter Might Bat Lower in Lineup",
+          "San Francisco Giants' Luis Arraez Reflects on WBC Memories Ahead of Opener",
+          "Giants Luis Arraez's wild act after groundout in World Baseball Classic goes viral"
+        ],
+        "newsItems": [
+          {
+            "title": "Why Projected Giants Leadoff Hitter Might Bat Lower in Lineup",
+            "url": "https://www.si.com/mlb/giants/onsi/san-francisco-giants-news/why-projected-giants-leadoff-hitter-might-bat-lower-lineup",
+            "source": "Sports Illustrated"
+          },
+          {
+            "title": "San Francisco Giants' Luis Arraez Reflects on WBC Memories Ahead of Opener",
+            "url": "https://sports.yahoo.com/articles/san-francisco-giants-luis-arraez-212219801.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "Giants Luis Arraez's wild act after groundout in World Baseball Classic goes viral",
+            "url": "https://www.newsweek.com/sports/mlb/giants-stars-wild-act-after-groundout-in-world-baseball-classic-goes-viral-11636663",
+            "source": "Newsweek"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-4",
+      "title": "trayce thompson",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 5000,
+      "publishedAt": "2026-03-08T01:30:00.000Z",
+      "extra": {
+        "traffic": "5000+",
+        "relatedQueries": [
+          "Why Trayce Thompson—Klay Thompson’s Brother—Plays for Great Britain in World Baseball Classic",
+          "Klay Thompson family tree: Meet MLB brother Trayce, former No. 1 NBA pick dad, mom and more",
+          "Throwback to when Klay Thompson gifted Megan Thee Stallion a $275,000 Bentley for her birthday"
+        ],
+        "newsItems": [
+          {
+            "title": "Why Trayce Thompson—Klay Thompson’s Brother—Plays for Great Britain in World Baseball Classic",
+            "url": "https://www.si.com/mlb/why-trayce-thompson-plays-great-britain-world-baseball-classic",
+            "source": "Sports Illustrated"
+          },
+          {
+            "title": "Klay Thompson family tree: Meet MLB brother Trayce, former No. 1 NBA pick dad, mom and more",
+            "url": "https://www.sportingnews.com/us/nba/news/klay-thompson-family-tree-mlb-brother-trayce-dad-mom/dcdb46f153943adbf9197125",
+            "source": "Sporting News"
+          },
+          {
+            "title": "Throwback to when Klay Thompson gifted Megan Thee Stallion a $275,000 Bentley for her birthday",
+            "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/throwback-to-when-klay-thompson-gifted-megan-thee-stallion-a-275000-bentley-for-her-birthday/articleshow/129235056.cms",
+            "source": "The Times of India"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-5",
+      "title": "ernie clement",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 2000,
+      "publishedAt": "2026-03-08T01:30:00.000Z",
+      "extra": {
+        "traffic": "2000+",
+        "relatedQueries": [
+          "Team USA Makes Unexpected Ernie Clement Move Before Rockies Game"
+        ],
+        "newsItems": [
+          {
+            "title": "Team USA Makes Unexpected Ernie Clement Move Before Rockies Game",
+            "url": "https://sports.yahoo.com/articles/team-usa-makes-unexpected-ernie-195740895.html",
+            "source": "Yahoo Sports"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-6",
+      "title": "roman anthony",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-08T01:30:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Team USA on bonding, pausing rivalries and saying farewell to 'the fireman'",
+          "Red Sox star hits towering home run in Team USA debut",
+          "Roman Anthony To Bat Seventh, Play Left Field In Team USA’s WBC Opener"
+        ],
+        "newsItems": [
+          {
+            "title": "Team USA on bonding, pausing rivalries and saying farewell to 'the fireman'",
+            "url": "https://www.mlb.com/news/roman-anthony-on-bonding-at-2026-world-baseball-classic",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Red Sox star hits towering home run in Team USA debut",
+            "url": "https://www.bostonherald.com/2026/03/03/red-sox-star-hits-towering-home-run-in-team-usa-debut/",
+            "source": "Boston Herald"
+          },
+          {
+            "title": "Roman Anthony To Bat Seventh, Play Left Field In Team USA’s WBC Opener",
+            "url": "https://nesn.com/boston-red-sox/news/roman-anthony-bat-seventh-play-left-field-team-usas-wbc-opener/934e9b319f514b1e152ce85f",
+            "source": "NESN"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-7",
+      "title": "ziaire williams",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-08T01:30:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Heat 124-98 Nets (Mar 3, 2026) Game Recap",
+          "LIVE DISCUSSION: Brooklyn Nets at Miami Heat, 7:30 PM ET",
+          "Kel’el Ware proved to be an effective fill-in for …"
+        ],
+        "newsItems": [
+          {
+            "title": "Heat 124-98 Nets (Mar 3, 2026) Game Recap",
+            "url": "https://www.espn.com/nba/recap/_/gameId/401810741",
+            "source": "ESPN"
+          },
+          {
+            "title": "LIVE DISCUSSION: Brooklyn Nets at Miami Heat, 7:30 PM ET",
+            "url": "https://www.netsdaily.com/nets-discussion/106940/live-discussion-brooklyn-nets-at-miami-heat-730-pm-et",
+            "source": "NetsDaily"
+          },
+          {
+            "title": "Kel’el Ware proved to be an effective fill-in for …",
+            "url": "https://sports.yahoo.com/articles/kel-el-ware-proved-effective-031455343.html",
+            "source": "Yahoo Sports"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-8",
+      "title": "mark derosa",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-08T01:30:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "USA talks motivation, excitement ahead of The Classic",
+          "The World Baseball Classic Has Finally Captured Team USA’s Full Attention",
+          "Let’s Make Hasty Judgments About Mark DeRosa’s Lineup"
+        ],
+        "newsItems": [
+          {
+            "title": "USA talks motivation, excitement ahead of The Classic",
+            "url": "https://www.mlb.com/video/usa-talks-motivation-excitement-ahead-of-the-classic",
+            "source": "MLB.com"
+          },
+          {
+            "title": "The World Baseball Classic Has Finally Captured Team USA’s Full Attention",
+            "url": "https://www.si.com/mlb/world-baseball-classic-mlb-stars-global-arms-race-digital-cover",
+            "source": "Sports Illustrated"
+          },
+          {
+            "title": "Let’s Make Hasty Judgments About Mark DeRosa’s Lineup",
+            "url": "https://blogs.fangraphs.com/lets-make-hasty-judgments-about-mark-derosas-lineup/",
+            "source": "FanGraphs"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-9",
+      "title": "daikin park",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-08T01:30:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Whataburger hits Daikin Park: A perfect collaboration — until you see the prices",
+          "Whataburger replaces Shake Shack at Houston Astros' Daikin Park with new stand",
+          "Price of famed margarita at Astros' Daikin Park increases again"
+        ],
+        "newsItems": [
+          {
+            "title": "Whataburger hits Daikin Park: A perfect collaboration — until you see the prices",
+            "url": "https://www.click2houston.com/news/local/2026/03/06/whataburger-hits-daikin-park-a-collaboration-that-makes-perfect-sense-until-you-see-the-prices/",
+            "source": "Click2Houston"
+          },
+          {
+            "title": "Whataburger replaces Shake Shack at Houston Astros' Daikin Park with new stand",
+            "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/whataburger-daikin-park-astros-21943478.php",
+            "source": "Houston Chronicle"
+          },
+          {
+            "title": "Price of famed margarita at Astros' Daikin Park increases again",
+            "url": "https://www.chron.com/sports/astros/article/el-tiempo-margarita-daikin-21949274.php",
+            "source": "Chron"
+          }
+        ],
+        "geo": "CN"
+      }
+    }
+  ],
+  "errors": [
+    "Google Trends RSS returned 400 for geo=CN"
+  ]
+}

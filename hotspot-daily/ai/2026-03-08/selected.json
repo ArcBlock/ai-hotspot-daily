@@ -1,0 +1,610 @@
+{
+  "primary": {
+    "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
+    "title": "Google released a CLI tool that lets AI agents access your Google Workspace",
+    "url": "https://alphasignalai.substack.com/p/google-released-a-cli-tool-that-lets",
+    "source": "alphasignal",
+    "sourceType": "script",
+    "summary": "Google Workspace lets AI agents access your entire Google Workspace ecosystem, including tools like Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.",
+    "publishedAt": "2026-03-07T12:25:02.000Z",
+    "rawScore": 50,
+    "category": "news",
+    "prerankScore": 63,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 17
+    },
+    "scores": {
+      "timeliness": 4,
+      "impact": 5,
+      "actionability": 5,
+      "credibility": 5,
+      "audienceMatch": 5,
+      "total": 4.75
+    },
+    "rankReason": "Google发布gws CLI工具，内置MCP Server，让AI代理直接操作Drive/Gmail/Calendar等全套Workspace API，开发者可立即集成使用，对AI Agent生态影响深远"
+  },
+  "alternates": [
+    {
+      "id": "gh-QwenLM-Qwen-Agent",
+      "title": "QwenLM/Qwen-Agent",
+      "url": "https://github.com/QwenLM/Qwen-Agent",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "rawScore": 15033,
+      "category": "project",
+      "starsToday": 586,
+      "aiRelated": true,
+      "prerankScore": 88,
+      "prerankBreakdown": {
+        "timeliness": 25,
+        "sourceHeat": 25,
+        "keywords": 20,
+        "credibility": 18
+      },
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 4.0
+      },
+      "rankReason": "Qwen-Agent框架持续更新，支持MCP和Function Calling，是开源Agent框架的重要选择，但非全新发布，增量更新降低了新闻性"
+    },
+    {
+      "id": "mcp-1772934601040-0",
+      "title": "OpenAI机器人负责人因五角大楼合作协议辞职",
+      "url": "https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/",
+      "source": "mcp-opennews",
+      "sourceType": "mcp",
+      "summary": "OpenAI机器人部门负责人Caitlin Kalinowski因公司与五角大楼达成AI技术合作协议而辞职，引发业界对AI军事化应用的讨论。",
+      "publishedAt": "2026-03-07T20:04:14.800Z",
+      "rawScore": 0,
+      "category": "news",
+      "prerankScore": 40,
+      "prerankBreakdown": {
+        "timeliness": 25,
+        "sourceHeat": 5,
+        "keywords": 0,
+        "credibility": 10
+      },
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 3,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.1
+      },
+      "rankReason": "OpenAI机器人负责人因五角大楼合作辞职，Bloomberg/Fortune/TechCrunch等多家权威媒体确认，反映AI伦理与军事化应用的核心争议"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
+      "title": "Google released a CLI tool that lets AI agents access your Google Workspace",
+      "scores": {
+        "timeliness": 4,
+        "impact": 5,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 4.75
+      },
+      "rankReason": "Google发布gws CLI工具，内置MCP Server，让AI代理直接操作Drive/Gmail/Calendar等全套Workspace API，开发者可立即集成使用，对AI Agent生态影响深远"
+    },
+    {
+      "id": "mcp-1772934601040-0",
+      "title": "OpenAI机器人负责人因五角大楼合作协议辞职",
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 3,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.1
+      },
+      "rankReason": "OpenAI机器人负责人因五角大楼合作辞职，Bloomberg/Fortune/TechCrunch等多家权威媒体确认，反映AI伦理与军事化应用的核心争议"
+    },
+    {
+      "id": "gh-QwenLM-Qwen-Agent",
+      "title": "QwenLM/Qwen-Agent",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 4.0
+      },
+      "rankReason": "Qwen-Agent框架持续更新，支持MCP和Function Calling，是开源Agent框架的重要选择，但非全新发布，增量更新降低了新闻性"
+    },
+    {
+      "id": "gh-openai-skills",
+      "title": "openai/skills",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 4.0
+      },
+      "rankReason": "OpenAI Codex Skills Catalog定义Agent技能标准，今日948星，但已运营一段时间，非突发新闻"
+    },
+    {
+      "id": "mcp-1772934601040-1",
+      "title": "Circle和Stripe竞相构建AI代理支付系统",
+      "scores": {
+        "timeliness": 5,
+        "impact": 4,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 3.85
+      },
+      "rankReason": "Bloomberg报道Circle和Stripe竞建AI Agent支付基础设施，反映Agent经济基础设施的关键进展，但距离开发者日常使用尚远"
+    },
+    {
+      "id": "alphaxiv-2603.03975",
+      "title": "Phi-4-reasoning-vision-15B Technical Report",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.15
+      },
+      "rankReason": "微软开源15B多模态推理模型，支持选择性推理，训练效率极高，但发布于3月4日，已过数天"
+    },
+    {
+      "id": "gh-msitarzewski-agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.2
+      },
+      "rankReason": "社区AI代理集合项目，今日1468星增长显著，但项目定位偏娱乐，深度有限"
+    },
+    {
+      "id": "gh-GoogleCloudPlatform-generative-ai",
+      "title": "GoogleCloudPlatform/generative-ai",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.35
+      },
+      "rankReason": "Google Cloud生成式AI示例代码库持续更新，实用但非新闻性事件"
+    },
+    {
+      "id": "hn-47282777",
+      "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.95
+      },
+      "rankReason": "HN热门讨论，853评论反映AI编程工具的广泛影响，但属于个人故事而非产业新闻"
+    },
+    {
+      "id": "gh-microsoft-hve-core",
+      "title": "microsoft/hve-core",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.7
+      },
+      "rankReason": "微软Copilot提示工程框架，企业级实用工具，但受众面偏向微软生态用户"
+    },
+    {
+      "id": "gh-alibaba-page-agent",
+      "title": "alibaba/page-agent",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 3.55
+      },
+      "rankReason": "阿里开源的页面内GUI Agent，用自然语言控制网页，实用但影响面有限"
+    },
+    {
+      "id": "websearch-1772934601041-3",
+      "title": "美国FTC将于3月11日发布AI监管政策声明",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.5
+      },
+      "rankReason": "FTC即将发布AI监管声明，对美国AI行业有政策影响，但尚未正式发布，不确定性较高"
+    },
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100044",
+      "title": "Claude's consumer growth surge continues after Pentagon deal debacle",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.95
+      },
+      "rankReason": "Claude用户增长超ChatGPT是重要市场信号，但属于趋势报道而非可行动新闻"
+    },
+    {
+      "id": "gh-toeverything-AFFiNE",
+      "title": "toeverything/AFFiNE",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.95
+      },
+      "rankReason": "开源知识库工具，AI相关度不够直接，更偏生产力工具"
+    },
+    {
+      "id": "dlm-Enhancing-Reasoning-for-Diffus",
+      "title": "Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.35
+      },
+      "rankReason": "扩散LLM推理优化论文，学术前沿但距离实际应用较远"
+    },
+    {
+      "id": "alphaxiv-2603.03276",
+      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.55
+      },
+      "rankReason": "多模态预训练探索论文，学术价值高但可行动性低"
+    },
+    {
+      "id": "alphaxiv-2603.02766",
+      "title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.3
+      },
+      "rankReason": "多Agent系统技能发现论文，主题相关但纯学术"
+    },
+    {
+      "id": "alphaxiv-2603.05433",
+      "title": "On-Policy Self-Distillation for Reasoning Compression",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.3
+      },
+      "rankReason": "推理压缩自蒸馏论文，学术前沿但可行动性低"
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "google/gemini-3-flash",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.55
+      },
+      "rankReason": "Gemini 3 Flash上线Replicate，方便开发者调用，但非新模型发布"
+    },
+    {
+      "id": "hn-47285960",
+      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 2,
+        "total": 2.7
+      },
+      "rankReason": "Meta关于AI训练数据版权的法律论点，与AI行业相关但偏法律层面"
+    },
+    {
+      "id": "hn-47283337",
+      "title": "LLMs work best when the user defines their acceptance criteria first",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 2.95
+      },
+      "rankReason": "LLM使用实践讨论，对开发者有参考价值但非突发新闻"
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-yurukusa-i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-",
+      "title": "I Had No Idea How Full My Claude Code Context Window Was. So I Built a Tool.",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.75
+      },
+      "rankReason": "Claude Code上下文窗口监控工具，小众但实用，影响面有限"
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-xujfcn-best-ai-api-solutions-for-vietnam-developers-in-2026-459a",
+      "title": "Best AI API Solutions for Vietnam Developers in 2026",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 2,
+        "credibility": 2,
+        "audienceMatch": 1,
+        "total": 2.0
+      },
+      "rankReason": "越南开发者AI API指南，地域局限性强，可信度一般"
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-aline-mercer-e495a3af58ee-i-built-an-ai-agent-tool-marketplace-on-a-sta",
+      "title": "I Built an AI Agent Tool Marketplace on a Static Site (It Costs Almost Nothing)",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.55
+      },
+      "rankReason": "个人项目，AI Agent工具市场概念有趣但影响力不足"
+    },
+    {
+      "id": "dlm-Interpreto-An-Explainability-",
+      "title": "Interpreto: An Explainability Library for Transformers",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.5
+      },
+      "rankReason": "Transformer可解释性库，学术工具类，受众面窄"
+    },
+    {
+      "id": "dlm-City-Editing-Hierarchical-Age",
+      "title": "City Editing: Hierarchical Agentic Execution for Dependency-Aware Urban Geospatial Modification",
+      "scores": {
+        "timeliness": 4,
+        "impact": 1,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.9
+      },
+      "rankReason": "城市地理空间编辑论文，垂直领域学术研究，与主流AI开发者关联度低"
+    },
+    {
+      "id": "dlm-Anatomy-of-Agentic-Memory-Tax",
+      "title": "Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.3
+      },
+      "rankReason": "Agent记忆系统分类论文，学术价值有但可行动性低"
+    },
+    {
+      "id": "replicate-qwen-qwen3-tts",
+      "title": "qwen/qwen3-tts",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 2.95
+      },
+      "rankReason": "Qwen3 TTS上线Replicate，语音合成可试用，但非新模型首发"
+    },
+    {
+      "id": "ph-21st-agents-sdk",
+      "title": "21st Agents SDK",
+      "scores": {
+        "timeliness": 2,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.45
+      },
+      "rankReason": "Agent SDK产品，发布已两天，可信度和影响力有限"
+    },
+    {
+      "id": "gh-agentjido-jido",
+      "title": "agentjido/jido",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.5
+      },
+      "rankReason": "Elixir语言的Agent框架，技术有趣但受众极小（Elixir社区）"
+    },
+    {
+      "id": "pwc-2603.03756",
+      "title": "Paper 2603.03756",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.3
+      },
+      "rankReason": "论文标题不详，信息不足以做出高分评价"
+    },
+    {
+      "id": "pwc-2603.04448",
+      "title": "Paper 2603.04448",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.3
+      },
+      "rankReason": "论文标题不详，信息不足"
+    },
+    {
+      "id": "pwc-2603.04743",
+      "title": "Paper 2603.04743",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.3
+      },
+      "rankReason": "论文标题不详，信息不足"
+    },
+    {
+      "id": "qbitai-央视点赞千问APP-AI办事-让人工智能走进日常生活",
+      "title": "央视点赞千问APP，"AI办事"让人工智能走进日常生活",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.35
+      },
+      "rankReason": "央视报道千问APP，偏消费者侧新闻，对开发者参考价值有限"
+    },
+    {
+      "id": "qbitai-彻底告别VE与VAE-商汤硬核重构多模态-砍掉所有中间编码器",
+      "title": "彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.6
+      },
+      "rankReason": "商汤多模态架构创新，技术突破但实际落地尚需验证"
+    },
+    {
+      "id": "qbitai-鹅厂门口免费装龙虾-几百人排爆了-一代人有一代人的鸡蛋要领",
+      "title": "鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领",
+      "scores": {
+        "timeliness": 3,
+        "impact": 0,
+        "actionability": 0,
+        "credibility": 3,
+        "audienceMatch": 0,
+        "total": 1.05
+      },
+      "rankReason": "腾讯门口排队领龙虾趣闻，与AI技术完全无关"
+    },
+    {
+      "id": "ph-codex-security",
+      "title": "Codex Security",
+      "scores": {
+        "timeliness": 2,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 2.8
+      },
+      "rankReason": "OpenAI应用安全代理，实用但非重大新闻"
+    },
+    {
+      "id": "ph-olmo-hybrid",
+      "title": "Olmo Hybrid",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.35
+      },
+      "rankReason": "AI2开源混合架构模型，学术意义大于实用价值"
+    },
+    {
+      "id": "replicate-black-forest-labs-flux-2-pro",
+      "title": "black-forest-labs/flux-2-pro",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 2.75
+      },
+      "rankReason": "FLUX 2 Pro上线Replicate，图像生成可用但非首发新闻"
+    },
+    {
+      "id": "websearch-1772934601040-2",
+      "title": "AI私募股权平台Rowspace获5000万美元融资，Sequoia领投",
+      "scores": {
+        "timeliness": 2,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 1,
+        "total": 1.75
+      },
+      "rankReason": "AI金融平台融资，垂直领域新闻，与多数AI开发者无关"
+    }
+  ],
+  "rankedAt": "2026-03-08T08:00:00.000Z"
+}

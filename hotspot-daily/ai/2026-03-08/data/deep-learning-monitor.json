@@ -1,0 +1,186 @@
+{
+  "source": "deep-learning-monitor",
+  "fetchedAt": "2026-03-08T01:46:57.464Z",
+  "items": [
+    {
+      "id": "dlm-Sampling-aware-Adversarial-Att",
+      "title": "Sampling-aware Adversarial Attacks Against Large Language Models",
+      "url": "https://deeplearn.org/arxiv/704388/sampling-aware-adversarial-attacks-against-large-language-models",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.463Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Training-Free-Cross-Architectu",
+      "title": "Training-Free Cross-Architecture Merging for Graph Neural Networks",
+      "url": "https://deeplearn.org/arxiv/704389/training-free-cross-architecture-merging-for-graph-neural-networks",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Enhancing-Reasoning-for-Diffus",
+      "title": "Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization",
+      "url": "https://deeplearn.org/arxiv/704390/enhancing-reasoning-for-diffusion-llms-via-distribution-matching-policy-optimization",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Interpreto-An-Explainability-",
+      "title": "Interpreto: An Explainability Library for Transformers",
+      "url": "https://deeplearn.org/arxiv/704391/interpreto:-an-explainability-library-for-transformers",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-AFABench-A-Generic-Framework-",
+      "title": "AFABench: A Generic Framework for Benchmarking Active Feature Acquisition",
+      "url": "https://deeplearn.org/arxiv/704392/afabench:-a-generic-framework-for-benchmarking-active-feature-acquisition",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Partial-Soft-Matching-Distance",
+      "title": "Partial Soft-Matching Distance for Neural Representational Comparison with Partial Unit Correspondence",
+      "url": "https://deeplearn.org/arxiv/704393/partial-soft-matching-distance-for-neural-representational-comparison-with-partial-unit-correspondence",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-CTS-Bench-Benchmarking-Graph-",
+      "title": "CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis",
+      "url": "https://deeplearn.org/arxiv/704394/cts-bench:-benchmarking-graph-coarsening-trade-offs-for-gnns-in-clock-tree-synthesis",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Dynamic-Elasticity-Between-For",
+      "title": "Dynamic Elasticity Between Forest Loss and Carbon Emissions: A Subnational Panel Analysis of the United States",
+      "url": "https://deeplearn.org/arxiv/704395/dynamic-elasticity-between-forest-loss-and-carbon-emissions:-a-subnational-panel-analysis-of-the-united-states",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Soft-Sequence-Policy-Optimizat",
+      "title": "Soft Sequence Policy Optimization: Bridging GMPO and SAPO",
+      "url": "https://deeplearn.org/arxiv/704396/soft-sequence-policy-optimization:-bridging-gmpo-and-sapo",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-City-Editing-Hierarchical-Age",
+      "title": "City Editing: Hierarchical Agentic Execution for Dependency-Aware Urban Geospatial Modification",
+      "url": "https://deeplearn.org/arxiv/704397/city-editing:-hierarchical-agentic-execution-for-dependency-aware-urban-geospatial-modification",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Anatomy-of-Agentic-Memory-Tax",
+      "title": "Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations",
+      "url": "https://deeplearn.org/arxiv/704402/anatomy-of-agentic-memory:-taxonomy-and-empirical-analysis-of-evaluation-and-system-limitations",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Health-Empowering-Individual",
+      "title": "Health+: Empowering Individuals via Unifying Health Data",
+      "url": "https://deeplearn.org/arxiv/704403/health+:-empowering-individuals-via-unifying-health-data",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Learning-to-Reason-for-Multi-S",
+      "title": "Learning to Reason for Multi-Step Retrieval of Personal Context in Personalized Question Answering",
+      "url": "https://deeplearn.org/arxiv/704404/learning-to-reason-for-multi-step-retrieval-of-personal-context-in-personalized-question-answering",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Pay-Attention-to-CTC-Fast-and",
+      "title": "Pay Attention to CTC: Fast and Robust Pseudo-Labelling for Unified Speech Recognition",
+      "url": "https://deeplearn.org/arxiv/704405/pay-attention-to-ctc:-fast-and-robust-pseudo-labelling-for-unified-speech-recognition",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Online-Navigation-Planning-for",
+      "title": "Online Navigation Planning for Long-term Autonomous Operation of Underwater Gliders",
+      "url": "https://deeplearn.org/arxiv/704406/online-navigation-planning-for-long-term-autonomous-operation-of-underwater-gliders",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-08T01:46:57.464Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}

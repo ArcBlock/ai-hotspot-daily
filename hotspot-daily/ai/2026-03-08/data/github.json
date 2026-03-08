@@ -1,0 +1,193 @@
+{
+  "source": "github",
+  "fetchedAt": "2026-03-08T01:46:07.838Z",
+  "items": [
+    {
+      "id": "gh-666ghj-MiroFish",
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "source": "github",
+      "category": "project",
+      "score": 5685,
+      "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "Python",
+        "forks": 625,
+        "starsToday": 399,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-openai-skills",
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "source": "github",
+      "category": "project",
+      "score": 12731,
+      "summary": "Skills Catalog for Codex",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "Python",
+        "forks": 707,
+        "starsToday": 948,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-msitarzewski-agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "github",
+      "category": "project",
+      "score": 10794,
+      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "Shell",
+        "forks": 1582,
+        "starsToday": 1468,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-GoogleCloudPlatform-generative-ai",
+      "title": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "source": "github",
+      "category": "project",
+      "score": 13547,
+      "summary": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "forks": 3826,
+        "starsToday": 384,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-agentjido-jido",
+      "title": "agentjido/jido",
+      "url": "https://github.com/agentjido/jido",
+      "source": "github",
+      "category": "project",
+      "score": 1426,
+      "summary": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "Elixir",
+        "forks": 74,
+        "starsToday": 115,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-QwenLM-Qwen-Agent",
+      "title": "QwenLM/Qwen-Agent",
+      "url": "https://github.com/QwenLM/Qwen-Agent",
+      "source": "github",
+      "category": "project",
+      "score": 15033,
+      "summary": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "Python",
+        "forks": 1439,
+        "starsToday": 586,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-virattt-ai-hedge-fund",
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "source": "github",
+      "category": "project",
+      "score": 46585,
+      "summary": "An AI Hedge Fund Team",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "Python",
+        "forks": 8112,
+        "starsToday": 248,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-microsoft-hve-core",
+      "title": "microsoft/hve-core",
+      "url": "https://github.com/microsoft/hve-core",
+      "source": "github",
+      "category": "project",
+      "score": 754,
+      "summary": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "PowerShell",
+        "forks": 96,
+        "starsToday": 217,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-toeverything-AFFiNE",
+      "title": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "source": "github",
+      "category": "project",
+      "score": 64711,
+      "summary": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 4530,
+        "starsToday": 281,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-shadcn-ui-ui",
+      "title": "shadcn-ui/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "source": "github",
+      "category": "project",
+      "score": 108190,
+      "summary": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 8043,
+        "starsToday": 129,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-alibaba-page-agent",
+      "title": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "source": "github",
+      "category": "project",
+      "score": 1389,
+      "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "publishedAt": "2026-03-08T01:46:07.838Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 126,
+        "starsToday": 137,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    }
+  ]
+}

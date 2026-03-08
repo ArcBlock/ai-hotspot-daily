@@ -1,0 +1,85 @@
+{
+  "slug": "oil-price-surge-iran",
+  "title": "中东战火推油价暴涨17%：冲击全球能源格局",
+  "category": "财经",
+  "color": "#d97706",
+  "template": "trend",
+  "sections": [
+    {
+      "type": "text",
+      "heading": "事件概述",
+      "content": {
+        "paragraphs": [
+          "2026年2月28日美以联合空袭伊朗以来，国际油价剧烈上涨。布伦特原油从战前70.79美元/桶飙升至最高94.64美元，年内涨幅超17%。伊朗宣布封锁霍尔木兹海峡，全球超1/3海运原油贸易受阻。",
+          "A股市场\"三桶油\"史上首次连续两日集体涨停：中国石油收报13.15元（年内涨26.32%），中国石化收报7.82元（年内涨26.54%），中国海油收报43.41元（年内涨43.84%）。三家公司均发布股价异动公告，提示油价波动风险。"
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "布伦特原油价格走势",
+      "content": {
+        "chartType": "line",
+        "unit": "美元/桶",
+        "data": [
+          { "label": "2.26战前", "value": 70.79 },
+          { "label": "3.1空袭后", "value": 78.34 },
+          { "label": "3.2海峡封锁", "value": 82 },
+          { "label": "3.3突破85", "value": 85 },
+          { "label": "3.6触及90", "value": 90 },
+          { "label": "3.7最高点", "value": 92.69 }
+        ],
+        "source": "新华网/新浪财经综合"
+      }
+    },
+    {
+      "type": "key-facts",
+      "heading": "关键数字",
+      "content": {
+        "facts": [
+          { "label": "布伦特原油最高价", "value": "94.64美元/桶" },
+          { "label": "年内累计涨幅", "value": "超17%" },
+          { "label": "霍尔木兹海峡日通行量", "value": "1600-2000万桶" },
+          { "label": "预计日供应缺口", "value": "700-1100万桶" },
+          { "label": "国内油价预计调幅", "value": "上涨600-650元/吨" },
+          { "label": "92号汽油预计涨幅", "value": "约0.48-0.50元/升" },
+          { "label": "中国石油储备", "value": "超13亿桶，覆盖130天" },
+          { "label": "高盛预测", "value": "数周内布油或达100美元" }
+        ]
+      }
+    },
+    {
+      "type": "chart",
+      "heading": "\"三桶油\"年内涨幅",
+      "content": {
+        "chartType": "bar",
+        "unit": "%",
+        "data": [
+          { "label": "中国石油", "value": 26.32 },
+          { "label": "中国石化", "value": 26.54 },
+          { "label": "中国海油", "value": 43.84 }
+        ],
+        "source": "新浪财经"
+      }
+    },
+    {
+      "type": "text",
+      "heading": "后续展望",
+      "content": {
+        "paragraphs": [
+          "3月9日24时国内成品油迎来新一轮调价，多家机构预计涨幅达600-650元/吨，折合每升上涨0.48-0.50元，为年内最高涨幅。高盛警告若霍尔木兹海峡持续中断5周，布油或突破100美元。",
+          "中国战略加商业石油储备超13亿桶，覆盖全国消费超130天，远超国际90天安全线。过去一年中国以日均超百万桶速度补充储备，在本轮危机中处于相对有利地位。美国能源部表示暂不释放战略储备，市场情绪仍偏紧张，油价短期内高位震荡概率较大。"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    { "name": "新华网", "url": "https://www.news.cn/world/20260302/4c1f1473e3db4d6998fe09af52ff8687/c.html" },
+    { "name": "新浪财经", "url": "https://finance.sina.com.cn/jjxw/2026-03-03/doc-inhptkrh7474649.shtml" },
+    { "name": "CME Group", "url": "https://www.cmegroup.com/cn-s/insights/media-partners/jlc/crude-oil-weekly-report-2026-03-06.html" },
+    { "name": "天天基金", "url": "https://fund.eastmoney.com/a/202603073665077790.html" },
+    { "name": "观察者网", "url": "https://www.guancha.cn/QuXinRong/2026_03_07_809136.shtml" },
+    { "name": "新浪财经（储备）", "url": "https://finance.sina.com.cn/wm/2026-03-04/doc-inhpuwsm3480774.shtml" }
+  ],
+  "generatedAt": "2026-03-08T09:00:00.000Z"
+}

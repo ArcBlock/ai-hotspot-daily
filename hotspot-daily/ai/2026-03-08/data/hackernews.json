@@ -1,0 +1,227 @@
+{
+  "source": "hackernews",
+  "fetchedAt": "2026-03-08T01:45:56.914Z",
+  "items": [
+    {
+      "id": "hn-47289311",
+      "title": "A decade of Docker containers",
+      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 230,
+      "comments": 169,
+      "publishedAt": "2026-03-07T16:55:18.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47289311"
+      }
+    },
+    {
+      "id": "hn-47291513",
+      "title": "LLM Writing Tropes.md",
+      "url": "https://tropes.fyi/tropes-md",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 83,
+      "comments": 35,
+      "publishedAt": "2026-03-07T21:08:40.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47291513"
+      }
+    },
+    {
+      "id": "hn-47268838",
+      "title": "Self-Portrait by Ernst Mach (1886)",
+      "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 92,
+      "comments": 16,
+      "publishedAt": "2026-03-05T23:48:26.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47268838"
+      }
+    },
+    {
+      "id": "hn-47292381",
+      "title": "I resigned from OpenAI",
+      "url": "https://twitter.com/kalinowski007/status/2030320074121478618",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 100,
+      "comments": 54,
+      "publishedAt": "2026-03-07T23:09:51.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47292381"
+      }
+    },
+    {
+      "id": "hn-47285960",
+      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+      "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 407,
+      "comments": 223,
+      "publishedAt": "2026-03-07T09:18:40.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47285960"
+      }
+    },
+    {
+      "id": "hn-47289406",
+      "title": "Verification debt: the hidden cost of AI-generated code",
+      "url": "https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 78,
+      "comments": 76,
+      "publishedAt": "2026-03-07T17:08:30.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47289406"
+      }
+    },
+    {
+      "id": "hn-47292574",
+      "title": "Why developers using AI are working longer hours",
+      "url": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 52,
+      "comments": 42,
+      "publishedAt": "2026-03-07T23:39:04.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47292574"
+      }
+    },
+    {
+      "id": "hn-47290457",
+      "title": "Training students to prove they're not robots is pushing them to use more AI",
+      "url": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 138,
+      "comments": 151,
+      "publishedAt": "2026-03-07T19:01:01.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47290457"
+      }
+    },
+    {
+      "id": "hn-47289959",
+      "title": "Lawmakers Want DoD Investigated for Biblical 'Armageddon' Claims",
+      "url": "https://www.military.com/daily-news/2026/03/06/lawmakers-want-dod-hegseth-investigated-biblical-armageddon-claims.html",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 63,
+      "comments": 22,
+      "publishedAt": "2026-03-07T18:04:53.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47289959"
+      }
+    },
+    {
+      "id": "hn-47282807",
+      "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+      "url": "https://github.com/c0m4r/kula",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 80,
+      "comments": 53,
+      "publishedAt": "2026-03-07T00:07:25.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47282807"
+      }
+    },
+    {
+      "id": "hn-47283337",
+      "title": "LLMs work best when the user defines their acceptance criteria first",
+      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 422,
+      "comments": 377,
+      "publishedAt": "2026-03-07T01:17:57.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47283337"
+      }
+    },
+    {
+      "id": "hn-47275291",
+      "title": "A tool that removes censorship from open-weight LLMs",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 205,
+      "comments": 83,
+      "publishedAt": "2026-03-06T14:27:55.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47275291"
+      }
+    },
+    {
+      "id": "hn-47285422",
+      "title": "Sarvam 105B, the first competitive Indian open source LLM",
+      "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 170,
+      "comments": 61,
+      "publishedAt": "2026-03-07T07:43:57.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47285422"
+      }
+    },
+    {
+      "id": "hn-47265045",
+      "title": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 1006,
+      "comments": 797,
+      "publishedAt": "2026-03-05T18:08:10.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47265045"
+      }
+    },
+    {
+      "id": "hn-47282777",
+      "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+      "url": "https://news.ycombinator.com/item?id=47282777",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 976,
+      "comments": 853,
+      "publishedAt": "2026-03-07T00:05:06.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47282777"
+      }
+    },
+    {
+      "id": "hn-47276604",
+      "title": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
+      "url": "https://github.com/es617/claude-replay",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 95,
+      "comments": 32,
+      "publishedAt": "2026-03-06T15:57:27.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47276604"
+      }
+    },
+    {
+      "id": "hn-47230710",
+      "title": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 829,
+      "comments": 359,
+      "publishedAt": "2026-03-03T10:57:42.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47230710"
+      }
+    }
+  ]
+}

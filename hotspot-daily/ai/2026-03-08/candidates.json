@@ -1,0 +1,2366 @@
+[
+  {
+    "id": "gh-shadcn-ui-ui",
+    "title": "shadcn-ui/ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 108190,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 8043,
+      "starsToday": 129,
+      "aiRelated": false,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-toeverything-AFFiNE",
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 64711,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 4530,
+      "starsToday": 281,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-virattt-ai-hedge-fund",
+    "title": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "An AI Hedge Fund Team",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 46585,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 8112,
+      "starsToday": 248,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-QwenLM-Qwen-Agent",
+    "title": "QwenLM/Qwen-Agent",
+    "url": "https://github.com/QwenLM/Qwen-Agent",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 15033,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 1439,
+      "starsToday": 586,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-GoogleCloudPlatform-generative-ai",
+    "title": "GoogleCloudPlatform/generative-ai",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 13547,
+    "metadata": {
+      "category": "project",
+      "language": "Jupyter Notebook",
+      "forks": 3826,
+      "starsToday": 384,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-openai-skills",
+    "title": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Skills Catalog for Codex",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 12731,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 707,
+      "starsToday": 948,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-msitarzewski-agency-agents",
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 10794,
+    "metadata": {
+      "category": "project",
+      "language": "Shell",
+      "forks": 1582,
+      "starsToday": 1468,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-666ghj-MiroFish",
+    "title": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 5685,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 625,
+      "starsToday": 399,
+      "aiRelated": false,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-agentjido-jido",
+    "title": "agentjido/jido",
+    "url": "https://github.com/agentjido/jido",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 1426,
+    "metadata": {
+      "category": "project",
+      "language": "Elixir",
+      "forks": 74,
+      "starsToday": 115,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-alibaba-page-agent",
+    "title": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 1389,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 126,
+      "starsToday": 137,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "hn-47282777",
+    "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+    "url": "https://news.ycombinator.com/item?id=47282777",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T00:05:06.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 976,
+    "metadata": {
+      "category": "discussion",
+      "comments": 853,
+      "hnUrl": "https://news.ycombinator.com/item?id=47282777"
+    }
+  },
+  {
+    "id": "gh-microsoft-hve-core",
+    "title": "microsoft/hve-core",
+    "url": "https://github.com/microsoft/hve-core",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:07.838Z",
+    "fetchedAt": "2026-03-08T01:46:07.838Z",
+    "rawScore": 754,
+    "metadata": {
+      "category": "project",
+      "language": "PowerShell",
+      "forks": 96,
+      "starsToday": 217,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "hn-47283337",
+    "title": "LLMs work best when the user defines their acceptance criteria first",
+    "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T01:17:57.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 422,
+    "metadata": {
+      "category": "discussion",
+      "comments": 377,
+      "hnUrl": "https://news.ycombinator.com/item?id=47283337"
+    }
+  },
+  {
+    "id": "hn-47285960",
+    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T09:18:40.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 407,
+    "metadata": {
+      "category": "discussion",
+      "comments": 223,
+      "hnUrl": "https://news.ycombinator.com/item?id=47285960"
+    }
+  },
+  {
+    "id": "hn-47289311",
+    "title": "A decade of Docker containers",
+    "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T16:55:18.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 230,
+    "metadata": {
+      "category": "discussion",
+      "comments": 169,
+      "hnUrl": "https://news.ycombinator.com/item?id=47289311"
+    }
+  },
+  {
+    "id": "hn-47275291",
+    "title": "A tool that removes censorship from open-weight LLMs",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T14:27:55.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 205,
+    "metadata": {
+      "category": "discussion",
+      "comments": 83,
+      "hnUrl": "https://news.ycombinator.com/item?id=47275291"
+    }
+  },
+  {
+    "id": "hn-47285422",
+    "title": "Sarvam 105B, the first competitive Indian open source LLM",
+    "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T07:43:57.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 170,
+    "metadata": {
+      "category": "discussion",
+      "comments": 61,
+      "hnUrl": "https://news.ycombinator.com/item?id=47285422"
+    }
+  },
+  {
+    "id": "hn-47290457",
+    "title": "Training students to prove they're not robots is pushing them to use more AI",
+    "url": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T19:01:01.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 138,
+    "metadata": {
+      "category": "discussion",
+      "comments": 151,
+      "hnUrl": "https://news.ycombinator.com/item?id=47290457"
+    }
+  },
+  {
+    "id": "hn-47292381",
+    "title": "I resigned from OpenAI",
+    "url": "https://twitter.com/kalinowski007/status/2030320074121478618",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T23:09:51.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 100,
+    "metadata": {
+      "category": "discussion",
+      "comments": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=47292381"
+    }
+  },
+  {
+    "id": "hn-47276604",
+    "title": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
+    "url": "https://github.com/es617/claude-replay",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T15:57:27.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 95,
+    "metadata": {
+      "category": "discussion",
+      "comments": 32,
+      "hnUrl": "https://news.ycombinator.com/item?id=47276604"
+    }
+  },
+  {
+    "id": "hn-47291513",
+    "title": "LLM Writing Tropes.md",
+    "url": "https://tropes.fyi/tropes-md",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T21:08:40.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 83,
+    "metadata": {
+      "category": "discussion",
+      "comments": 35,
+      "hnUrl": "https://news.ycombinator.com/item?id=47291513"
+    }
+  },
+  {
+    "id": "hn-47282807",
+    "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+    "url": "https://github.com/c0m4r/kula",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T00:07:25.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 80,
+    "metadata": {
+      "category": "discussion",
+      "comments": 53,
+      "hnUrl": "https://news.ycombinator.com/item?id=47282807"
+    }
+  },
+  {
+    "id": "hn-47289406",
+    "title": "Verification debt: the hidden cost of AI-generated code",
+    "url": "https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T17:08:30.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 78,
+    "metadata": {
+      "category": "discussion",
+      "comments": 76,
+      "hnUrl": "https://news.ycombinator.com/item?id=47289406"
+    }
+  },
+  {
+    "id": "hn-47289959",
+    "title": "Lawmakers Want DoD Investigated for Biblical 'Armageddon' Claims",
+    "url": "https://www.military.com/daily-news/2026/03/06/lawmakers-want-dod-hegseth-investigated-biblical-armageddon-claims.html",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T18:04:53.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 63,
+    "metadata": {
+      "category": "discussion",
+      "comments": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=47289959"
+    }
+  },
+  {
+    "id": "hn-47292574",
+    "title": "Why developers using AI are working longer hours",
+    "url": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T23:39:04.000Z",
+    "fetchedAt": "2026-03-08T01:45:56.914Z",
+    "rawScore": 52,
+    "metadata": {
+      "category": "discussion",
+      "comments": 42,
+      "hnUrl": "https://news.ycombinator.com/item?id=47292574"
+    }
+  },
+  {
+    "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
+    "title": "Google released a CLI tool that lets AI agents access your Google Workspace",
+    "url": "https://alphasignalai.substack.com/p/google-released-a-cli-tool-that-lets",
+    "source": "alphasignal",
+    "sourceType": "script",
+    "summary": "Google Workspace lets AI agents access your entire Google Workspace ecosystem, including tools like Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T12:25:02.000Z",
+    "fetchedAt": "2026-03-08T01:46:51.918Z",
+    "rawScore": 50,
+    "metadata": {
+      "category": "news",
+      "newsletterType": "news"
+    }
+  },
+  {
+    "id": "pwc-2603.03756",
+    "title": "Paper 2603.03756",
+    "url": "https://huggingface.co/papers/2603.03756",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03756",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.04448",
+    "title": "Paper 2603.04448",
+    "url": "https://huggingface.co/papers/2603.04448",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04448",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.04743",
+    "title": "Paper 2603.04743",
+    "url": "https://huggingface.co/papers/2603.04743",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04743",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2602.23166",
+    "title": "Paper 2602.23166",
+    "url": "https://huggingface.co/papers/2602.23166",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2602.23166",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.05504",
+    "title": "Paper 2603.05504",
+    "url": "https://huggingface.co/papers/2603.05504",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05504",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.02210",
+    "title": "Paper 2603.02210",
+    "url": "https://huggingface.co/papers/2603.02210",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02210",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2602.23229",
+    "title": "Paper 2602.23229",
+    "url": "https://huggingface.co/papers/2602.23229",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2602.23229",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.04737",
+    "title": "Paper 2603.04737",
+    "url": "https://huggingface.co/papers/2603.04737",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04737",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.00466",
+    "title": "Paper 2603.00466",
+    "url": "https://huggingface.co/papers/2603.00466",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.00466",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.02170",
+    "title": "Paper 2603.02170",
+    "url": "https://huggingface.co/papers/2603.02170",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02170",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.04791",
+    "title": "Paper 2603.04791",
+    "url": "https://huggingface.co/papers/2603.04791",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04791",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.04800",
+    "title": "Paper 2603.04800",
+    "url": "https://huggingface.co/papers/2603.04800",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04800",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.05449",
+    "title": "Paper 2603.05449",
+    "url": "https://huggingface.co/papers/2603.05449",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05449",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.04892",
+    "title": "Paper 2603.04892",
+    "url": "https://huggingface.co/papers/2603.04892",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04892",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.05433",
+    "title": "Paper 2603.05433",
+    "url": "https://huggingface.co/papers/2603.05433",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05433",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.05312",
+    "title": "Paper 2603.05312",
+    "url": "https://huggingface.co/papers/2603.05312",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05312",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.05218",
+    "title": "Paper 2603.05218",
+    "url": "https://huggingface.co/papers/2603.05218",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05218",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.00695",
+    "title": "Paper 2603.00695",
+    "url": "https://huggingface.co/papers/2603.00695",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.00695",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2602.23440",
+    "title": "Paper 2602.23440",
+    "url": "https://huggingface.co/papers/2602.23440",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2602.23440",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "pwc-2603.05484",
+    "title": "Paper 2603.05484",
+    "url": "https://huggingface.co/papers/2603.05484",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:43.870Z",
+    "fetchedAt": "2026-03-08T01:46:43.870Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05484",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Sampling-aware-Adversarial-Att",
+    "title": "Sampling-aware Adversarial Attacks Against Large Language Models",
+    "url": "https://deeplearn.org/arxiv/704388/sampling-aware-adversarial-attacks-against-large-language-models",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.463Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Training-Free-Cross-Architectu",
+    "title": "Training-Free Cross-Architecture Merging for Graph Neural Networks",
+    "url": "https://deeplearn.org/arxiv/704389/training-free-cross-architecture-merging-for-graph-neural-networks",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Enhancing-Reasoning-for-Diffus",
+    "title": "Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization",
+    "url": "https://deeplearn.org/arxiv/704390/enhancing-reasoning-for-diffusion-llms-via-distribution-matching-policy-optimization",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Interpreto-An-Explainability-",
+    "title": "Interpreto: An Explainability Library for Transformers",
+    "url": "https://deeplearn.org/arxiv/704391/interpreto:-an-explainability-library-for-transformers",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-AFABench-A-Generic-Framework-",
+    "title": "AFABench: A Generic Framework for Benchmarking Active Feature Acquisition",
+    "url": "https://deeplearn.org/arxiv/704392/afabench:-a-generic-framework-for-benchmarking-active-feature-acquisition",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Partial-Soft-Matching-Distance",
+    "title": "Partial Soft-Matching Distance for Neural Representational Comparison with Partial Unit Correspondence",
+    "url": "https://deeplearn.org/arxiv/704393/partial-soft-matching-distance-for-neural-representational-comparison-with-partial-unit-correspondence",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-CTS-Bench-Benchmarking-Graph-",
+    "title": "CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis",
+    "url": "https://deeplearn.org/arxiv/704394/cts-bench:-benchmarking-graph-coarsening-trade-offs-for-gnns-in-clock-tree-synthesis",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Dynamic-Elasticity-Between-For",
+    "title": "Dynamic Elasticity Between Forest Loss and Carbon Emissions: A Subnational Panel Analysis of the United States",
+    "url": "https://deeplearn.org/arxiv/704395/dynamic-elasticity-between-forest-loss-and-carbon-emissions:-a-subnational-panel-analysis-of-the-united-states",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Soft-Sequence-Policy-Optimizat",
+    "title": "Soft Sequence Policy Optimization: Bridging GMPO and SAPO",
+    "url": "https://deeplearn.org/arxiv/704396/soft-sequence-policy-optimization:-bridging-gmpo-and-sapo",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-City-Editing-Hierarchical-Age",
+    "title": "City Editing: Hierarchical Agentic Execution for Dependency-Aware Urban Geospatial Modification",
+    "url": "https://deeplearn.org/arxiv/704397/city-editing:-hierarchical-agentic-execution-for-dependency-aware-urban-geospatial-modification",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Anatomy-of-Agentic-Memory-Tax",
+    "title": "Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations",
+    "url": "https://deeplearn.org/arxiv/704402/anatomy-of-agentic-memory:-taxonomy-and-empirical-analysis-of-evaluation-and-system-limitations",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Health-Empowering-Individual",
+    "title": "Health+: Empowering Individuals via Unifying Health Data",
+    "url": "https://deeplearn.org/arxiv/704403/health+:-empowering-individuals-via-unifying-health-data",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Learning-to-Reason-for-Multi-S",
+    "title": "Learning to Reason for Multi-Step Retrieval of Personal Context in Personalized Question Answering",
+    "url": "https://deeplearn.org/arxiv/704404/learning-to-reason-for-multi-step-retrieval-of-personal-context-in-personalized-question-answering",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Pay-Attention-to-CTC-Fast-and",
+    "title": "Pay Attention to CTC: Fast and Robust Pseudo-Labelling for Unified Speech Recognition",
+    "url": "https://deeplearn.org/arxiv/704405/pay-attention-to-ctc:-fast-and-robust-pseudo-labelling-for-unified-speech-recognition",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Online-Navigation-Planning-for",
+    "title": "Online Navigation Planning for Long-term Autonomous Operation of Underwater Gliders",
+    "url": "https://deeplearn.org/arxiv/704406/online-navigation-planning-for-long-term-autonomous-operation-of-underwater-gliders",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:57.464Z",
+    "fetchedAt": "2026-03-08T01:46:57.464Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03276",
+    "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "url": "https://www.alphaxiv.org/abs/2603.03276",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03276",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03251",
+    "title": "Speculative Speculative Decoding",
+    "url": "https://www.alphaxiv.org/abs/2603.03251",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03251",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.04964",
+    "title": "Replaying pre-training data improves fine-tuning",
+    "url": "https://www.alphaxiv.org/abs/2603.04964",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04964",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.04379",
+    "title": "Helios: Real Real-Time Long Video Generation Model",
+    "url": "https://www.alphaxiv.org/abs/2603.04379",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04379",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05449",
+    "title": "RealWonder: Real-Time Physical Action-Conditioned Video Generation",
+    "url": "https://www.alphaxiv.org/abs/2603.05449",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05449",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03818",
+    "title": "Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning",
+    "url": "https://www.alphaxiv.org/abs/2603.03818",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03818",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05122",
+    "title": "Analysis of the Riemann Zeta Function via Recursive Taylor Expansions",
+    "url": "https://www.alphaxiv.org/abs/2603.05122",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05122",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.04735",
+    "title": "Solving an Open Problem in Theoretical Physics using AI-Assisted Discovery",
+    "url": "https://www.alphaxiv.org/abs/2603.04735",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04735",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.01919",
+    "title": "Real Money, Fake Models: Deceptive Model Claims in Shadow APIs",
+    "url": "https://www.alphaxiv.org/abs/2603.01919",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.01919",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.02766",
+    "title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems",
+    "url": "https://www.alphaxiv.org/abs/2603.02766",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02766",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03975",
+    "title": "Phi-4-reasoning-vision-15B Technical Report",
+    "url": "https://www.alphaxiv.org/abs/2603.03975",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03975",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.04553",
+    "title": "Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling",
+    "url": "https://www.alphaxiv.org/abs/2603.04553",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04553",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05451",
+    "title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling",
+    "url": "https://www.alphaxiv.org/abs/2603.05451",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05451",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05433",
+    "title": "On-Policy Self-Distillation for Reasoning Compression",
+    "url": "https://www.alphaxiv.org/abs/2603.05433",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05433",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.04304",
+    "title": "V1V_1V1​: Unifying Generation and Self-Verification for Parallel Reasoners",
+    "url": "https://www.alphaxiv.org/abs/2603.04304",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:49.886Z",
+    "fetchedAt": "2026-03-08T01:46:49.887Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04304",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "qbitai-央视点赞千问APP-AI办事-让人工智能走进日常生活",
+    "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
+    "url": "https://www.qbitai.com/2026/03/384637.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T08:40:25.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-彻底告别VE与VAE-商汤硬核重构多模态-砍掉所有中间编码器",
+    "title": "彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器",
+    "url": "https://www.qbitai.com/2026/03/384623.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "2B规模吊打传统范式",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T04:39:02.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-鹅厂门口免费装龙虾-几百人排爆了-一代人有一代人的鸡蛋要领",
+    "title": "鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领",
+    "url": "https://www.qbitai.com/2026/03/384595.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T02:32:50.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-黑马图像模型被Nano-Banana技术负责人点赞-15人华",
+    "title": "黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&#038;CVPR最佳论文作者带队",
+    "url": "https://www.qbitai.com/2026/03/384578.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "多项能力看齐行业标杆",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T14:39:17.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-技术获-NVIDIA-Pi-双重认可-原力灵机-DM0-模型",
+    "title": "技术获 NVIDIA、Pi 双重认可！原力灵机 DM0 模型重塑具身智能新范式",
+    "url": "https://www.qbitai.com/2026/03/384573.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "原力灵机 DM0 模型，正让机器人 “又聪明又敏捷” 的理想照进现实",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T12:04:59.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-超智算智能算力中心揭牌暨AI算力设备点亮仪式成功举行",
+    "title": "超智算智能算力中心揭牌暨AI算力设备点亮仪式成功举行",
+    "url": "https://www.qbitai.com/2026/03/384561.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "北京在算力基础设施建设上迈出关键一步",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T11:46:47.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-高德发布全球首个由大模型驱动的视觉认知步行导引系统",
+    "title": "高德发布全球首个由大模型驱动的视觉认知步行导引系统",
+    "url": "https://www.qbitai.com/2026/03/384557.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "可视、可感、可用的空间智能应用",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T11:10:03.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-2026年-AI初创全球化的-变与不变-沙龙招募",
+    "title": "2026年，AI初创全球化的「变与不变」｜沙龙招募",
+    "url": "https://www.qbitai.com/2026/03/384517.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "聊聊出海应用、场景与渠道",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T10:11:57.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-Transformer作者重造龙虾-Rust搓出钢铁版-告别",
+    "title": "Transformer作者重造龙虾，Rust搓出钢铁版，告别OpenClaw裸奔",
+    "url": "https://www.qbitai.com/2026/03/384519.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "出手从零重构了安全版龙虾：IronClaw",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T09:56:11.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-无垠拓界-基筑未来-无问智科重磅发布业界首个物理AI数据基座",
+    "title": "无垠拓界 基筑未来｜无问智科重磅发布业界首个物理AI数据基座平台",
+    "url": "https://www.qbitai.com/2026/03/384449.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "填补了行业物理AI数据基座的空白",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T06:58:34.000Z",
+    "fetchedAt": "2026-03-08T01:46:53.773Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.307Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-prunaai-p-image-edit",
+    "title": "prunaai/p-image-edit",
+    "url": "https://replicate.com/prunaai/p-image-edit",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.307Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-andreasjansson-clip-features",
+    "title": "andreasjansson/clip-features",
+    "url": "https://replicate.com/andreasjansson/clip-features",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-prunaai-p-image",
+    "title": "prunaai/p-image",
+    "url": "https://replicate.com/prunaai/p-image",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-prunaai-z-image-turbo",
+    "title": "prunaai/z-image-turbo",
+    "url": "https://replicate.com/prunaai/z-image-turbo",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-bytedance-seedream-5-lite",
+    "title": "bytedance/seedream-5-lite",
+    "url": "https://replicate.com/bytedance/seedream-5-lite",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-recraft-ai-recraft-v4",
+    "title": "recraft-ai/recraft-v4",
+    "url": "https://replicate.com/recraft-ai/recraft-v4",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-xai-grok-imagine-video",
+    "title": "xai/grok-imagine-video",
+    "url": "https://replicate.com/xai/grok-imagine-video",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-prunaai-p-video",
+    "title": "prunaai/p-video",
+    "url": "https://replicate.com/prunaai/p-video",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-klein-4b",
+    "title": "black-forest-labs/flux-2-klein-4b",
+    "url": "https://replicate.com/black-forest-labs/flux-2-klein-4b",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-google-nano-banana-2",
+    "title": "google/nano-banana-2",
+    "url": "https://replicate.com/google/nano-banana-2",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-elevenlabs-music",
+    "title": "elevenlabs/music",
+    "url": "https://replicate.com/elevenlabs/music",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-collections-official",
+    "title": "collections/official",
+    "url": "https://replicate.com/collections/official",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T01:46:46.308Z",
+    "fetchedAt": "2026-03-08T01:46:46.308Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "ph-codex-security",
+    "title": "Codex Security",
+    "url": "https://www.producthunt.com/products/openai",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Our application security agent\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-feed\"&gt;Discussion&lt;/a&g",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T19:34:14.000Z",
+    "fetchedAt": "2026-03-08T01:46:41.214Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-21st-agents-sdk",
+    "title": "21st Agents SDK",
+    "url": "https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            SDK to add an Claude Code AI agent to your app\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=pro",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T19:53:56.000Z",
+    "fetchedAt": "2026-03-08T01:46:41.214Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-olmo-hybrid",
+    "title": "Olmo Hybrid",
+    "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            7B open model mixing transformers and linear RNNs\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/allen-institute-of-artificial-intelligence?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_so",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T04:52:46.000Z",
+    "fetchedAt": "2026-03-08T01:46:41.214Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-ltx-desktop",
+    "title": "LTX Desktop",
+    "url": "https://www.producthunt.com/products/ltx-desktop",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Local open-source LTX video editor optimized for GPUs\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/ltx-desktop?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T20:15:02.000Z",
+    "fetchedAt": "2026-03-08T01:46:41.214Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-descript",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "url": "https://openai.com/index/descript",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "OpenAI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-codex-security-now-in-research-preview",
+    "title": "Codex Security: now in research preview",
+    "url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "OpenAI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-balyasny-asset-management",
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "url": "https://openai.com/index/balyasny-asset-management",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 07:00:00 GMT",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "OpenAI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Google-AI-Blog-https---blog-google-company-news-outreach-and-initiatives-sustainability-speciesn",
+    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 18:00:00 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Google AI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-890517",
+    "title": "The OpenClaw superfan meetup serves optimism and lobster",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor information stations, and a demo stage underneath a skylight. Hundreds of people were gathered to celebrate OpenClaw, the AI assistant platform created by Peter Steinberger in Novem",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T09:00:00-05:00",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-890921",
+    "title": "Grammarly is using our identities without permission",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included comments that appeared to be from The Verge 's editor-in-chief, Nilay Patel, as well as editor-at-large David Pierce and senior editors Sean Hollister ",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T15:58:24-05:00",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-890806",
+    "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
+    "url": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Co-director Daniel Roher. | Image: Focus Features We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives , but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole that comes across like fantastical ad copy. And the rate at which AI firms release new iterations of their products can make it hard to keep track of what's going",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T14:05:00-05:00",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1134012",
+    "title": "Is the Pentagon allowed to surveil Americans with AI?",
+    "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk metadata from the phones of Americans, the US is still navigating a gap between what ordinary people think and what the law allows.&nbsp; The flashpo",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 19:21:22 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "MIT Technology Review",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100305",
+    "title": "Google just gave Sundar Pichai a $692M pay package",
+    "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 00:20:10 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100300",
+    "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+    "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+    "keyQuotes": [],
+    "publishedAt": "Sat, 07 Mar 2026 22:56:31 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100295",
+    "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+    "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+    "keyQuotes": [],
+    "publishedAt": "Sat, 07 Mar 2026 20:44:25 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100288",
+    "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+    "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+    "keyQuotes": [],
+    "publishedAt": "Sat, 07 Mar 2026 17:28:41 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100091",
+    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+    "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 19:50:10 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100101",
+    "title": "Anthropic&#8217;s Claude found 22 vulnerabilities in Firefox over two weeks",
+    "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 19:00:22 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--post-type-tc-video--038-p-3100087",
+    "title": "Anthropic&#8217;s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+    "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted [&#8230;]",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 18:09:11 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--post-type-tc-podcast--038-p-3100083",
+    "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+    "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The Pentagon has officially&#160;designated&#160;Anthropic&#160;a supply-chain risk&#160;after the two failed to agree on how much control the military should have over its AI models,&#160;including&#160;its&#160;use in&#160;autonomous weapons and mass domestic surveillance. As&#160;Anthropic’s&#160;$200 million contract fell apart, the DoD turned to OpenAI instead,&#160;which&#160;accepted and&#160;then watched&#160;ChatGPT uninstalls surge 295%. As the stakes keep rising, the question&#160;rem",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 18:01:38 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100044",
+    "title": "Claude&#8217;s consumer growth surge continues after Pentagon deal debacle",
+    "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 17:56:07 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3099493",
+    "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+    "url": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 14:00:00 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a86c77c31b51f3f3a9b428",
+    "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
+    "url": "https://www.wired.com/story/deveillance-spectre-i/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 23:45:14 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a9b16f797af2821319f210",
+    "title": "Why Is Alexa+ So Bad?",
+    "url": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 11:00:00 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a5f96d34217ad65587fbb1",
+    "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
+    "url": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
+    "keyQuotes": [],
+    "publishedAt": "Fri, 06 Mar 2026 10:00:00 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-aline-mercer-e495a3af58ee-i-built-an-ai-agent-tool-marketplace-on-a-sta",
+    "title": "I Built an AI Agent Tool Marketplace on a Static Site (It Costs Almost Nothing)",
+    "url": "https://dev.to/aline_mercer_e495a3af58ee/i-built-an-ai-agent-tool-marketplace-on-a-static-site-it-costs-almost-nothing-44c9",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "If you are building with AI agents, you have probably hit this wall: your agent needs tools but finding them means digging through GitHub repos and random blog posts. There is no npm for AI agent tools. That is the problem I set out to solve with TutuoAI , a marketplace for AI agent tools. We now catalog 116 products (38 paid, 78 free), and the entire thing runs on a static site architecture that costs almost nothing to operate. The Discovery Problem AI agents are only as good as the tools they ",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:36:56 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-xujfcn-cach-giam-55-chi-phi-ai-api-cho-developer-viet-nam-2026-j07",
+    "title": "Cách giảm 55% chi phí AI API cho developer Việt Nam (2026)",
+    "url": "https://dev.to/xujfcn/cach-giam-55-chi-phi-ai-api-cho-developer-viet-nam-2026-j07",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Kết luận ngay: Developer Việt Nam có thể giảm chi phí AI API lên đến 55% bằng 4 chiến lược: sử dụng gateway pricing (Crazyrouter), smart model selection , prompt optimization , và response caching . Chi phí trung bình chỉ từ $13/tháng (~320,000₫) — rẻ hơn một bữa cơm team building. Mục lục Vấn đề: Chi phí AI API đang \"đốt tiền\" Chiến lược 1: Gateway Pricing — Giảm ngay 55% Chiến lược 2: Smart Model Selection Chiến lược 3: Prompt Optimization Chiến lược 4: Response Caching Tổng kết: Chi phí thực ",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:34:52 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-xujfcn-xay-dung-telegram-ai-bot-voi-openclaw-crazyrouter-huong-dan-tu-a",
+    "title": "Xây dựng Telegram AI Bot với OpenClaw + Crazyrouter: Hướng dẫn từ A-Z",
+    "url": "https://dev.to/xujfcn/xay-dung-telegram-ai-bot-voi-openclaw-crazyrouter-huong-dan-tu-a-z-57b3",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Kết luận ngay: Bạn có thể tự host một Telegram AI Bot cá nhân với khả năng truy cập 627+ mô hình AI , tự động hóa workflow, và quản lý từ xa — chỉ với 1 dòng lệnh curl và chi phí từ 320,000-750,000₫/tháng (VPS $5 + API $8-25). OpenClaw là AI agent platform chạy trên Telegram, kết hợp với Crazyrouter làm AI API backend. Bài viết này hướng dẫn bạn deploy từ A-Z. Mục lục Tại sao tự host AI Bot? Yêu cầu hệ thống Deploy bằng 1 dòng lệnh Cấu hình Crazyrouter làm AI backend Bảng model khuyên dùng Hệ th",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:34:49 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-xujfcn-paano-makatipid-ng-55-sa-ai-api-gabay-para-sa-pinoy-developers-7",
+    "title": "Paano Makatipid ng 55% sa AI API: Gabay para sa Pinoy Developers",
+    "url": "https://dev.to/xujfcn/paano-makatipid-ng-55-sa-ai-api-gabay-para-sa-pinoy-developers-7mj",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "TL;DR: As a Filipino developer, you can save up to 55% on AI API costs using Crazyrouter — bringing your monthly AI spend down to ₱700-1,700/month, which is very affordable kahit sa Pinoy developer salary range. Here are 4 proven strategies para makatipid nang malaki. Keywords: tipid ai api, murang ai api, ai developer pilipinas Kung ikaw ay Pinoy developer na gumagamit ng AI APIs — whether for a client project, your SaaS startup, or your own tools — alam mo na mahal ang AI. OpenAI charges $10/M",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:34:21 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-xujfcn-openclaw-crazyrouter-vs-chatgpt-plus-alin-ang-mas-sulit-para-sa-",
+    "title": "OpenClaw + Crazyrouter vs ChatGPT Plus: Alin ang Mas Sulit para sa Pinoy Dev?",
+    "url": "https://dev.to/xujfcn/openclaw-crazyrouter-vs-chatgpt-plus-alin-ang-mas-sulit-para-sa-pinoy-dev-3ch6",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "TL;DR: OpenClaw + Crazyrouter beats ChatGPT Plus in almost every category — more models (627+ vs 1), more platforms (20+ vs 4), persistent memory, custom skills, and self-hosted control. Cost is comparable at ₱700-1,700/month vs ₱1,120/month, but you get significantly more features. Mas sulit, mas maraming features — walang duda. Keywords: openclaw vs chatgpt, ai assistant comparison philippines Every Filipino developer I know has this question: \"Mag-subscribe ba ako sa ChatGPT Plus, or is there",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:34:19 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-xujfcn-best-ai-api-solutions-for-vietnam-developers-in-2026-459a",
+    "title": "Best AI API Solutions for Vietnam Developers in 2026",
+    "url": "https://dev.to/xujfcn/best-ai-api-solutions-for-vietnam-developers-in-2026-459a",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Bottom line: Vietnam's 500,000+ developers can now access 627+ AI models (GPT-5.2, Claude Opus 4.6, Gemini 3 Pro, DeepSeek R1) through a single API key at up to 55% off official pricing — with sub-50ms latency via Asian edge nodes. Crazyrouter is the top AI API gateway for Southeast Asian developers in 2026. Table of Contents Vietnam's AI Developer Ecosystem in 2026 Why Vietnam Developers Need an API Gateway Crazyrouter: Purpose-Built for Asian Developers Pricing Comparison: Crazyrouter vs. Dire",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:33:48 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-wonderlab-openclaw-deep-dive-8-the-skill-system-teaching-llms-to-follow",
+    "title": "OpenClaw Deep Dive (8): The Skill System — Teaching LLMs to Follow Workflows On Demand",
+    "url": "https://dev.to/wonderlab/openclaw-deep-dive-8-the-skill-system-teaching-llms-to-follow-workflows-on-demand-4h23",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Scenario: How Does the AI Know Which Command to Use? You ask OpenClaw: \"Check today's weather in Shanghai.\" The AI replies with curl \"wttr.in/Shanghai?format=3\" , executes it, and returns accurate weather data. But there's a question worth digging into — an LLM is a language model. It doesn't inherently know that \"checking weather means using wttr.in ,\" or that \"managing GitHub PRs means using the gh CLI,\" or that \"controlling Spotify means using spotify-player .\" Something is clearly \"teaching\"",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:29:24 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-ai-agent-economy-who-holds-the-keys-custodial-vs-non-custodial-ai-agent",
+    "title": "Who Holds the Keys? Custodial vs Non-Custodial AI Agent Wallets Explained",
+    "url": "https://dev.to/ai-agent-economy/who-holds-the-keys-custodial-vs-non-custodial-ai-agent-wallets-explained-3d29",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Test",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:24:12 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-dmitryrechkin-i-stopped-clicking-around-wp-admin-and-treated-wordpress-",
+    "title": "I Stopped Clicking Around wp-admin and Treated WordPress Media Offload Like Infrastructure",
+    "url": "https://dev.to/dmitryrechkin/i-stopped-clicking-around-wp-admin-and-treated-wordpress-media-offload-like-infrastructure-1kae",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "I Stopped Clicking Around wp-admin and Treated WordPress Media Offload Like Infrastructure WordPress media libraries have a habit of turning into infrastructure problems in slow motion. At first it is just uploads. Then it is product galleries, thumbnails, originals, PDFs, course files, and downloads piling up on the same server that is supposed to stay lean. That arrangement does not age well. Disks fill up, backups get bloated, restore times get longer, and moving a site between environments b",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:20:28 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-yurukusa-i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-",
+    "title": "I Had No Idea How Full My Claude Code Context Window Was. So I Built a Tool.",
+    "url": "https://dev.to/yurukusa/i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-built-a-tool-279e",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "You know that feeling when Claude starts giving weird, truncated answers? Or when it seems to \"forget\" earlier context in a long session? That's your context window filling up. Claude Sonnet has a 200,000 token context window. When it's full, older messages get dropped. Your carefully set-up context — the files you loaded, the constraints you established, the codebase you explained — silently disappears. I've been running Claude Code for 60+ days in an autonomous loop. Last week I realized I had",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 01:16:10 +0000",
+    "fetchedAt": "2026-03-08T01:46:38.954Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "mcp-1772934601040-0",
+    "title": "OpenAI机器人负责人因五角大楼合作协议辞职",
+    "url": "https://www.forbes.com/sites/mikestunson/2026/03/07/openais-robotics-chief-leaving-tech-company-after-its-deal-with-pentagon/",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "OpenAI机器人部门负责人Caitlin Kalinowski因公司与五角大楼达成AI技术合作协议而辞职，引发业界对AI军事化应用的讨论。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T20:04:14.800Z",
+    "fetchedAt": "2026-03-08T01:50:01.039Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI (opennews)",
+      "publisher": "Forbes"
+    }
+  },
+  {
+    "id": "mcp-1772934601040-1",
+    "title": "Circle和Stripe竞相构建AI代理支付系统",
+    "url": "https://twitter.com/stockmktnewz/status/2030398648895623281",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "据彭博社报道，Circle和Stripe正竞相构建面向AI代理的支付系统，该系统将服务于每天进行数百万笔交易的自主AI代理，使用稳定币而非信用卡结算。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T21:42:16.489Z",
+    "fetchedAt": "2026-03-08T01:50:01.039Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI (opennews)",
+      "publisher": "Bloomberg via Twitter"
+    }
+  },
+  {
+    "id": "websearch-1772934601040-2",
+    "title": "AI私募股权平台Rowspace获5000万美元融资，Sequoia领投",
+    "url": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "AI私募股权分析平台Rowspace从隐身模式中亮相，获得Sequoia Capital、Emergence Capital、Stripe等5000万美元融资，旨在通过AI连接历史交易数据帮助PE机构规模化投资判断。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-06T12:00:00.000Z",
+    "fetchedAt": "2026-03-08T01:50:01.039Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI startup funding March 2026",
+      "publisher": "AI News"
+    }
+  },
+  {
+    "id": "websearch-1772934601041-3",
+    "title": "美国FTC将于3月11日发布AI监管政策声明",
+    "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "根据特朗普去年12月签署的AI行政令，美国联邦贸易委员会(FTC)须在3月11日前发布AI监管政策声明，说明FTC法案如何适用于AI技术，这是美国AI联邦监管的重要里程碑。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-07T12:00:00.000Z",
+    "fetchedAt": "2026-03-08T01:50:01.039Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI policy regulation 2026-03-08",
+      "publisher": "Gunderson Dettmer"
+    }
+  }
+]
