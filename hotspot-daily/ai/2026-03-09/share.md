@@ -1,132 +1,124 @@
-# Share - 2026-03-09 ChatGPT 用户大迁移重塑 AI 竞争格局
+# Share - 2026-03-09 12 课从零手写 AI Agent
 
 ## Published URL
 https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
 
 ## X/Twitter (中文, ≤140汉字)
-ChatGPT卸载量暴涨295%，Claude首次登顶App Store！但Anthropic连续宕机10小时，单一AI供应商风险暴露无遗。开发者该怎么办？👇 https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market #AI热点
-<!-- chars: 150/280 -->
+> shareAI-lab 开源 learn-claude-code，12 节课从零拆解 Claude Code 核心架构。16 行 Bash 写出最小 Agent，550 行实现完整多代理系统。24000+ Stars，单日涨 566。想理解 AI Agent 怎么运作？从这里开始。 https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market #AI热点
+<!-- chars: 223/280 -->
 
 ## X/Twitter (English, ≤280 chars)
-ChatGPT uninstalls surged 295% after OpenAI's Pentagon deal. Claude hit #1 on App Store but suffered 10hrs of outages. The AI vendor loyalty era is over. https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market #AI
-<!-- chars: 181/280 -->
+> 12 lessons to build an AI agent from scratch. learn-claude-code deconstructs Claude Code's architecture into runnable modules — agent loop, subagents, context compression, multi-agent coordination. 24K+ stars. https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market #AI
+<!-- chars: 237/280 -->
 
 ## Reddit
-**Title:** ChatGPT Exodus Reshapes AI Market Dynamics
+**Title:** Build a Claude Code-like AI Agent from Scratch in 12 Lessons — Open Source Tutorial (24K+ Stars)
+
 **Body:**
-**TL;DR:** OpenAI's $200M Pentagon deal triggered a 295% spike in ChatGPT uninstalls. Claude hit #1 on the US App Store but Anthropic's infrastructure buckled with 10+ hours of downtime across 4 outages.
+shareAI-lab released [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code), a progressive tutorial that deconstructs Claude Code's internal architecture into 12 standalone, runnable lessons.
 
 **Key takeaways:**
+- Starts with a 16-line Bash agent loop, builds up to 550-line full agent with 12 mechanisms
+- Covers: Agent Loop, Tool Dispatch, Task Planning, Subagents, Skill Loading, Context Compression (3-layer strategy), Multi-Agent Coordination (JSONL mailbox), Git Worktree Isolation
+- Core philosophy: "The model IS the agent — our job is to give it tools and stay out of the way"
+- Docs in English, Chinese, Japanese + interactive web learning platform
+- 24,000+ stars, 4,400+ forks, +566 stars in one day
+- Related production-grade project: Kode-CLI (4,500 stars)
 
-1. **Build multi-model fallback now** — Add Claude → GPT-4o → Gemini degradation chains. Even leading providers fail under traffic surges.
-2. **Export your ChatGPT data** — Conversation history and custom instructions, in case you need to migrate.
-3. **Vendor policy risk is real** — Military contracts and data governance decisions can trigger mass user migration overnight. Factor this into your architecture decisions.
+**Caveat:** This is a teaching project — it intentionally omits production concerns like permission governance, session lifecycle management, and audit logging. Don't deploy the teaching code directly.
 
-Full analysis with data tables and action items: https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
+Interactive analysis: https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
 
 ## 社区/群聊 (中文)
-刚看到一组数据挺炸裂的——OpenAI签了2亿美元五角大楼合同之后，ChatGPT美区卸载量当天暴涨295%，Claude直接冲到App Store第一。但Anthropic也没接住，两天宕机4次，总共挂了10个小时。做开发的最好现在就搞多模型fallback，别把鸡蛋放一个篮子里。详细分析看这个 https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
+> 推荐一个学 Agent 开发的宝藏项目——shareAI-lab 的 learn-claude-code，12 节课带你从零手写一个类 Claude Code 的 AI Agent。第一课 16 行代码就能跑起来一个 Agent Loop，到最后一课整合了 12 种机制也才 550 行。涵盖工具调度、子代理、上下文压缩、多代理协作这些核心概念，每课都是独立可运行的 Python 文件。GitHub 24000+ Stars，适合想搞懂 Agent 到底怎么工作的同学。详细分析看这里：https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
 
 ## LinkedIn
-The AI market just witnessed its first ethics-driven mass migration. After OpenAI signed a $200M deal with the Pentagon, ChatGPT uninstalls surged 295% in a single day. Anthropic's Claude — which walked away from the same deal — hit #1 on the US App Store for the first time.
+> The AI agent development space faces a paradox: tools like Claude Code and Cursor have proven that AI agents dramatically boost productivity, yet most developers treat them as black boxes. shareAI-lab's newly released learn-claude-code project addresses this gap head-on with a beautifully structured 12-lesson tutorial that rebuilds Claude Code's core architecture from scratch.
+>
+> What sets this project apart is its progressive design philosophy. Lesson 1 implements a working agent loop in just 16 lines of Bash. By lesson 12, learners have built a complete system with tool dispatch, task planning, subagents, context compression (a sophisticated 3-layer strategy), multi-agent coordination via JSONL mailbox protocol, and Git worktree isolation — all in approximately 550 lines of Python.
+>
+> The project's rapid growth (24,000+ stars, 566 new stars in a single day) signals a broader industry shift: understanding how agents work is becoming more valuable than merely using them. Developers who can deconstruct, debug, and customize agent architectures will hold a significant competitive advantage in the AI-native development era.
+>
+> Full interactive analysis: https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
 
-But here's the twist: Anthropic's infrastructure wasn't ready. Four major outages in two days, roughly 10 hours of total downtime, affecting the consumer app, API, and Claude Code. Even the Opus 4.6 and Haiku 4.5 models experienced availability issues.
+## X Long Post (中文)
+> 今天聊一个让我眼前一亮的开源项目：shareAI-lab 的 learn-claude-code。
+>
+> 先说结论：如果你每天用 Claude Code / Cursor 写代码但不理解它们内部怎么工作，这个项目就是你的「X 光机」。
+>
+> 它做了一件很巧妙的事——把 Claude Code 的核心架构拆成了 12 节课，每节对应一个可独立运行的 Python 文件。从最简单的 Agent Loop 开始（v0 版本只有 16 行 Bash），逐步叠加工具调度、任务规划、子代理、技能加载、上下文压缩、多代理协作、Git Worktree 隔离等机制。全部 12 种机制整合在一起也才约 550 行代码。
+>
+> 几个让我印象深刻的设计：
+>
+> 第一，上下文压缩用了 3 层策略。这直接解释了为什么 Claude Code 在长会话中不容易丢失关键信息——不是模型记忆力好，是工程上做了精细的压缩管理。理解这个之后，你会知道怎么更好地管理自己的长对话。
+>
+> 第二，多代理通信用了 JSONL 邮箱协议。这是一种非常轻量的进程间通信方案——每个 Agent 有自己的邮箱文件，通过追加 JSONL 记录来交换消息。简单但有效，教学目的达到了。
+>
+> 第三，核心理念是「模型就是 Agent，我们的工作只是给它工具然后让路」。这话听起来极简，但确实抓住了当前 Agent 架构的本质——复杂的不是 Agent 框架本身，而是如何给模型提供正确的工具集和上下文。
+>
+> 项目已经 24000+ Stars、4400+ Forks，单日涨星 566。配套项目 Kode-CLI（4500 Stars）是生产级实现，形成了从教学到实战的闭环。
+>
+> 不过要清醒认识到：教学代码省略了权限治理、会话生命周期、审计日志等生产级功能。学完之后想投产，还需要补齐这些工程细节。
+>
+> 详细分析：https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
 
-The lesson for engineering leaders? Multi-vendor AI strategy is no longer optional. Whether it's ethical controversies, infrastructure failures, or policy shifts — relying on a single AI provider is now a systemic risk.
-
-Three immediate actions: (1) Implement multi-model fallback chains, (2) Benchmark alternatives on your core use cases, (3) Add vendor policy risk to your evaluation framework.
-
-Full analysis with migration data and architecture options: https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
-
-#AI #Technology #AIStrategy #OpenAI #Anthropic #Claude #DeveloperTools
-
-## X Long Post (中文, 不限长度)
-ChatGPT用户大逃亡，AI行业变天了 🔥
-
-2月28日OpenAI官宣与五角大楼签下2亿美元合同，当天ChatGPT美区卸载量暴涨295%。而就在之前，Anthropic的CEO Dario Amodei公开拒绝了同一笔交易，说"不能昧着良心答应取消大规模监控和自主武器的限制"。
-
-数据说话：
-- ChatGPT卸载量单日+295%（Sensor Tower）
-- Claude下载量连续两天飙升，2/27 +37%，2/28 +51%
-- Claude从App Store #42直冲#1
-- Anthropic免费用户年初至今增长60%，付费订阅翻倍
-- QuitGPT运动称超150万人参与
-
-但故事没有这么简单。Claude接不住这波流量——3月2-3日连续4次大规模宕机，累计挂了约10小时。不光是聊天界面，API的Opus 4.6和Haiku 4.5也出现可用性问题。Claude Code用户直接停摆。
-
-Sam Altman随后承认合同"看起来很投机和草率"，宣布修改条款增加监控限制。但伤害已经造成。
-
-这件事的深层意义在于：AI竞争正式从"谁的模型更强"进入"谁更值得信任"的阶段。技术选型不再只看benchmark和价格，供应商的价值观、政策立场、政府合作都成了架构决策的变量。
-
-对开发者的实操建议：现在就建多模型fallback机制，别等下次宕机。用LiteLLM或自建路由，Claude → GPT-4o → Gemini三级降级链。成本多10-20%，但换来的是业务连续性。
-
-详细分析👇
-https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
-
-## X Long Post (English, no length limit)
-The AI loyalty era just ended. Here's what the data tells us 📊
-
-On Feb 28, OpenAI announced a $200M partnership with the Pentagon. The same day, ChatGPT US uninstalls spiked 295%. This came right after Anthropic walked away from the exact same deal — CEO Dario Amodei publicly stated he "cannot in good conscience" remove safeguards against mass surveillance and autonomous weapons.
-
-The migration numbers are staggering:
-- Claude downloads surged 51% day-over-day
-- Claude went from #42 to #1 on the US App Store
-- Anthropic's free users grew 60% YTD, paid subscriptions doubled
-- The QuitGPT movement claims 1.5M+ participants
-
-But here's the critical twist: Anthropic wasn't ready for the traffic. Between March 2-3, Claude suffered four major outages totaling ~10 hours of downtime. Not just the consumer app — the API itself had issues with Opus 4.6 and Haiku 4.5 models. Claude Code users were completely blocked.
-
-Sam Altman later admitted the Pentagon deal "looked opportunistic and sloppy" and announced contract amendments with surveillance restrictions. But the damage to trust was done.
-
-This is the first mass user migration in consumer AI driven by ethics, not product quality. It fundamentally changes how we should think about AI vendor strategy:
-
-1. Multi-vendor fallback is no longer optional for production workloads
-2. Vendor policy risk (military contracts, data governance) is now an architecture-level concern
-3. Even leading providers can buckle under demand surges — plan for it
-
-The practical move: implement a Claude → GPT-4o → Gemini degradation chain using LiteLLM or custom routing. Costs about 10-20% more but buys you business continuity.
-
-Full analysis with action items: https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
+## X Long Post (English)
+> I want to highlight an open-source project that does something remarkably well: teach you how AI coding agents actually work by having you build one from scratch.
+>
+> shareAI-lab's learn-claude-code is a 12-lesson progressive tutorial that deconstructs Claude Code's core architecture into standalone, runnable modules. The starting point is brilliant — a 16-line Bash script that implements a working agent loop. By the final lesson, you've built a complete system with tool dispatch, task planning, subagents, context compression, multi-agent coordination, and Git worktree isolation. The full capstone is roughly 550 lines of Python.
+>
+> Three design decisions stood out to me:
+>
+> The context compression module uses a 3-layer strategy. This is the engineering reason why Claude Code doesn't lose critical context in long sessions — it's not model memory, it's careful compression management. Understanding this changes how you approach long conversations with any AI coding tool.
+>
+> Multi-agent communication uses a JSONL mailbox protocol — each agent has a file-based inbox, messages are exchanged by appending JSONL records. It's lightweight, elegant, and perfectly demonstrates the concept without framework overhead.
+>
+> The core philosophy — "the model IS the agent, our job is to give it tools and stay out of the way" — captures something essential about current agent architecture. The complexity isn't in the orchestration framework; it's in providing the right tool surface and context management.
+>
+> The project has 24,000+ stars and gained 566 in a single day. The companion project Kode-CLI (4,500 stars) serves as the production-grade implementation, creating a complete learning-to-deployment pipeline.
+>
+> Important caveat: this is explicitly a teaching project. It omits permission governance, session lifecycle management, and audit logging. The jump from understanding to production requires filling in these engineering gaps.
+>
+> Full analysis: https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market
 
 ## X/Twitter Thread (中文, 5条)
-1/5 重磅：OpenAI签了2亿美元五角大楼合同，ChatGPT美区卸载量当天暴涨295%。Anthropic此前拒绝了同一笔交易，CEO说"不能昧着良心"。AI行业迎来首次因伦理立场引发的大规模用户迁移🧵
-<!-- chars: 165/280 -->
+> 1/5 shareAI-lab 开源了 learn-claude-code，用 12 节课从零构建类 Claude Code 的 AI Agent。24000+ Stars，单日涨 566。这可能是目前最好的 Agent 架构教程。为什么值得关注？
+<!-- chars: 161/280 -->
 
-2/5 迁移数据有多猛？Claude下载量两天飙升51%，从App Store #42直冲#1。Anthropic免费用户增长60%，付费订阅翻倍。QuitGPT运动称超150万人参与卸载/退订。
-<!-- chars: 141/280 -->
+> 2/5 起点极低：v0 版只有 16 行 Bash 就实现了 Agent Loop。然后逐步叠加工具调度、任务规划、子代理、技能加载，每节课一个独立 Python 文件，可以单独运行和理解。完整版整合 12 种机制也才 550 行。
+<!-- chars: 183/280 -->
 
-3/5 但Anthropic没接住——3月2-3日连续4次大规模宕机，累计挂了10小时。不光聊天界面，API的Opus 4.6和Haiku 4.5也出问题。Claude Code用户直接停摆。这暴露了单一供应商的致命风险。
-<!-- chars: 165/280 -->
+> 3/5 几个核心机制值得学：上下文压缩用 3 层策略，这就是 Claude Code 长对话不丢信息的秘密。多代理通信用 JSONL 邮箱协议，轻量但有效。Git Worktree 隔离执行，保证 Agent 操作不污染主分支。
+<!-- chars: 177/280 -->
 
-4/5 Sam Altman随后承认合同"看起来很投机和草率"，修改条款增加监控限制。但信任一旦破裂就很难修复。AI竞争从"谁模型强"进入"谁值得信任"的新阶段。
-<!-- chars: 136/280 -->
+> 4/5 项目理念是「模型就是 Agent，我们的工作只是给它工具然后让路」。听起来简单，但这确实是当前 Agent 架构的本质——复杂的不是框架，而是工具集和上下文管理。配套的 Kode-CLI（4500 Stars）是生产级实现。
+<!-- chars: 190/280 -->
 
-5/5 开发者行动指南：立即建多模型fallback（Claude→GPT-4o→Gemini），导出ChatGPT数据备份，订阅status.claude.com。详细分析👇 https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market #AI热点
-<!-- chars: 147/280 -->
+> 5/5 注意：教学代码省略了权限治理、审计日志等生产功能，别直接搬到线上。但作为理解 Agent 内部机制的学习资源，这套课程没有对手。能拆解 Agent 的开发者在 AI 时代竞争力更强。详细分析 https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market #AI热点
+<!-- chars: 204/280 -->
 
 ## 微信友好格式 (纯文本)
-AI热点日报 2026-03-09
-ChatGPT用户大迁移重塑AI竞争格局
+【AI 热点】12 课从零手写 AI Agent —— Claude Code 核心架构拆解教程
 
-一句话：OpenAI签了2亿美元五角大楼合同，ChatGPT卸载量暴涨295%，Claude冲到App Store第一，但连续宕机10小时。
+shareAI-lab 发布了开源项目 learn-claude-code，通过 12 节渐进式课程从零构建类 Claude Code 的 AI Agent。项目已获 24000+ Stars，单日涨星 566。
 
-发生了什么：
-OpenAI 2月28日宣布与五角大楼签下2亿美元AI合作协议。此前Anthropic拒绝了同一笔交易，CEO Dario Amodei公开表示"不能昧着良心答应取消监控和自主武器限制"。
+核心亮点：
+- 从 16 行 Bash 代码的最小 Agent Loop 起步
+- 12 节课覆盖：Agent Loop、工具调度、任务规划、子代理、技能加载、上下文压缩、多代理协作、Worktree 隔离
+- 完整版整合全部机制也仅约 550 行 Python
+- 中英日三语文档 + 交互式 Web 学习平台
+- 配套生产级项目 Kode-CLI（4500 Stars）
 
-关键数据：
-- ChatGPT美区卸载量当日+295%
-- Claude下载量连续两天飙升（+37%、+51%）
-- Claude从App Store #42冲到#1
-- Anthropic免费用户增长60%，付费翻倍
-- 但Claude 3月2-3日连续宕机4次，累计约10小时
-- QuitGPT运动称超150万人参与
+核心理念："模型就是 Agent，我们的工作只是给它工具然后让路"
 
-开发者该怎么办：
-1. 为Claude API调用增加fallback逻辑，529错误时自动切换到GPT-4o或Gemini
-2. 导出ChatGPT对话历史和自定义指令
-3. 订阅 status.claude.com 状态通知
-4. 评估AI工作流的供应商集中度，制定多模型策略
+适合谁：
+- AI Agent 开发者：系统掌握 Agent 核心架构
+- Claude Code/Cursor 用户：理解底层机制，用得更好
+- 技术教育者：现成的教学素材
 
-Sam Altman已承认合同仓促，修改条款增加监控限制。但这件事说明AI竞争已经从"谁模型强"变成"谁更值得信任"。
+注意事项：
+- 这是教学项目，省略了权限治理、审计日志等生产功能
+- 不要将教学代码直接用于生产环境
+- 学习时注意 API Key 安全，不要提交到公开仓库
 
 详细分析：https://www.myvibe.so/xiaoliang-2/ai-hotspot-daily-chatgpt-exodus-reshapes-ai-market

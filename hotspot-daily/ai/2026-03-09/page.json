@@ -1,139 +1,255 @@
 {
   "meta": {
     "date": "2026-03-09",
-    "slug": "chatgpt-exodus-claude-surge",
-    "generatedAt": "2026-03-09T10:00:00+08:00",
+    "slug": "learn-claude-code-bash-agent-from-scratch",
+    "generatedAt": "2026-03-09T09:00:00+08:00",
     "timezone": "Asia/Shanghai",
-    "confidence": 95,
-    "sourceCount": 6,
+    "confidence": 77,
+    "sourceCount": 4,
     "language": "zh"
   },
   "zh": {
-    "title": "ChatGPT 用户大迁移重塑 AI 竞争格局",
-    "subtitle": "Claude 登顶 App Store 但服务连续宕机，开发者需重新评估依赖策略",
-    "tldr": "OpenAI 签署 2 亿美元五角大楼合同引发用户抵制潮，ChatGPT 卸载量飙升 295%，Claude 首次登顶美区 App Store，但 Anthropic 因需求激增遭遇多次大规模宕机，暴露了单一 AI 供应商的风险。",
-    "keyMetrics": {
-      "subject": "ChatGPT vs Claude 用户迁移数据",
-      "competitors": ["ChatGPT", "Claude"],
-      "rows": [
-        { "metric": "美区卸载量变化（2/28）", "values": ["+295%", "—"], "unit": "环比", "note": "Sensor Tower 数据" },
-        { "metric": "美区下载量变化（2/28）", "values": ["—", "+51%"], "unit": "环比", "note": "Claude 2/27 +37%，2/28 +51%" },
-        { "metric": "App Store 排名（3/2）", "values": ["#2", "#1"], "unit": "", "note": "Claude 此前排名约 #42" },
-        { "metric": "免费用户增长（年初至今）", "values": ["—", "+60%"], "unit": "", "note": "Anthropic 官方确认" },
-        { "metric": "付费订阅变化（年初至今）", "values": ["—", "翻倍"], "unit": "", "note": "Anthropic 官方确认" },
-        { "metric": "服务中断次数（3/2-3/3）", "values": ["—", "4次"], "unit": "", "note": "累计宕机约 10 小时" }
-      ],
-      "footnote": "QuitGPT 运动称超 150 万人参与行动（取消订阅/卸载/签名）"
-    },
-    "whatHappened": "2 月 28 日，OpenAI 宣布与美国国防部（现更名为\"战争部\"）签署价值 2 亿美元的 AI 合作协议。此前 Anthropic 因拒绝国防部要求取消大规模监控和全自主武器使用限制而退出谈判。Dario Amodei 公开表示\"不能昧着良心答应他们的要求\"。\n\n消息引发大规模用户抵制，ChatGPT 美区卸载量当日飙升 295%，社交平台上\"Cancel ChatGPT\"成为热门话题，Reddit 相关帖子获 3 万赞。Claude 下载量连续两天大幅增长，首次登顶美区 App Store。\n\n然而 Anthropic 未能承接住这波流量——3 月 2-3 日连续发生 4 次大规模服务中断，累计宕机约 10 小时，波及 claude.ai、API 和 Claude Code。Sam Altman 随后承认合同\"看起来很投机和草率\"，宣布修改合同增加监控限制条款。",
-    "whyItMatters": "这是消费级 AI 市场首次出现因伦理立场引发的大规模用户迁移，标志着 AI 竞争从\"谁的模型更强\"进入\"谁更值得信任\"的新阶段。\n\n对开发者而言有三重影响：第一，Claude 的连续宕机证明即使是头部供应商也可能在流量激增时失败，多供应商策略不再是可选项而是必选项；第二，API 服务虽声称未受影响但实际在 3/3 出现了 Opus 4.6 和 Haiku 4.5 的可用性问题，生产环境依赖需要 fallback 机制；第三，AI 供应商的政策风险（军事合作、数据使用等）正在成为技术选型的重要变量。",
+    "title": "12 课从零手写 AI Agent",
+    "subtitle": "shareAI-lab 开源教程用纯 Bash 拆解 Claude Code 核心架构，单日涨星 566",
+    "tldr": "shareAI-lab 发布开源项目 learn-claude-code，通过 12 节渐进式课程从零构建类 Claude Code 的 AI Agent，涵盖 Agent Loop、子代理、上下文压缩、多代理协作等核心机制，已获 24,000+ Stars。",
+    "whatHappened": "新加坡开源组织 shareAI-lab 发布了 [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 项目，这是一套从零构建类 Claude Code AI Agent 的渐进式教程。项目包含 12 节课程（s01-s12），每节对应一个可独立运行的 Python 文件，从最简单的 Agent Loop 逐步叠加工具调度、任务规划、子代理、技能加载、上下文压缩、多代理协作、Git Worktree 隔离等机制。\n\n项目核心理念是「模型就是 Agent，我们的工作只是给它工具然后让路」。v0 版本仅用 16-50 行 Bash/Python 即实现基础 Agent，完整版（s_full.py）整合全部 12 种机制也仅约 550 行代码。项目提供中英日三语文档和交互式 Web 学习平台。\n\n截至今日，项目已获 24,000+ Stars、4,400+ Forks，单日新增 566 Stars。shareAI-lab 同时维护 Kode-CLI（4,500 Stars 的生产级 Agent）和 mini-claude-code 等关联项目，形成从教学到生产的完整生态。",
+    "whyItMatters": "当前 AI Agent 开发领域存在一个显著矛盾：Claude Code、Cursor 等工具已经证明 AI Agent 能大幅提升开发效率，但多数开发者对其内部工作原理缺乏深入理解，导致在定制、调试和优化 Agent 时无从下手。\n\nlearn-claude-code 的价值在于将 Claude Code 的核心架构拆解为 12 个可理解、可运行的模块。开发者不仅能理解「Agent Loop + Tool Use」这一基础范式，还能掌握上下文压缩（3 层策略）、任务持久化（依赖图）、多代理通信（JSONL 邮箱协议）等生产级机制。这些知识直接适用于构建自定义 Agent、排查 Agent 行为异常、以及评估各类 Agent 框架的技术选型。\n\n从行业趋势看，这是「理解 Agent 比使用 Agent 更重要」这一认知转变的典型案例——能拆解 Agent 的开发者将在 AI 原生开发时代获得更强的竞争力。",
     "whoIsAffected": {
       "groups": [
-        { "name": "Claude API 开发者", "impact": "high", "description": "虽然 Anthropic 声称 API 未受影响，但 3/3 的 Opus 4.6 和 Haiku 4.5 模型出现可用性问题。依赖 Claude 的生产服务面临可靠性风险，需立即建立 fallback 机制。" },
-        { "name": "ChatGPT API/Plus 用户", "impact": "medium", "description": "OpenAI 修改合同增加了监控限制，短期功能和定价未变。但五角大楼合同可能影响 OpenAI 未来的产品方向和数据政策，需持续关注。" },
-        { "name": "AI 创业公司", "impact": "high", "description": "用户迁移浪潮证明 AI 供应商的品牌信任和伦理立场直接影响 C 端留存。使用 OpenAI API 的产品可能面临终端用户的连带信任危机。" },
-        { "name": "个人开发者", "impact": "medium", "description": "Claude Pro/Code 在宕机期间完全不可用，影响日常开发工作流。付费用户同样受限于使用配额，高峰期体验可能持续恶化。需要准备备用工具链。" }
+        {
+          "name": "AI Agent 开发者",
+          "impact": "high",
+          "description": "直接受益：可通过 12 节课系统掌握 Agent 核心架构，将「黑盒使用」升级为「白盒理解」，显著提升自建和调优 Agent 的能力"
+        },
+        {
+          "name": "Claude Code / Cursor 日常用户",
+          "impact": "medium",
+          "description": "理解底层机制有助于更高效地使用这些工具——例如理解上下文压缩策略后可以更好地管理长会话，理解 TodoManager 后可以优化任务拆分方式"
+        },
+        {
+          "name": "AI 技术教育者和内容创作者",
+          "impact": "medium",
+          "description": "项目提供了结构清晰的教学素材和三语文档，可直接用于课程设计、技术写作和工作坊内容"
+        },
+        {
+          "name": "企业技术团队负责人",
+          "impact": "low",
+          "description": "可作为团队 Agent 能力建设的学习资源，但教学项目本身不可直接用于生产环境"
+        }
       ]
     },
     "whatToDo": {
       "immediate": [
-        "为生产环境中的 Claude API 调用增加 fallback 逻辑，当返回 529 错误时自动切换到备用模型（如 GPT-4o 或 Gemini）",
-        "检查并导出 ChatGPT 对话历史和自定义指令，以防后续需要迁移",
-        "订阅 status.claude.com 的状态更新通知，掌握实时可用性信息"
+        "克隆仓库并运行第一课：`git clone https://github.com/shareAI-lab/learn-claude-code && cd learn-claude-code && pip install -r requirements.txt && python agents/s01_agent_loop.py`，体验最小 Agent Loop 的运行逻辑"
       ],
       "thisWeek": [
-        "评估当前 AI 工作流的供应商集中度，制定多模型 fallback 策略文档",
-        "测试 Claude、GPT-4o、Gemini 在核心业务场景下的表现差异，建立模型切换的质量基线",
-        "审查 AI 供应商的数据使用政策和军事/政府合作声明，将其纳入供应商评估框架"
+        "按顺序完成 s01-s06 六节课（Agent Loop -> 工具调度 -> 任务规划 -> 子代理 -> 技能加载 -> 上下文压缩），每节约 30-60 分钟，重点对照自己当前使用的 Agent 工具理解各机制的作用",
+        "阅读 docs 目录下的架构文档，特别是上下文压缩（3 层策略）和多代理通信（JSONL 邮箱）的设计文档，评估是否可以借鉴到自己的项目中"
       ],
       "watchAndWait": [
-        "关注 Anthropic 基础设施扩容进展，预计 2-4 周内服务稳定性将改善",
-        "追踪 OpenAI 五角大楼合同修改后的最终条款和用户流失趋势",
-        "观察 Google Gemini 是否趁此机会推出竞争性定价或产能扩展"
+        "关注 shareAI-lab 的 Kode-CLI 项目（4,500 Stars），这是 learn-claude-code 教学内容的生产级实现，可作为从学习到应用的桥梁",
+        "跟踪项目后续是否新增更多高级主题（如 MCP 协议集成、权限治理等），这些是当前 12 课尚未覆盖的生产级需求"
       ]
     },
     "options": [
-      { "name": "保持现状", "description": "继续使用当前的单一 AI 供应商，不做架构调整", "suitableFor": "非关键业务、个人项目", "cost": "零", "risk": "高——下一次宕机可能直接影响业务" },
-      { "name": "多模型 Fallback 架构", "description": "在应用层实现 Claude → GPT-4o → Gemini 的自动降级链，使用 LiteLLM 或自建路由", "suitableFor": "有生产 API 调用的团队和产品", "cost": "1-3 天开发 + 多供应商 API 费用（通常增加 10-20%）", "risk": "中——不同模型输出风格差异可能影响用户体验一致性" },
-      { "name": "全面迁移到 Claude", "description": "趁 Anthropic 势头将主力从 OpenAI 切换到 Claude", "suitableFor": "重视品牌伦理对齐、非高可用要求的团队", "cost": "Prompt 改写和测试 2-5 天，Claude API 定价与 OpenAI 基本持平", "risk": "高——当前 Claude 可靠性尚未验证，且用户涌入可能持续影响服务质量" },
-      { "name": "自托管开源模型作为兜底", "description": "部署 Llama 3 或 Mistral 作为最终 fallback 层", "suitableFor": "对数据主权和可用性有极高要求的团队", "cost": "GPU 服务器月费 $200-2000+，运维投入较大", "risk": "低可用性风险，但模型能力与闭源模型有差距" }
+      {
+        "name": "系统学习全部 12 课",
+        "suitableFor": "希望深入理解 Agent 架构的开发者",
+        "cost": "6-12 小时学习时间",
+        "risk": "教学实现与生产级 Agent 存在差距，需注意区分",
+        "description": "从 s01 到 s12 逐步完成所有课程，配合文档和 Web 平台，全面掌握 Agent 核心机制。"
+      },
+      {
+        "name": "选择性学习关键模块",
+        "suitableFor": "有一定 Agent 开发经验、只需补齐特定知识的开发者",
+        "cost": "2-4 小时",
+        "risk": "跳过基础课程可能影响对后续高级机制的理解",
+        "description": "根据自身需求选学特定课程，如 s06（上下文压缩）、s09（多代理协作）、s12（Worktree 隔离）等高级主题。"
+      },
+      {
+        "name": "基于教程构建自定义 Agent",
+        "suitableFor": "正在开发 Agent 产品的团队",
+        "cost": "1-2 周",
+        "risk": "教学代码未经生产验证，需要补充错误处理、安全机制和性能优化",
+        "description": "以 s_full.py 为起点，结合 Kode-CLI 的生产级实践，构建适合自己场景的 Agent。"
+      },
+      {
+        "name": "保持现状",
+        "suitableFor": "当前不涉及 Agent 开发、或已有成熟 Agent 架构的团队",
+        "cost": "零",
+        "risk": "随着 Agent 成为标准开发范式，缺乏底层理解可能影响长期技术竞争力",
+        "description": "不做任何变更，将项目收藏备用，在需要时再进行学习。"
+      }
     ],
     "risks": [
-      { "title": "Claude 服务稳定性短期内难以保障", "description": "用户量激增 60%+ 但 Anthropic 基础设施未同步扩容。3 月初的连续宕机表明其容量规划存在短板。在基础设施追上需求之前，付费用户和 API 调用方都可能持续遭遇限流和中断。" },
-      { "title": "用户迁移热度可能消退", "description": "历史上消费者抵制运动通常在 2-4 周后热度大幅下降。Sam Altman 已公开道歉并修改合同条款，部分用户可能回流 ChatGPT，导致 Claude 的增长不可持续。" },
-      { "title": "AI 供应商政策风险成为新常态", "description": "这次事件表明政府合作、数据使用政策等非技术因素可以在数天内引发大规模用户迁移。任何 AI 供应商的未来政策变动都可能导致类似的信任危机，这是单一供应商依赖的系统性风险。" }
+      {
+        "title": "将教学代码直接用于生产环境",
+        "description": "项目明确声明省略了完整的事件/钩子系统、权限治理、会话生命周期管理等生产级功能。团队 JSONL 邮箱协议被标注为教学实现。如需投产，应参考 Kode-CLI 等生产级项目补充安全、错误处理和可观测性机制。"
+      },
+      {
+        "title": "过度简化对 Agent 架构复杂性的认知",
+        "description": "项目强调「模型就是 Agent」的极简理念，但生产环境中 Agent 还需处理速率限制、成本控制、多租户隔离、审计日志等工程问题。学习时需保持对实际工程挑战的清醒认识。"
+      },
+      {
+        "title": "API Key 安全风险",
+        "description": "教程使用 .env 文件存储 Anthropic API Key。学习过程中应注意不要将 API Key 提交到公开仓库，建议使用环境变量或密钥管理工具。"
+      }
     ],
     "sources": [
-      { "title": "Claude struggles to cope with ChatGPT exodus", "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/", "publisher": "Forbes", "tier": "media", "excerpt": "Forbes 深度报道 Claude 因 ChatGPT 用户涌入导致的服务中断和增长数据", "publishedAt": "2026-03-06" },
-      { "title": "Anthropic's Claude Overtakes ChatGPT in App Store", "url": "https://fortune.com/2026/03/02/anthropic-claude-dario-amodei-number-one-app-store-openai-chatgpt-sam-altman-department-war/", "publisher": "Fortune", "tier": "media", "excerpt": "Claude 登顶 App Store，免费用户增长 60%，日注册量翻四倍。Dario Amodei：不能昧着良心答应五角大楼的要求。", "publishedAt": "2026-03-02" },
-      { "title": "ChatGPT uninstalls surged by 295% after DoD deal", "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/", "publisher": "TechCrunch", "tier": "media", "excerpt": "Sensor Tower 数据：ChatGPT 美区卸载量 2/28 环比飙升 295%，Claude 下载量同期增长 51%。", "publishedAt": "2026-03-02" },
-      { "title": "Claude outage hits chat, API, vibe coding", "url": "https://www.theregister.com/2026/03/03/claude_outage/", "publisher": "The Register", "tier": "media", "excerpt": "3/3 凌晨 Claude 全线宕机超 2 小时，波及聊天、API 和 Claude Code 三大服务。", "publishedAt": "2026-03-03" },
-      { "title": "OpenAI's Altman admits defense deal 'looked opportunistic and sloppy'", "url": "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html", "publisher": "CNBC", "tier": "media", "excerpt": "Sam Altman 承认合同仓促，宣布修改条款增加监控限制：AI 系统不得用于对美国公民和国民的国内监控。", "publishedAt": "2026-03-03" },
-      { "title": "Anthropic Claude Status Page", "url": "https://status.claude.com/", "publisher": "Anthropic", "tier": "official", "excerpt": "官方状态页记录了 3/2-3/3 期间的多次服务中断事件及恢复时间线。", "publishedAt": "2026-03-03" }
+      {
+        "url": "https://github.com/shareAI-lab/learn-claude-code",
+        "publisher": "shareAI-lab (GitHub)",
+        "publishedAt": "2026-03-09",
+        "tier": "official",
+        "title": "GitHub: shareAI-lab/learn-claude-code",
+        "excerpt": "开源仓库，MIT 许可证，24,000+ Stars / 4,400+ Forks。包含 12 节渐进式课程，从基础 Agent Loop 到 Git Worktree 隔离执行，附带中英日三语文档和交互式 Web 学习平台。"
+      },
+      {
+        "url": "https://github.com/shareai-lab",
+        "publisher": "shareAI-lab (GitHub Organization)",
+        "publishedAt": "2026-03-09",
+        "tier": "official",
+        "title": "shareAI-Lab GitHub 组织页",
+        "excerpt": "新加坡 AI 开源组织，1,700+ 关注者，维护 35 个仓库。核心项目包括 Kode-CLI（4,500 Stars 生产级 Agent）、learn-claude-code（教学项目）、kode-agent-sdk（嵌入式 Agent 运行时）。"
+      },
+      {
+        "url": "https://tonybai.com/2026/01/08/how-claude-code-works/",
+        "publisher": "Tony Bai",
+        "publishedAt": "2026-01-08",
+        "tier": "media",
+        "title": "拆解 Claude Code：Coding Agent 终于「能用」背后的架构真相",
+        "excerpt": "深度技术分析 Claude Code 的内部架构，包括 Agent Loop、工具系统、上下文管理等核心机制，与 learn-claude-code 项目的教学内容形成互补参考。"
+      },
+      {
+        "url": "https://hellogithub.com/en/repository/shareAI-lab/learn-claude-code",
+        "publisher": "HelloGitHub",
+        "publishedAt": "2026-03-09",
+        "tier": "media",
+        "title": "HelloGitHub: shareAI-lab/learn-claude-code",
+        "excerpt": "项目收录于 HelloGitHub 开源项目推荐平台，分类为「从零构建 AI Agent」教学项目。"
+      }
     ]
   },
   "en": {
-    "title": "ChatGPT Exodus Reshapes AI Market Dynamics",
-    "subtitle": "Claude hits #1 but outages expose single-vendor risk for developers",
-    "tldr": "OpenAI's $200M Pentagon deal triggered a 295% spike in ChatGPT uninstalls, pushing Claude to #1 on the US App Store. But Anthropic's infrastructure buckled under demand with 10+ hours of downtime, highlighting the fragility of relying on any single AI provider.",
-    "keyMetrics": {
-      "subject": "ChatGPT vs Claude User Migration",
-      "competitors": ["ChatGPT", "Claude"],
-      "rows": [
-        { "metric": "US uninstall change (2/28)", "values": ["+295%", "—"], "unit": "day-over-day", "note": "Sensor Tower data" },
-        { "metric": "US download change (2/28)", "values": ["—", "+51%"], "unit": "day-over-day", "note": "Claude: +37% on 2/27, +51% on 2/28" },
-        { "metric": "App Store ranking (3/2)", "values": ["#2", "#1"], "unit": "", "note": "Claude was previously around #42" },
-        { "metric": "Free user growth (YTD)", "values": ["—", "+60%"], "unit": "", "note": "Confirmed by Anthropic" },
-        { "metric": "Paid subscriptions (YTD)", "values": ["—", "2x"], "unit": "", "note": "Confirmed by Anthropic" },
-        { "metric": "Service outages (3/2-3/3)", "values": ["—", "4"], "unit": "incidents", "note": "~10 hours total downtime" }
-      ],
-      "footnote": "QuitGPT movement claims 1.5M+ participants (cancellations, uninstalls, petitions)"
-    },
-    "whatHappened": "On February 28, OpenAI announced a $200M AI partnership with the US Department of Defense (rebranded as Department of War). This came immediately after Anthropic walked away from the same deal, with CEO Dario Amodei publicly stating he \"cannot in good conscience accede to the Pentagon's request\" to remove safeguards against mass surveillance and autonomous weapons.\n\nThe backlash was swift and measurable: ChatGPT US uninstalls spiked 295% that day, \"Cancel ChatGPT\" trended across social platforms, and a Reddit post urging users to switch hit 30K upvotes. Claude downloads surged 51% day-over-day, propelling it to #1 on the US App Store for the first time.\n\nAnthropic's infrastructure wasn't ready. Between March 2-3, Claude suffered four major outages totaling roughly 10 hours of downtime, affecting claude.ai, the API (including Opus 4.6 and Haiku 4.5 models), and Claude Code. Sam Altman later admitted the Pentagon deal \"looked opportunistic and sloppy\" and announced contract amendments adding surveillance restrictions.",
-    "whyItMatters": "This is the first mass user migration in consumer AI driven by ethical positioning rather than product superiority. It signals a shift from \"whose model is better\" to \"whose values align with mine\" as a competitive differentiator.\n\nFor developers, three things matter: First, Claude's consecutive outages prove that even leading providers can fail under traffic surges — multi-vendor strategies are no longer optional for production workloads. Second, while Anthropic initially claimed the API was unaffected, Opus 4.6 and Haiku 4.5 both experienced availability issues on 3/3, meaning production integrations need proper fallback logic. Third, vendor policy risk (military contracts, data governance) is now a real variable in technical architecture decisions.",
+    "title": "Build an AI Agent in 12 Lessons",
+    "subtitle": "Open-source tutorial deconstructs Claude Code's core architecture with pure Bash, gains 566 stars in one day",
+    "tldr": "shareAI-lab released learn-claude-code, a 12-lesson progressive tutorial that builds a Claude Code-like AI agent from scratch, covering agent loops, subagents, context compression, and multi-agent coordination. The project has 24,000+ GitHub stars.",
+    "whatHappened": "Singapore-based open-source organization shareAI-lab published [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code), a progressive tutorial for building a Claude Code-like AI agent from the ground up. The project contains 12 lessons (s01-s12), each with a standalone runnable Python file, progressively layering mechanisms from a basic agent loop to tool dispatch, task planning, subagents, skill loading, context compression, multi-agent coordination, and Git worktree isolation.\n\nThe core philosophy is \"the model is the agent -- our job is to give it tools and stay out of the way.\" The v0 version implements a basic agent in just 16-50 lines of Bash/Python, while the full capstone (s_full.py) integrates all 12 mechanisms in roughly 550 lines. Documentation is available in English, Chinese, and Japanese, with an interactive web learning platform.\n\nAs of today, the project has 24,000+ stars, 4,400+ forks, and gained 566 stars in a single day. shareAI-lab also maintains Kode-CLI (a 4,500-star production agent) and mini-claude-code, forming a complete ecosystem from education to production.",
+    "whyItMatters": "There is a growing gap in the AI agent space: tools like Claude Code and Cursor have proven that AI agents can dramatically boost developer productivity, but most developers lack deep understanding of how these agents work internally. This makes customization, debugging, and optimization extremely difficult.\n\nlearn-claude-code addresses this by decomposing Claude Code's core architecture into 12 understandable, runnable modules. Developers learn not just the fundamental \"Agent Loop + Tool Use\" pattern, but also production-grade mechanisms like three-layer context compression, file-based task persistence with dependency graphs, and multi-agent communication via JSONL mailbox protocols. This knowledge directly applies to building custom agents, troubleshooting agent behavior, and evaluating agent framework choices.\n\nFrom an industry perspective, this project exemplifies a critical shift: understanding agents matters more than just using them. Developers who can deconstruct agent architectures will hold a significant competitive advantage in the AI-native development era.",
     "whoIsAffected": {
       "groups": [
-        { "name": "Claude API developers", "impact": "high", "description": "Despite initial claims that the API was unaffected, Opus 4.6 and Haiku 4.5 experienced availability issues on 3/3. Production services need fallback mechanisms immediately." },
-        { "name": "ChatGPT API/Plus users", "impact": "medium", "description": "OpenAI amended the Pentagon contract with surveillance limits. No immediate product or pricing changes, but the deal may influence future data policies and product direction." },
-        { "name": "AI startups", "impact": "high", "description": "The migration wave proves that vendor ethics and brand trust directly affect end-user retention. Products built on OpenAI's API may face collateral trust damage from their users." },
-        { "name": "Individual developers", "impact": "medium", "description": "Claude Pro and Claude Code were completely unavailable during outages, disrupting daily workflows. Usage quotas may tighten further as demand continues to outpace infrastructure." }
+        {
+          "name": "AI Agent Developers",
+          "impact": "high",
+          "description": "Direct benefit: systematically learn agent core architecture through 12 lessons, upgrading from black-box usage to white-box understanding, significantly improving ability to build and tune custom agents"
+        },
+        {
+          "name": "Claude Code / Cursor Daily Users",
+          "impact": "medium",
+          "description": "Understanding internals helps use these tools more effectively -- e.g., managing long sessions better after learning context compression, or optimizing task breakdown after understanding TodoManager"
+        },
+        {
+          "name": "AI Educators and Content Creators",
+          "impact": "medium",
+          "description": "The project provides well-structured teaching materials with three-language documentation, directly usable for course design, technical writing, and workshop content"
+        },
+        {
+          "name": "Engineering Team Leads",
+          "impact": "low",
+          "description": "Useful as a team learning resource for building agent competency, but the teaching code itself is not production-ready"
+        }
       ]
     },
     "whatToDo": {
       "immediate": [
-        "Add fallback logic to production Claude API calls — route to GPT-4o or Gemini on 529 errors",
-        "Export your ChatGPT conversation history and custom instructions as a backup",
-        "Subscribe to status.claude.com notifications for real-time availability updates"
+        "Clone the repo and run lesson 1: `git clone https://github.com/shareAI-lab/learn-claude-code && cd learn-claude-code && pip install -r requirements.txt && python agents/s01_agent_loop.py` to experience the minimal agent loop in action"
       ],
       "thisWeek": [
-        "Audit your AI workflow's vendor concentration and document a multi-model fallback strategy",
-        "Benchmark Claude, GPT-4o, and Gemini on your core use cases to establish quality baselines for model switching",
-        "Review AI vendor data usage policies and government partnership disclosures — add these to your vendor evaluation criteria"
+        "Complete lessons s01-s06 in order (Agent Loop -> Tool Dispatch -> Task Planning -> Subagents -> Skill Loading -> Context Compression), spending 30-60 minutes each, mapping each mechanism to the agent tools you currently use",
+        "Read the architecture docs, especially on context compression (3-layer strategy) and multi-agent communication (JSONL mailbox), and evaluate whether these patterns apply to your projects"
       ],
       "watchAndWait": [
-        "Monitor Anthropic's infrastructure scaling progress — expect 2-4 weeks before service stability improves",
-        "Track the final terms of OpenAI's amended Pentagon contract and ongoing user churn trends",
-        "Watch whether Google Gemini capitalizes with competitive pricing or capacity expansion"
+        "Follow shareAI-lab's Kode-CLI project (4,500 stars) -- it is the production-grade implementation of what learn-claude-code teaches, serving as a bridge from learning to deployment",
+        "Watch for additional advanced topics (MCP protocol integration, permission governance) that the current 12 lessons do not yet cover"
       ]
     },
     "options": [
-      { "name": "Stay the course", "description": "Continue using your current single AI vendor with no architectural changes", "suitableFor": "Non-critical applications, personal projects", "cost": "None", "risk": "High — next outage directly impacts your product" },
-      { "name": "Multi-model fallback architecture", "description": "Implement automatic degradation chain (Claude -> GPT-4o -> Gemini) using LiteLLM or custom routing", "suitableFor": "Teams with production API workloads", "cost": "1-3 days development + multi-vendor API costs (typically 10-20% increase)", "risk": "Medium — output style differences between models may affect UX consistency" },
-      { "name": "Full migration to Claude", "description": "Move primary workloads from OpenAI to Claude while momentum is strong", "suitableFor": "Teams prioritizing ethical alignment, non-HA requirements", "cost": "2-5 days for prompt rewriting and testing; Claude API pricing is comparable to OpenAI", "risk": "High — Claude's reliability is unproven at current scale, ongoing user surge may degrade service further" },
-      { "name": "Self-hosted open-source fallback", "description": "Deploy Llama 3 or Mistral as a last-resort fallback layer", "suitableFor": "Teams with strict data sovereignty and uptime requirements", "cost": "GPU hosting $200-2000+/month, significant ops overhead", "risk": "Low availability risk, but capability gap vs. closed-source models" }
+      {
+        "name": "Complete all 12 lessons systematically",
+        "suitableFor": "Developers seeking deep understanding of agent architecture",
+        "cost": "6-12 hours of learning time",
+        "risk": "Teaching implementations differ from production agents; be aware of the gap",
+        "description": "Work through s01 to s12 sequentially, using docs and the web platform to fully master core agent mechanisms."
+      },
+      {
+        "name": "Selectively study key modules",
+        "suitableFor": "Experienced agent developers looking to fill specific knowledge gaps",
+        "cost": "2-4 hours",
+        "risk": "Skipping foundational lessons may hinder understanding of advanced mechanisms",
+        "description": "Pick specific lessons based on your needs, such as s06 (context compression), s09 (multi-agent coordination), or s12 (worktree isolation)."
+      },
+      {
+        "name": "Build a custom agent based on the tutorial",
+        "suitableFor": "Teams actively developing agent products",
+        "cost": "1-2 weeks",
+        "risk": "Teaching code is not production-validated; needs error handling, security, and performance hardening",
+        "description": "Use s_full.py as a starting point, combined with Kode-CLI's production practices, to build an agent tailored to your use case."
+      },
+      {
+        "name": "Do nothing",
+        "suitableFor": "Teams not involved in agent development or with mature agent architectures",
+        "cost": "Zero",
+        "risk": "As agents become the standard development paradigm, lacking foundational understanding may affect long-term competitiveness",
+        "description": "Bookmark the project for future reference and revisit when the need arises."
+      }
     ],
     "risks": [
-      { "title": "Claude service stability remains uncertain", "description": "A 60%+ user surge with no proportional infrastructure scaling led to 4 outages in 2 days. Until Anthropic's capacity catches up with demand, both consumer and API users should expect intermittent rate limiting and disruptions." },
-      { "title": "Boycott momentum may fade", "description": "Consumer boycotts historically lose steam within 2-4 weeks. Altman has already apologized and amended the contract. Some users will return to ChatGPT, potentially making Claude's growth unsustainable." },
-      { "title": "Vendor policy risk is the new normal", "description": "This event proved that non-technical factors — government deals, data policies, ethical stances — can trigger mass user migration within days. Any AI vendor's future policy shift could cause a similar trust crisis, making single-vendor dependency a systemic risk." }
+      {
+        "title": "Using teaching code directly in production",
+        "description": "The project explicitly omits full event/hook systems, permission governance, and session lifecycle management. The team JSONL mailbox protocol is labeled a teaching implementation. For production use, refer to Kode-CLI and add security, error handling, and observability layers."
+      },
+      {
+        "title": "Oversimplifying agent architecture complexity",
+        "description": "The project emphasizes a minimalist 'the model is the agent' philosophy, but production agents must also handle rate limiting, cost control, multi-tenant isolation, and audit logging. Maintain awareness of real-world engineering challenges while learning."
+      },
+      {
+        "title": "API key security exposure",
+        "description": "The tutorial stores the Anthropic API key in a .env file. Ensure you never commit API keys to public repositories during the learning process. Use environment variables or secret management tools instead."
+      }
     ],
     "sources": [
-      { "title": "Claude struggles to cope with ChatGPT exodus", "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/", "publisher": "Forbes", "tier": "media", "excerpt": "In-depth report on Claude's service disruptions caused by the flood of ChatGPT refugees and Anthropic's growth metrics.", "publishedAt": "2026-03-06" },
-      { "title": "Anthropic's Claude Overtakes ChatGPT in App Store", "url": "https://fortune.com/2026/03/02/anthropic-claude-dario-amodei-number-one-app-store-openai-chatgpt-sam-altman-department-war/", "publisher": "Fortune", "tier": "media", "excerpt": "Claude hits #1 on US App Store. Free users up 60%, daily signups quadrupled. Amodei: 'Cannot in good conscience accede to Pentagon request.'", "publishedAt": "2026-03-02" },
-      { "title": "ChatGPT uninstalls surged by 295% after DoD deal", "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/", "publisher": "TechCrunch", "tier": "media", "excerpt": "Sensor Tower data: ChatGPT US uninstalls up 295% day-over-day on 2/28; Claude downloads up 51% in the same period.", "publishedAt": "2026-03-02" },
-      { "title": "Claude outage hits chat, API, vibe coding", "url": "https://www.theregister.com/2026/03/03/claude_outage/", "publisher": "The Register", "tier": "media", "excerpt": "March 3 outage lasted 2+ hours, impacting chat, API, and Claude Code services globally.", "publishedAt": "2026-03-03" },
-      { "title": "OpenAI's Altman admits defense deal 'looked opportunistic and sloppy'", "url": "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html", "publisher": "CNBC", "tier": "media", "excerpt": "Altman admits rushing the deal, announces contract amendments adding surveillance restrictions for US persons.", "publishedAt": "2026-03-03" },
-      { "title": "Anthropic Claude Status Page", "url": "https://status.claude.com/", "publisher": "Anthropic", "tier": "official", "excerpt": "Official status page documenting multiple service incidents and recovery timelines during March 2-3.", "publishedAt": "2026-03-03" }
+      {
+        "url": "https://github.com/shareAI-lab/learn-claude-code",
+        "publisher": "shareAI-lab (GitHub)",
+        "publishedAt": "2026-03-09",
+        "tier": "official",
+        "title": "GitHub: shareAI-lab/learn-claude-code",
+        "excerpt": "Open-source repo under MIT license. 24,000+ stars / 4,400+ forks. Contains 12 progressive lessons from basic agent loop to Git worktree isolation, with documentation in English, Chinese, and Japanese plus an interactive web learning platform."
+      },
+      {
+        "url": "https://github.com/shareai-lab",
+        "publisher": "shareAI-lab (GitHub Organization)",
+        "publishedAt": "2026-03-09",
+        "tier": "official",
+        "title": "shareAI-Lab GitHub Organization",
+        "excerpt": "Singapore-based AI open-source org with 1,700+ followers and 35 repositories. Key projects include Kode-CLI (4,500 stars production agent), learn-claude-code (teaching project), and kode-agent-sdk (embeddable agent runtime)."
+      },
+      {
+        "url": "https://tonybai.com/2026/01/08/how-claude-code-works/",
+        "publisher": "Tony Bai",
+        "publishedAt": "2026-01-08",
+        "tier": "media",
+        "title": "Deconstructing Claude Code: The Architecture Behind the First Usable Coding Agent",
+        "excerpt": "In-depth technical analysis of Claude Code internals including agent loop, tool system, and context management -- provides complementary reference for learn-claude-code's teaching content."
+      },
+      {
+        "url": "https://hellogithub.com/en/repository/shareAI-lab/learn-claude-code",
+        "publisher": "HelloGitHub",
+        "publishedAt": "2026-03-09",
+        "tier": "media",
+        "title": "HelloGitHub: shareAI-lab/learn-claude-code",
+        "excerpt": "Project featured on HelloGitHub open-source discovery platform, categorized as a 'Build AI Agent from Scratch' educational project."
+      }
     ]
   }
 }

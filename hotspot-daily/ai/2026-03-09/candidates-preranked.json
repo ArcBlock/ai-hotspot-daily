@@ -398,25 +398,6 @@
     }
   },
   {
-    "id": "hn-47293415",
-    "title": "Warn about PyPy being unmaintained",
-    "url": "https://github.com/astral-sh/uv/pull/17643",
-    "source": "hackernews",
-    "sourceType": "script",
-    "summary": "",
-    "publishedAt": "2026-03-08T01:35:21.000Z",
-    "rawScore": 295,
-    "category": "discussion",
-    "comments": 160,
-    "prerankScore": 62,
-    "prerankBreakdown": {
-      "timeliness": 15,
-      "sourceHeat": 25,
-      "keywords": 0,
-      "credibility": 22
-    }
-  },
-  {
     "id": "rss-Dev-to-AI-https---dev-to-aguardic-what-ai-agent-governance-actually-looks-like-2m2l",
     "title": "What AI Agent Governance Actually Looks Like",
     "url": "https://dev.to/aguardic/what-ai-agent-governance-actually-looks-like-2m2l",
@@ -536,6 +517,25 @@
     "rawScore": 317,
     "category": "discussion",
     "comments": 149,
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "hn-47293415",
+    "title": "Warn about PyPy being unmaintained",
+    "url": "https://github.com/astral-sh/uv/pull/17643",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:35:21.000Z",
+    "rawScore": 295,
+    "category": "discussion",
+    "comments": 160,
     "prerankScore": 57,
     "prerankBreakdown": {
       "timeliness": 10,

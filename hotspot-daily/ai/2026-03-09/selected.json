@@ -1,121 +1,219 @@
 {
   "primary": {
-    "id": "hn-47298997",
-    "title": "Claude struggles to cope with ChatGPT exodus",
-    "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
-    "source": "hackernews",
+    "id": "gh-shareAI-lab-learn-claude-code",
+    "title": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "source": "github",
     "sourceType": "script",
-    "summary": "由于 OpenAI 与美国国防部签署争议性合同，大量用户从 ChatGPT 涌向 Claude。2 月 28 日 ChatGPT 卸载量飙升 295%，Claude 首次登顶美国 App Store。Anthropic 承认需求激增导致多次服务中断，免费用户增长超 60%，付费订阅翻倍。Forbes 3/6 深度报道，HN 3/8 获 142 分 135 条评论，行业格局性事件。",
-    "publishedAt": "2026-03-08T17:14:53.000Z",
-    "rawScore": 142,
-    "category": "discussion",
-    "comments": 135,
-    "prerankScore": 87,
+    "summary": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 23871,
+    "category": "project",
+    "starsToday": 566,
+    "aiRelated": true,
+    "prerankScore": 93,
     "scores": {
-      "timeliness": 4,
-      "impact": 5,
-      "actionability": 4,
-      "credibility": 5,
+      "timeliness": 5,
+      "impact": 4,
+      "actionability": 5,
+      "credibility": 4,
       "audienceMatch": 5,
       "total": 4.55
     },
-    "rankReason": "AI 行业格局性事件：ChatGPT 用户大规模迁移至 Claude，Forbes/Bloomberg/TechCrunch 多家权威媒体确认，Sensor Tower 数据支撑。对 AI 开发者和创业者直接影响——需要评估 API 可用性、切换成本、产品策略调整。HN 热议度高，时效性强（3/6 首报，3/8 仍是热门话题）。"
+    "rankReason": "今天爆发的开源项目，从零手写类 Claude Code 的 AI Agent（仅用 Bash），566 star 单日增长，prerankScore 最高（93）。对 AI 开发者有极强的学习和实践价值——可立即 clone 学习 AI Agent 核心架构，无历史覆盖"
   },
   "alternates": [
     {
-      "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
-      "title": "Google 发布 Workspace CLI 工具 (gws)，让 AI Agent 访问整个 Google 生态",
-      "url": "https://alphasignalai.substack.com/p/google-released-a-cli-tool-that-lets",
-      "source": "alphasignal",
+      "id": "hn-47298997",
+      "title": "Claude struggles to cope with ChatGPT exodus",
+      "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
+      "source": "hackernews",
       "sourceType": "script",
-      "summary": "Google 开源了 googleworkspace/cli（gws 命令行工具），提供 Gmail、Drive、Calendar、Sheets、Docs 等全套 Workspace API 的统一接口。内置 MCP Server 支持任何 MCP 兼容 AI Agent 直接调用，包含 100+ Agent Skills，支持 --sanitize 防注入。3/5-3/6 发布，已获多家科技媒体报道。",
-      "publishedAt": "2026-03-07T12:25:02.000Z",
-      "rawScore": 50,
-      "category": "news",
-      "prerankScore": 53,
+      "summary": "",
+      "publishedAt": "2026-03-08T17:14:53.000Z",
+      "rawScore": 142,
+      "category": "discussion",
+      "comments": 135,
+      "prerankScore": 87,
       "scores": {
-        "timeliness": 3,
-        "impact": 4,
-        "actionability": 5,
+        "timeliness": 4,
+        "impact": 5,
+        "actionability": 3,
         "credibility": 5,
         "audienceMatch": 5,
-        "total": 4.30
+        "total": 4.25
       },
-      "rankReason": "对 AI 开发者极具可行动性：可立即集成 Google Workspace 到 AI Agent 工作流，内置 MCP 支持降低了接入门槛。Google 官方发布+开源，可信度高。影响面覆盖所有使用 Google 生态的开发者和企业。虽然发布于 3/5，时效性略低，但工具刚进入开发者视野。"
+      "rankReason": "Forbes 报道 Claude 因 ChatGPT 用户涌入面临容量压力，HN 142 分 135 评论。影响面和可信度极高，但可行动性降为 3（了解行业动态、评估 API 稳定性），且与 03-03 已报道的 Claude 吸引 ChatGPT 用户话题有延续性",
+      "previousCoverage": {
+        "dates": ["2026-03-03"],
+        "latestPagePath": "hotspot-daily/ai/2026-03-03/page.json",
+        "latestTitle": "Anthropic upgrades Claude's memory to attract AI switchers",
+        "coveredSources": ["Anthropic 2026-03-01T00:00:00Z", "9to5Mac 2026-03-02T00:00:00Z", "MacRumors 2026-03-02T00:00:00Z", "TechCrunch 2026-03-02T00:00:00Z", "Euronews 2026-03-02T00:00:00Z", "Windows Central 2026-03-01T00:00:00Z"]
+      }
     },
     {
-      "id": "websearch-1773018034-1",
-      "title": "Anthropic Claude 在两周内发现 Firefox 22 个安全漏洞",
-      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "id": "websearch-1773018034-2",
+      "title": "Apple 宣布全新 AI 驱动 Siri 将于 iOS 26.4 亮相，搭载 Google Gemini 1.2T 参数模型",
+      "url": "https://www.b2the7.com/news-blog/marketing-digital-social-trends-week-march-9-2026",
       "source": "websearch",
       "sourceType": "websearch",
-      "summary": "Mozilla 与 Anthropic 合作，使用 Claude Opus 4.6 在两周内扫描近 6000 个 C++ 文件，发现 22 个安全漏洞（14 高危、7 中危、1 低危），另外发现 90 个其他 bug。Claude 发现了传统 fuzzing 方法数十年未能检测到的整类错误，包括一个仅用 20 分钟就发现的 JS 引擎 use-after-free 漏洞。TechCrunch/Axios/The Register 等多家媒体报道。",
-      "publishedAt": "2026-03-08T10:53:00Z",
+      "summary": "Apple 正式宣布全面重构的 AI 版 Siri 将于 2026 年 3 月随 iOS 26.4 发布，采用 Google 1.2 万亿参数 Gemini AI 模型，在 Apple Private Cloud Compute 上运行以保障隐私。",
+      "publishedAt": "2026-03-09T00:00:00Z",
       "rawScore": 0,
-      "category": "news",
-      "prerankScore": 53,
+      "category": "release",
+      "prerankScore": 68,
       "scores": {
-        "timeliness": 3,
-        "impact": 4,
-        "actionability": 4,
-        "credibility": 5,
+        "timeliness": 5,
+        "impact": 5,
+        "actionability": 3,
+        "credibility": 2,
         "audienceMatch": 4,
-        "total": 3.95
+        "total": 3.85
       },
-      "rankReason": "展示 AI 在代码安全审计中的突破性应用，对开发者有直接启发——可以考虑将 LLM 集成到安全审计流程中。Anthropic 官方博客+Mozilla 博客+TechCrunch 等多家权威确认，可信度极高。虽然漏洞发现在 1 月，但公开报道在 3/6，仍具时效性。"
+      "rankReason": "Apple+Google 合作重构 Siri 若属实将是行业重磅——影响所有 iOS 开发者和 AI 生态。但来源为单一非权威博客，可信度仅 2 分，需 QC 验证后方可使用。无历史覆盖"
     }
   ],
-  "allRanked": [
+  "allScored": [
+    {
+      "id": "gh-shareAI-lab-learn-claude-code",
+      "title": "shareAI-lab/learn-claude-code",
+      "total": 4.55,
+      "scores": { "timeliness": 5, "impact": 4, "actionability": 5, "credibility": 4, "audienceMatch": 5 },
+      "rankReason": "今天爆发的开源项目，从零手写类 Claude Code Agent，566 star，对开发者有极强学习和实践价值"
+    },
     {
       "id": "hn-47298997",
       "title": "Claude struggles to cope with ChatGPT exodus",
-      "scores": { "timeliness": 4, "impact": 5, "actionability": 4, "credibility": 5, "audienceMatch": 5, "total": 4.55 }
+      "total": 4.25,
+      "scores": { "timeliness": 4, "impact": 5, "actionability": 3, "credibility": 5, "audienceMatch": 5 },
+      "rankReason": "Forbes+HN 高热度行业事件，但与 03-03 话题有延续性，可行动性偏低"
     },
     {
-      "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
-      "title": "Google 发布 Workspace CLI 工具 (gws)，让 AI Agent 访问整个 Google 生态",
-      "scores": { "timeliness": 3, "impact": 4, "actionability": 5, "credibility": 5, "audienceMatch": 5, "total": 4.30 }
-    },
-    {
-      "id": "websearch-1773018034-1",
-      "title": "Anthropic Claude 在两周内发现 Firefox 22 个安全漏洞",
-      "scores": { "timeliness": 3, "impact": 4, "actionability": 4, "credibility": 5, "audienceMatch": 4, "total": 3.95 }
-    },
-    {
-      "id": "gh-openai-skills",
-      "title": "openai/skills - Skills Catalog for Codex",
-      "scores": { "timeliness": 4, "impact": 4, "actionability": 4, "credibility": 4, "audienceMatch": 4, "total": 4.00 }
-    },
-    {
-      "id": "gh-shareAI-lab-learn-claude-code",
-      "title": "shareAI-lab/learn-claude-code - 从零构建类 Claude Code Agent",
-      "scores": { "timeliness": 3, "impact": 3, "actionability": 4, "credibility": 3, "audienceMatch": 5, "total": 3.55 }
+      "id": "websearch-1773018034-2",
+      "title": "Apple 宣布全新 AI 驱动 Siri 将于 iOS 26.4 亮相",
+      "total": 3.85,
+      "scores": { "timeliness": 5, "impact": 5, "actionability": 3, "credibility": 2, "audienceMatch": 4 },
+      "rankReason": "若属实影响面极大，但来源可信度偏低，需验证"
     },
     {
       "id": "gh-openclaw-openclaw",
-      "title": "openclaw/openclaw - 开源个人 AI 助手突破 250k Stars",
-      "scores": { "timeliness": 2, "impact": 4, "actionability": 3, "credibility": 4, "audienceMatch": 4, "total": 3.35 }
+      "title": "openclaw/openclaw",
+      "total": 3.70,
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 4, "credibility": 3, "audienceMatch": 4 },
+      "rankReason": "4603 star 单日增长惊人的个人 AI 助手，但与核心 AI 开发者需求略偏"
+    },
+    {
+      "id": "gh-openai-skills",
+      "title": "openai/skills",
+      "total": 3.65,
+      "scores": { "timeliness": 5, "impact": 4, "actionability": 4, "credibility": 4, "audienceMatch": 3 },
+      "rankReason": "OpenAI 官方 Codex Skills Catalog，612 star，但 03-08 已选为 alternate"
+    },
+    {
+      "id": "gh-GoogleCloudPlatform-generative-ai",
+      "title": "GoogleCloudPlatform/generative-ai",
+      "total": 3.55,
+      "scores": { "timeliness": 4, "impact": 3, "actionability": 4, "credibility": 5, "audienceMatch": 4 },
+      "rankReason": "Google Cloud 官方示例代码库更新，实用但非突破性新闻"
     },
     {
       "id": "hn-47293938",
       "title": "Will Claude Code ruin our team?",
-      "scores": { "timeliness": 3, "impact": 3, "actionability": 3, "credibility": 3, "audienceMatch": 5, "total": 3.30 }
+      "total": 3.40,
+      "scores": { "timeliness": 3, "impact": 3, "actionability": 3, "credibility": 4, "audienceMatch": 5 },
+      "rankReason": "HN 热议 Claude Code 对团队协作的影响，切中开发者关注但偏观点性"
     },
     {
-      "id": "replicate-google-gemini-3-flash",
-      "title": "Google Gemini 3 Flash 上线 Replicate",
-      "scores": { "timeliness": 2, "impact": 4, "actionability": 4, "credibility": 4, "audienceMatch": 4, "total": 3.50 }
+      "id": "gh-toeverything-AFFiNE",
+      "title": "toeverything/AFFiNE",
+      "total": 3.35,
+      "scores": { "timeliness": 4, "impact": 3, "actionability": 3, "credibility": 4, "audienceMatch": 3 },
+      "rankReason": "知识库工具持续增长，但非 AI 核心话题，03-08 已选为 alternate"
     },
     {
-      "id": "websearch-1773018034-2",
-      "title": "Apple 宣布 AI Siri 将搭载 Google Gemini 1.2T 参数模型",
-      "scores": { "timeliness": 2, "impact": 4, "actionability": 2, "credibility": 3, "audienceMatch": 3, "total": 2.85 }
+      "id": "gh-Ed1s0nZ-CyberStrikeAI",
+      "title": "Ed1s0nZ/CyberStrikeAI",
+      "total": 3.30,
+      "scores": { "timeliness": 5, "impact": 3, "actionability": 3, "credibility": 3, "audienceMatch": 3 },
+      "rankReason": "AI 安全测试平台，244 star，较为垂直和小众"
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-eliver-tiapa-a76b603e96ff-i-built-a-free-tool-to-feed-your-entire-codeb",
+      "title": "I built a free tool to feed your entire codebase to ChatGPT in one click",
+      "total": 3.20,
+      "scores": { "timeliness": 5, "impact": 2, "actionability": 4, "credibility": 2, "audienceMatch": 4 },
+      "rankReason": "个人开发者项目，实用但影响力和可信度有限"
+    },
+    {
+      "id": "websearch-1773018034-1",
+      "title": "Anthropic Claude 在两周内发现 Firefox 22 个安全漏洞",
+      "total": 3.15,
+      "scores": { "timeliness": 3, "impact": 3, "actionability": 2, "credibility": 3, "audienceMatch": 4 },
+      "rankReason": "Claude 在代码审计的能力展示，有话题性但原始来源为 Reddit，可信度一般"
+    },
+    {
+      "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
+      "title": "Google released a CLI tool that lets AI agents access your Google Workspace",
+      "total": 3.10,
+      "scores": { "timeliness": 2, "impact": 4, "actionability": 4, "credibility": 4, "audienceMatch": 4 },
+      "rankReason": "03-08 已作为 primary 深度报道，不宜重复选择"
+    },
+    {
+      "id": "qbitai-20岁大学生花10天VibeCoding一个开源项目-获盛大",
+      "title": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
+      "total": 3.05,
+      "scores": { "timeliness": 3, "impact": 3, "actionability": 2, "credibility": 3, "audienceMatch": 4 },
+      "rankReason": "VibeCoding 话题有热度，偏故事性报道"
     },
     {
       "id": "alphaxiv-2603.03823",
-      "title": "SWE-CI: 通过 CI 评估 Agent 维护代码库的能力",
-      "scores": { "timeliness": 4, "impact": 3, "actionability": 3, "credibility": 3, "audienceMatch": 4, "total": 3.30 }
+      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration",
+      "total": 2.90,
+      "scores": { "timeliness": 4, "impact": 3, "actionability": 2, "credibility": 4, "audienceMatch": 4 },
+      "rankReason": "AI Agent 代码维护评估框架，与开发者工作流相关但可行动性有限"
+    },
+    {
+      "id": "gh-pbakaus-impeccable",
+      "title": "pbakaus/impeccable",
+      "total": 3.00,
+      "scores": { "timeliness": 5, "impact": 2, "actionability": 3, "credibility": 3, "audienceMatch": 3 },
+      "rankReason": "AI 设计语言工具，443 star，较为小众"
+    },
+    {
+      "id": "gh-666ghj-MiroFish",
+      "title": "666ghj/MiroFish",
+      "total": 2.85,
+      "scores": { "timeliness": 5, "impact": 2, "actionability": 2, "credibility": 3, "audienceMatch": 2 },
+      "rankReason": "群体智能引擎，1104 star 增长快但非典型 AI 开发者话题"
+    },
+    {
+      "id": "alphaxiv-2603.03276",
+      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+      "total": 2.80,
+      "scores": { "timeliness": 4, "impact": 3, "actionability": 1, "credibility": 4, "audienceMatch": 3 },
+      "rankReason": "多模态预训练论文，学术价值高但可行动性低"
+    },
+    {
+      "id": "alphaxiv-2603.05433",
+      "title": "On-Policy Self-Distillation for Reasoning Compression",
+      "total": 2.75,
+      "scores": { "timeliness": 4, "impact": 3, "actionability": 1, "credibility": 4, "audienceMatch": 3 },
+      "rankReason": "推理压缩论文，学术兴趣为主"
+    },
+    {
+      "id": "alphaxiv-2603.05218",
+      "title": "KARL: Knowledge Agents via Reinforcement Learning",
+      "total": 2.70,
+      "scores": { "timeliness": 4, "impact": 2, "actionability": 1, "credibility": 4, "audienceMatch": 3 },
+      "rankReason": "知识代理强化学习论文，偏学术研究"
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "google/gemini-3-flash",
+      "total": 2.65,
+      "scores": { "timeliness": 3, "impact": 3, "actionability": 3, "credibility": 3, "audienceMatch": 3 },
+      "rankReason": "已多次作为 alternate 出现，不再新鲜"
     }
   ],
-  "rankedAt": "2026-03-09T01:30:00.000Z"
+  "rankedAt": "2026-03-09T02:00:00.000Z"
 }
