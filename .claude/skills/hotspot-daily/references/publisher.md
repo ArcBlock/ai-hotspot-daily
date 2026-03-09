@@ -31,7 +31,9 @@ model: inherit
 
 ### 2. 生成分享文案
 
-读取 page.json 的 zh 和 en 内容，生成 `hotspot-daily/ai/{DATE}/share.md`：
+读取 page.json 的 zh 和 en 内容，生成 `hotspot-daily/ai/{DATE}/share.md`。
+
+**重要**：下方模板中 `>` 开头的行是写作指引，仅供你理解写作要求，**不要**写入最终的 share.md 文件。最终文案必须是可直接复制使用的纯文本（无 blockquote `>` 符号）。
 
 ```markdown
 # Share - {DATE} {title}
