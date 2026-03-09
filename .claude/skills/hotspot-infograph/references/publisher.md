@@ -33,6 +33,8 @@ model: inherit
 
 读取 page.json 的内容，生成 `hotspot-infograph/trending/{DATE}/share.md`。
 
+**重要**：下方模板中 `>` 开头的行是写作指引，仅供你理解写作要求，**不要**写入最终的 share.md 文件。最终文案必须是可直接复制使用的纯文本（无 blockquote `>` 符号）。
+
 page.json 结构参考：
 - `meta.date`, `meta.slug`
 - `hero.title`（≤20字）, `hero.category`, `hero.color`, `hero.chart`, `hero.keyNumbers`(3个), `hero.takeaway`, `hero.sources`
