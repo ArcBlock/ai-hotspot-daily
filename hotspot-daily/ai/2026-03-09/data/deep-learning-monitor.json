@@ -1,0 +1,186 @@
+{
+  "source": "deep-learning-monitor",
+  "fetchedAt": "2026-03-09T00:57:48.985Z",
+  "items": [
+    {
+      "id": "dlm-Anatomy-of-Unlearning-The-Dua",
+      "title": "Anatomy of Unlearning: The Dual Impact of Fact Salience and Model Fine-Tuning",
+      "url": "https://deeplearn.org/arxiv/705287/anatomy-of-unlearning:-the-dual-impact-of-fact-salience-and-model-fine-tuning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Implicit-Bias-and-Convergence-",
+      "title": "Implicit Bias and Convergence of Matrix Stochastic Mirror Descent",
+      "url": "https://deeplearn.org/arxiv/707771/implicit-bias-and-convergence-of-matrix-stochastic-mirror-descent",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Simulation-Ready-Cluttered-Sce",
+      "title": "Simulation-Ready Cluttered Scene Estimation via Physics-aware Joint Shape and Pose Optimization",
+      "url": "https://deeplearn.org/arxiv/704990/simulation-ready-cluttered-scene-estimation-via-physics-aware-joint-shape-and-pose-optimization",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Agentic-AI-for-Scalable-and-Ro",
+      "title": "Agentic AI for Scalable and Robust Optical Systems Control",
+      "url": "https://deeplearn.org/arxiv/704991/agentic-ai-for-scalable-and-robust-optical-systems-control",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-TROLL-Trust-Regions-improve-R",
+      "title": "TROLL: Trust Regions improve Reinforcement Learning for Large Language Models",
+      "url": "https://deeplearn.org/arxiv/704992/troll:-trust-regions-improve-reinforcement-learning-for-large-language-models",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Recurrent-Structural-Policy-Gr",
+      "title": "Recurrent Structural Policy Gradient for Partially Observable Mean Field Games",
+      "url": "https://deeplearn.org/arxiv/704993/recurrent-structural-policy-gradient-for-partially-observable-mean-field-games",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Towards-a-Science-of-AI-Agent-",
+      "title": "Towards a Science of AI Agent Reliability",
+      "url": "https://deeplearn.org/arxiv/704994/towards-a-science-of-ai-agent-reliability",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Adaptation-to-Intrinsic-Depend",
+      "title": "Adaptation to Intrinsic Dependence in Diffusion Language Models",
+      "url": "https://deeplearn.org/arxiv/705004/adaptation-to-intrinsic-dependence-in-diffusion-language-models",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Modeling-Epidemiological-Dynam",
+      "title": "Modeling Epidemiological Dynamics Under Adversarial Data and User Deception",
+      "url": "https://deeplearn.org/arxiv/704999/modeling-epidemiological-dynamics-under-adversarial-data-and-user-deception",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-AdaEvolve-Adaptive-LLM-Driven",
+      "title": "AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization",
+      "url": "https://deeplearn.org/arxiv/705000/adaevolve:-adaptive-llm-driven-zeroth-order-optimization",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Latent-Equivariant-Operators-f",
+      "title": "Latent Equivariant Operators for Robust Object Recognition: Promise and Challenges",
+      "url": "https://deeplearn.org/arxiv/705001/latent-equivariant-operators-for-robust-object-recognition:-promise-and-challenges",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-LAD-Learning-Advantage-Distri",
+      "title": "LAD: Learning Advantage Distribution for Reasoning",
+      "url": "https://deeplearn.org/arxiv/705002/lad:-learning-advantage-distribution-for-reasoning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-To-Reason-or-Not-to-Selective",
+      "title": "To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering",
+      "url": "https://deeplearn.org/arxiv/705003/to-reason-or-not-to:-selective-chain-of-thought-in-medical-question-answering",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-BarrierSteer-LLM-Safety-via-L",
+      "title": "BarrierSteer: LLM Safety via Learning Barrier Steering",
+      "url": "https://deeplearn.org/arxiv/705016/barriersteer:-llm-safety-via-learning-barrier-steering",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-The-Illusion-of-Human-AI-Parit",
+      "title": "The Illusion of Human AI Parity Under Uncertainty: Navigating Elusive Ground Truth via a Probabilistic Paradigm",
+      "url": "https://deeplearn.org/arxiv/705017/the-illusion-of-human-ai-parity-under-uncertainty:-navigating-elusive-ground-truth-via-a-probabilistic-paradigm",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-09T00:57:48.985Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}

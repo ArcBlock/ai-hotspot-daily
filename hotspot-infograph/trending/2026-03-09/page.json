@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "date": "2026-03-09",
+    "slug": "2026-03-09-iran-new-supreme-leader",
+    "generatedAt": "2026-03-09T15:30:00+08:00",
+    "language": "zh"
+  },
+  "hero": {
+    "title": "伊朗最高领袖首次父子交接",
+    "category": "国际",
+    "color": "#0891b2",
+    "chart": {
+      "type": "timeline",
+      "data": [
+        { "label": "1979", "value": "霍梅尼就任首任最高领袖" },
+        { "label": "1989", "value": "哈梅内伊继任第二任领袖" },
+        { "label": "2026.2.28", "value": "哈梅内伊在美以联合打击中遇袭身亡" },
+        { "label": "2026.3.9", "value": "穆杰塔巴当选第三任领袖" }
+      ],
+      "highlight": "伊朗建国47年来首次父子权力交接"
+    },
+    "keyNumbers": [
+      { "value": "56岁", "label": "穆杰塔巴现年" },
+      { "value": "第3任", "label": "伊朗最高领袖" },
+      { "value": "47年", "label": "伊斯兰共和国历史" }
+    ],
+    "takeaway": "伊朗专家会议一致选定哈梅内伊之子穆杰塔巴为第三任最高领袖",
+    "sources": [
+      { "name": "俄罗斯卫星通讯社", "url": "https://sputniknews.cn/20260309/1070133842.html" },
+      { "name": "中新网", "url": "https://www.chinanews.com.cn/gj/2026/03-09/10583646.shtml" }
+    ],
+    "needsDetail": true,
+    "detailTemplate": "geo-explainer",
+    "detailSlug": "iran-new-supreme-leader"
+  },
+  "cards": [
+    {
+      "title": "中传砍掉16个本科专业",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "miniBar",
+        "data": {
+          "items": [
+            { "label": "撤销专业", "value": 16 },
+            { "label": "新增专业", "value": 3, "color": "#059669" }
+          ]
+        }
+      },
+      "insight": "AI时代高校专业大洗牌，翻译摄影等被裁撤",
+      "needsDetail": true,
+      "detailTemplate": "data-story",
+      "detailSlug": "cuc-cut-16-majors"
+    },
+    {
+      "title": "成品油价今夜4连涨",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "trend",
+        "data": {
+          "direction": "up",
+          "value": "0.39元/升",
+          "label": "92号汽油涨幅"
+        }
+      },
+      "insight": "年内最大涨幅，加满一箱多花约20元",
+      "needsDetail": false,
+      "detailTemplate": null,
+      "detailSlug": null
+    },
+    {
+      "title": "金饰克价逼近1600元",
+      "category": "财经",
+      "color": "#d97706",
+      "miniChart": {
+        "type": "bigNumber",
+        "data": {
+          "value": "1590元/克",
+          "label": "周大福足金报价"
+        }
+      },
+      "insight": "多品牌定价类产品涨价15%-30%",
+      "needsDetail": false,
+      "detailTemplate": null,
+      "detailSlug": null
+    },
+    {
+      "title": "BLG 3:1击败JDG夺冠",
+      "category": "体育",
+      "color": "#059669",
+      "miniChart": {
+        "type": "versus",
+        "data": {
+          "left": { "label": "BLG", "value": "3" },
+          "right": { "label": "JDG", "value": "1" }
+        }
+      },
+      "insight": "LPL第一赛段决赛，Bin获FMVP",
+      "needsDetail": false,
+      "detailTemplate": null,
+      "detailSlug": null
+    },
+    {
+      "title": "AI算力带火变压器",
+      "category": "科技",
+      "color": "#2563eb",
+      "miniChart": {
+        "type": "trend",
+        "data": {
+          "direction": "up",
+          "value": "36%",
+          "label": "出口同比增长"
+        }
+      },
+      "insight": "订单排至2027年，出口总值达646亿元",
+      "needsDetail": false,
+      "detailTemplate": null,
+      "detailSlug": null
+    },
+    {
+      "title": "胖东来38亿资产分员工",
+      "category": "社会",
+      "color": "#dc2626",
+      "miniChart": {
+        "type": "progress",
+        "data": {
+          "value": 50,
+          "label": "利润分配给员工",
+          "color": "#dc2626"
+        }
+      },
+      "insight": "万名员工持股，82%投票拒绝降薪增假",
+      "needsDetail": false,
+      "detailTemplate": null,
+      "detailSlug": null
+    }
+  ]
+}

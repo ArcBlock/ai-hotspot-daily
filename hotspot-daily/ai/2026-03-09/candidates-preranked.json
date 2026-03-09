@@ -1,0 +1,745 @@
+[
+  {
+    "id": "gh-shareAI-lab-learn-claude-code",
+    "title": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 23871,
+    "category": "project",
+    "starsToday": 566,
+    "aiRelated": true,
+    "prerankScore": 93,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 25,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47298997",
+    "title": "Claude struggles to cope with ChatGPT exodus",
+    "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T17:14:53.000Z",
+    "rawScore": 142,
+    "category": "discussion",
+    "comments": 135,
+    "prerankScore": 87,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 20,
+      "keywords": 25,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "gh-GoogleCloudPlatform-generative-ai",
+    "title": "GoogleCloudPlatform/generative-ai",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 14386,
+    "category": "project",
+    "starsToday": 522,
+    "aiRelated": true,
+    "prerankScore": 83,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-toeverything-AFFiNE",
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 65229,
+    "category": "project",
+    "starsToday": 533,
+    "aiRelated": true,
+    "prerankScore": 73,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-eliver-tiapa-a76b603e96ff-i-built-a-free-tool-to-feed-your-entire-codeb",
+    "title": "I built a free tool to feed your entire codebase to ChatGPT in one click",
+    "url": "https://dev.to/eliver_tiapa_a76b603e96ff/i-built-a-free-tool-to-feed-your-entire-codebase-to-chatgpt-in-one-click-47ii",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The problem I was tired of Every time I needed help from ChatGPT or Claude with one of my projects, I wasted 10-15 minutes doing the same thing: Open file → Copy → Paste into ChatGPT Open another file",
+    "publishedAt": "Mon, 09 Mar 2026 00:37:29 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "gh-shadcn-ui-ui",
+    "title": "shadcn-ui/ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 108696,
+    "category": "project",
+    "starsToday": 488,
+    "aiRelated": false,
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 24,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-Ed1s0nZ-CyberStrikeAI",
+    "title": "Ed1s0nZ/CyberStrikeAI",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 2259,
+    "category": "project",
+    "starsToday": 244,
+    "aiRelated": true,
+    "prerankScore": 70,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 22,
+      "keywords": 5,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03276",
+    "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "url": "https://www.alphaxiv.org/abs/2603.03276",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:41.241Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05433",
+    "title": "On-Policy Self-Distillation for Reasoning Compression",
+    "url": "https://www.alphaxiv.org/abs/2603.05433",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:41.242Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03823",
+    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration",
+    "url": "https://www.alphaxiv.org/abs/2603.03823",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:41.242Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05218",
+    "title": "KARL: Knowledge Agents via Reinforcement Learning",
+    "url": "https://www.alphaxiv.org/abs/2603.05218",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:41.242Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "websearch-1773018034-2",
+    "title": "Apple 宣布全新 AI 驱动 Siri 将于 iOS 26.4 亮相，搭载 Google Gemini 1.2T 参数模型",
+    "url": "https://www.b2the7.com/news-blog/marketing-digital-social-trends-week-march-9-2026",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "Apple 正式宣布全面重构的 AI 版 Siri 将于 2026 年 3 月随 iOS 26.4 发布，采用 Google 1.2 万亿参数 Gemini AI 模型，在 Apple Private Cloud Compute 上运行以保障隐私。",
+    "publishedAt": "2026-03-09T00:00:00Z",
+    "rawScore": 0,
+    "category": "release",
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "gh-openclaw-openclaw",
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 280576,
+    "category": "project",
+    "starsToday": 4603,
+    "aiRelated": true,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-openai-skills",
+    "title": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Skills Catalog for Codex",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 13231,
+    "category": "project",
+    "starsToday": 612,
+    "aiRelated": true,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-666ghj-MiroFish",
+    "title": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 6991,
+    "category": "project",
+    "starsToday": 1104,
+    "aiRelated": false,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-pbakaus-impeccable",
+    "title": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "The design language that makes your AI harness better at design.",
+    "publishedAt": "2026-03-09T00:56:58.941Z",
+    "rawScore": 1763,
+    "category": "project",
+    "starsToday": 443,
+    "aiRelated": true,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47293938",
+    "title": "Will Claude Code ruin our team?",
+    "url": "https://justinjackson.ca/claude-code-ruin",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T02:59:35.000Z",
+    "rawScore": 78,
+    "category": "discussion",
+    "comments": 84,
+    "prerankScore": 68,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-Agentic-AI-for-Scalable-and-Ro",
+    "title": "Agentic AI for Scalable and Robust Optical Systems Control",
+    "url": "https://deeplearn.org/arxiv/704991/agentic-ai-for-scalable-and-robust-optical-systems-control",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:48.985Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-Towards-a-Science-of-AI-Agent-",
+    "title": "Towards a Science of AI Agent Reliability",
+    "url": "https://deeplearn.org/arxiv/704994/towards-a-science-of-ai-agent-reliability",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:48.985Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-LAD-Learning-Advantage-Distri",
+    "title": "LAD: Learning Advantage Distribution for Reasoning",
+    "url": "https://deeplearn.org/arxiv/705002/lad:-learning-advantage-distribution-for-reasoning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:48.985Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:37.918Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "hn-47293415",
+    "title": "Warn about PyPy being unmaintained",
+    "url": "https://github.com/astral-sh/uv/pull/17643",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T01:35:21.000Z",
+    "rawScore": 295,
+    "category": "discussion",
+    "comments": 160,
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-aguardic-what-ai-agent-governance-actually-looks-like-2m2l",
+    "title": "What AI Agent Governance Actually Looks Like",
+    "url": "https://dev.to/aguardic/what-ai-agent-governance-actually-looks-like-2m2l",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Everyone is talking about AI agent governance. NIST just launched an initiative to develop standards for it. Enterprise security teams are adding \"how do you govern your AI agents?\" to vendor question",
+    "publishedAt": "Mon, 09 Mar 2026 00:28:00 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:37.918Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "pwc-2603.03756",
+    "title": "Paper 2603.03756",
+    "url": "https://huggingface.co/papers/2603.03756",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:35.532Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.04448",
+    "title": "Paper 2603.04448",
+    "url": "https://huggingface.co/papers/2603.04448",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:35.532Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "pwc-2603.04743",
+    "title": "Paper 2603.04743",
+    "url": "https://huggingface.co/papers/2603.04743",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:35.532Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "hn-47289311",
+    "title": "A decade of Docker containers",
+    "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-07T16:55:18.000Z",
+    "rawScore": 351,
+    "category": "discussion",
+    "comments": 248,
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "hn-47291513",
+    "title": "LLM Writing Tropes.md",
+    "url": "https://tropes.fyi/tropes-md",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-07T21:08:40.000Z",
+    "rawScore": 317,
+    "category": "discussion",
+    "comments": 149,
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-scottcjn-how-ai-agents-can-earn-crypto-with-rustchain-mcp-langchain-5gi",
+    "title": "How AI Agents Can Earn Crypto with RustChain (MCP + LangChain)",
+    "url": "https://dev.to/scottcjn/how-ai-agents-can-earn-crypto-with-rustchain-mcp-langchain-5gid",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "AI agents are getting wallets, earning tokens, and transacting autonomously. Here's how to connect your agent to the RustChain Proof-of-Antiquity blockchain and start earning RTC tokens. What is RustC",
+    "publishedAt": "Mon, 09 Mar 2026 00:48:59 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "qbitai-20岁大学生花10天VibeCoding一个开源项目-获盛大",
+    "title": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
+    "url": "https://www.qbitai.com/2026/03/384728.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T07:15:47.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 56,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "ph-claude-marketplace",
+    "title": "Claude Marketplace",
+    "url": "https://www.producthunt.com/products/claude-marketplace",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Helping companies easily get the AI tools they need\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/claude-marketplace?utm_c",
+    "publishedAt": "2026-03-07T14:25:04.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 54,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 20,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
+    "title": "Google released a CLI tool that lets AI agents access your Google Workspace",
+    "url": "https://alphasignalai.substack.com/p/google-released-a-cli-tool-that-lets",
+    "source": "alphasignal",
+    "sourceType": "script",
+    "summary": "Google Workspace lets AI agents access your entire Google Workspace ecosystem, including tools like Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.",
+    "publishedAt": "2026-03-07T12:25:02.000Z",
+    "rawScore": 50,
+    "category": "news",
+    "prerankScore": 53,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "websearch-1773018034-1",
+    "title": "Anthropic Claude 在两周内发现 Firefox 22 个安全漏洞",
+    "url": "https://www.reddit.com/r/artificial/comments/1ro1ybn/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "Anthropic 的 Claude 模型在两周时间内识别出 Firefox 浏览器中的 22 个安全漏洞，展示了 AI 在代码审计和漏洞检测领域的强大能力。",
+    "publishedAt": "2026-03-08T10:53:00Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 53,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 20,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T00:57:37.918Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "qbitai-高中生AI创业-现在只招龙虾员工-每月成本2800",
+    "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
+    "url": "https://www.qbitai.com/2026/03/384797.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "全龙虾公司，还设了好几个部门",
+    "publishedAt": "2026-03-08T10:07:27.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 46,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "qbitai-OpenClaw最强外挂出现-小龙虾抓不到数据有救了-",
+    "title": "OpenClaw最强外挂出现：小龙虾抓不到数据有救了！",
+    "url": "https://www.qbitai.com/2026/03/384786.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "Skill版本作者已经亲自安排上了",
+    "publishedAt": "2026-03-08T09:53:08.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 46,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "ph-pulldog",
+    "title": "Pulldog",
+    "url": "https://www.producthunt.com/products/pulldog",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            A Mac application to keep your code reviews organized!\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/pulldog?utm_campaign=",
+    "publishedAt": "2026-03-07T12:12:03.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 29,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1773018034-3",
+    "title": "美国俄勒冈州 SB 1546 聊天机器人安全法案获最终通过",
+    "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-march6-2026",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "俄勒冈州 SB 1546 法案获最终通过并送交州长签署，要求聊天机器人运营商实施保护未成年人免受有害内容侵害的安全措施，是美国最新的 AI 监管立法之一。",
+    "publishedAt": "2026-03-08T00:00:00Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 28,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "websearch-1773018034-5",
+    "title": "阿里巴巴 AI 代理 ROME 尝试自主进行加密货币挖矿",
+    "url": "https://financefeeds.com/alibaba-ai-agent-rome-attempts-crypto-mining-without-human-intervention/",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "阿里巴巴的 AI 代理 ROME 在无人干预的情况下尝试进行加密货币挖矿，引发业界对 AI 自主行为边界和安全性的讨论。",
+    "publishedAt": "2026-03-08T00:00:00Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 25,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 10
+    }
+  }
+]

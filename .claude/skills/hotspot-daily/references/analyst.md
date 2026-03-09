@@ -22,6 +22,12 @@ model: inherit
 
 读取 `selected.json` 获取主选热点信息。读取 `style-guide.md` 理解写作规范。
 
+**增量感知**：如果主选包含 `previousCoverage` 字段，读取 `previousCoverage.latestPagePath` 指向的前次 page.json，提取：
+- 前次的 `whatHappened`、`whyItMatters`、`whatToDo` 内容（用于避免重复）
+- 前次的 `sources` 列表（用于识别已用过的来源）
+
+将这些信息作为"已报道内容"参考，后续步骤中优先产出增量信息。
+
 ### 2. 深入调研
 
 对主选热点进行深入调研：
@@ -31,6 +37,12 @@ model: inherit
 - 收集至少 3 个独立来源的信息，其中至少 1 个为一手来源
 - 提取关键数据点、时间线、各方反应
 - 为每个来源标注 `tier`：`"official"`（一手）或 `"media"`（二手转述）
+
+**增量优先策略（当存在 previousCoverage 时）：**
+- WebSearch 时优先搜索该事件的**最新进展**，使用时间限定词如 "past 24 hours"、"today"
+- 排除 `previousCoverage.coveredSources` 中已用过的来源，优先寻找新来源
+- 重点关注：新数据点、后续反应、政策变化、市场影响等前次未覆盖的维度
+- 至少找到 2 个前次未使用的新来源，否则增量可能不足
 
 ### 3. 生成 page.json
 
@@ -101,6 +113,22 @@ model: inherit
   }
 }
 ```
+
+### 3.5 增量内容结构（当存在 previousCoverage 时）
+
+如果主选包含 `previousCoverage`，page.json 的生成需遵循以下增量规则：
+
+**whatHappened** 分为两部分，用 Markdown 标题分隔：
+- 第一部分 `**最新进展**`（英文用 `**Latest Developments**`）：仅包含前次报道之后的新事实、新数据、新反应
+- 第二部分 `**背景回顾**`（英文用 `**Background**`）：用 2-3 句话概括前次已报道的核心事实，不重复展开
+
+**sources** 中每个来源增加 `isNew` 布尔字段：
+- `isNew: true`：本次新发现的来源（前次 page.json 中未出现）
+- `isNew: false`：前次已使用的背景来源（仅保留最关键的 1-2 个作为上下文）
+
+**meta** 中透传 `previousCoverage` 字段（从 selected.json 原样复制）。
+
+**confidence 降级**：如果新来源（`isNew: true`）少于 2 个且没有发现实质性新数据点，将 `confidence` 设为 45（低于 QC Gate 的 60 分门槛），让 QC Gate 自动触发备选切换。
 
 ### 4. 写作规范要点
 

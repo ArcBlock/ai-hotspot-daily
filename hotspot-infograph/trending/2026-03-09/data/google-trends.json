@@ -1,0 +1,359 @@
+{
+  "source": "google-trends",
+  "fetchedAt": "2026-03-09T01:12:18.103Z",
+  "items": [
+    {
+      "id": "gtrends-0",
+      "title": "wemby",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-09T00:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Jaylen Brown Walks Back 'Best Two-Way Player' Claim",
+          "'He’s Not Even Human': Celtics Superstar's Honest Take on Spurs' Victor Wembanyama",
+          "Jaylen Brown Says He’s The Best Two-Way Player In The NBA Because Victor Wembanyama “Isn’t Human”"
+        ],
+        "newsItems": [
+          {
+            "title": "Jaylen Brown Walks Back 'Best Two-Way Player' Claim",
+            "url": "https://nesn.com/boston-celtics/news/jaylen-brown-walks-back-best-two-way-player-claim/921166882fc53fc230c611d2",
+            "source": "NESN"
+          },
+          {
+            "title": "'He’s Not Even Human': Celtics Superstar's Honest Take on Spurs' Victor Wembanyama",
+            "url": "https://roundtable.io/sports/nba/spurs/news/he-s-not-even-human-celtics-superstar-s-honest-take-on-spurs-victor-wembanyama",
+            "source": "roundtable.io"
+          },
+          {
+            "title": "Jaylen Brown Says He’s The Best Two-Way Player In The NBA Because Victor Wembanyama “Isn’t Human”",
+            "url": "https://fadeawayworld.net/nba/boston-celtics/jaylen-brown-best-two-way-player-because-victor-wembanyama-isnt-human",
+            "source": "Fadeaway World"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-1",
+      "title": "stephon castle",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-09T00:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Spurs 131-91 76ers (Mar 3, 2026) Game Recap",
+          "‘No resistance.’ ‘Soft.’ Tyrese Maxey and Nick Nurse explain the Sixers’ record-breaking blowout losses | Marcus Hayes",
+          "Why the Spurs' confidence is soaring after an 8-1 rodeo trip"
+        ],
+        "newsItems": [
+          {
+            "title": "Spurs 131-91 76ers (Mar 3, 2026) Game Recap",
+            "url": "https://www.espn.com/nba/recap/_/gameId/401810743",
+            "source": "ESPN"
+          },
+          {
+            "title": "‘No resistance.’ ‘Soft.’ Tyrese Maxey and Nick Nurse explain the Sixers’ record-breaking blowout losses | Marcus Hayes",
+            "url": "https://www.inquirer.com/sports/sixers-blowout-loss-nick-nurse-tyrese-maxey-20260304.html",
+            "source": "Inquirer.com"
+          },
+          {
+            "title": "Why the Spurs' confidence is soaring after an 8-1 rodeo trip",
+            "url": "https://www.expressnews.com/sports/spurs/article/spurs-confidence-soaring-8-1-rodeo-trip-21953648.php",
+            "source": "San Antonio Express-News"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-2",
+      "title": "jonathan aranda",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-09T00:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "After 7 thrilling innings, Mexico breaks out late to top Great Britain in Pool B opener",
+          "Mexico vs. Great Britain Highlights ⚾️ World Baseball Classic on FOX",
+          "Mexico is right at home at Daikin Park with opening win over Great Britain in World Baseball Classic"
+        ],
+        "newsItems": [
+          {
+            "title": "After 7 thrilling innings, Mexico breaks out late to top Great Britain in Pool B opener",
+            "url": "https://www.mlb.com/news/mexico-vs-great-britain-in-2026-world-baseball-classic",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Mexico vs. Great Britain Highlights ⚾️ World Baseball Classic on FOX",
+            "url": "https://www.foxsports.com/watch/fmc-zs7z0vh7lqjoeegh",
+            "source": "FOX Sports"
+          },
+          {
+            "title": "Mexico is right at home at Daikin Park with opening win over Great Britain in World Baseball Classic",
+            "url": "https://www.houstonchronicle.com/sports/astros/article/mexico-great-britain-world-baseball-classic-score-21335897.php",
+            "source": "Houston Chronicle"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-3",
+      "title": "us marshals",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-09T00:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Former Colorado doctor wanted on sex assault charge injured in Florida shootout",
+          "'Real deal gunfight': 4 deputies, U.S. Marshal, involved in Vero Beach shooting",
+          "“Would not be taken alive”: Grand Junction fugitive allegedly shoots U.S. marshal before arrest"
+        ],
+        "newsItems": [
+          {
+            "title": "Former Colorado doctor wanted on sex assault charge injured in Florida shootout",
+            "url": "https://www.9news.com/article/news/crime/colorado-doctor-florida-arrest/73-0555731c-5904-4ebc-b8ba-5a92361ae331",
+            "source": "KUSA.com"
+          },
+          {
+            "title": "'Real deal gunfight': 4 deputies, U.S. Marshal, involved in Vero Beach shooting",
+            "url": "https://cbs12.com/news/local/three-indian-river-county-deputies-one-martin-county-deputy-us-marshal-deputy-involved-shooting-florida-news",
+            "source": "WPEC"
+          },
+          {
+            "title": "“Would not be taken alive”: Grand Junction fugitive allegedly shoots U.S. marshal before arrest",
+            "url": "https://www.kkco11news.com/2026/03/03/would-not-be-taken-alive-grand-junction-fugitive-allegedly-shoots-us-marshal-before-arrest/",
+            "source": "KKCO 11 News"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-4",
+      "title": "márton fucsovics",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-09T00:50:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Fucsovics stuns World No. 5 Musetti in Indian Wells, Shelton survives major scare",
+          "BNP Paribas Open Betting Odds and Match Previews for March 6, 2026, Men's Singles",
+          "Tennis, ATP – BNP Paribas Open 2026: Fucsovics downs Musetti"
+        ],
+        "newsItems": [
+          {
+            "title": "Fucsovics stuns World No. 5 Musetti in Indian Wells, Shelton survives major scare",
+            "url": "https://www.atptour.com/en/news/musetti-fucsovics-indian-wells-2026-friday",
+            "source": "ATP Tour"
+          },
+          {
+            "title": "BNP Paribas Open Betting Odds and Match Previews for March 6, 2026, Men's Singles",
+            "url": "https://sportsbookwire.usatoday.com/story/sports/sports-betting/2026/03/06/bnp-paribas-open-betting-odds-favorites-match-previews-3-5-2026-mens/89013098007/",
+            "source": "Sportsbook Wire"
+          },
+          {
+            "title": "Tennis, ATP – BNP Paribas Open 2026: Fucsovics downs Musetti",
+            "url": "https://www.tennismajors.com/atp/fucsovics-stuns-musetti-to-secure-third-round-berth-at-indian-wells-846036.html",
+            "source": "Tennis Majors"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-5",
+      "title": "pga tour arnold palmer invitational",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 10000,
+      "publishedAt": "2026-03-09T00:40:00.000Z",
+      "extra": {
+        "traffic": "10000+",
+        "relatedQueries": [
+          "2026 Arnold Palmer Invitational money: Total purse, payout breakdown",
+          "Arnold Palmer Invitational 2026: How to watch the PGA on ESPN",
+          "Here’s the prize money payout for each golfer at the 2026 Arnold Palmer Invitational"
+        ],
+        "newsItems": [
+          {
+            "title": "2026 Arnold Palmer Invitational money: Total purse, payout breakdown",
+            "url": "https://golf.com/news/2026-arnold-palmer-invitational-money-total-purse-payout-breakdown/",
+            "source": "GOLF.com"
+          },
+          {
+            "title": "Arnold Palmer Invitational 2026: How to watch the PGA on ESPN",
+            "url": "https://www.espn.com/golf/story/_/id/48084737/arnold-palmer-invitational-2026-schedule-watch-pga",
+            "source": "ESPN"
+          },
+          {
+            "title": "Here’s the prize money payout for each golfer at the 2026 Arnold Palmer Invitational",
+            "url": "https://www.golfdigest.com/story/heres-prize-money-payout-each-golfer-2026-arnold-palmer-invitational",
+            "source": "Golf Digest"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-6",
+      "title": "marshall basketball",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 1000,
+      "publishedAt": "2026-03-09T00:40:00.000Z",
+      "extra": {
+        "traffic": "1000+",
+        "relatedQueries": [
+          "Marshall vs Georgia Southern College Basketball Prediction, Odds, Picks, Best Bets for Sun Belt Tournament",
+          "Tom Bragg: Liking Marshall's odds in the SBC tournament",
+          "Marshall men's basketball: Herd getting reps ahead of SBC semifinal"
+        ],
+        "newsItems": [
+          {
+            "title": "Marshall vs Georgia Southern College Basketball Prediction, Odds, Picks, Best Bets for Sun Belt Tournament",
+            "url": "https://www.fanduel.com/research/marshall-vs-georgia-southern-college-basketball-predictions-odds-picks-best-bets-for-sun-belt-tournament-3-8-2026",
+            "source": "FanDuel"
+          },
+          {
+            "title": "Tom Bragg: Liking Marshall's odds in the SBC tournament",
+            "url": "https://www.register-herald.com/sports/tom-bragg-liking-marshalls-odds-in-the-sbc-tournament/article_08475e4f-08d7-434f-9d4a-bae45c7086b5.html",
+            "source": "The Register-Herald"
+          },
+          {
+            "title": "Marshall men's basketball: Herd getting reps ahead of SBC semifinal",
+            "url": "https://www.wvgazettemail.com/sports/marshall_university/marshall-mens-basketball-herd-getting-reps-ahead-of-sbc-semifinal/article_b272df02-0db4-4b42-b5e1-4a6042b7f872.html",
+            "source": "Charleston Gazette-Mail"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-7",
+      "title": "amen thompson",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-09T00:40:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Rockets 106-99 Trail Blazers (Mar 6, 2026) Game Recap",
+          "Thompson, Rockets Get Last Laugh in Houston",
+          "Game Recap: Rockets 106, Trail Blazers 99"
+        ],
+        "newsItems": [
+          {
+            "title": "Rockets 106-99 Trail Blazers (Mar 6, 2026) Game Recap",
+            "url": "https://www.espn.com/nba/recap/_/gameId/401810765",
+            "source": "ESPN"
+          },
+          {
+            "title": "Thompson, Rockets Get Last Laugh in Houston",
+            "url": "https://www.blazersedge.com/gameday-coverage/109908/portland-trail-blazers-houston-rockets-score-recap-kevin-durant-amen-thompson-deni-avdija-clingan-scoot-henderson",
+            "source": "Blazer's Edge"
+          },
+          {
+            "title": "Game Recap: Rockets 106, Trail Blazers 99",
+            "url": "https://www.nba.com/watch/video/game-recap-rockets-106-trail-blazers-99",
+            "source": "NBA"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-8",
+      "title": "logan marshall-green",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-09T00:40:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "Who’s Who in the Cast of ‘Marshals’",
+          "'Marshals' star Logan Marshall-Green didn't know what going to the \"Train Station\" would mean for ‘Yellowstone' fans: \"It went over my head\"",
+          "Who Plays Pete Calvin On The Yellowstone Spin-Off Marshals"
+        ],
+        "newsItems": [
+          {
+            "title": "Who’s Who in the Cast of ‘Marshals’",
+            "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a70495733/marshals-cbs-cast/",
+            "source": "Town & Country Magazine"
+          },
+          {
+            "title": "'Marshals' star Logan Marshall-Green didn't know what going to the \"Train Station\" would mean for ‘Yellowstone' fans: \"It went over my head\"",
+            "url": "https://decider.com/2026/03/08/marshals-logan-marshall-green-yellowstone-train-station-interview/",
+            "source": "Decider"
+          },
+          {
+            "title": "Who Plays Pete Calvin On The Yellowstone Spin-Off Marshals",
+            "url": "https://www.imdb.com/it/news/ni65732665/?ref_=nwc_art_perm",
+            "source": "IMDb"
+          }
+        ],
+        "geo": "CN"
+      }
+    },
+    {
+      "id": "gtrends-9",
+      "title": "hofstra basketball",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "category": "trending",
+      "hotScore": 500,
+      "publishedAt": "2026-03-09T00:40:00.000Z",
+      "extra": {
+        "traffic": "500+",
+        "relatedQueries": [
+          "William & Mary vs. Hofstra Free Pick, Odds & Analysis March 8, 2026",
+          "Hofstra vs. William & Mary Dunkel Predictions & Vegas Odds - CAA Tournament",
+          "Pride Earns No. 3 Seed, Opens CAA Championship Sunday"
+        ],
+        "newsItems": [
+          {
+            "title": "William & Mary vs. Hofstra Free Pick, Odds & Analysis March 8, 2026",
+            "url": "https://www.predictem.com/college-basketball/william-mary-vs-hofstra-prediction-2026-03-08/",
+            "source": "Predictem"
+          },
+          {
+            "title": "Hofstra vs. William & Mary Dunkel Predictions & Vegas Odds - CAA Tournament",
+            "url": "https://www.dunkelindex.com/news/hofstra-william-mary-ncaa-basketball-dunkel-predictions-3-8-2026",
+            "source": "The Dunkel Index"
+          },
+          {
+            "title": "Pride Earns No. 3 Seed, Opens CAA Championship Sunday",
+            "url": "https://gohofstra.com/news/2026/3/5/mens-basketball-pride-earns-no-3-seed-opens-caa-championship-sunday.aspx",
+            "source": "Hofstra University Athletics"
+          }
+        ],
+        "geo": "CN"
+      }
+    }
+  ],
+  "errors": [
+    "Google Trends RSS returned 400 for geo=CN"
+  ]
+}

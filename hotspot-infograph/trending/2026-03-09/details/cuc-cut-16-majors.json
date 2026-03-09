@@ -1,0 +1,74 @@
+{
+  "slug": "cuc-cut-16-majors",
+  "title": "中传一口气砍掉16个本科专业",
+  "category": "社会",
+  "color": "#dc2626",
+  "template": "data-story",
+  "sections": [
+    {
+      "type": "text",
+      "content": [
+        "2026年全国两会期间，全国政协委员、中国传媒大学党委书记廖祥忠透露，中传已砍掉翻译、摄影等16个本科专业和方向。廖祥忠表示，未来是\"人机分工时代\"，教育变革迫在眉睫，课堂教学需进行彻底重构。",
+        "中传自2018年起实施\"四个一批\"专业建设策略——关停并转一批、升级改造一批、重点建设一批、规划设计一批。截至目前，学校累计停招和撤销本科专业达38个，其中2018年曾一次性撤销15个小语种专业。",
+        "在撤销旧专业的同时，中传新增了游戏科学与技术、电子竞技、品牌学、游戏艺术设计等面向数字经济和AI时代的新专业，体现出从传统传媒教育向智能传媒教育的转型方向。"
+      ]
+    },
+    {
+      "type": "chart",
+      "chartType": "bar",
+      "title": "中国传媒大学专业调整一览",
+      "data": [
+        { "label": "累计撤销/停招专业", "value": 38 },
+        { "label": "本次砍掉专业及方向", "value": 16 },
+        { "label": "2025年度拟撤销专业", "value": 7 },
+        { "label": "2025年度拟新增专业", "value": 3 },
+        { "label": "2026年新增专业", "value": 1 }
+      ],
+      "source": "中国传媒大学官网、教育部公示"
+    },
+    {
+      "type": "key-facts",
+      "title": "关键数据速览",
+      "facts": [
+        { "number": "16", "unit": "个", "description": "中传本次砍掉的本科专业和方向数" },
+        { "number": "38", "unit": "个", "description": "中传累计停招和撤销的本科专业总数" },
+        { "number": "1428", "unit": "个", "description": "2024年度全国高校撤销专业点数量" },
+        { "number": "5345", "unit": "个", "description": "近5年全国累计撤销本科专业点数" },
+        { "number": "2220", "unit": "个", "description": "2024年度全国高校停招专业点数量" },
+        { "number": "91", "unit": "个", "description": "2024年度全国新增人工智能专业点数" }
+      ]
+    },
+    {
+      "type": "chart",
+      "chartType": "line",
+      "title": "全国高校撤销专业学科分布（2024年度）",
+      "data": [
+        { "label": "工学", "value": 32.84, "unit": "%" },
+        { "label": "管理学", "value": 18.73, "unit": "%" },
+        { "label": "理学", "value": 13.99, "unit": "%" },
+        { "label": "艺术学", "value": 12.67, "unit": "%" },
+        { "label": "文学", "value": 9.26, "unit": "%" },
+        { "label": "其他", "value": 12.51, "unit": "%" }
+      ],
+      "source": "教育部2024年度本科专业备案和审批结果"
+    },
+    {
+      "type": "text",
+      "content": [
+        "廖祥忠提出，人机分工时代的人才评价标准将呈现两个维度：人机协作能力和人机分离能力。前者考察与机器协同工作的效率，后者强调脱离机器后的独立思考能力。教师角色需从\"知识传授者\"转变为\"项目协调者\"，AI则作为教学工具承担标准化知识的讲授。",
+        "全国范围内，高校专业\"大洗牌\"正在加速。信息管理与信息系统连续4年成为撤销数量最多的专业，公共事业管理、信息与计算科学紧随其后。与此同时，人工智能、集成电路、新能源等战略性新兴产业相关专业快速扩张，折射出高等教育从规模扩张向质量提升的深层转型。"
+      ]
+    }
+  ],
+  "sources": [
+    { "name": "央视新闻", "url": "https://video.sina.com.cn/p/finance/2026-03-08/detail-inhqhyqf0474647.d.html" },
+    { "name": "腾讯新闻", "url": "https://news.qq.com/rain/a/20260308V06OW300" },
+    { "name": "搜狐新闻", "url": "https://www.sohu.com/a/993977569_122602874" },
+    { "name": "中国传媒大学官网", "url": "https://www.cuc.edu.cn/_t86/2025/0716/c1384a258494/page.htm" },
+    { "name": "教育部", "url": "http://www.moe.gov.cn/jyb_xwfb/s271/202504/t20250422_1188246.html" },
+    { "name": "澎湃新闻", "url": "https://m.thepaper.cn/newsDetail_forward_30791146" },
+    { "name": "高考直通车", "url": "https://app.gaokaozhitongche.com/newsguide/h/rgP3B7eX" },
+    { "name": "证券时报", "url": "https://www.stcn.com/article/detail/1687649.html" }
+  ],
+  "generatedAt": "2026-03-09T12:00:00.000Z"
+}

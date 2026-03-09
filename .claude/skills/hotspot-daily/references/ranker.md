@@ -39,6 +39,34 @@ model: inherit
 - 检查是否有多条候选描述同一事件（不同来源报道同一新闻）
 - 如果发现同一事件的多条候选，合并为一条（保留信息最丰富的，其余来源记入 metadata）
 
+### 3.5 历史覆盖检测
+
+检查当前候选是否与最近 7 天内已选中的话题重复，为 Analyst 提供增量写作所需的上下文：
+
+1. 扫描 `hotspot-daily/ai/` 目录，找到最近 7 天内存在的日期子目录（排除今天 {DATE}）
+2. 读取每个日期目录下的 `selected.json`（如果存在），提取 primary 和 alternates 的标题、摘要、来源
+3. 对当前每条候选，检查是否与历史已选话题描述同一事件（标题相似 + 核心实体重叠）
+4. 如果命中，在候选上附加 `previousCoverage` 字段：
+
+```json
+{
+  "previousCoverage": {
+    "dates": ["2026-03-03"],
+    "latestPagePath": "hotspot-daily/ai/2026-03-03/page.json",
+    "latestTitle": "Claude 记忆免费开放并上线迁移工具",
+    "coveredSources": ["TechCrunch 2026-03-02", "Anthropic 2026-03-01"]
+  }
+}
+```
+
+字段说明：
+- `dates`：该话题曾在哪些日期被选为 primary 或 alternate
+- `latestPagePath`：最近一次作为 primary 时的 page.json 路径（仅当该话题曾作为 primary 时填写）
+- `latestTitle`：最近一次被选中时的标题
+- `coveredSources`：前次 page.json 中 `sources` 数组的 `"publisher publishedAt"` 列表（用于 Analyst 排除已用来源）
+
+**注意**：`previousCoverage` 不影响打分。候选仍按原有 5 维度评分。此字段仅作为元数据传递给 Analyst，帮助其聚焦增量内容。
+
 ### 4. 对每条候选打分
 
 对去重后的每条候选，按 5 个维度分别打 0-5 分，计算加权总分。
@@ -83,6 +111,8 @@ model: inherit
   "rankedAt": "ISO时间"
 }
 ```
+
+> 如果 primary 或 alternates 中的候选包含 `previousCoverage` 字段，原样保留在输出中。
 
 ## 产出
 

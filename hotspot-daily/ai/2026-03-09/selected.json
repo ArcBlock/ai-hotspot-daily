@@ -1,0 +1,121 @@
+{
+  "primary": {
+    "id": "hn-47298997",
+    "title": "Claude struggles to cope with ChatGPT exodus",
+    "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "由于 OpenAI 与美国国防部签署争议性合同，大量用户从 ChatGPT 涌向 Claude。2 月 28 日 ChatGPT 卸载量飙升 295%，Claude 首次登顶美国 App Store。Anthropic 承认需求激增导致多次服务中断，免费用户增长超 60%，付费订阅翻倍。Forbes 3/6 深度报道，HN 3/8 获 142 分 135 条评论，行业格局性事件。",
+    "publishedAt": "2026-03-08T17:14:53.000Z",
+    "rawScore": 142,
+    "category": "discussion",
+    "comments": 135,
+    "prerankScore": 87,
+    "scores": {
+      "timeliness": 4,
+      "impact": 5,
+      "actionability": 4,
+      "credibility": 5,
+      "audienceMatch": 5,
+      "total": 4.55
+    },
+    "rankReason": "AI 行业格局性事件：ChatGPT 用户大规模迁移至 Claude，Forbes/Bloomberg/TechCrunch 多家权威媒体确认，Sensor Tower 数据支撑。对 AI 开发者和创业者直接影响——需要评估 API 可用性、切换成本、产品策略调整。HN 热议度高，时效性强（3/6 首报，3/8 仍是热门话题）。"
+  },
+  "alternates": [
+    {
+      "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
+      "title": "Google 发布 Workspace CLI 工具 (gws)，让 AI Agent 访问整个 Google 生态",
+      "url": "https://alphasignalai.substack.com/p/google-released-a-cli-tool-that-lets",
+      "source": "alphasignal",
+      "sourceType": "script",
+      "summary": "Google 开源了 googleworkspace/cli（gws 命令行工具），提供 Gmail、Drive、Calendar、Sheets、Docs 等全套 Workspace API 的统一接口。内置 MCP Server 支持任何 MCP 兼容 AI Agent 直接调用，包含 100+ Agent Skills，支持 --sanitize 防注入。3/5-3/6 发布，已获多家科技媒体报道。",
+      "publishedAt": "2026-03-07T12:25:02.000Z",
+      "rawScore": 50,
+      "category": "news",
+      "prerankScore": 53,
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 4.30
+      },
+      "rankReason": "对 AI 开发者极具可行动性：可立即集成 Google Workspace 到 AI Agent 工作流，内置 MCP 支持降低了接入门槛。Google 官方发布+开源，可信度高。影响面覆盖所有使用 Google 生态的开发者和企业。虽然发布于 3/5，时效性略低，但工具刚进入开发者视野。"
+    },
+    {
+      "id": "websearch-1773018034-1",
+      "title": "Anthropic Claude 在两周内发现 Firefox 22 个安全漏洞",
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "source": "websearch",
+      "sourceType": "websearch",
+      "summary": "Mozilla 与 Anthropic 合作，使用 Claude Opus 4.6 在两周内扫描近 6000 个 C++ 文件，发现 22 个安全漏洞（14 高危、7 中危、1 低危），另外发现 90 个其他 bug。Claude 发现了传统 fuzzing 方法数十年未能检测到的整类错误，包括一个仅用 20 分钟就发现的 JS 引擎 use-after-free 漏洞。TechCrunch/Axios/The Register 等多家媒体报道。",
+      "publishedAt": "2026-03-08T10:53:00Z",
+      "rawScore": 0,
+      "category": "news",
+      "prerankScore": 53,
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 4,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 3.95
+      },
+      "rankReason": "展示 AI 在代码安全审计中的突破性应用，对开发者有直接启发——可以考虑将 LLM 集成到安全审计流程中。Anthropic 官方博客+Mozilla 博客+TechCrunch 等多家权威确认，可信度极高。虽然漏洞发现在 1 月，但公开报道在 3/6，仍具时效性。"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "hn-47298997",
+      "title": "Claude struggles to cope with ChatGPT exodus",
+      "scores": { "timeliness": 4, "impact": 5, "actionability": 4, "credibility": 5, "audienceMatch": 5, "total": 4.55 }
+    },
+    {
+      "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
+      "title": "Google 发布 Workspace CLI 工具 (gws)，让 AI Agent 访问整个 Google 生态",
+      "scores": { "timeliness": 3, "impact": 4, "actionability": 5, "credibility": 5, "audienceMatch": 5, "total": 4.30 }
+    },
+    {
+      "id": "websearch-1773018034-1",
+      "title": "Anthropic Claude 在两周内发现 Firefox 22 个安全漏洞",
+      "scores": { "timeliness": 3, "impact": 4, "actionability": 4, "credibility": 5, "audienceMatch": 4, "total": 3.95 }
+    },
+    {
+      "id": "gh-openai-skills",
+      "title": "openai/skills - Skills Catalog for Codex",
+      "scores": { "timeliness": 4, "impact": 4, "actionability": 4, "credibility": 4, "audienceMatch": 4, "total": 4.00 }
+    },
+    {
+      "id": "gh-shareAI-lab-learn-claude-code",
+      "title": "shareAI-lab/learn-claude-code - 从零构建类 Claude Code Agent",
+      "scores": { "timeliness": 3, "impact": 3, "actionability": 4, "credibility": 3, "audienceMatch": 5, "total": 3.55 }
+    },
+    {
+      "id": "gh-openclaw-openclaw",
+      "title": "openclaw/openclaw - 开源个人 AI 助手突破 250k Stars",
+      "scores": { "timeliness": 2, "impact": 4, "actionability": 3, "credibility": 4, "audienceMatch": 4, "total": 3.35 }
+    },
+    {
+      "id": "hn-47293938",
+      "title": "Will Claude Code ruin our team?",
+      "scores": { "timeliness": 3, "impact": 3, "actionability": 3, "credibility": 3, "audienceMatch": 5, "total": 3.30 }
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "Google Gemini 3 Flash 上线 Replicate",
+      "scores": { "timeliness": 2, "impact": 4, "actionability": 4, "credibility": 4, "audienceMatch": 4, "total": 3.50 }
+    },
+    {
+      "id": "websearch-1773018034-2",
+      "title": "Apple 宣布 AI Siri 将搭载 Google Gemini 1.2T 参数模型",
+      "scores": { "timeliness": 2, "impact": 4, "actionability": 2, "credibility": 3, "audienceMatch": 3, "total": 2.85 }
+    },
+    {
+      "id": "alphaxiv-2603.03823",
+      "title": "SWE-CI: 通过 CI 评估 Agent 维护代码库的能力",
+      "scores": { "timeliness": 4, "impact": 3, "actionability": 3, "credibility": 3, "audienceMatch": 4, "total": 3.30 }
+    }
+  ],
+  "rankedAt": "2026-03-09T01:30:00.000Z"
+}

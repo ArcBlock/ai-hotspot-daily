@@ -332,6 +332,32 @@ h1 {
 .source-meta { color: var(--text-muted); font-size: 12px; }
 .source-excerpt { color: var(--text-secondary); font-size: 13px; font-style: italic; }
 
+/* Recurring topic badge */
+.tracking-badge {
+  display: inline-block;
+  background: var(--accent-light);
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 10px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+}
+
+/* NEW badge for sources */
+.source-new-badge {
+  display: inline-block;
+  background: var(--success-light);
+  color: var(--success);
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 4px;
+  margin-left: 6px;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+
 /* Collapsible */
 .collapsible-trigger {
   width: 100%; text-align: left; background: none; border: none;
@@ -401,6 +427,7 @@ h1 {
       <div data-content="zh">
         <div class="hero-body">
           <div class="hero-content">
+            {{tracking_badge}}
             <h1>{{zh.title}}</h1>
             <p class="subtitle">{{zh.subtitle}}</p>
             <div class="tldr">{{zh.tldr}}</div>

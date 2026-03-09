@@ -1,0 +1,159 @@
+{
+  "slug": "iran-new-supreme-leader",
+  "title": "伊朗最高领袖首次父子交接",
+  "category": "国际",
+  "color": "#0891b2",
+  "template": "geo-explainer",
+  "sections": [
+    {
+      "type": "text",
+      "title": "局势概述",
+      "content": [
+        "2026年2月28日，伊朗最高领袖阿里·哈梅内伊在美以联合空袭中身亡，其母亲、妻子及一名姐妹同时遇难。这是伊朗伊斯兰共和国1979年建国以来首次最高领袖在战争中被外国军事行动击杀，伊朗随即进入最高权力真空状态。",
+        "3月8日，伊朗专家会议正式宣布56岁的穆杰塔巴·哈梅内伊为第3任最高领袖。穆杰塔巴是已故领袖的次子，长期深耕伊斯兰革命卫队（IRGC）体系，被视为强硬派核心人物。这是伊朗历史上首次出现最高领袖父子交接。",
+        "此次权力交接发生在伊朗与美国、以色列激烈军事冲突的背景下，专家会议以战时紧急为由加速了选举进程，整个过程从投票到宣布仅历时数日，引发国际社会对其合法性的广泛质疑。"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "各方立场对比",
+      "items": [
+        {
+          "label": "伊朗保守派/IRGC",
+          "position": "强力支持",
+          "detail": "伊斯兰革命卫队和武装力量第一时间宣誓效忠新领袖，议长加利巴夫称追随新领袖是「宗教和国家义务」"
+        },
+        {
+          "label": "伊朗改革派",
+          "position": "被边缘化",
+          "detail": "专家会议中反对穆杰塔巴的声音被限制发言时间，讨论被强行截断后即进入投票程序"
+        },
+        {
+          "label": "美国",
+          "position": "明确反对",
+          "detail": "特朗普称穆杰塔巴「不可接受」，警告「没有华盛顿的认可，谁当选都不会持久」"
+        },
+        {
+          "label": "以色列",
+          "position": "军事威慑",
+          "detail": "以色列军方此前警告任何继任者：「我们不会犹豫将你列为打击目标」"
+        },
+        {
+          "label": "拉里贾尼（国安会秘书）",
+          "position": "呼吁团结",
+          "detail": "最高国家安全委员会秘书拉里贾尼呼吁全国围绕新最高领袖团结一致"
+        }
+      ]
+    },
+    {
+      "type": "key-facts",
+      "title": "关键数据",
+      "items": [
+        {
+          "label": "穆杰塔巴年龄",
+          "value": "56岁",
+          "note": "1969年9月8日出生于马什哈德"
+        },
+        {
+          "label": "伊朗最高领袖序列",
+          "value": "第3任",
+          "note": "前两任分别为霍梅尼（1979-1989）和阿里·哈梅内伊（1989-2026）"
+        },
+        {
+          "label": "专家会议规模",
+          "value": "88名成员",
+          "note": "宪法第111条规定由专家会议选举、监督和罢免最高领袖"
+        },
+        {
+          "label": "从身亡到宣布继任",
+          "value": "8天",
+          "note": "2月28日哈梅内伊遇袭身亡，3月8日宣布穆杰塔巴当选"
+        },
+        {
+          "label": "美国制裁时间",
+          "value": "2019年11月4日",
+          "note": "美国财政部以参与国内外镇压为由将穆杰塔巴列入制裁名单"
+        },
+        {
+          "label": "海外资产网络",
+          "value": "伦敦、迪拜等地",
+          "note": "据报道穆杰塔巴控制大量海外房产及银行资产，涉及航运和酒店业"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "事件发展脉络",
+      "items": [
+        {
+          "date": "2026-02-28",
+          "title": "哈梅内伊遇袭身亡",
+          "description": "阿里·哈梅内伊在美以联合军事打击中身亡，伊朗最高权力出现真空"
+        },
+        {
+          "date": "2026-03-01",
+          "title": "继任者猜测升温",
+          "description": "多家媒体报道穆杰塔巴·哈梅内伊为最高领袖热门人选，其他候选人包括阿拉菲和哈桑·霍梅尼"
+        },
+        {
+          "date": "2026-03-03",
+          "title": "专家会议首轮线上投票",
+          "description": "专家会议以战时紧急为由启动线上选举，IRGC指挥官对成员施加「反复联系和心理政治压力」要求投票给穆杰塔巴"
+        },
+        {
+          "date": "2026-03-03",
+          "title": "美以空袭专家会议办公室",
+          "description": "投票完成后、计票结束前，美以军队轰炸了位于库姆的专家会议办公室"
+        },
+        {
+          "date": "2026-03-08",
+          "title": "穆杰塔巴正式就任",
+          "description": "专家会议宣布达成共识，穆杰塔巴·哈梅内伊成为伊朗第3任最高领袖，IRGC和武装力量随即宣誓效忠"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "影响评估",
+      "content": [
+        "穆杰塔巴的当选巩固了伊朗强硬派神权统治路线，向美国和以色列传递了明确的对抗信号。作为与IRGC深度绑定的人物，其执政将强化军事-宗教复合体对国家的控制，伊朗核政策和地区代理人战略短期内不会出现方向性转变。",
+        "此次权力交接的最大变量在于战争仍在持续。以色列已明确威胁将新领袖列为军事打击目标，而美国拒绝承认其合法性。伊朗伊斯兰共和国能否在持续军事压力下完成权力过渡并维持国内稳定，将成为中东局势的关键变量。"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/8/iran-names-khameneis-son-as-new-supreme-leader-after-fathers-killing-2"
+    },
+    {
+      "name": "Wikipedia - 2026 Iranian Supreme Leader election",
+      "url": "https://en.wikipedia.org/wiki/2026_Iranian_Supreme_Leader_election"
+    },
+    {
+      "name": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/03/08/iran-supreme-leader-ali-khamenei-son-mojtaba/"
+    },
+    {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/iran-supreme-leader-mojtaba-khamenei-rcna261645"
+    },
+    {
+      "name": "Iran International",
+      "url": "https://www.iranintl.com/en/202603030390"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/world/us-sanctioned-mojtaba-khamenei-named-irans-next-supreme-leader-after-fathers-death-reports"
+    },
+    {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/03/08/explainer-who-is-mojtaba-khamenei-and-how-did-he-succeed-his-father"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/2026/03/08/mojtaba-khamenei-iran-supreme-leader"
+    }
+  ],
+  "generatedAt": "2026-03-09T00:00:00.000Z"
+}

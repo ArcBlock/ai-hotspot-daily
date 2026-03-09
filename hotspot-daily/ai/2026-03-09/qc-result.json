@@ -1,17 +1,17 @@
 {
   "result": "PASS",
-  "checkedAt": "2026-03-09T01:57:56.298Z",
+  "checkedAt": "2026-03-09T01:08:13.481Z",
   "checks": {
     "sourceCount": {
       "pass": true,
-      "value": 5,
+      "value": 6,
       "required": 3
     },
     "actionCount": {
       "pass": true,
-      "value": 6,
+      "value": 9,
       "required": 3,
-      "message": "immediate(2) + thisWeek(2) + watchAndWait(2)"
+      "message": "immediate(3) + thisWeek(3) + watchAndWait(3)"
     },
     "riskCount": {
       "pass": true,
@@ -20,7 +20,7 @@
     },
     "conclusionTitle": {
       "pass": true,
-      "message": "zh(19字): \"AI Agent 直连 Google 办公套件...\" | en(7词): \"AI Agents Now Access Google Workspace Natively...\""
+      "message": "zh(20字): \"ChatGPT 用户大迁移重塑 AI 竞争格局...\" | en(6词): \"ChatGPT Exodus Reshapes AI Market Dynamics...\""
     },
     "subtitlePresent": {
       "pass": true,
@@ -31,7 +31,7 @@
     },
     "confidence": {
       "pass": true,
-      "value": 78,
+      "value": 95,
       "required": 60
     },
     "zhComplete": {
@@ -42,7 +42,7 @@
     },
     "slugValid": {
       "pass": true,
-      "value": "google-workspace-cli-mcp-ai-agents"
+      "value": "chatgpt-exodus-claude-surge"
     }
   },
   "bonuses": {

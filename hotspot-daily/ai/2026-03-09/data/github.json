@@ -1,0 +1,210 @@
+{
+  "source": "github",
+  "fetchedAt": "2026-03-09T00:56:58.941Z",
+  "items": [
+    {
+      "id": "gh-GoogleCloudPlatform-generative-ai",
+      "title": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "source": "github",
+      "category": "project",
+      "score": 14386,
+      "summary": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "forks": 3899,
+        "starsToday": 522,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-666ghj-MiroFish",
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "source": "github",
+      "category": "project",
+      "score": 6991,
+      "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "Python",
+        "forks": 768,
+        "starsToday": 1104,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-shadcn-ui-ui",
+      "title": "shadcn-ui/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "source": "github",
+      "category": "project",
+      "score": 108696,
+      "summary": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 8077,
+        "starsToday": 488,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-openclaw-openclaw",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "github",
+      "category": "project",
+      "score": 280576,
+      "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 53575,
+        "starsToday": 4603,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-toeverything-AFFiNE",
+      "title": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "source": "github",
+      "category": "project",
+      "score": 65229,
+      "summary": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 4554,
+        "starsToday": 533,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-Ed1s0nZ-CyberStrikeAI",
+      "title": "Ed1s0nZ/CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "source": "github",
+      "category": "project",
+      "score": 2259,
+      "summary": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "Go",
+        "forks": 389,
+        "starsToday": 244,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-shareAI-lab-learn-claude-code",
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "source": "github",
+      "category": "project",
+      "score": 23871,
+      "summary": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 4409,
+        "starsToday": 566,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-openai-skills",
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "source": "github",
+      "category": "project",
+      "score": 13231,
+      "summary": "Skills Catalog for Codex",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "Python",
+        "forks": 740,
+        "starsToday": 612,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-virattt-ai-hedge-fund",
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "source": "github",
+      "category": "project",
+      "score": 46822,
+      "summary": "An AI Hedge Fund Team",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "Python",
+        "forks": 8147,
+        "starsToday": 275,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-is-a-dev-register",
+      "title": "is-a-dev/register",
+      "url": "https://github.com/is-a-dev/register",
+      "source": "github",
+      "category": "project",
+      "score": 9790,
+      "summary": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "JavaScript",
+        "forks": 18768,
+        "starsToday": 10,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-teng-lin-notebooklm-py",
+      "title": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "source": "github",
+      "category": "project",
+      "score": 3737,
+      "summary": "Unofficial Python API for Google NotebookLM",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "Python",
+        "forks": 474,
+        "starsToday": 196,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-pbakaus-impeccable",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "github",
+      "category": "project",
+      "score": 1763,
+      "summary": "The design language that makes your AI harness better at design.",
+      "publishedAt": "2026-03-09T00:56:58.941Z",
+      "extra": {
+        "language": "JavaScript",
+        "forks": 75,
+        "starsToday": 443,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    }
+  ]
+}

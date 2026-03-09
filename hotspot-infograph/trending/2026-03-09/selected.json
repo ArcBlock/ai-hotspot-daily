@@ -1,0 +1,281 @@
+{
+  "hero": {
+    "id": "douyin-9",
+    "title": "哈梅内伊之子当选伊朗最高领袖",
+    "url": "https://www.douyin.com/search/%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B9%8B%E5%AD%90%E5%BD%93%E9%80%89%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96",
+    "source": "douyin",
+    "category": "国际",
+    "hotScore": 8428471,
+    "crossPlatformCount": 4,
+    "relatedSources": ["weibo", "baidu", "douyin", "bilibili"],
+    "mergedTitles": [
+      "哈梅内伊之子当选伊朗最高领袖",
+      "伊朗伊斯兰革命卫队：支持穆杰塔巴",
+      "伊朗革命卫队支持新任最高领袖"
+    ],
+    "scores": {
+      "popularity": 5,
+      "vizPotential": 4,
+      "freshness": 5,
+      "polarity": 5,
+      "diversity": 5,
+      "total": 4.75
+    },
+    "suggestedChartType": "timeline",
+    "rankReason": "伊朗最高领袖权力交接，4个平台同时上榜，今日凌晨刚爆发，全球关注度极高。可做伊朗最高领袖更迭时间线，从霍梅尼到哈梅内伊再到其子穆杰塔巴。"
+  },
+  "cards": [
+    {
+      "id": "baidu-2",
+      "title": "中传一口气砍掉16个本科专业",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E7%A0%8D%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "科技",
+      "hotScore": 7712824,
+      "crossPlatformCount": 2,
+      "relatedSources": ["baidu", "weibo"],
+      "mergedTitles": [
+        "中传一口气砍掉16个本科专业",
+        "中传砍掉翻译摄影等16个专业"
+      ],
+      "extra": {
+        "desc": "近日，全国政协委员、中国传媒大学党委书记廖祥忠表示：中国传媒大学一口气砍掉16个本科专业，因为未来是"人机分工时代"，教育变革迫在眉睫，课堂教学需进行彻底重构。"
+      },
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 5,
+        "freshness": 4,
+        "polarity": 5,
+        "diversity": 5,
+        "total": 4.25
+      },
+      "suggestedMiniChartType": "miniBar",
+      "rankReason": "AI时代高校专业大洗牌，砍掉翻译、摄影等16个专业引发热议。有明确数字（16个专业）可做柱状对比图，话题争议度极高。"
+    },
+    {
+      "id": "baidu-13",
+      "title": "国内成品油价格将迎4连涨",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E5%B0%86%E8%BF%8E4%E8%BF%9E%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "财经",
+      "hotScore": 6664962,
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "extra": {
+        "desc": "3月9日24时油价上调，国内成品油价格将迎来4连涨。92号汽油上调约0.39元/升，加满一箱50升汽油多花约20元。本轮为年内最大涨幅，预计上调幅度约500元/吨。"
+      },
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 5,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 4.20
+      },
+      "suggestedMiniChartType": "trend",
+      "rankReason": "今晚24时落地的油价调整，年内最大涨幅，有具体涨幅数据（0.39元/升、500元/吨、4连涨），与民生直接相关。"
+    },
+    {
+      "id": "weibo-4",
+      "title": "多家黄金品牌宣布调价",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E5%93%81%E7%89%8C%E5%AE%A3%E5%B8%83%E8%B0%83%E4%BB%B7",
+      "source": "weibo",
+      "category": "财经",
+      "hotScore": 412926,
+      "crossPlatformCount": 2,
+      "relatedSources": ["weibo", "bilibili"],
+      "extra": {
+        "desc": "金饰克价突破1600元，周大福1599元/克、老凤祥1587元/克、周生生1596元/克。部分品牌一口价产品预计涨幅15%-30%。",
+        "tag": "沸"
+      },
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 5,
+        "freshness": 4,
+        "polarity": 4,
+        "diversity": 3,
+        "total": 3.85
+      },
+      "suggestedMiniChartType": "bigNumber",
+      "rankReason": "金价持续飙升，多品牌集体调价，克价突破1600元。有具体品牌对比价格数据，民生关注度高。"
+    },
+    {
+      "id": "douyin-8",
+      "title": "BLG 3:1战胜JDG 夺LPL第一赛段冠军",
+      "url": "https://www.douyin.com/search/BLG%203%3A1%E6%88%98%E8%83%9CJDG",
+      "source": "douyin",
+      "category": "体育",
+      "hotScore": 8464883,
+      "crossPlatformCount": 2,
+      "relatedSources": ["douyin", "bilibili"],
+      "mergedTitles": [
+        "BLG 3:1战胜JDG",
+        "Bin不知道BFX从哪冒出来"
+      ],
+      "scores": {
+        "popularity": 3,
+        "vizPotential": 4,
+        "freshness": 5,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 4.00
+      },
+      "suggestedMiniChartType": "versus",
+      "rankReason": "LPL第一赛段决赛BLG 3:1击败JDG，Bin获FMVP。电竞赛事有明确比分和对抗数据，适合做VS对比图。"
+    },
+    {
+      "id": "baidu-8",
+      "title": "AI算力爆发带火变压器：工厂订单排到2027年",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%98%E5%8E%8B%E5%99%A8%E5%B7%A5%E5%8E%82%E5%B9%B2%E5%86%92%E7%83%9F%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "baidu",
+      "category": "科技",
+      "hotScore": 7139183,
+      "crossPlatformCount": 1,
+      "relatedSources": ["baidu"],
+      "extra": {
+        "desc": "AI算力爆发带火变压器，国内多地工厂满产、订单排至2027年。2025年中国变压器出口总值达6460亿元，同比增长近36%。美国市场交付周期从50周延长到127周。"
+      },
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 5,
+        "freshness": 3,
+        "polarity": 3,
+        "diversity": 4,
+        "total": 3.45
+      },
+      "suggestedMiniChartType": "trend",
+      "rankReason": "AI算力建设催生变压器行业超级景气周期，出口增长36%、订单排到2027年、美国交付周期127周，硬数据丰富。"
+    },
+    {
+      "id": "weibo-15",
+      "title": "胖东来每年利润50%发奖金",
+      "url": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%AF%8F%E5%B9%B4%E5%88%A9%E6%B6%A650%25%E5%8F%91%E5%A5%96%E9%87%91",
+      "source": "weibo",
+      "category": "社会",
+      "hotScore": 164217,
+      "crossPlatformCount": 1,
+      "relatedSources": ["weibo"],
+      "extra": {
+        "desc": "胖东来集团10194名员工，资产总额约37.93亿元。管理团队718人对应15.14亿元（39.9%），一线员工8913人对应18.11亿元（47.7%）。超82%员工投票拒绝"降薪增假"。"
+      },
+      "scores": {
+        "popularity": 2,
+        "vizPotential": 5,
+        "freshness": 4,
+        "polarity": 4,
+        "diversity": 5,
+        "total": 3.75
+      },
+      "suggestedMiniChartType": "progress",
+      "rankReason": "胖东来资产分配方案引发全网羡慕，37.93亿资产分配给万名员工，有具体比例和金额数据，适合做比例进度条。"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "douyin-9",
+      "title": "哈梅内伊之子当选伊朗最高领袖",
+      "category": "国际",
+      "scores": { "popularity": 5, "vizPotential": 4, "freshness": 5, "polarity": 5, "diversity": 5, "total": 4.75 },
+      "rankReason": "4平台上榜，今日凌晨爆发，全球关注的权力交接事件"
+    },
+    {
+      "id": "baidu-2",
+      "title": "中传一口气砍掉16个本科专业",
+      "category": "科技",
+      "scores": { "popularity": 3, "vizPotential": 5, "freshness": 4, "polarity": 5, "diversity": 5, "total": 4.25 },
+      "rankReason": "AI时代教育变革标志性事件，争议极大，数据可视化潜力高"
+    },
+    {
+      "id": "baidu-13",
+      "title": "国内成品油价格将迎4连涨",
+      "category": "财经",
+      "scores": { "popularity": 3, "vizPotential": 5, "freshness": 5, "polarity": 4, "diversity": 5, "total": 4.20 },
+      "rankReason": "今晚落地的油价调整，年内最大涨幅，民生直接相关"
+    },
+    {
+      "id": "douyin-8",
+      "title": "BLG 3:1战胜JDG 夺LPL第一赛段冠军",
+      "category": "体育",
+      "scores": { "popularity": 3, "vizPotential": 4, "freshness": 5, "polarity": 4, "diversity": 5, "total": 4.00 },
+      "rankReason": "LPL第一赛段决赛刚结束，电竞热门赛事"
+    },
+    {
+      "id": "weibo-4",
+      "title": "多家黄金品牌宣布调价",
+      "category": "财经",
+      "scores": { "popularity": 3, "vizPotential": 5, "freshness": 4, "polarity": 4, "diversity": 3, "total": 3.85 },
+      "rankReason": "金饰克价突破1600元，多品牌集体调价"
+    },
+    {
+      "id": "weibo-15",
+      "title": "胖东来每年利润50%发奖金",
+      "category": "社会",
+      "scores": { "popularity": 2, "vizPotential": 5, "freshness": 4, "polarity": 4, "diversity": 5, "total": 3.75 },
+      "rankReason": "胖东来37.93亿资产分配方案曝光，万人投票结果引热议"
+    },
+    {
+      "id": "douyin-0",
+      "title": "王毅两会记者会外交发言",
+      "category": "国际",
+      "scores": { "popularity": 4, "vizPotential": 2, "freshness": 4, "polarity": 4, "diversity": 2, "total": 3.30 },
+      "rankReason": "王毅谈特朗普访华、台湾问题、向日本灵魂4问，多角度外交表态但可视化数据少"
+    },
+    {
+      "id": "baidu-18",
+      "title": "109、110两艘万吨大驱亮相",
+      "category": "军事",
+      "scores": { "popularity": 4, "vizPotential": 3, "freshness": 3, "polarity": 3, "diversity": 3, "total": 3.30 },
+      "rankReason": "055型驱逐舰家族壮大，3平台上榜，但可视化数据有限"
+    },
+    {
+      "id": "baidu-8",
+      "title": "AI算力爆发带火变压器",
+      "category": "科技",
+      "scores": { "popularity": 2, "vizPotential": 5, "freshness": 3, "polarity": 3, "diversity": 4, "total": 3.45 },
+      "rankReason": "出口增长36%、订单排到2027年，硬数据丰富"
+    },
+    {
+      "id": "baidu-14",
+      "title": "伊朗军事冲突升级（美以袭击+军舰被击沉）",
+      "category": "国际",
+      "scores": { "popularity": 3, "vizPotential": 3, "freshness": 4, "polarity": 5, "diversity": 1, "total": 3.25 },
+      "rankReason": "伊朗储油设施遭袭、军舰被击沉致104人死亡，多条热搜但与hero话题领域重叠"
+    },
+    {
+      "id": "weibo-12",
+      "title": "逐玉爆火出圈",
+      "category": "娱乐",
+      "scores": { "popularity": 3, "vizPotential": 2, "freshness": 4, "polarity": 3, "diversity": 4, "total": 3.05 },
+      "rankReason": "电视剧逐玉多条热搜上榜，但可视化数据较少"
+    },
+    {
+      "id": "baidu-9",
+      "title": "从海底一万米到距地球4300万公里",
+      "category": "科技",
+      "scores": { "popularity": 4, "vizPotential": 3, "freshness": 3, "polarity": 2, "diversity": 2, "total": 3.00 },
+      "rankReason": "中国科技探索成就，3平台上榜，但偏宣传性质"
+    },
+    {
+      "id": "douyin-11",
+      "title": "中国女篮85:51大胜捷克",
+      "category": "体育",
+      "scores": { "popularity": 2, "vizPotential": 4, "freshness": 4, "polarity": 3, "diversity": 2, "total": 3.00 },
+      "rankReason": "世界杯资格赛前热身赛大胜，34分分差，有比赛数据但与BLG赛事同为体育领域"
+    },
+    {
+      "id": "baidu-16",
+      "title": "武大食堂4元熬夜水走红",
+      "category": "生活",
+      "scores": { "popularity": 3, "vizPotential": 2, "freshness": 3, "polarity": 3, "diversity": 4, "total": 2.90 },
+      "rankReason": "有趣的生活话题，2平台上榜，但数据化潜力有限"
+    },
+    {
+      "id": "baidu-10",
+      "title": "全国人大第二次全体会议",
+      "category": "社会",
+      "scores": { "popularity": 3, "vizPotential": 2, "freshness": 3, "polarity": 2, "diversity": 2, "total": 2.55 },
+      "rankReason": "两会常规议程报道，2平台上榜，可视化潜力低"
+    }
+  ],
+  "rankedAt": "2026-03-09T14:30:00+08:00"
+}

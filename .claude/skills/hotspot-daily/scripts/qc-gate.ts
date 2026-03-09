@@ -22,6 +22,12 @@ interface PageMeta {
   confidence: number;
   sourceCount: number;
   language: string;
+  previousCoverage?: {
+    dates: string[];
+    latestPagePath: string;
+    latestTitle: string;
+    coveredSources: string[];
+  };
 }
 
 interface Source {
@@ -31,6 +37,7 @@ interface Source {
   tier: string;
   excerpt: string;
   publishedAt: string;
+  isNew?: boolean;
 }
 
 interface Risk {
@@ -284,6 +291,20 @@ function runQCChecks(data: PageData): QCResult {
   };
   if (!checks.slugValid.pass) {
     failReasons.push(`slugValid: slug 格式不正确 "${data.meta.slug}" (仅允许小写字母、数字和连字符)`);
+  }
+
+  // Required Check 10: incrementSufficiency (only when previousCoverage exists)
+  if (data.meta.previousCoverage) {
+    const newSourceCount = data.zh.sources.filter(s => s.isNew === true).length;
+    checks.incrementSufficiency = {
+      pass: newSourceCount >= 2,
+      value: newSourceCount,
+      required: 2,
+      message: `recurring topic (prev: ${data.meta.previousCoverage.dates.join(", ")}), new sources: ${newSourceCount}`
+    };
+    if (!checks.incrementSufficiency.pass) {
+      failReasons.push(`incrementSufficiency: 持续话题需要至少 2 个新来源，实际 ${newSourceCount}`);
+    }
   }
 
   // Bonus checks (不影响 PASS/FAIL)

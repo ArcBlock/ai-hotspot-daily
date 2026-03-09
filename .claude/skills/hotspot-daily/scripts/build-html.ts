@@ -64,6 +64,7 @@ interface Source {
   tier: "official" | "media" | "community" | string;
   excerpt: string;
   publishedAt: string;
+  isNew?: boolean;
 }
 
 interface LangContent {
@@ -88,6 +89,12 @@ interface PageMeta {
   confidence: number;
   sourceCount: number;
   language: string;
+  previousCoverage?: {
+    dates: string[];
+    latestPagePath: string;
+    latestTitle: string;
+    coveredSources: string[];
+  };
 }
 
 interface PageJson {
@@ -345,12 +352,13 @@ function renderSources(sources: Source[]): string {
         ? `<a href="${escapeAttr(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.title)}</a>`
         : escapeHtml(s.title);
       const officialBadge = s.tier === "official" ? " (Official)" : "";
+      const newBadge = s.isNew === true ? '<span class="source-new-badge">NEW</span>' : "";
       const excerptHtml = s.excerpt
         ? `<div class="source-excerpt">${escapeHtml(s.excerpt)}</div>`
         : "";
 
       return `<div class="source-item">
-<div class="source-title">${titleHtml}${officialBadge}</div>
+<div class="source-title">${titleHtml}${officialBadge}${newBadge}</div>
 <div class="source-meta">${escapeHtml(s.publisher)} &middot; ${escapeHtml(s.publishedAt || "")}</div>
 ${excerptHtml}
 </div>`;
@@ -504,6 +512,11 @@ async function main() {
     // Conditional sections
     "{{metrics_section}}": renderMetricsSection(page.zh, page.en),
     "{{options_section}}": renderOptionsSection(page.zh, page.en),
+
+    // Tracking badge for recurring topics
+    "{{tracking_badge}}": page.meta.previousCoverage
+      ? `<div data-content="zh"><span class="tracking-badge">持续追踪</span></div><div data-content="en"><span class="tracking-badge">Ongoing Story</span></div>`
+      : "",
   };
 
   // OG meta tag values need attribute escaping (already done via escapeAttr for tldr_short)
