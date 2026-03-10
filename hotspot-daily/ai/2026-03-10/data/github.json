@@ -1,0 +1,210 @@
+{
+  "source": "github",
+  "fetchedAt": "2026-03-10T02:06:37.867Z",
+  "items": [
+    {
+      "id": "gh-GoogleCloudPlatform-generative-ai",
+      "title": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "source": "github",
+      "category": "project",
+      "score": 15313,
+      "summary": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "forks": 3964,
+        "starsToday": 1282,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-openclaw-openclaw",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "github",
+      "category": "project",
+      "score": 290783,
+      "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 55114,
+        "starsToday": 9164,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-666ghj-MiroFish",
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "source": "github",
+      "category": "project",
+      "score": 11152,
+      "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "Python",
+        "forks": 1160,
+        "starsToday": 2294,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-karpathy-nanochat",
+      "title": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "source": "github",
+      "category": "project",
+      "score": 45562,
+      "summary": "The best ChatGPT that $100 can buy.",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "Python",
+        "forks": 6022,
+        "starsToday": 355,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-666ghj-BettaFish",
+      "title": "666ghj/BettaFish",
+      "url": "https://github.com/666ghj/BettaFish",
+      "source": "github",
+      "category": "project",
+      "score": 37397,
+      "summary": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "Python",
+        "forks": 7043,
+        "starsToday": 514,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-NousResearch-hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github",
+      "category": "project",
+      "score": 2999,
+      "summary": "The agent that grows with you",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "Python",
+        "forks": 408,
+        "starsToday": 377,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-pbakaus-impeccable",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "github",
+      "category": "project",
+      "score": 3015,
+      "summary": "The design language that makes your AI harness better at design.",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "JavaScript",
+        "forks": 110,
+        "starsToday": 1288,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-msitarzewski-agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "github",
+      "category": "project",
+      "score": 19576,
+      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "Shell",
+        "forks": 3041,
+        "starsToday": 4415,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-alibaba-page-agent",
+      "title": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "source": "github",
+      "category": "project",
+      "score": 2635,
+      "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "TypeScript",
+        "forks": 206,
+        "starsToday": 465,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-alirezarezvani-claude-skills",
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "source": "github",
+      "category": "project",
+      "score": 3402,
+      "summary": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "Python",
+        "forks": 406,
+        "starsToday": 259,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-Raphire-Win11Debloat",
+      "title": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "source": "github",
+      "category": "project",
+      "score": 41242,
+      "summary": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "PowerShell",
+        "forks": 1602,
+        "starsToday": 104,
+        "aiRelated": false,
+        "trending": "daily"
+      }
+    },
+    {
+      "id": "gh-teng-lin-notebooklm-py",
+      "title": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "source": "github",
+      "category": "project",
+      "score": 4266,
+      "summary": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "extra": {
+        "language": "Python",
+        "forks": 527,
+        "starsToday": 457,
+        "aiRelated": true,
+        "trending": "daily"
+      }
+    }
+  ]
+}

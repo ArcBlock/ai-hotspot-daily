@@ -1,0 +1,55 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-03-10T02:19:07.921Z",
+  "checks": {
+    "sourceCount": {
+      "pass": true,
+      "value": 4,
+      "required": 3
+    },
+    "actionCount": {
+      "pass": true,
+      "value": 6,
+      "required": 3,
+      "message": "immediate(2) + thisWeek(2) + watchAndWait(2)"
+    },
+    "riskCount": {
+      "pass": true,
+      "value": 3,
+      "required": 2
+    },
+    "conclusionTitle": {
+      "pass": true,
+      "message": "zh(10字): \"AI 代码需要 AI 来审...\" | en(10词): \"Claude Code Review Ships: AI-Generated Code Now Ge...\""
+    },
+    "subtitlePresent": {
+      "pass": true,
+      "value": {
+        "zh": true,
+        "en": true
+      }
+    },
+    "confidence": {
+      "pass": true,
+      "value": 77,
+      "required": 60
+    },
+    "zhComplete": {
+      "pass": true
+    },
+    "enComplete": {
+      "pass": true
+    },
+    "slugValid": {
+      "pass": true,
+      "value": "claude-code-review-multi-agent"
+    }
+  },
+  "bonuses": {
+    "hasOptions": true,
+    "hasTldr": true,
+    "hasAffectedGroups": true,
+    "sourceDiversity": true
+  },
+  "failReasons": []
+}

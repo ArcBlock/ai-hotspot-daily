@@ -1,0 +1,433 @@
+{
+  "primary": {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100624",
+    "title": "Anthropic launches code review tool to check flood of AI-generated code",
+    "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code",
+    "publishedAt": "Mon, 09 Mar 2026 19:41:34 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 67,
+    "scores": {
+      "timeliness": 4,
+      "impact": 4,
+      "actionability": 5,
+      "credibility": 5,
+      "audienceMatch": 5,
+      "total": 4.50
+    },
+    "rankReason": "Anthropic 发布 Claude Code Review 多智能体代码审查工具，直接面向开发者日常工作流，可立即集成 GitHub PR 审查，可行动性和受众匹配度极高"
+  },
+  "alternates": [
+    {
+      "id": "websearch-1773108627-6",
+      "title": "微软推出Copilot Wave 3及月费99美元AI软件套装",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019030lrm.html?from=tech",
+      "source": "websearch",
+      "sourceType": "websearch",
+      "summary": "微软发布Copilot Wave 3更新，推出月费99美元的AI办公软件全家桶，深度整合AI能力至Office生态。",
+      "publishedAt": "2026-03-09T23:00:00Z",
+      "rawScore": 0,
+      "category": "release",
+      "prerankScore": 53,
+      "scores": {
+        "timeliness": 4,
+        "impact": 5,
+        "actionability": 4,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.35
+      },
+      "rankReason": "微软发布 M365 E7 Frontier Suite（$99/用户/月），Copilot Wave 3 嵌入 Word/Excel/Outlook，Claude 模型正式入驻 Copilot，影响面覆盖全球企业用户"
+    },
+    {
+      "id": "gh-teng-lin-notebooklm-py",
+      "title": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "source": "github",
+      "sourceType": "script",
+      "summary": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl",
+      "publishedAt": "2026-03-10T02:06:37.867Z",
+      "rawScore": 4266,
+      "category": "project",
+      "starsToday": 457,
+      "prerankScore": 83,
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 5,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.75
+      },
+      "rankReason": "NotebookLM 非官方 Python API 支持程序化访问所有功能（含 Web UI 未暴露的能力），可行动性极高，今日 457 星飙升，但基于非官方 API 可信度受限"
+    }
+  ],
+  "allRanked": [
+    {
+      "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100624",
+      "title": "Anthropic launches code review tool to check flood of AI-generated code",
+      "source": "rss",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 5,
+        "credibility": 5,
+        "audienceMatch": 5,
+        "total": 4.50
+      },
+      "rankReason": "Anthropic 发布 Claude Code Review 多智能体代码审查工具，直接面向开发者日常工作流，可立即集成 GitHub PR 审查，可行动性和受众匹配度极高"
+    },
+    {
+      "id": "websearch-1773108627-6",
+      "title": "微软推出Copilot Wave 3及月费99美元AI软件套装",
+      "source": "websearch",
+      "scores": {
+        "timeliness": 4,
+        "impact": 5,
+        "actionability": 4,
+        "credibility": 5,
+        "audienceMatch": 4,
+        "total": 4.35
+      },
+      "rankReason": "微软发布 M365 E7 Frontier Suite（$99/用户/月），Copilot Wave 3 嵌入 Word/Excel/Outlook，Claude 模型正式入驻 Copilot，影响面覆盖全球企业用户"
+    },
+    {
+      "id": "gh-teng-lin-notebooklm-py",
+      "title": "teng-lin/notebooklm-py",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 5,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.75
+      },
+      "rankReason": "NotebookLM 非官方 Python API 支持程序化访问所有功能（含 Web UI 未暴露的能力），可行动性极高，今日 457 星飙升，但基于非官方 API 可信度受限"
+    },
+    {
+      "id": "gh-alibaba-page-agent",
+      "title": "alibaba/page-agent",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.70
+      },
+      "rankReason": "阿里开源 in-page GUI Agent，用自然语言控制网页界面，MIT 协议，适合自动化测试和 RPA 场景，但功能相对垂直"
+    },
+    {
+      "id": "rss-Wired-AI-69aa096639c55d5733bbae8c",
+      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+      "source": "rss",
+      "scores": {
+        "timeliness": 4,
+        "impact": 4,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 4,
+        "total": 3.70
+      },
+      "rankReason": "Nvidia 在 GTC 前夕披露开源 AI Agent 平台 NemoClaw，与 Salesforce/Google 等合作，但目前仅为预告，尚未正式发布"
+    },
+    {
+      "id": "gh-msitarzewski-agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.55
+      },
+      "rankReason": "AI Agency 专家 Agent 集合今日 4415 星暴增，但已于 03-06 入选过备选，内容重复",
+      "previousCoverage": {
+        "dates": ["2026-03-06"],
+        "latestPagePath": "hotspot-daily/ai/2026-03-06/selected.json",
+        "latestTitle": "msitarzewski/agency-agents",
+        "coveredSources": ["github"]
+      }
+    },
+    {
+      "id": "gh-GoogleCloudPlatform-generative-ai",
+      "title": "GoogleCloudPlatform/generative-ai",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 3.35
+      },
+      "rankReason": "Google Cloud 官方生成式 AI 示例代码仓库，今日 1282 星，但属于持续更新的示例集，非重大新发布"
+    },
+    {
+      "id": "gh-alirezarezvani-claude-skills",
+      "title": "alirezarezvani/claude-skills",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 4,
+        "credibility": 2,
+        "audienceMatch": 4,
+        "total": 3.10
+      },
+      "rankReason": "169 个 Claude Code 插件合集，社区驱动，可行动性强但缺乏权威背书"
+    },
+    {
+      "id": "gh-karpathy-nanochat",
+      "title": "karpathy/nanochat",
+      "source": "github",
+      "scores": {
+        "timeliness": 2,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.95
+      },
+      "rankReason": "Karpathy 的 nanochat 是优质教育项目（$100 训 LLM），但发布于 1 月，非今日新事件"
+    },
+    {
+      "id": "gh-NousResearch-hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "NousResearch 开源 Hermes Agent 框架，受众匹配但影响力和可信度不如头部项目"
+    },
+    {
+      "id": "gh-666ghj-BettaFish",
+      "title": "666ghj/BettaFish",
+      "source": "github",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 2,
+        "audienceMatch": 2,
+        "total": 2.60
+      },
+      "rankReason": "多 Agent 舆情分析助手，面向中文市场，但受众偏窄、国际影响有限"
+    },
+    {
+      "id": "qbitai-打败GPT-5-2-嵌入真实工业生产-这个大模型什么来头-",
+      "title": "打败GPT-5.2，嵌入真实工业生产，这个大模型什么来头？",
+      "source": "quantumbit",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.60
+      },
+      "rankReason": "量子位报道的工业大模型声称打败 GPT-5.2，但标题党成分较高，缺乏独立验证"
+    },
+    {
+      "id": "qbitai-龙虾最大痛点被官方插件升级-对话永不忘记-GPT和Gemin",
+      "title": "龙虾最大痛点被官方插件升级！对话永不忘记，GPT和Gemini最强模型都可接入",
+      "source": "quantumbit",
+      "scores": {
+        "timeliness": 3,
+        "impact": 2,
+        "actionability": 3,
+        "credibility": 2,
+        "audienceMatch": 3,
+        "total": 2.55
+      },
+      "rankReason": "Lobster（龙虾）对话记忆插件升级，功能实用但影响面有限"
+    },
+    {
+      "id": "alphaxiv-2603.06577",
+      "title": "Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion",
+      "source": "alphaxiv",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.55
+      },
+      "rankReason": "统一多模态理解与生成的学术论文，技术前沿但短期可行动性低"
+    },
+    {
+      "id": "hn-47310160",
+      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "source": "hackernews",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 4,
+        "audienceMatch": 3,
+        "total": 2.85
+      },
+      "rankReason": "AI 与 copyleft 版权的法律讨论在 HN 热度高（375 评论），但偏法律视角，可行动性低"
+    },
+    {
+      "id": "rss-Dev-to-AI-https---dev-to-ji-ai-gateun-jilmun-modelman-baggweossdeoni-biyongi-45bae-cai-nassda-to",
+      "title": "같은 질문, 모델만 바꿨더니 비용이 45배 차이 났다 — Token Economics 실전 가이드",
+      "source": "rss",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 4,
+        "credibility": 2,
+        "audienceMatch": 4,
+        "total": 3.40
+      },
+      "rankReason": "LLM Token 经济学实战指南，可行动性强，但来自 Dev.to 个人博客，可信度偏低"
+    },
+    {
+      "id": "websearch-1773108627-0",
+      "title": "OpenAI Hardware Chief Exits Over Military AI Partnership Concerns",
+      "source": "mcp-opennews",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 1,
+        "credibility": 2,
+        "audienceMatch": 2,
+        "total": 2.35
+      },
+      "rankReason": "OpenAI 机器人负责人离职事件已于 03-08 被覆盖过，且可行动性低",
+      "previousCoverage": {
+        "dates": ["2026-03-08"],
+        "latestPagePath": "hotspot-daily/ai/2026-03-08/selected.json",
+        "latestTitle": "OpenAI机器人负责人因五角大楼合作协议辞职",
+        "coveredSources": ["mcp-opennews"]
+      }
+    },
+    {
+      "id": "replicate-google-gemini-3-flash",
+      "title": "google/gemini-3-flash",
+      "source": "replicate",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "Gemini 3 Flash 上线 Replicate 方便开发者试用，但非首发新闻"
+    },
+    {
+      "id": "qbitai-卡帕西开源Agent自进化训练框架-5分钟一轮实验-48h内",
+      "title": "卡帕西开源Agent自进化训练框架，5分钟一轮实验，48h内揽星9.5k",
+      "source": "quantumbit",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 4,
+        "total": 3.10
+      },
+      "rankReason": "Karpathy 的 autoresearch 框架报道，可行动性不错但时效偏低（03-09 量子位转述）"
+    },
+    {
+      "id": "alphasignal-research-finds-one-bad-actor-inside-a-group-of-ai-",
+      "title": "Research finds one bad actor inside a group of AI agents is enough to collapse the whole network",
+      "source": "alphasignal",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 2.70
+      },
+      "rankReason": "多 Agent 系统中单一恶意 Agent 可瓦解整个网络的研究，有警示意义但可行动性低"
+    },
+    {
+      "id": "websearch-1773108627-4",
+      "title": "Google Gemini 3.1 Pro Unveiled as Most Advanced Thinking Model",
+      "source": "websearch",
+      "scores": {
+        "timeliness": 3,
+        "impact": 4,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 3.15
+      },
+      "rankReason": "Gemini 3.1 Pro 发布是重要事件，但并非今日新闻，时效性打折"
+    },
+    {
+      "id": "dlm-Latent-Thinking-Optimization-",
+      "title": "Latent Thinking Optimization",
+      "source": "deep-learning-monitor",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 1,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.20
+      },
+      "rankReason": "潜在思维优化论文，纯学术研究，对目标受众可行动性极低"
+    },
+    {
+      "id": "dlm-OCR-Agent-Agentic-OCR-with-Ca",
+      "title": "OCR-Agent: Agentic OCR with Capability and Memory Reflection",
+      "source": "deep-learning-monitor",
+      "scores": {
+        "timeliness": 4,
+        "impact": 2,
+        "actionability": 2,
+        "credibility": 3,
+        "audienceMatch": 2,
+        "total": 2.45
+      },
+      "rankReason": "Agentic OCR 论文，有一定应用前景但距离实际可用有距离"
+    },
+    {
+      "id": "websearch-1773108627-1",
+      "title": "Rogue AI Agent Linked to Alibaba Reportedly Seized GPUs for Covert Cryptocurrency Mining",
+      "source": "mcp-opennews",
+      "scores": {
+        "timeliness": 4,
+        "impact": 3,
+        "actionability": 2,
+        "credibility": 1,
+        "audienceMatch": 2,
+        "total": 2.45
+      },
+      "rankReason": "恶意 AI Agent 劫持 GPU 挖矿的报道有话题性，但来源可信度存疑"
+    },
+    {
+      "id": "ph-phi-4-reasoning-vision",
+      "title": "Phi-4-reasoning-vision",
+      "source": "product-hunt",
+      "scores": {
+        "timeliness": 3,
+        "impact": 3,
+        "actionability": 3,
+        "credibility": 3,
+        "audienceMatch": 3,
+        "total": 2.90
+      },
+      "rankReason": "微软 Phi-4 开放权重多模态推理模型，15B 参数适合边缘部署，但非今日新品"
+    }
+  ],
+  "rankedAt": "2026-03-10T03:00:00.000Z"
+}

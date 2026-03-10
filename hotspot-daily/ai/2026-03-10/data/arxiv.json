@@ -1,0 +1,230 @@
+{
+  "source": "arxiv",
+  "fetchedAt": "2026-03-10T02:06:34.962Z",
+  "items": [
+    {
+      "id": "arxiv-2603.08211v1",
+      "title": "Revisiting Gradient Staleness: Evaluating Distance Metrics for Asynchronous Federated Learning Aggregation",
+      "url": "https://arxiv.org/pdf/2603.08211v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "In asynchronous federated learning (FL), client devices send updates to a central server at varying times based on their computational speed, often using stale versions of the global model. This staleness can degrade the convergence and accuracy of the global model. Previous work, such as AsyncFedED, proposed an adaptive aggregation method using Euclidean distance to measure staleness. In this paper, we extend this approach by exploring alternative distance metrics to more accurately capture the...",
+      "publishedAt": "2026-03-09T10:40:25Z",
+      "extra": {
+        "authors": "Patrick Wilhelm, Odej Kao",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2603.08211v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08208v1",
+      "title": "Alignment-Aware and Reliability-Gated Multimodal Fusion for Unmanned Aerial Vehicle Detection Across Heterogeneous Thermal-Visual Sensors",
+      "url": "https://arxiv.org/pdf/2603.08208v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Reliable unmanned aerial vehicle (UAV) detection is critical for autonomous airspace monitoring but remains challenging when integrating sensor streams that differ substantially in resolution, perspective, and field of view. Conventional fusion methods-such as wavelet-, Laplacian-, and decision-level approaches-often fail to preserve spatial correspondence across modalities and suffer from annotation of inconsistencies, limiting their robustness in real-world settings. This study introduces two ...",
+      "publishedAt": "2026-03-09T10:39:26Z",
+      "extra": {
+        "authors": "Ishrat Jahan, Molla E Majid, M Murugappan, Muhammad E. H. Chowdhury, N. B. Prakash, Saad Bin Abul Kashem, Balamurugan Balusamy, Amith Khandakar",
+        "primaryCategory": "cs.CV",
+        "arxivId": "2603.08208v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08206v1",
+      "title": "Distributional Regression with Tabular Foundation Models: Evaluating Probabilistic Predictions via Proper Scoring Rules",
+      "url": "https://arxiv.org/pdf/2603.08206v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Prior-Data Fitted Networks (PFNs), such as TabPFN and TabICL, have revolutionized tabular deep learning by leveraging in-context learning for tabular data. These models are meant as foundation models for classification and regression settings and promise to greatly simplify deployment in practical settings because their performance is unprecedented (in terms of mean squared error or $R^2$, when measured on common benchmarks like TabArena or TALENT). However, we see an important weakness of curre...",
+      "publishedAt": "2026-03-09T10:38:01Z",
+      "extra": {
+        "authors": "Jonas Landsgesell, Pascal Knoll",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2603.08206v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08202v1",
+      "title": "MM-TS: Multi-Modal Temperature and Margin Schedules for Contrastive Learning with Long-Tail Data",
+      "url": "https://arxiv.org/pdf/2603.08202v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Contrastive learning has become a fundamental approach in both uni-modal and multi-modal frameworks. This learning paradigm pulls positive pairs of samples closer while pushing negatives apart. In the uni-modal setting (e.g., image-based learning), previous research has shown that the strength of these forces can be controlled through the temperature parameter. In this work, we propose Multi-Modal Temperature and Margin Schedules (MM-TS), extending the concept of uni-modal temperature scheduling...",
+      "publishedAt": "2026-03-09T10:29:50Z",
+      "extra": {
+        "authors": "Siarhei Sheludzko, Dhimitrios Duka, Bernt Schiele, Hilde Kuehne, Anna Kukleva",
+        "primaryCategory": "cs.CV",
+        "arxivId": "2603.08202v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08182v1",
+      "title": "TildeOpen LLM: Leveraging Curriculum Learning to Achieve Equitable Language Representation",
+      "url": "https://arxiv.org/pdf/2603.08182v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Large language models often underperform in many European languages due to the dominance of English and a few high-resource languages in training data. This paper presents TildeOpen LLM, a 30-billion-parameter open-weight foundational model trained for 34 European languages to promote linguistic equity and improve performance for low-resource languages. To address the data imbalance, we combine dataset upsampling with a curriculum-based training schedule that alternates between uniform and natur...",
+      "publishedAt": "2026-03-09T10:03:17Z",
+      "extra": {
+        "authors": "Toms Bergmanis, Martins Kronis, Ingus Jānis Pretkalniņš, Dāvis Nicmanis, Jeļizaveta Jeļinska, Roberts Rozis, Rinalds Vīksna, Mārcis Pinnis",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2603.08182v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08179v1",
+      "title": "Privacy-Preserving End-to-End Full-Duplex Speech Dialogue Models",
+      "url": "https://arxiv.org/pdf/2603.08179v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "End-to-end full-duplex speech models feed user audio through an always-on LLM backbone, yet the speaker privacy implications of their hidden representations remain unexamined. Following the VoicePrivacy 2024 protocol with a lazy-informed attacker, we show that the hidden states of SALM-Duplex and Moshi leak substantial speaker identity across all transformer layers. Layer-wise and turn-wise analyses reveal that leakage persists across all layers, with SALM-Duplex showing stronger leakage in earl...",
+      "publishedAt": "2026-03-09T10:01:24Z",
+      "extra": {
+        "authors": "Nikita Kuzmin, Tao Zhong, Jiajun Deng, Yingke Zhu, Tristan Tsoi, Tianxiang Cao, Simon Lui, Kong Aik Lee, Eng Siong Chng",
+        "primaryCategory": "eess.AS",
+        "arxivId": "2603.08179v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08177v1",
+      "title": "Is continuous CoT better suited for multi-lingual reasoning?",
+      "url": "https://arxiv.org/pdf/2603.08177v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "We investigate whether performing reasoning in a continuous latent space leads to more robust multilingual capabilities. We compare Continuous Chain-of-Thought (using the CODI framework) against standard supervised fine-tuning across five typologically diverse languages: English, Chinese, German, French, and Urdu. Our experiments on GSM8k and CommonsenseQA demonstrate that continuous reasoning significantly outperforms explicit reasoning on low-resource languages, particularly in zero-shot setti...",
+      "publishedAt": "2026-03-09T09:57:08Z",
+      "extra": {
+        "authors": "Ali Hamza Bashir, Behzad Shomali, Markus Frey, Mehdi Ali, Rafet Sifa, David Berghaus",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2603.08177v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08207v1",
+      "title": "The Conundrum of Trustworthy Research on Attacking Personally Identifiable Information Removal Techniques",
+      "url": "https://arxiv.org/pdf/2603.08207v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Removing personally identifiable information (PII) from texts is necessary to comply with various data protection regulations and to enable data sharing without compromising privacy. However, recent works show that documents sanitized by PII removal techniques are vulnerable to reconstruction attacks. Yet, we suspect that the reported success of these attacks is largely overestimated. We critically analyze the evaluation of existing attacks and find that data leakage and data contamination are n...",
+      "publishedAt": "2026-03-09T10:38:43Z",
+      "extra": {
+        "authors": "Sebastian Ochs, Ivan Habernal",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2603.08207v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08195v1",
+      "title": "Supporting Workflow Reproducibility by Linking Bioinformatics Tools across Papers and Executable Code",
+      "url": "https://arxiv.org/pdf/2603.08195v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Motivation: The rapid growth of biological data has intensified the need for transparent, reproducible, and well-documented computational workflows. The ability to clearly connect the steps of a workflow in the code with their description in a paper would improve workflow understanding, support reproducibility, and facilitate reuse. This task requires the linking of Bioinformatics tools in workflow code with their mentions in a published workflow description. Results: We present CoPaLink, an aut...",
+      "publishedAt": "2026-03-09T10:24:25Z",
+      "extra": {
+        "authors": "Clémence Sebe, Olivier Ferret, Aurélie Névéol, Mahdi Esmailoghli, Ulf Leser, Sarah Cohen-Boulakia",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2603.08195v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08166v1",
+      "title": "RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs",
+      "url": "https://arxiv.org/pdf/2603.08166v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Automated Drug Combination Extraction (DCE) from large-scale biomedical literature is crucial for advancing precision medicine and pharmacological research. However, existing relation extraction methods primarily focus on binary interactions and struggle to model variable-length n-ary drug combinations, where complex compatibility logic and distributed evidence need to be considered. To address these limitations, we propose RexDrug, an end-to-end reasoning-enhanced relation extraction framework ...",
+      "publishedAt": "2026-03-09T09:47:25Z",
+      "extra": {
+        "authors": "Zhijun Wang, Ling Luo, Dinghao Pan, Huan Zhuang, Lejing Yu, Yuanyuan Sun, Hongfei Lin",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2603.08166v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08153v1",
+      "title": "Gender Bias in MT for a Genderless Language: New Benchmarks for Basque",
+      "url": "https://arxiv.org/pdf/2603.08153v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Large language models (LLMs) and machine translation (MT) systems are increasingly used in our daily lives, but their outputs can reproduce gender bias present in the training data. Most resources for evaluating such biases are designed for English and reflect its sociocultural context, which limits their applicability to other languages. This work addresses this gap by introducing two new datasets to evaluate gender bias in translations involving Basque, a low-resource and genderless language. ...",
+      "publishedAt": "2026-03-09T09:35:55Z",
+      "extra": {
+        "authors": "Amaia Murillo, Olatz-Perez-de-Viñaspre, Naiara Perez",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2603.08153v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08148v1",
+      "title": "Gradually Excavating External Knowledge for Implicit Complex Question Answering",
+      "url": "https://arxiv.org/pdf/2603.08148v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Recently, large language models (LLMs) have gained much attention for the emergence of human-comparable capabilities and huge potential. However, for open-domain implicit question-answering problems, LLMs may not be the ultimate solution due to the reasons of: 1) uncovered or out-of-date domain knowledge, 2) one-shot generation and hence restricted comprehensiveness. To this end, this work proposes a gradual knowledge excavation framework for open-domain complex question answering, where LLMs it...",
+      "publishedAt": "2026-03-09T09:28:42Z",
+      "extra": {
+        "authors": "Chang Liu, Xiaoguang Li, Lifeng Shang, Xin Jiang, Qun Liu, Edmund Y. Lam, Ngai Wong",
+        "primaryCategory": "cs.CL",
+        "arxivId": "2603.08148v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08188v1",
+      "title": "Sequential Service Region Design with Capacity-Constrained Investment and Spillover Effect",
+      "url": "https://arxiv.org/pdf/2603.08188v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Service region design determines the geographic coverage of service networks, shaping long-term operational performance. Capital and operational constraints preclude simultaneous large-scale deployment, requiring expansion to proceed sequentially. The resulting challenge is to determine when and where to invest under demand uncertainty, balancing intertemporal trade-offs between early and delayed investment and accounting for network effects whereby each deployment reshapes future demand through...",
+      "publishedAt": "2026-03-09T10:09:59Z",
+      "extra": {
+        "authors": "Tingting Chen, Feng Chu, Jiantong Zhang",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2603.08188v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08185v1",
+      "title": "SERQ: Saliency-Aware Low-Rank Error Reconstruction for LLM Quantization",
+      "url": "https://arxiv.org/pdf/2603.08185v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Post-training quantization (PTQ) has emerged as a prevailing technique for deploying large language models (LLMs) efficiently in terms of both memory and computation, across edge devices and server platforms. Existing PTQ methods primarily aim to reduce precision in weights and activations by mitigating quantization errors caused by channel-wise outlier activations (e.g., pre-quantization scaling, online transformations, or low-rank error reconstruction). Among these approaches, error reconstruc...",
+      "publishedAt": "2026-03-09T10:04:12Z",
+      "extra": {
+        "authors": "Yeonsik Park, Hyeonseong Kim, Seungkyu Choi",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2603.08185v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08181v1",
+      "title": "AutoAdapt: An Automated Domain Adaptation Framework for LLMs",
+      "url": "https://arxiv.org/pdf/2603.08181v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "Large language models (LLMs) excel in open domains but struggle in specialized settings with limited data and evolving knowledge. Existing domain adaptation practices rely heavily on manual trial-and-error processes, incur significant hyperparameter complexity, and are highly sensitive to data and user preferences, all under the high cost of LLM training. Moreover, the interactions and transferability of hyperparameter choices across models/domains remain poorly understood, making adaptation gai...",
+      "publishedAt": "2026-03-09T10:03:16Z",
+      "extra": {
+        "authors": "Sidharth Sinha, Anson Bastos, Xuchao Zhang, Akshay Nambi, Chetan Bansal, Saravan Rajmohan",
+        "primaryCategory": "cs.LG",
+        "arxivId": "2603.08181v1"
+      }
+    },
+    {
+      "id": "arxiv-2603.08180v1",
+      "title": "ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution Object Detection",
+      "url": "https://arxiv.org/pdf/2603.08180v1",
+      "source": "arxiv",
+      "category": "paper",
+      "summary": "LiDAR-based 3D object detection plays a critical role for reliable and safe autonomous driving systems. However, existing detectors often produce overly confident predictions for objects not belonging to known categories, posing significant safety risks. This is caused by so-called out-of-distribution (OOD) objects, which were not part of the training data, resulting in incorrect predictions. To address this challenge, we propose ALOOD (Aligned LiDAR representations for Out-Of-Distribution Detec...",
+      "publishedAt": "2026-03-09T10:02:45Z",
+      "extra": {
+        "authors": "Michael Kösel, Marcel Schreiber, Michael Ulrich, Claudius Gläser, Klaus Dietmayer",
+        "primaryCategory": "cs.CV",
+        "arxivId": "2603.08180v1"
+      }
+    }
+  ]
+}

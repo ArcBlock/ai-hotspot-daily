@@ -1,0 +1,19 @@
+{
+  "source": "papers-with-code",
+  "fetchedAt": "2026-03-10T02:07:26.010Z",
+  "items": [
+    {
+      "id": "pwc-2603.02554",
+      "title": "Paper 2603.02554",
+      "url": "https://huggingface.co/papers/2603.02554",
+      "source": "papers-with-code",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:26.010Z",
+      "extra": {
+        "arxivId": "2603.02554",
+        "fromScrape": true
+      }
+    }
+  ]
+}

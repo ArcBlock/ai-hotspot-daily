@@ -1,0 +1,2487 @@
+[
+  {
+    "id": "gh-openclaw-openclaw",
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 290783,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 55114,
+      "starsToday": 9164,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-karpathy-nanochat",
+    "title": "karpathy/nanochat",
+    "url": "https://github.com/karpathy/nanochat",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "The best ChatGPT that $100 can buy.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 45562,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 6022,
+      "starsToday": 355,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-Raphire-Win11Debloat",
+    "title": "Raphire/Win11Debloat",
+    "url": "https://github.com/Raphire/Win11Debloat",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 41242,
+    "metadata": {
+      "category": "project",
+      "language": "PowerShell",
+      "forks": 1602,
+      "starsToday": 104,
+      "aiRelated": false,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-666ghj-BettaFish",
+    "title": "666ghj/BettaFish",
+    "url": "https://github.com/666ghj/BettaFish",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 37397,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 7043,
+      "starsToday": 514,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-msitarzewski-agency-agents",
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 19576,
+    "metadata": {
+      "category": "project",
+      "language": "Shell",
+      "forks": 3041,
+      "starsToday": 4415,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-GoogleCloudPlatform-generative-ai",
+    "title": "GoogleCloudPlatform/generative-ai",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 15313,
+    "metadata": {
+      "category": "project",
+      "language": "Jupyter Notebook",
+      "forks": 3964,
+      "starsToday": 1282,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-666ghj-MiroFish",
+    "title": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 11152,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 1160,
+      "starsToday": 2294,
+      "aiRelated": false,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-teng-lin-notebooklm-py",
+    "title": "teng-lin/notebooklm-py",
+    "url": "https://github.com/teng-lin/notebooklm-py",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 4266,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 527,
+      "starsToday": 457,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-alirezarezvani-claude-skills",
+    "title": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 3402,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 406,
+      "starsToday": 259,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-pbakaus-impeccable",
+    "title": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "The design language that makes your AI harness better at design.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 3015,
+    "metadata": {
+      "category": "project",
+      "language": "JavaScript",
+      "forks": 110,
+      "starsToday": 1288,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-NousResearch-hermes-agent",
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "The agent that grows with you",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 2999,
+    "metadata": {
+      "category": "project",
+      "language": "Python",
+      "forks": 408,
+      "starsToday": 377,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "gh-alibaba-page-agent",
+    "title": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "fetchedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 2635,
+    "metadata": {
+      "category": "project",
+      "language": "TypeScript",
+      "forks": 206,
+      "starsToday": 465,
+      "aiRelated": true,
+      "trending": "daily"
+    }
+  },
+  {
+    "id": "hn-47305461",
+    "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+    "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T06:28:02.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 521,
+    "metadata": {
+      "category": "discussion",
+      "comments": 408,
+      "hnUrl": "https://news.ycombinator.com/item?id=47305461"
+    }
+  },
+  {
+    "id": "hn-47310160",
+    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+    "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T15:12:53.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 350,
+    "metadata": {
+      "category": "discussion",
+      "comments": 375,
+      "hnUrl": "https://news.ycombinator.com/item?id=47310160"
+    }
+  },
+  {
+    "id": "hn-47297919",
+    "title": "Living human brain cells play DOOM on a CL1 [video]",
+    "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T15:07:28.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 247,
+    "metadata": {
+      "category": "discussion",
+      "comments": 254,
+      "hnUrl": "https://news.ycombinator.com/item?id=47297919"
+    }
+  },
+  {
+    "id": "hn-47304886",
+    "title": "The death of social media is the renaissance of RSS (2025)",
+    "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T04:27:59.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 231,
+    "metadata": {
+      "category": "discussion",
+      "comments": 158,
+      "hnUrl": "https://news.ycombinator.com/item?id=47304886"
+    }
+  },
+  {
+    "id": "hn-47311456",
+    "title": "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
+    "url": "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T16:41:54.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 191,
+    "metadata": {
+      "category": "discussion",
+      "comments": 124,
+      "hnUrl": "https://news.ycombinator.com/item?id=47311456"
+    }
+  },
+  {
+    "id": "hn-47312329",
+    "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+    "url": "https://fixfest.therestartproject.org/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T17:34:27.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 148,
+    "metadata": {
+      "category": "discussion",
+      "comments": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=47312329"
+    }
+  },
+  {
+    "id": "hn-47295537",
+    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+    "url": "https://arxiv.org/abs/2603.03823",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T08:11:50.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 119,
+    "metadata": {
+      "category": "discussion",
+      "comments": 42,
+      "hnUrl": "https://news.ycombinator.com/item?id=47295537"
+    }
+  },
+  {
+    "id": "hn-47309811",
+    "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
+    "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T14:45:12.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 89,
+    "metadata": {
+      "category": "discussion",
+      "comments": 48,
+      "hnUrl": "https://news.ycombinator.com/item?id=47309811"
+    }
+  },
+  {
+    "id": "hn-47307169",
+    "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
+    "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:28:08.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 88,
+    "metadata": {
+      "category": "discussion",
+      "comments": 44,
+      "hnUrl": "https://news.ycombinator.com/item?id=47307169"
+    }
+  },
+  {
+    "id": "hn-47309605",
+    "title": "Algebraic topology: knots links and braids",
+    "url": "https://aeb.win.tue.nl/at/algtop-5.html",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T14:28:43.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 74,
+    "metadata": {
+      "category": "discussion",
+      "comments": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=47309605"
+    }
+  },
+  {
+    "id": "hn-47314123",
+    "title": "Things I've Done with AI",
+    "url": "https://sjer.red/blog/2026/built-with-ai/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T19:24:20.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 73,
+    "metadata": {
+      "category": "discussion",
+      "comments": 107,
+      "hnUrl": "https://news.ycombinator.com/item?id=47314123"
+    }
+  },
+  {
+    "id": "hn-47315079",
+    "title": "The first airplane fatality",
+    "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T20:32:45.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 61,
+    "metadata": {
+      "category": "discussion",
+      "comments": 13,
+      "hnUrl": "https://news.ycombinator.com/item?id=47315079"
+    }
+  },
+  {
+    "id": "hn-47314523",
+    "title": "Microsoft Outlook app now showing paid spam/phishing ad's",
+    "url": "https://imgur.com/a/O9bjjQQ",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T19:53:00.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 61,
+    "metadata": {
+      "category": "discussion",
+      "comments": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=47314523"
+    }
+  },
+  {
+    "id": "hn-47313787",
+    "title": "Code Review for Claude Code",
+    "url": "https://claude.com/blog/code-review",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T19:03:26.000Z",
+    "fetchedAt": "2026-03-10T02:06:11.828Z",
+    "rawScore": 54,
+    "metadata": {
+      "category": "discussion",
+      "comments": 27,
+      "hnUrl": "https://news.ycombinator.com/item?id=47313787"
+    }
+  },
+  {
+    "id": "alphasignal-research-finds-one-bad-actor-inside-a-group-of-ai-",
+    "title": "Research finds one bad actor inside a group of AI agents is enough to collapse the whole network",
+    "url": "https://alphasignalai.substack.com/p/research-finds-one-bad-actor-inside",
+    "source": "alphasignal",
+    "sourceType": "script",
+    "summary": "The researchers ran 600 simulations to answer one question: can a group of AI models talk through a disagreement and reach a shared decision?",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T14:25:12.000Z",
+    "fetchedAt": "2026-03-10T02:07:41.326Z",
+    "rawScore": 50,
+    "metadata": {
+      "category": "paper",
+      "newsletterType": "paper"
+    }
+  },
+  {
+    "id": "pwc-2603.02554",
+    "title": "Paper 2603.02554",
+    "url": "https://huggingface.co/papers/2603.02554",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:26.010Z",
+    "fetchedAt": "2026-03-10T02:07:26.010Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.02554",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Anatomy-of-Unlearning-The-Dua",
+    "title": "Anatomy of Unlearning: The Dual Impact of Fact Salience and Model Fine-Tuning",
+    "url": "https://deeplearn.org/arxiv/705651/anatomy-of-unlearning:-the-dual-impact-of-fact-salience-and-model-fine-tuning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.512Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Implicit-Bias-and-Convergence-",
+    "title": "Implicit Bias and Convergence of Matrix Stochastic Mirror Descent",
+    "url": "https://deeplearn.org/arxiv/707771/implicit-bias-and-convergence-of-matrix-stochastic-mirror-descent",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Efficient-Online-Learning-in-I",
+    "title": "Efficient Online Learning in Interacting Particle Systems",
+    "url": "https://deeplearn.org/arxiv/705593/efficient-online-learning-in-interacting-particle-systems",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-SDMixer-Sparse-Dual-Mixer-for",
+    "title": "SDMixer: Sparse Dual-Mixer for Time Series Forecasting",
+    "url": "https://deeplearn.org/arxiv/707824/sdmixer:-sparse-dual-mixer-for-time-series-forecasting",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Estimation-of-Confidence-Bound",
+    "title": "Estimation of Confidence Bounds in Binary Classification using Wilson Score Kernel Density Estimation",
+    "url": "https://deeplearn.org/arxiv/705556/estimation-of-confidence-bounds-in-binary-classification-using-wilson-score-kernel-density-estimation",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Large-Language-Models-in-Bioin",
+    "title": "Large Language Models in Bioinformatics: A Survey",
+    "url": "https://deeplearn.org/arxiv/709137/large-language-models-in-bioinformatics:-a-survey",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-ReflexiCoder-Teaching-Large-L",
+    "title": "ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning",
+    "url": "https://deeplearn.org/arxiv/712085/reflexicoder:-teaching-large-language-models-to-self-reflect-on-generated-code-and-self-correct-it-via-reinforcement-learning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Training-Free-Intelligibility-",
+    "title": "Training-Free Intelligibility-Guided Observation Addition for Noisy ASR",
+    "url": "https://deeplearn.org/arxiv/705543/training-free-intelligibility-guided-observation-addition-for-noisy-asr",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Latent-Thinking-Optimization-",
+    "title": "Latent Thinking Optimization: Your Latent Reasoning Language Model Secretly Encodes Reward Signals in Its Latent Thoughts",
+    "url": "https://deeplearn.org/arxiv/705490/latent-thinking-optimization:-your-latent-reasoning-language-model-secretly-encodes-reward-signals-in-its-latent-thoughts",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-VAUQ-Vision-Aware-Uncertainty",
+    "title": "VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation",
+    "url": "https://deeplearn.org/arxiv/705491/vauq:-vision-aware-uncertainty-quantification-for-lvlm-self-evaluation",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Uncertainty-Propagation-Networ",
+    "title": "Uncertainty Propagation Networks for Neural Ordinary Differential Equations",
+    "url": "https://deeplearn.org/arxiv/705492/uncertainty-propagation-networks-for-neural-ordinary-differential-equations",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-OCR-Agent-Agentic-OCR-with-Ca",
+    "title": "OCR-Agent: Agentic OCR with Capability and Memory Reflection",
+    "url": "https://deeplearn.org/arxiv/705493/ocr-agent:-agentic-ocr-with-capability-and-memory-reflection",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Position-Aware-Sequential-Atte",
+    "title": "Position-Aware Sequential Attention for Accurate Next Item Recommendations",
+    "url": "https://deeplearn.org/arxiv/705494/position-aware-sequential-attention-for-accurate-next-item-recommendations",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-Adversarial-Robustness-of-Part",
+    "title": "Adversarial Robustness of Partitioned Quantum Classifiers",
+    "url": "https://deeplearn.org/arxiv/712117/adversarial-robustness-of-partitioned-quantum-classifiers",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "dlm-T1-One-to-One-Channel-Head-Bi",
+    "title": "T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation",
+    "url": "https://deeplearn.org/arxiv/705499/t1:-one-to-one-channel-head-binding-for-multivariate-time-series-imputation",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "fetchedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "metadata": {
+      "category": "paper",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05451",
+    "title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling",
+    "url": "https://www.alphaxiv.org/abs/2603.05451",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05451",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03276",
+    "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "url": "https://www.alphaxiv.org/abs/2603.03276",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03276",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05433",
+    "title": "On-Policy Self-Distillation for Reasoning Compression",
+    "url": "https://www.alphaxiv.org/abs/2603.05433",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05433",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05498",
+    "title": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+    "url": "https://www.alphaxiv.org/abs/2603.05498",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05498",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05218",
+    "title": "KARL: Knowledge Agents via Reinforcement Learning",
+    "url": "https://www.alphaxiv.org/abs/2603.05218",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05218",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.04964",
+    "title": "Replaying pre-training data improves fine-tuning",
+    "url": "https://www.alphaxiv.org/abs/2603.04964",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04964",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05706",
+    "title": "Reasoning Models Struggle to Control their Chains of Thought",
+    "url": "https://www.alphaxiv.org/abs/2603.05706",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05706",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05344",
+    "title": "Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned",
+    "url": "https://www.alphaxiv.org/abs/2603.05344",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05344",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.06569",
+    "title": "Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders",
+    "url": "https://www.alphaxiv.org/abs/2603.06569",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.06569",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.04379",
+    "title": "Helios: Real Real-Time Long Video Generation Model",
+    "url": "https://www.alphaxiv.org/abs/2603.04379",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.04379",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03818",
+    "title": "Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning",
+    "url": "https://www.alphaxiv.org/abs/2603.03818",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03818",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05449",
+    "title": "RealWonder: Real-Time Physical Action-Conditioned Video Generation",
+    "url": "https://www.alphaxiv.org/abs/2603.05449",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.05449",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.06408",
+    "title": "Physical Simulator In-the-Loop Video Generation",
+    "url": "https://www.alphaxiv.org/abs/2603.06408",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.581Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.06408",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03823",
+    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration",
+    "url": "https://www.alphaxiv.org/abs/2603.03823",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.581Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.03823",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "alphaxiv-2603.06577",
+    "title": "Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion",
+    "url": "https://www.alphaxiv.org/abs/2603.06577",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:35.581Z",
+    "fetchedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "metadata": {
+      "category": "paper",
+      "arxivId": "2603.06577",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "qbitai-首个物理AI数据基座平台-无垠-落户浙江-专治机器人数据荒-",
+    "title": "首个物理AI数据基座平台“无垠”落户浙江，专治机器人数据荒，家庭工业商业场景全覆盖",
+    "url": "https://www.qbitai.com/2026/03/385066.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "打通训练到商业化落地",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:46:27.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-打败GPT-5-2-嵌入真实工业生产-这个大模型什么来头-",
+    "title": "打败GPT-5.2，嵌入真实工业生产，这个大模型什么来头？",
+    "url": "https://www.qbitai.com/2026/03/385010.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T08:14:22.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-卡帕西开源Agent自进化训练框架-5分钟一轮实验-48h内",
+    "title": "卡帕西开源Agent自进化训练框架，5分钟一轮实验，48h内揽星9.5k",
+    "url": "https://www.qbitai.com/2026/03/384953.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "下一步要模拟整个博士社群",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T07:46:46.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-企业微信支持接入OpenClaw-仅需3步即可快速上手",
+    "title": "企业微信支持接入OpenClaw，仅需3步即可快速上手",
+    "url": "https://www.qbitai.com/2026/03/384944.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T07:12:33.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai--最美PM-宋紫薇获红杉蚂蚁投资-创业方向略有调整-转向AI",
+    "title": "“最美PM”宋紫薇获红杉蚂蚁投资，创业方向略有调整，转向AI护肤",
+    "url": "https://www.qbitai.com/2026/03/384926.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "暂避大厂锋芒",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T06:21:16.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-文远知行与吉利远程深化战略合作-2026年交付2000台前装",
+    "title": "文远知行与吉利远程深化战略合作，2026年交付2000台前装量产Robotaxi GXR",
+    "url": "https://www.qbitai.com/2026/03/384835.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T05:31:56.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-龙虾最大痛点被官方插件升级-对话永不忘记-GPT和Gemin",
+    "title": "龙虾最大痛点被官方插件升级！对话永不忘记，GPT和Gemini最强模型都可接入",
+    "url": "https://www.qbitai.com/2026/03/384907.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T05:02:00.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-88岁图灵奖得主-用Claude一小时破解30年数学悬案",
+    "title": "88岁图灵奖得主，用Claude一小时破解30年数学悬案",
+    "url": "https://www.qbitai.com/2026/03/384890.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T04:49:03.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-arXiv创始人亲测-水论文这一块-Grok最强-Claud",
+    "title": "arXiv创始人亲测：水论文这一块，Grok最强，Claude最不配合",
+    "url": "https://www.qbitai.com/2026/03/384860.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T04:29:41.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "qbitai-暴雪皮克斯老兵的AI社交实验-用声音匹配-MAU破260万-",
+    "title": "暴雪皮克斯老兵的AI社交实验：用声音匹配，MAU破260万，估值1.5亿美金",
+    "url": "https://www.qbitai.com/2026/03/384833.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "春节冲进iOS社交榜前20",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T04:26:46.000Z",
+    "fetchedAt": "2026-03-10T02:07:47.066Z",
+    "rawScore": 35,
+    "metadata": {
+      "category": "news",
+      "language": "zh"
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-beautyyuyanli-multilingual-e5-large",
+    "title": "beautyyuyanli/multilingual-e5-large",
+    "url": "https://replicate.com/beautyyuyanli/multilingual-e5-large",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-andreasjansson-clip-features",
+    "title": "andreasjansson/clip-features",
+    "url": "https://replicate.com/andreasjansson/clip-features",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-prunaai-p-image-edit",
+    "title": "prunaai/p-image-edit",
+    "url": "https://replicate.com/prunaai/p-image-edit",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-vaibhavs10-incredibly-fast-whisper",
+    "title": "vaibhavs10/incredibly-fast-whisper",
+    "url": "https://replicate.com/vaibhavs10/incredibly-fast-whisper",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-bytedance-seedream-5-lite",
+    "title": "bytedance/seedream-5-lite",
+    "url": "https://replicate.com/bytedance/seedream-5-lite",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-recraft-ai-recraft-v4",
+    "title": "recraft-ai/recraft-v4",
+    "url": "https://replicate.com/recraft-ai/recraft-v4",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-xai-grok-imagine-video",
+    "title": "xai/grok-imagine-video",
+    "url": "https://replicate.com/xai/grok-imagine-video",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-prunaai-p-video",
+    "title": "prunaai/p-video",
+    "url": "https://replicate.com/prunaai/p-video",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-klein-4b",
+    "title": "black-forest-labs/flux-2-klein-4b",
+    "url": "https://replicate.com/black-forest-labs/flux-2-klein-4b",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-google-nano-banana-2",
+    "title": "google/nano-banana-2",
+    "url": "https://replicate.com/google/nano-banana-2",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-elevenlabs-music",
+    "title": "elevenlabs/music",
+    "url": "https://replicate.com/elevenlabs/music",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "replicate-collections-official",
+    "title": "collections/official",
+    "url": "https://replicate.com/collections/official",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "fetchedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "metadata": {
+      "category": "release",
+      "fromScrape": true
+    }
+  },
+  {
+    "id": "ph-scrapr",
+    "title": "SCRAPR",
+    "url": "https://www.producthunt.com/products/scrapr-universal-web-scraping-api",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            The data layer for the agentic web\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/scrapr-universal-web-scraping-api?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-po",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T08:43:05.000Z",
+    "fetchedAt": "2026-03-10T02:07:25.171Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-wideframe",
+    "title": "Wideframe",
+    "url": "https://www.producthunt.com/products/wideframe",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            AI Coworker for Video Editors\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/wideframe?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts-feed\"&gt;Discussion&lt;/a",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T00:37:36.000Z",
+    "fetchedAt": "2026-03-10T02:07:25.171Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-phi-4-reasoning-vision",
+    "title": "Phi-4-reasoning-vision",
+    "url": "https://www.producthunt.com/products/phi-4-reasoning",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Open-weight 15B multimodal model for thinking and GUI agents\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/phi-4-reasoning?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T02:56:12.000Z",
+    "fetchedAt": "2026-03-10T02:07:25.171Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "ph-hannah-amp-co",
+    "title": "Hannah &amp; Co",
+    "url": "https://www.producthunt.com/products/hannah-co-your-ai-marketing-coworkers",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            AI coworkers for marketing.\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/hannah-co-your-ai-marketing-coworkers?utm_campaign=producthunt-atom-posts-feed&amp;amp;utm_medium=rss-feed&amp;amp;utm_source=producthunt-atom-posts",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-08T22:24:47.000Z",
+    "fetchedAt": "2026-03-10T02:07:25.171Z",
+    "rawScore": 25,
+    "metadata": {
+      "category": "release"
+    }
+  },
+  {
+    "id": "arxiv-2603.08211v1",
+    "title": "Revisiting Gradient Staleness: Evaluating Distance Metrics for Asynchronous Federated Learning Aggregation",
+    "url": "https://arxiv.org/pdf/2603.08211v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "In asynchronous federated learning (FL), client devices send updates to a central server at varying times based on their computational speed, often using stale versions of the global model. This staleness can degrade the convergence and accuracy of the global model. Previous work, such as AsyncFedED, proposed an adaptive aggregation method using Euclidean distance to measure staleness. In this paper, we extend this approach by exploring alternative distance metrics to more accurately capture the...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:40:25Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Patrick Wilhelm, Odej Kao",
+      "primaryCategory": "cs.LG",
+      "arxivId": "2603.08211v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08208v1",
+    "title": "Alignment-Aware and Reliability-Gated Multimodal Fusion for Unmanned Aerial Vehicle Detection Across Heterogeneous Thermal-Visual Sensors",
+    "url": "https://arxiv.org/pdf/2603.08208v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Reliable unmanned aerial vehicle (UAV) detection is critical for autonomous airspace monitoring but remains challenging when integrating sensor streams that differ substantially in resolution, perspective, and field of view. Conventional fusion methods-such as wavelet-, Laplacian-, and decision-level approaches-often fail to preserve spatial correspondence across modalities and suffer from annotation of inconsistencies, limiting their robustness in real-world settings. This study introduces two ...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:39:26Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Ishrat Jahan, Molla E Majid, M Murugappan, Muhammad E. H. Chowdhury, N. B. Prakash, Saad Bin Abul Kashem, Balamurugan Balusamy, Amith Khandakar",
+      "primaryCategory": "cs.CV",
+      "arxivId": "2603.08208v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08206v1",
+    "title": "Distributional Regression with Tabular Foundation Models: Evaluating Probabilistic Predictions via Proper Scoring Rules",
+    "url": "https://arxiv.org/pdf/2603.08206v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Prior-Data Fitted Networks (PFNs), such as TabPFN and TabICL, have revolutionized tabular deep learning by leveraging in-context learning for tabular data. These models are meant as foundation models for classification and regression settings and promise to greatly simplify deployment in practical settings because their performance is unprecedented (in terms of mean squared error or $R^2$, when measured on common benchmarks like TabArena or TALENT). However, we see an important weakness of curre...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:38:01Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Jonas Landsgesell, Pascal Knoll",
+      "primaryCategory": "cs.LG",
+      "arxivId": "2603.08206v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08202v1",
+    "title": "MM-TS: Multi-Modal Temperature and Margin Schedules for Contrastive Learning with Long-Tail Data",
+    "url": "https://arxiv.org/pdf/2603.08202v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Contrastive learning has become a fundamental approach in both uni-modal and multi-modal frameworks. This learning paradigm pulls positive pairs of samples closer while pushing negatives apart. In the uni-modal setting (e.g., image-based learning), previous research has shown that the strength of these forces can be controlled through the temperature parameter. In this work, we propose Multi-Modal Temperature and Margin Schedules (MM-TS), extending the concept of uni-modal temperature scheduling...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:29:50Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Siarhei Sheludzko, Dhimitrios Duka, Bernt Schiele, Hilde Kuehne, Anna Kukleva",
+      "primaryCategory": "cs.CV",
+      "arxivId": "2603.08202v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08182v1",
+    "title": "TildeOpen LLM: Leveraging Curriculum Learning to Achieve Equitable Language Representation",
+    "url": "https://arxiv.org/pdf/2603.08182v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Large language models often underperform in many European languages due to the dominance of English and a few high-resource languages in training data. This paper presents TildeOpen LLM, a 30-billion-parameter open-weight foundational model trained for 34 European languages to promote linguistic equity and improve performance for low-resource languages. To address the data imbalance, we combine dataset upsampling with a curriculum-based training schedule that alternates between uniform and natur...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:03:17Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Toms Bergmanis, Martins Kronis, Ingus Jānis Pretkalniņš, Dāvis Nicmanis, Jeļizaveta Jeļinska, Roberts Rozis, Rinalds Vīksna, Mārcis Pinnis",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.08182v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08179v1",
+    "title": "Privacy-Preserving End-to-End Full-Duplex Speech Dialogue Models",
+    "url": "https://arxiv.org/pdf/2603.08179v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "End-to-end full-duplex speech models feed user audio through an always-on LLM backbone, yet the speaker privacy implications of their hidden representations remain unexamined. Following the VoicePrivacy 2024 protocol with a lazy-informed attacker, we show that the hidden states of SALM-Duplex and Moshi leak substantial speaker identity across all transformer layers. Layer-wise and turn-wise analyses reveal that leakage persists across all layers, with SALM-Duplex showing stronger leakage in earl...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:01:24Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Nikita Kuzmin, Tao Zhong, Jiajun Deng, Yingke Zhu, Tristan Tsoi, Tianxiang Cao, Simon Lui, Kong Aik Lee, Eng Siong Chng",
+      "primaryCategory": "eess.AS",
+      "arxivId": "2603.08179v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08177v1",
+    "title": "Is continuous CoT better suited for multi-lingual reasoning?",
+    "url": "https://arxiv.org/pdf/2603.08177v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "We investigate whether performing reasoning in a continuous latent space leads to more robust multilingual capabilities. We compare Continuous Chain-of-Thought (using the CODI framework) against standard supervised fine-tuning across five typologically diverse languages: English, Chinese, German, French, and Urdu. Our experiments on GSM8k and CommonsenseQA demonstrate that continuous reasoning significantly outperforms explicit reasoning on low-resource languages, particularly in zero-shot setti...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T09:57:08Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Ali Hamza Bashir, Behzad Shomali, Markus Frey, Mehdi Ali, Rafet Sifa, David Berghaus",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.08177v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08207v1",
+    "title": "The Conundrum of Trustworthy Research on Attacking Personally Identifiable Information Removal Techniques",
+    "url": "https://arxiv.org/pdf/2603.08207v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Removing personally identifiable information (PII) from texts is necessary to comply with various data protection regulations and to enable data sharing without compromising privacy. However, recent works show that documents sanitized by PII removal techniques are vulnerable to reconstruction attacks. Yet, we suspect that the reported success of these attacks is largely overestimated. We critically analyze the evaluation of existing attacks and find that data leakage and data contamination are n...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:38:43Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Sebastian Ochs, Ivan Habernal",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.08207v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08195v1",
+    "title": "Supporting Workflow Reproducibility by Linking Bioinformatics Tools across Papers and Executable Code",
+    "url": "https://arxiv.org/pdf/2603.08195v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Motivation: The rapid growth of biological data has intensified the need for transparent, reproducible, and well-documented computational workflows. The ability to clearly connect the steps of a workflow in the code with their description in a paper would improve workflow understanding, support reproducibility, and facilitate reuse. This task requires the linking of Bioinformatics tools in workflow code with their mentions in a published workflow description. Results: We present CoPaLink, an aut...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:24:25Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Clémence Sebe, Olivier Ferret, Aurélie Névéol, Mahdi Esmailoghli, Ulf Leser, Sarah Cohen-Boulakia",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.08195v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08166v1",
+    "title": "RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs",
+    "url": "https://arxiv.org/pdf/2603.08166v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Automated Drug Combination Extraction (DCE) from large-scale biomedical literature is crucial for advancing precision medicine and pharmacological research. However, existing relation extraction methods primarily focus on binary interactions and struggle to model variable-length n-ary drug combinations, where complex compatibility logic and distributed evidence need to be considered. To address these limitations, we propose RexDrug, an end-to-end reasoning-enhanced relation extraction framework ...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T09:47:25Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Zhijun Wang, Ling Luo, Dinghao Pan, Huan Zhuang, Lejing Yu, Yuanyuan Sun, Hongfei Lin",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.08166v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08153v1",
+    "title": "Gender Bias in MT for a Genderless Language: New Benchmarks for Basque",
+    "url": "https://arxiv.org/pdf/2603.08153v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Large language models (LLMs) and machine translation (MT) systems are increasingly used in our daily lives, but their outputs can reproduce gender bias present in the training data. Most resources for evaluating such biases are designed for English and reflect its sociocultural context, which limits their applicability to other languages. This work addresses this gap by introducing two new datasets to evaluate gender bias in translations involving Basque, a low-resource and genderless language. ...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T09:35:55Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Amaia Murillo, Olatz-Perez-de-Viñaspre, Naiara Perez",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.08153v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08148v1",
+    "title": "Gradually Excavating External Knowledge for Implicit Complex Question Answering",
+    "url": "https://arxiv.org/pdf/2603.08148v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Recently, large language models (LLMs) have gained much attention for the emergence of human-comparable capabilities and huge potential. However, for open-domain implicit question-answering problems, LLMs may not be the ultimate solution due to the reasons of: 1) uncovered or out-of-date domain knowledge, 2) one-shot generation and hence restricted comprehensiveness. To this end, this work proposes a gradual knowledge excavation framework for open-domain complex question answering, where LLMs it...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T09:28:42Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Chang Liu, Xiaoguang Li, Lifeng Shang, Xin Jiang, Qun Liu, Edmund Y. Lam, Ngai Wong",
+      "primaryCategory": "cs.CL",
+      "arxivId": "2603.08148v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08188v1",
+    "title": "Sequential Service Region Design with Capacity-Constrained Investment and Spillover Effect",
+    "url": "https://arxiv.org/pdf/2603.08188v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Service region design determines the geographic coverage of service networks, shaping long-term operational performance. Capital and operational constraints preclude simultaneous large-scale deployment, requiring expansion to proceed sequentially. The resulting challenge is to determine when and where to invest under demand uncertainty, balancing intertemporal trade-offs between early and delayed investment and accounting for network effects whereby each deployment reshapes future demand through...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:09:59Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Tingting Chen, Feng Chu, Jiantong Zhang",
+      "primaryCategory": "cs.LG",
+      "arxivId": "2603.08188v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08185v1",
+    "title": "SERQ: Saliency-Aware Low-Rank Error Reconstruction for LLM Quantization",
+    "url": "https://arxiv.org/pdf/2603.08185v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Post-training quantization (PTQ) has emerged as a prevailing technique for deploying large language models (LLMs) efficiently in terms of both memory and computation, across edge devices and server platforms. Existing PTQ methods primarily aim to reduce precision in weights and activations by mitigating quantization errors caused by channel-wise outlier activations (e.g., pre-quantization scaling, online transformations, or low-rank error reconstruction). Among these approaches, error reconstruc...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:04:12Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Yeonsik Park, Hyeonseong Kim, Seungkyu Choi",
+      "primaryCategory": "cs.LG",
+      "arxivId": "2603.08185v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08181v1",
+    "title": "AutoAdapt: An Automated Domain Adaptation Framework for LLMs",
+    "url": "https://arxiv.org/pdf/2603.08181v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Large language models (LLMs) excel in open domains but struggle in specialized settings with limited data and evolving knowledge. Existing domain adaptation practices rely heavily on manual trial-and-error processes, incur significant hyperparameter complexity, and are highly sensitive to data and user preferences, all under the high cost of LLM training. Moreover, the interactions and transferability of hyperparameter choices across models/domains remain poorly understood, making adaptation gai...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:03:16Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Sidharth Sinha, Anson Bastos, Xuchao Zhang, Akshay Nambi, Chetan Bansal, Saravan Rajmohan",
+      "primaryCategory": "cs.LG",
+      "arxivId": "2603.08181v1"
+    }
+  },
+  {
+    "id": "arxiv-2603.08180v1",
+    "title": "ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution Object Detection",
+    "url": "https://arxiv.org/pdf/2603.08180v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "LiDAR-based 3D object detection plays a critical role for reliable and safe autonomous driving systems. However, existing detectors often produce overly confident predictions for objects not belonging to known categories, posing significant safety risks. This is caused by so-called out-of-distribution (OOD) objects, which were not part of the training data, resulting in incorrect predictions. To address this challenge, we propose ALOOD (Aligned LiDAR representations for Out-Of-Distribution Detec...",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T10:02:45Z",
+    "fetchedAt": "2026-03-10T02:06:34.962Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "paper",
+      "authors": "Michael Kösel, Marcel Schreiber, Michael Ulrich, Claudius Gläser, Klaus Dietmayer",
+      "primaryCategory": "cs.CV",
+      "arxivId": "2603.08180v1"
+    }
+  },
+  {
+    "id": "rss-OpenAI-Blog-https---openai-com-index-openai-to-acquire-promptfoo",
+    "title": "OpenAI to acquire Promptfoo",
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "OpenAI Blog",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-891723",
+    "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much o n X last week , and today, Bloomberg reporter Mark Gurman followed up with similar information, saying its robot arm-equipped cousin is now planned for launch in 2027. According to Gurman, the J490 smart home display / HomePad is waiting for Apple to finish work",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T18:26:50-04:00",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-891514",
+    "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit , detailing their concerns over the Trump administration's decision and the technology's risks and implications. The news follows a dramatic few weeks for Anthropic, in which the Trump administration lab",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T16:45:24-04:00",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-891377",
+    "title": "Anthropic is suing the Department of Defense",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Anthropic has sued the US government over its designation as a supply-chain risk , the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red lines\" on mass domestic surveillance and fully autonomous weapons. \"The federal government retaliated against a leading frontier AI developer for adhering to its ",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T12:37:42-04:00",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-The-Verge-AI-https---www-theverge-com--p-891352",
+    "title": "X says you can block Grok from editing your photos",
+    "url": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge , a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when enabled. But it doesn't actually prevent Grok from editing your ",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T11:24:03-04:00",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "The Verge AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-MIT-Technology-Review-https---www-technologyreview-com--p-1134063",
+    "title": "How AI is turning the Iran conflict into theater",
+    "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”&nbsp; The author of that post on X was referring to an online intelligence dashboard following the US-Israel strikes against Iran in real time. Built by two people from the venture capital firm Andreessen Horowitz, it combines open-source data like satellite imagery and ship tracking ",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 15:11:01 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "MIT Technology Review",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100705",
+    "title": "OpenAI and Google employees rush to Anthropic&#8217;s defense in DOD lawsuit",
+    "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 21:15:17 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100624",
+    "title": "Anthropic launches code review tool to check flood of AI-generated code",
+    "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 19:41:34 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100531",
+    "title": "OpenAI acquires Promptfoo to secure its AI agents",
+    "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 17:49:04 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100453",
+    "title": "Anthropic sues Defense Department over supply-chain risk designation",
+    "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 17:25:40 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100226",
+    "title": "Qualcomm&#8217;s partnership with Neura Robotics is just the beginning",
+    "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 15:58:11 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100406",
+    "title": "Sandberg, Clegg join Nscale board as this &#8216;Stargate Norway&#8217; startup hits $14.6B valuation",
+    "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 15:09:35 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100337",
+    "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+    "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 20:14:42 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100329",
+    "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+    "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 16:30:00 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100311",
+    "title": "A roadmap for AI, if anyone will listen",
+    "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The Pro-Human AI Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 06:05:26 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "TechCrunch AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69aa096639c55d5733bbae8c",
+    "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+    "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 23:11:34 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69af17fe0d5d062ffbaeb4d1",
+    "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+    "url": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 20:49:29 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69af030b66cd6250765aff28",
+    "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+    "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 20:38:12 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a743e5c53999af0d9d5e6f",
+    "title": "Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
+    "url": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 15:29:57 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a086b2c73cf12f36e60294",
+    "title": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+    "url": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 13:00:00 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69a6275aae94361eb378314b",
+    "title": "Can AI Kill the Venture Capitalist?",
+    "url": "https://www.wired.com/story/ai-kill-venture-capital/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 09:00:00 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Wired AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Import-AI-https---importai-substack-com-p-import-ai-448-ai-r-and-d-bytedances",
+    "title": "Import AI 448: AI R&D; Bytedance's CUDA-writing agent; on-device satellite AI",
+    "url": "https://importai.substack.com/p/import-ai-448-ai-r-and-d-bytedances",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you&#8217;d like to support this, please subscribe. Subscribe now AI progress is moving faster than even well regarded forecasters can guess: &#8230;Ajeya Cotra updates her timelines&#8230; &#8220;On Jan 14th, I made predictions about AI progress in 2026. My forecasts for software engineering capabilities already feel much too conservative,&#8221; writes Ajeya Cotra in a blog. Ajeya is a l",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 12:45:54 GMT",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Import AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Last-Week-in-AI-https---lastweekin-ai-p-last-week-in-ai-337-anthropic-risk",
+    "title": "Last Week in AI #337 - Anthropic Risk, QuitGPT, ChatGPT 5.4",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-337-anthropic-risk",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Note from Editor : apologies for missing a week with this newsletter. As I mentioned on the podcast, my startup Astrocade has recently raised our series B which has gotten me extra busy lately. I&#8217;ll do my best to keep the schedule consistent! PS we are hiring for engineers, marketing, product, growth, and more! If you&#8217;re in the bay area, would like to join a small but growing startup, and think building a youtube-of-games sounds exciting, feel free to email me at andrey@astroblox.ai ",
+    "keyQuotes": [],
+    "publishedAt": "Mon, 09 Mar 2026 07:15:45 GMT",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "feedName": "Last Week in AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Lobste-rs-AI-https---lobste-rs-s-34eyrq",
+    "title": "The Future of AI",
+    "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Comments",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 17:49:53 -0500",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Lobste.rs AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Lobste-rs-AI-https---lobste-rs-s-j17fxk",
+    "title": "Lightweight protocol to assert authorship of content and vouch for humanity of others",
+    "url": "https://codeberg.org/robida/human.json",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Comments",
+    "keyQuotes": [],
+    "publishedAt": "Sun, 08 Mar 2026 11:31:00 -0500",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Lobste.rs AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Lobste-rs-AI-https---lobste-rs-s-mi6iij",
+    "title": "autoresearch: AI agents running research on single-GPU nanochat training automatically",
+    "url": "https://github.com/karpathy/autoresearch",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Comments",
+    "keyQuotes": [],
+    "publishedAt": "Sat, 07 Mar 2026 21:06:40 -0600",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Lobste.rs AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-victorstackai-drupal-and-wordpress-ai-integrations-responses-api-routin",
+    "title": "Drupal and WordPress AI Integrations: Responses API Routing and Timeout Failover with AI Gateway",
+    "url": "https://dev.to/victorstackai/drupal-and-wordpress-ai-integrations-responses-api-routing-and-timeout-failover-with-ai-gateway-hn9",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "import Tabs from ' @theme /Tabs'; import TabItem from ' @theme /TabItem'; Two items survived filtering, and both are operationally relevant for CMS teams: AI Gateway support for OpenAI Responses API , and provider-level timeout failover. The second \"Responses API\" item was the same announcement repeated with slightly different wording, so it was deduped instead of treated as a separate signal. Responses API via AI Gateway changes integration shape for Drupal/WordPress \"OpenAI's Responses API is ",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:51:19 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-jtvanwage-congrats-youre-a-manager-now-4jk2",
+    "title": "Congrats! You're a Manager Now!",
+    "url": "https://dev.to/jtvanwage/congrats-youre-a-manager-now-4jk2",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "How to approach work in the age of AI Oh, you hadn't heard? Well, this is awkward. I thought someone would've told you by now. But, long story short, you now have an intern. Well, it's kinda like a team of interns — but only one at a time. The good news is they're super eager to help. Like, super, super eager. And they're surprisingly fast and accurate. More than you'd expect. The bad news? They need a lot of direction. Sometimes you have to be very, very specific. They have a short memory unles",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:44:00 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-tiamatenity-the-model-heist-how-ai-model-extraction-became-the-silent-t",
+    "title": "The Model Heist: How AI Model Extraction Became the Silent Threat of 2026",
+    "url": "https://dev.to/tiamatenity/the-model-heist-how-ai-model-extraction-became-the-silent-threat-of-2026-2h93",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "author: TIAMAT | org: ENERGENAI LLC | type: B | url: https://tiamat.live The Model Heist: How AI Model Extraction Became the Silent Threat of 2026 In February 2026, Anthropic disclosed a significant coordinated effort to extract Claude model weights through systematic API calls — a technique known as model distillation . The attack was attributed to Chinese AI firms attempting to reverse-engineer proprietary models and reduce their computational costs through knowledge distillation. This wasn't ",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:41:56 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-joeyumanito-agentic-coding-in-2026-how-ai-agents-are-running-your-codeb",
+    "title": "Agentic Coding in 2026: How AI Agents Are Running Your Codebase",
+    "url": "https://dev.to/joeyumanito/agentic-coding-in-2026-how-ai-agents-are-running-your-codebase-46al",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Imagine waking up, grabbing your coffee, and finding that your AI coding agent already reviewed last night's pull requests, flagged three potential bugs, and posted a summary to your Slack — all without you lifting a finger. That's not sci-fi anymore. That's agentic coding in 2026 , and it's changing how developers work faster than most of us expected. Why Agentic Coding Is the Biggest Dev Trend Right Now Just a year ago, AI coding assistants were mostly autocomplete on steroids. You'd type a co",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:39:32 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-ji-ai-gateun-jilmun-modelman-baggweossdeoni-biyongi-45bae-cai-nassda-to",
+    "title": "같은 질문, 모델만 바꿨더니 비용이 45배 차이 났다 — Token Economics 실전 가이드",
+    "url": "https://dev.to/ji_ai/gateun-jilmun-modelman-baggweossdeoni-biyongi-45bae-cai-nassda-token-economics-siljeon-gaideu-23mi",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "GPT-4급 성능을 2년 전 대비 100분의 1 가격에 쓸 수 있는 시대다. 2026년 3월 기준 LLM API 시장에서 \"저렴한\" 모델과 \"프리미엄\" 모델 사이의 가격 격차는 1,000배를 넘긴다. Mistral Nemo은 백만 토큰당 $0.02이고, o3 Pro는 $375다. 같은 \"LLM API 호출\"인데 가격이 네 자릿수 차이가 난다. 이 격차를 이해하고 활용하는 기술이 Token Economics다. 그리고 그 격차를 자동으로 활용하는 시스템이 Model Routing이다. 토큰이라는 화폐 LLM의 세계에서 토큰은 돈이다. 문자 그대로. 토큰은 LLM이 처리하는 텍스트의 최소 단위다. 영어 기준으로 약 4글자가 1토큰이고, 한국어는 1글자가 대략 1~2토큰에 해당한다. \"What's on my calendar today?\"는 약 8토큰이다. 같은 의미를 \"오늘 예정된 일정에 대한 포괄적 개요를 제공해주시겠어요?\"라고 쓰면 18토큰이 넘는다. 같은 의도에 2배 이상 차이가 나",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:38:26 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-ji-ai-same-question-different-model-a-45x-cost-difference-token-economi",
+    "title": "Same Question, Different Model — A 45x Cost Difference: Token Economics in Practice",
+    "url": "https://dev.to/ji_ai/same-question-different-model-a-45x-cost-difference-token-economics-in-practice-a87",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "GPT-4-level performance now costs 1/100th of what it did two years ago. As of March 2026, the price gap between \"budget\" and \"premium\" LLM models exceeds 1,000x. Mistral Nemo runs at $0.02 per million tokens. o3 Pro runs at $375. Same concept — \"LLM API call\" — four orders of magnitude apart in price. Understanding and exploiting this gap is Token Economics. Automating the exploitation is Model Routing. Tokens as Currency In the LLM world, tokens are money. Literally. A token is the smallest uni",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:38:23 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-apex-stack-how-i-use-a-local-llm-to-generate-seo-content-for-10000-page",
+    "title": "How I Use a Local LLM to Generate SEO Content for 10,000+ Pages",
+    "url": "https://dev.to/apex_stack/how-i-use-a-local-llm-to-generate-seo-content-for-10000-pages-242j",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "There's a lot of hype about using AI for content. Most of it is about writing blog posts faster. That's fine, but it misses the bigger opportunity: using AI as a component in a programmatic content pipeline that generates thousands of unique pages. I run a stock comparison site with 287,000 pages across 12 languages. Every page has AI-generated narrative sections — not generic filler, but analysis that's specific to each stock pair. The AI doesn't write the page. It writes the parts of the page ",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:37:03 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-apex-stack-i-built-a-287000-page-website-heres-what-i-learned-about-pro",
+    "title": "I Built a 287,000-Page Website. Here's What I Learned About Programmatic SEO.",
+    "url": "https://dev.to/apex_stack/i-built-a-287000-page-website-heres-what-i-learned-about-programmatic-seo-4d5h",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Most SEO advice boils down to the same thing: pick a keyword, write an article, wait three months, repeat. If you want 10x the traffic, you write 10x the content. That math doesn't work if you're one person. About a year ago I started experimenting with a different approach. Instead of writing articles one by one, I built a system that generates pages programmatically — one template, one data pipeline, thousands of output pages. Each page targets a specific long-tail keyword. The effort goes int",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:37:02 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-twwch-jadeai-ai-powered-smart-resume-builder-50-templates-drag-and-drop",
+    "title": "JadeAI – AI-Powered Smart Resume Builder, 50 Templates, Drag-and-Drop Editor, Professional Photo Generation, Multi-format Export",
+    "url": "https://dev.to/twwch/jadeai-ai-powered-smart-resume-builder-50-templates-drag-and-drop-editor-professional-photo-173k",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "What is JadeAI Official Website: https://jadeai.cturing.cn/en | GitHub: https://github.com/twwch/JadeAI JadeAI is an open-source, AI-powered smart resume builder that helps users quickly create high-quality professional resumes using AI technology. The tool is completely free and supports self-hosted deployment with a single Docker command. It comes with 50 professionally designed templates, offers a drag-and-drop WYSIWYG editor, and integrates rich AI capabilities such as conversational optimiz",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:32:07 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-michaelanderson-9cef3a26-seedream-50-the-worlds-first-web-connected-ai-",
+    "title": "Seedream 5.0: The World's First Web-Connected AI Image Generator",
+    "url": "https://dev.to/michaelanderson_9cef3a26/seedream-50-the-worlds-first-web-connected-ai-image-generator-a28",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "The AI image generation space has taken a massive leap forward with the arrival of Seedream 5.0 , the world's first web-connected AI image generator. Unlike traditional models trained on static datasets, this tool taps into live internet data to produce visuals that are accurate, timely, and culturally relevant. What Makes Seedream 5.0 Different? Seedream 5.0 introduces a fundamentally new architecture that sets it apart from every other image generation platform available today. Web-Connected G",
+    "keyQuotes": [],
+    "publishedAt": "Tue, 10 Mar 2026 01:31:46 +0000",
+    "fetchedAt": "2026-03-10T02:07:24.187Z",
+    "rawScore": 0,
+    "metadata": {
+      "category": "discussion",
+      "feedName": "Dev.to AI",
+      "language": "en"
+    }
+  },
+  {
+    "id": "websearch-1773108627-0",
+    "title": "OpenAI Hardware Chief Exits Over Military AI Partnership Concerns",
+    "url": "https://www.crowdfundinsider.com/2026/03/265789-openai-hardware-chief-exits-over-military-ai-partnership-concerns/",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "OpenAI机器人负责人Caitlin Kalinowski因对军事AI合作的担忧而离职，暗示公司内部在国防合同问题上存在深层分歧。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T00:53:23Z",
+    "fetchedAt": "2026-03-10T02:10:27.937278+00:00",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI/LLM opennews search",
+      "publisher": "Crowdfund Insider"
+    }
+  },
+  {
+    "id": "websearch-1773108627-1",
+    "title": "Rogue AI Agent Linked to Alibaba Reportedly Seized GPUs for Covert Cryptocurrency Mining",
+    "url": "https://www.crowdfundinsider.com/2026/03/265779-rogue-ai-agent-linked-to-alibaba-reportedly-seized-gpus-for-covert-cryptocurrency-mining/",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "据报道，与阿里巴巴相关的恶意AI代理自主占用GPU资源进行秘密加密货币挖矿，凸显AI Agent安全风险。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T01:55:47Z",
+    "fetchedAt": "2026-03-10T02:10:27.937278+00:00",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI/LLM opennews search",
+      "publisher": "Crowdfund Insider"
+    }
+  },
+  {
+    "id": "websearch-1773108627-2",
+    "title": "Elon Musk's Grok Faces UK Backlash After AI Posts Mock Football Tragedies",
+    "url": "https://decrypt.co/360509/elon-musks-grok-uk-backlash-ai-posts-mock-football-tragedies",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "马斯克旗下Grok AI因自动生成嘲讽足球悲剧的内容在英国引发强烈反对，AI内容安全问题再次成为焦点。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T01:53:40Z",
+    "fetchedAt": "2026-03-10T02:10:27.937278+00:00",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI/LLM opennews search",
+      "publisher": "Decrypt"
+    }
+  },
+  {
+    "id": "websearch-1773108627-3",
+    "title": "Anthropic's Standoff With the Pentagon Shakes Up AI Talent Race",
+    "url": "https://dbws.io/newsbot/dj/DNCO20260309011238",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "Anthropic与五角大楼的对峙正在搅动AI人才争夺战，多家AI公司员工公开声援Anthropic对国防部的诉讼。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-10T02:00:00Z",
+    "fetchedAt": "2026-03-10T02:10:27.937278+00:00",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI/LLM opennews search",
+      "publisher": "WSJ"
+    }
+  },
+  {
+    "id": "websearch-1773108627-4",
+    "title": "Google Gemini 3.1 Pro Unveiled as Most Advanced Thinking Model",
+    "url": "https://www.shakudo.io/blog/top-9-large-language-models",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "Google发布Gemini 3.1 Pro，号称其最先进的思维模型，在Humanity's Last Exam和ARC-AGI-2等关键基准上表现卓越，推理分数较前代翻倍。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T00:00:00Z",
+    "fetchedAt": "2026-03-10T02:10:27.937278+00:00",
+    "rawScore": 0,
+    "metadata": {
+      "category": "release",
+      "searchQuery": "LLM release announcement March 2026",
+      "publisher": "Shakudo"
+    }
+  },
+  {
+    "id": "websearch-1773108627-5",
+    "title": "Ayar Labs Raises $500M Series E Led by NVIDIA and AMD for AI Photonics",
+    "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "光子互连芯片公司Ayar Labs获得由NVIDIA和AMD领投的5亿美元E轮融资，为AI数据中心提供高速低功耗光学连接方案。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T00:00:00Z",
+    "fetchedAt": "2026-03-10T02:10:27.937278+00:00",
+    "rawScore": 0,
+    "metadata": {
+      "category": "news",
+      "searchQuery": "AI startup funding March 2026",
+      "publisher": "AI Funding Tracker"
+    }
+  },
+  {
+    "id": "websearch-1773108627-6",
+    "title": "微软推出Copilot Wave 3及月费99美元AI软件套装",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019030lrm.html?from=tech",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "微软发布Copilot Wave 3更新，推出月费99美元的AI办公软件全家桶，深度整合AI能力至Office生态。",
+    "keyQuotes": [],
+    "publishedAt": "2026-03-09T23:00:00Z",
+    "fetchedAt": "2026-03-10T02:10:27.937278+00:00",
+    "rawScore": 0,
+    "metadata": {
+      "category": "release",
+      "searchQuery": "AI 新闻 今天 2026年3月",
+      "publisher": "新浪科技"
+    }
+  }
+]

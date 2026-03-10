@@ -1,0 +1,741 @@
+[
+  {
+    "id": "gh-GoogleCloudPlatform-generative-ai",
+    "title": "GoogleCloudPlatform/generative-ai",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 15313,
+    "category": "project",
+    "starsToday": 1282,
+    "aiRelated": true,
+    "prerankScore": 83,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-teng-lin-notebooklm-py",
+    "title": "teng-lin/notebooklm-py",
+    "url": "https://github.com/teng-lin/notebooklm-py",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl",
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 4266,
+    "category": "project",
+    "starsToday": 457,
+    "aiRelated": true,
+    "prerankScore": 83,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-alirezarezvani-claude-skills",
+    "title": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 3402,
+    "category": "project",
+    "starsToday": 259,
+    "aiRelated": true,
+    "prerankScore": 81,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 23,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-karpathy-nanochat",
+    "title": "karpathy/nanochat",
+    "url": "https://github.com/karpathy/nanochat",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "The best ChatGPT that $100 can buy.",
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 45562,
+    "category": "project",
+    "starsToday": 355,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-666ghj-BettaFish",
+    "title": "666ghj/BettaFish",
+    "url": "https://github.com/666ghj/BettaFish",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 37397,
+    "category": "project",
+    "starsToday": 514,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-msitarzewski-agency-agents",
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 19576,
+    "category": "project",
+    "starsToday": 4415,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-NousResearch-hermes-agent",
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "The agent that grows with you",
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 2999,
+    "category": "project",
+    "starsToday": 377,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "gh-alibaba-page-agent",
+    "title": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "source": "github",
+    "sourceType": "script",
+    "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "publishedAt": "2026-03-10T02:06:37.867Z",
+    "rawScore": 2635,
+    "category": "project",
+    "starsToday": 465,
+    "aiRelated": true,
+    "prerankScore": 78,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 25,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.06577",
+    "title": "Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion",
+    "url": "https://www.alphaxiv.org/abs/2603.06577",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:35.581Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 74,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 15,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "rss-Dev-to-AI-https---dev-to-ji-ai-gateun-jilmun-modelman-baggweossdeoni-biyongi-45bae-cai-nassda-to",
+    "title": "같은 질문, 모델만 바꿨더니 비용이 45배 차이 났다 — Token Economics 실전 가이드",
+    "url": "https://dev.to/ji_ai/gateun-jilmun-modelman-baggweossdeoni-biyongi-45bae-cai-nassda-token-economics-siljeon-gaideu-23mi",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "GPT-4급 성능을 2년 전 대비 100분의 1 가격에 쓸 수 있는 시대다. 2026년 3월 기준 LLM API 시장에서 \"저렴한\" 모델과 \"프리미엄\" 모델 사이의 가격 격차는 1,000배를 넘긴다. Mistral Nemo은 백만 토큰당 $0.02이고, o3 Pro는 $375다. 같은 \"LLM API 호출\"인데 가격이 네 자릿수 차이가 난다. 이 격차를 이",
+    "publishedAt": "Tue, 10 Mar 2026 01:38:26 +0000",
+    "rawScore": 0,
+    "category": "discussion",
+    "prerankScore": 72,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "qbitai-打败GPT-5-2-嵌入真实工业生产-这个大模型什么来头-",
+    "title": "打败GPT-5.2，嵌入真实工业生产，这个大模型什么来头？",
+    "url": "https://www.qbitai.com/2026/03/385010.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T08:14:22.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 71,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 25,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "qbitai-龙虾最大痛点被官方插件升级-对话永不忘记-GPT和Gemin",
+    "title": "龙虾最大痛点被官方插件升级！对话永不忘记，GPT和Gemini最强模型都可接入",
+    "url": "https://www.qbitai.com/2026/03/384907.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T05:02:00.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 71,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 25,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "alphaxiv-2603.03276",
+    "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "url": "https://www.alphaxiv.org/abs/2603.03276",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "alphaxiv-2603.05433",
+    "title": "On-Policy Self-Distillation for Reasoning Compression",
+    "url": "https://www.alphaxiv.org/abs/2603.05433",
+    "source": "alphaxiv",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:35.580Z",
+    "rawScore": 40,
+    "category": "paper",
+    "prerankScore": 69,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 18
+    }
+  },
+  {
+    "id": "hn-47310160",
+    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+    "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T15:12:53.000Z",
+    "rawScore": 350,
+    "category": "discussion",
+    "comments": 375,
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-Latent-Thinking-Optimization-",
+    "title": "Latent Thinking Optimization: Your Latent Reasoning Language Model Secretly Encodes Reward Signals in Its Latent Thoughts",
+    "url": "https://deeplearn.org/arxiv/705490/latent-thinking-optimization:-your-latent-reasoning-language-model-secretly-encodes-reward-signals-in-its-latent-thoughts",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "dlm-OCR-Agent-Agentic-OCR-with-Ca",
+    "title": "OCR-Agent: Agentic OCR with Capability and Memory Reflection",
+    "url": "https://deeplearn.org/arxiv/705493/ocr-agent:-agentic-ocr-with-capability-and-memory-reflection",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:49.513Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "rss-TechCrunch-AI-https---techcrunch-com--p-3100624",
+    "title": "Anthropic launches code review tool to check flood of AI-generated code",
+    "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code",
+    "publishedAt": "Mon, 09 Mar 2026 19:41:34 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 67,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "qbitai-卡帕西开源Agent自进化训练框架-5分钟一轮实验-48h内",
+    "title": "卡帕西开源Agent自进化训练框架，5分钟一轮实验，48h内揽星9.5k",
+    "url": "https://www.qbitai.com/2026/03/384953.html",
+    "source": "quantumbit",
+    "sourceType": "script",
+    "summary": "下一步要模拟整个博士社群",
+    "publishedAt": "2026-03-09T07:46:46.000Z",
+    "rawScore": 35,
+    "category": "news",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 16,
+      "keywords": 20,
+      "credibility": 15
+    }
+  },
+  {
+    "id": "replicate-google-gemini-3-flash",
+    "title": "google/gemini-3-flash",
+    "url": "https://replicate.com/google/gemini-3-flash",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 66,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "alphasignal-research-finds-one-bad-actor-inside-a-group-of-ai-",
+    "title": "Research finds one bad actor inside a group of AI agents is enough to collapse the whole network",
+    "url": "https://alphasignalai.substack.com/p/research-finds-one-bad-actor-inside",
+    "source": "alphasignal",
+    "sourceType": "script",
+    "summary": "The researchers ran 600 simulations to answer one question: can a group of AI models talk through a disagreement and reach a shared decision?",
+    "publishedAt": "2026-03-09T14:25:12.000Z",
+    "rawScore": 50,
+    "category": "paper",
+    "prerankScore": 63,
+    "prerankBreakdown": {
+      "timeliness": 20,
+      "sourceHeat": 16,
+      "keywords": 10,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "hn-47305461",
+    "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+    "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-09T06:28:02.000Z",
+    "rawScore": 521,
+    "category": "discussion",
+    "comments": 408,
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "dlm-Anatomy-of-Unlearning-The-Dua",
+    "title": "Anatomy of Unlearning: The Dual Impact of Fact Salience and Model Fine-Tuning",
+    "url": "https://deeplearn.org/arxiv/705651/anatomy-of-unlearning:-the-dual-impact-of-fact-salience-and-model-fine-tuning",
+    "source": "deep-learning-monitor",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:49.512Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 5,
+      "credibility": 16
+    }
+  },
+  {
+    "id": "rss-Wired-AI-69aa096639c55d5733bbae8c",
+    "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+    "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+    "source": "rss",
+    "sourceType": "script",
+    "summary": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
+    "publishedAt": "Mon, 09 Mar 2026 23:11:34 +0000",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 62,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 17
+    }
+  },
+  {
+    "id": "replicate-qwen-qwen3-tts",
+    "title": "qwen/qwen3-tts",
+    "url": "https://replicate.com/qwen/qwen3-tts",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 61,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "pwc-2603.02554",
+    "title": "Paper 2603.02554",
+    "url": "https://huggingface.co/papers/2603.02554",
+    "source": "papers-with-code",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:26.010Z",
+    "rawScore": 45,
+    "category": "paper",
+    "prerankScore": 60,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 16,
+      "keywords": 0,
+      "credibility": 19
+    }
+  },
+  {
+    "id": "hn-47297919",
+    "title": "Living human brain cells play DOOM on a CL1 [video]",
+    "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+    "source": "hackernews",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-08T15:07:28.000Z",
+    "rawScore": 247,
+    "category": "discussion",
+    "comments": 254,
+    "prerankScore": 57,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 25,
+      "keywords": 0,
+      "credibility": 22
+    }
+  },
+  {
+    "id": "arxiv-2603.08177v1",
+    "title": "Is continuous CoT better suited for multi-lingual reasoning?",
+    "url": "https://arxiv.org/pdf/2603.08177v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "We investigate whether performing reasoning in a continuous latent space leads to more robust multilingual capabilities. We compare Continuous Chain-of-Thought (using the CODI framework) against stand",
+    "publishedAt": "2026-03-09T09:57:08Z",
+    "rawScore": 0,
+    "category": "paper",
+    "prerankScore": 55,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 15,
+      "credibility": 20
+    }
+  },
+  {
+    "id": "websearch-1773108627-4",
+    "title": "Google Gemini 3.1 Pro Unveiled as Most Advanced Thinking Model",
+    "url": "https://www.shakudo.io/blog/top-9-large-language-models",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "Google发布Gemini 3.1 Pro，号称其最先进的思维模型，在Humanity's Last Exam和ARC-AGI-2等关键基准上表现卓越，推理分数较前代翻倍。",
+    "publishedAt": "2026-03-09T00:00:00Z",
+    "rawScore": 0,
+    "category": "release",
+    "prerankScore": 53,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 25,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "websearch-1773108627-6",
+    "title": "微软推出Copilot Wave 3及月费99美元AI软件套装",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019030lrm.html?from=tech",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "微软发布Copilot Wave 3更新，推出月费99美元的AI办公软件全家桶，深度整合AI能力至Office生态。",
+    "publishedAt": "2026-03-09T23:00:00Z",
+    "rawScore": 0,
+    "category": "release",
+    "prerankScore": 53,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 13
+    }
+  },
+  {
+    "id": "replicate-black-forest-labs-flux-2-pro",
+    "title": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/black-forest-labs/flux-2-pro",
+    "source": "replicate",
+    "sourceType": "script",
+    "summary": "",
+    "publishedAt": "2026-03-10T02:07:29.056Z",
+    "rawScore": 30,
+    "category": "release",
+    "prerankScore": 51,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 14
+    }
+  },
+  {
+    "id": "arxiv-2603.08208v1",
+    "title": "Alignment-Aware and Reliability-Gated Multimodal Fusion for Unmanned Aerial Vehicle Detection Across Heterogeneous Thermal-Visual Sensors",
+    "url": "https://arxiv.org/pdf/2603.08208v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Reliable unmanned aerial vehicle (UAV) detection is critical for autonomous airspace monitoring but remains challenging when integrating sensor streams that differ substantially in resolution, perspec",
+    "publishedAt": "2026-03-09T10:39:26Z",
+    "rawScore": 0,
+    "category": "paper",
+    "prerankScore": 50,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 20
+    }
+  },
+  {
+    "id": "arxiv-2603.08166v1",
+    "title": "RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs",
+    "url": "https://arxiv.org/pdf/2603.08166v1",
+    "source": "arxiv",
+    "sourceType": "script",
+    "summary": "Automated Drug Combination Extraction (DCE) from large-scale biomedical literature is crucial for advancing precision medicine and pharmacological research. However, existing relation extraction metho",
+    "publishedAt": "2026-03-09T09:47:25Z",
+    "rawScore": 0,
+    "category": "paper",
+    "prerankScore": 50,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 20
+    }
+  },
+  {
+    "id": "websearch-1773108627-1",
+    "title": "Rogue AI Agent Linked to Alibaba Reportedly Seized GPUs for Covert Cryptocurrency Mining",
+    "url": "https://www.crowdfundinsider.com/2026/03/265779-rogue-ai-agent-linked-to-alibaba-reportedly-seized-gpus-for-covert-cryptocurrency-mining/",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "据报道，与阿里巴巴相关的恶意AI代理自主占用GPU资源进行秘密加密货币挖矿，凸显AI Agent安全风险。",
+    "publishedAt": "2026-03-10T01:55:47Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 50,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 10,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "ph-phi-4-reasoning-vision",
+    "title": "Phi-4-reasoning-vision",
+    "url": "https://www.producthunt.com/products/phi-4-reasoning",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            Open-weight 15B multimodal model for thinking and GUI agents\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/phi-4-reasoning",
+    "publishedAt": "2026-03-09T02:56:12.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 49,
+    "prerankBreakdown": {
+      "timeliness": 15,
+      "sourceHeat": 12,
+      "keywords": 10,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1773108627-2",
+    "title": "Elon Musk's Grok Faces UK Backlash After AI Posts Mock Football Tragedies",
+    "url": "https://decrypt.co/360509/elon-musks-grok-uk-backlash-ai-posts-mock-football-tragedies",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "马斯克旗下Grok AI因自动生成嘲讽足球悲剧的内容在英国引发强烈反对，AI内容安全问题再次成为焦点。",
+    "publishedAt": "2026-03-10T01:53:40Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 45,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 5,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "ph-scrapr",
+    "title": "SCRAPR",
+    "url": "https://www.producthunt.com/products/scrapr-universal-web-scraping-api",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            The data layer for the agentic web\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/scrapr-universal-web-scraping-api?utm_cam",
+    "publishedAt": "2026-03-08T08:43:05.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 44,
+    "prerankBreakdown": {
+      "timeliness": 5,
+      "sourceHeat": 12,
+      "keywords": 15,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1773108627-0",
+    "title": "OpenAI Hardware Chief Exits Over Military AI Partnership Concerns",
+    "url": "https://www.crowdfundinsider.com/2026/03/265789-openai-hardware-chief-exits-over-military-ai-partnership-concerns/",
+    "source": "mcp-opennews",
+    "sourceType": "mcp",
+    "summary": "OpenAI机器人负责人Caitlin Kalinowski因对军事AI合作的担忧而离职，暗示公司内部在国防合同问题上存在深层分歧。",
+    "publishedAt": "2026-03-10T00:53:23Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 40,
+    "prerankBreakdown": {
+      "timeliness": 25,
+      "sourceHeat": 5,
+      "keywords": 0,
+      "credibility": 10
+    }
+  },
+  {
+    "id": "ph-wideframe",
+    "title": "Wideframe",
+    "url": "https://www.producthunt.com/products/wideframe",
+    "source": "product-hunt",
+    "sourceType": "script",
+    "summary": "&lt;p&gt;\n            AI Coworker for Video Editors\n          &lt;/p&gt;\n          &lt;p&gt;\n            &lt;a href=\"https://www.producthunt.com/products/wideframe?utm_campaign=producthunt-atom-posts-",
+    "publishedAt": "2026-03-09T00:37:36.000Z",
+    "rawScore": 25,
+    "category": "release",
+    "prerankScore": 34,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 12,
+      "keywords": 0,
+      "credibility": 12
+    }
+  },
+  {
+    "id": "websearch-1773108627-5",
+    "title": "Ayar Labs Raises $500M Series E Led by NVIDIA and AMD for AI Photonics",
+    "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+    "source": "websearch",
+    "sourceType": "websearch",
+    "summary": "光子互连芯片公司Ayar Labs获得由NVIDIA和AMD领投的5亿美元E轮融资，为AI数据中心提供高速低功耗光学连接方案。",
+    "publishedAt": "2026-03-09T00:00:00Z",
+    "rawScore": 0,
+    "category": "news",
+    "prerankScore": 33,
+    "prerankBreakdown": {
+      "timeliness": 10,
+      "sourceHeat": 5,
+      "keywords": 5,
+      "credibility": 13
+    }
+  }
+]

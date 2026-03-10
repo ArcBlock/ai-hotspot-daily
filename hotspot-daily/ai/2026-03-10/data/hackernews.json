@@ -1,0 +1,227 @@
+{
+  "source": "hackernews",
+  "fetchedAt": "2026-03-10T02:06:11.828Z",
+  "items": [
+    {
+      "id": "hn-47310160",
+      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 350,
+      "comments": 375,
+      "publishedAt": "2026-03-09T15:12:53.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47310160"
+      }
+    },
+    {
+      "id": "hn-47315079",
+      "title": "The first airplane fatality",
+      "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 61,
+      "comments": 13,
+      "publishedAt": "2026-03-09T20:32:45.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47315079"
+      }
+    },
+    {
+      "id": "hn-47312329",
+      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+      "url": "https://fixfest.therestartproject.org/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 148,
+      "comments": 18,
+      "publishedAt": "2026-03-09T17:34:27.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47312329"
+      }
+    },
+    {
+      "id": "hn-47309605",
+      "title": "Algebraic topology: knots links and braids",
+      "url": "https://aeb.win.tue.nl/at/algtop-5.html",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 74,
+      "comments": 8,
+      "publishedAt": "2026-03-09T14:28:43.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47309605"
+      }
+    },
+    {
+      "id": "hn-47311456",
+      "title": "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
+      "url": "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 191,
+      "comments": 124,
+      "publishedAt": "2026-03-09T16:41:54.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47311456"
+      }
+    },
+    {
+      "id": "hn-47307169",
+      "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
+      "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 88,
+      "comments": 44,
+      "publishedAt": "2026-03-09T10:28:08.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47307169"
+      }
+    },
+    {
+      "id": "hn-47305461",
+      "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 521,
+      "comments": 408,
+      "publishedAt": "2026-03-09T06:28:02.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47305461"
+      }
+    },
+    {
+      "id": "hn-47314523",
+      "title": "Microsoft Outlook app now showing paid spam/phishing ad's",
+      "url": "https://imgur.com/a/O9bjjQQ",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 61,
+      "comments": 11,
+      "publishedAt": "2026-03-09T19:53:00.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47314523"
+      }
+    },
+    {
+      "id": "hn-47313787",
+      "title": "Code Review for Claude Code",
+      "url": "https://claude.com/blog/code-review",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 54,
+      "comments": 27,
+      "publishedAt": "2026-03-09T19:03:26.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47313787"
+      }
+    },
+    {
+      "id": "hn-47309811",
+      "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
+      "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 89,
+      "comments": 48,
+      "publishedAt": "2026-03-09T14:45:12.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47309811"
+      }
+    },
+    {
+      "id": "hn-47295537",
+      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+      "url": "https://arxiv.org/abs/2603.03823",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 119,
+      "comments": 42,
+      "publishedAt": "2026-03-08T08:11:50.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47295537"
+      }
+    },
+    {
+      "id": "hn-47293415",
+      "title": "Warn about PyPy being unmaintained",
+      "url": "https://github.com/astral-sh/uv/pull/17643",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 317,
+      "comments": 170,
+      "publishedAt": "2026-03-08T01:35:21.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47293415"
+      }
+    },
+    {
+      "id": "hn-47291513",
+      "title": "LLM Writing Tropes.md",
+      "url": "https://tropes.fyi/tropes-md",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 362,
+      "comments": 184,
+      "publishedAt": "2026-03-07T21:08:40.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47291513"
+      }
+    },
+    {
+      "id": "hn-47314123",
+      "title": "Things I've Done with AI",
+      "url": "https://sjer.red/blog/2026/built-with-ai/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 73,
+      "comments": 107,
+      "publishedAt": "2026-03-09T19:24:20.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47314123"
+      }
+    },
+    {
+      "id": "hn-47297919",
+      "title": "Living human brain cells play DOOM on a CL1 [video]",
+      "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 247,
+      "comments": 254,
+      "publishedAt": "2026-03-08T15:07:28.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47297919"
+      }
+    },
+    {
+      "id": "hn-47283365",
+      "title": "Some Words on WigglyPaint",
+      "url": "https://beyondloom.com/blog/onwigglypaint.html",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 116,
+      "comments": 24,
+      "publishedAt": "2026-03-07T01:21:47.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47283365"
+      }
+    },
+    {
+      "id": "hn-47304886",
+      "title": "The death of social media is the renaissance of RSS (2025)",
+      "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+      "source": "hackernews",
+      "category": "discussion",
+      "score": 231,
+      "comments": 158,
+      "publishedAt": "2026-03-09T04:27:59.000Z",
+      "extra": {
+        "hnUrl": "https://news.ycombinator.com/item?id=47304886"
+      }
+    }
+  ]
+}

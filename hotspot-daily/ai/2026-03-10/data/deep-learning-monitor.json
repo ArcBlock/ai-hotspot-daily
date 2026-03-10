@@ -1,0 +1,186 @@
+{
+  "source": "deep-learning-monitor",
+  "fetchedAt": "2026-03-10T02:07:49.513Z",
+  "items": [
+    {
+      "id": "dlm-Anatomy-of-Unlearning-The-Dua",
+      "title": "Anatomy of Unlearning: The Dual Impact of Fact Salience and Model Fine-Tuning",
+      "url": "https://deeplearn.org/arxiv/705651/anatomy-of-unlearning:-the-dual-impact-of-fact-salience-and-model-fine-tuning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.512Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Implicit-Bias-and-Convergence-",
+      "title": "Implicit Bias and Convergence of Matrix Stochastic Mirror Descent",
+      "url": "https://deeplearn.org/arxiv/707771/implicit-bias-and-convergence-of-matrix-stochastic-mirror-descent",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Efficient-Online-Learning-in-I",
+      "title": "Efficient Online Learning in Interacting Particle Systems",
+      "url": "https://deeplearn.org/arxiv/705593/efficient-online-learning-in-interacting-particle-systems",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-SDMixer-Sparse-Dual-Mixer-for",
+      "title": "SDMixer: Sparse Dual-Mixer for Time Series Forecasting",
+      "url": "https://deeplearn.org/arxiv/707824/sdmixer:-sparse-dual-mixer-for-time-series-forecasting",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Estimation-of-Confidence-Bound",
+      "title": "Estimation of Confidence Bounds in Binary Classification using Wilson Score Kernel Density Estimation",
+      "url": "https://deeplearn.org/arxiv/705556/estimation-of-confidence-bounds-in-binary-classification-using-wilson-score-kernel-density-estimation",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Large-Language-Models-in-Bioin",
+      "title": "Large Language Models in Bioinformatics: A Survey",
+      "url": "https://deeplearn.org/arxiv/709137/large-language-models-in-bioinformatics:-a-survey",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-ReflexiCoder-Teaching-Large-L",
+      "title": "ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning",
+      "url": "https://deeplearn.org/arxiv/712085/reflexicoder:-teaching-large-language-models-to-self-reflect-on-generated-code-and-self-correct-it-via-reinforcement-learning",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Training-Free-Intelligibility-",
+      "title": "Training-Free Intelligibility-Guided Observation Addition for Noisy ASR",
+      "url": "https://deeplearn.org/arxiv/705543/training-free-intelligibility-guided-observation-addition-for-noisy-asr",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Latent-Thinking-Optimization-",
+      "title": "Latent Thinking Optimization: Your Latent Reasoning Language Model Secretly Encodes Reward Signals in Its Latent Thoughts",
+      "url": "https://deeplearn.org/arxiv/705490/latent-thinking-optimization:-your-latent-reasoning-language-model-secretly-encodes-reward-signals-in-its-latent-thoughts",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-VAUQ-Vision-Aware-Uncertainty",
+      "title": "VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation",
+      "url": "https://deeplearn.org/arxiv/705491/vauq:-vision-aware-uncertainty-quantification-for-lvlm-self-evaluation",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Uncertainty-Propagation-Networ",
+      "title": "Uncertainty Propagation Networks for Neural Ordinary Differential Equations",
+      "url": "https://deeplearn.org/arxiv/705492/uncertainty-propagation-networks-for-neural-ordinary-differential-equations",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-OCR-Agent-Agentic-OCR-with-Ca",
+      "title": "OCR-Agent: Agentic OCR with Capability and Memory Reflection",
+      "url": "https://deeplearn.org/arxiv/705493/ocr-agent:-agentic-ocr-with-capability-and-memory-reflection",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Position-Aware-Sequential-Atte",
+      "title": "Position-Aware Sequential Attention for Accurate Next Item Recommendations",
+      "url": "https://deeplearn.org/arxiv/705494/position-aware-sequential-attention-for-accurate-next-item-recommendations",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-Adversarial-Robustness-of-Part",
+      "title": "Adversarial Robustness of Partitioned Quantum Classifiers",
+      "url": "https://deeplearn.org/arxiv/712117/adversarial-robustness-of-partitioned-quantum-classifiers",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "dlm-T1-One-to-One-Channel-Head-Bi",
+      "title": "T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation",
+      "url": "https://deeplearn.org/arxiv/705499/t1:-one-to-one-channel-head-binding-for-multivariate-time-series-imputation",
+      "source": "deep-learning-monitor",
+      "category": "paper",
+      "score": 45,
+      "publishedAt": "2026-03-10T02:07:49.513Z",
+      "extra": {
+        "fromScrape": true
+      }
+    }
+  ]
+}

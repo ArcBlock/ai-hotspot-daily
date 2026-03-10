@@ -1,0 +1,201 @@
+{
+  "source": "alphaxiv",
+  "fetchedAt": "2026-03-10T02:07:35.581Z",
+  "items": [
+    {
+      "id": "alphaxiv-2603.05451",
+      "title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling",
+      "url": "https://www.alphaxiv.org/abs/2603.05451",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.05451",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03276",
+      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+      "url": "https://www.alphaxiv.org/abs/2603.03276",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.03276",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.05433",
+      "title": "On-Policy Self-Distillation for Reasoning Compression",
+      "url": "https://www.alphaxiv.org/abs/2603.05433",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.05433",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.05498",
+      "title": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+      "url": "https://www.alphaxiv.org/abs/2603.05498",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.05498",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.05218",
+      "title": "KARL: Knowledge Agents via Reinforcement Learning",
+      "url": "https://www.alphaxiv.org/abs/2603.05218",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.05218",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.04964",
+      "title": "Replaying pre-training data improves fine-tuning",
+      "url": "https://www.alphaxiv.org/abs/2603.04964",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.04964",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.05706",
+      "title": "Reasoning Models Struggle to Control their Chains of Thought",
+      "url": "https://www.alphaxiv.org/abs/2603.05706",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.05706",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.05344",
+      "title": "Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned",
+      "url": "https://www.alphaxiv.org/abs/2603.05344",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.05344",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.06569",
+      "title": "Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders",
+      "url": "https://www.alphaxiv.org/abs/2603.06569",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.06569",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.04379",
+      "title": "Helios: Real Real-Time Long Video Generation Model",
+      "url": "https://www.alphaxiv.org/abs/2603.04379",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.04379",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03818",
+      "title": "Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning",
+      "url": "https://www.alphaxiv.org/abs/2603.03818",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.03818",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.05449",
+      "title": "RealWonder: Real-Time Physical Action-Conditioned Video Generation",
+      "url": "https://www.alphaxiv.org/abs/2603.05449",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.580Z",
+      "extra": {
+        "arxivId": "2603.05449",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.06408",
+      "title": "Physical Simulator In-the-Loop Video Generation",
+      "url": "https://www.alphaxiv.org/abs/2603.06408",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.581Z",
+      "extra": {
+        "arxivId": "2603.06408",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.03823",
+      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration",
+      "url": "https://www.alphaxiv.org/abs/2603.03823",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.581Z",
+      "extra": {
+        "arxivId": "2603.03823",
+        "fromScrape": true
+      }
+    },
+    {
+      "id": "alphaxiv-2603.06577",
+      "title": "Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion",
+      "url": "https://www.alphaxiv.org/abs/2603.06577",
+      "source": "alphaxiv",
+      "category": "paper",
+      "score": 40,
+      "publishedAt": "2026-03-10T02:07:35.581Z",
+      "extra": {
+        "arxivId": "2603.06577",
+        "fromScrape": true
+      }
+    }
+  ]
+}

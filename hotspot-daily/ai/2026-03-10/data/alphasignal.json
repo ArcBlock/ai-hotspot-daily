@@ -1,0 +1,45 @@
+{
+  "source": "alphasignal",
+  "fetchedAt": "2026-03-10T02:07:41.326Z",
+  "items": [
+    {
+      "id": "alphasignal-research-finds-one-bad-actor-inside-a-group-of-ai-",
+      "title": "Research finds one bad actor inside a group of AI agents is enough to collapse the whole network",
+      "url": "https://alphasignalai.substack.com/p/research-finds-one-bad-actor-inside",
+      "source": "alphasignal",
+      "category": "paper",
+      "score": 50,
+      "publishedAt": "2026-03-09T14:25:12.000Z",
+      "summary": "The researchers ran 600 simulations to answer one question: can a group of AI models talk through a disagreement and reach a shared decision?",
+      "extra": {
+        "newsletterType": "paper"
+      }
+    },
+    {
+      "id": "alphasignal-google-released-a-cli-tool-that-lets-ai-agents-acc",
+      "title": "Google released a CLI tool that lets AI agents access your Google Workspace",
+      "url": "https://alphasignalai.substack.com/p/google-released-a-cli-tool-that-lets",
+      "source": "alphasignal",
+      "category": "news",
+      "score": 50,
+      "publishedAt": "2026-03-07T12:25:02.000Z",
+      "summary": "Google Workspace lets AI agents access your entire Google Workspace ecosystem, including tools like Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.",
+      "extra": {
+        "newsletterType": "news"
+      }
+    },
+    {
+      "id": "alphasignal--hinton-predicts-ai-will-outsmart-us-in-5-years-",
+      "title": "👨🏼‍🔬 Hinton predicts \"AI will outsmart us in 5 years\"",
+      "url": "https://alphasignalai.substack.com/p/hinton-predicts-ai-will-outsmart",
+      "source": "alphasignal",
+      "category": "news",
+      "score": 50,
+      "publishedAt": "2023-10-10T19:54:46.000Z",
+      "summary": "On OpenAI's new $210k job, Docker's GenAI stack, Deepmind's RT-1X, and Reka's new multimodal LLM.",
+      "extra": {
+        "newsletterType": "news"
+      }
+    }
+  ]
+}
